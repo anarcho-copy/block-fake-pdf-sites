@@ -27,7 +27,7 @@ powershell terminalini administrator yetkisinde açıp şu kodları yaz:
      cat hosts >> C:\Windows\System32\drivers\etc\hosts
      
 
-#### el ile yapmak isterse:
+#### el ile yapmak istersen:
 
 - https://gitlab.com/anarcho-copy/block-fake-pdf-sites/raw/master/hosts bağlantısına gidip buradaki listenin tümünü kopyala.
 -  C:\Windows\System32\drivers\etc dizini git
