@@ -1,21 +1,28 @@
-127.0.0.1 localhost
-127.0.0.1 localhost.localdomain
-127.0.0.1 local
-255.255.255.255 broadcasthost
-::1 localhost
-::1 ip6-localhost
-::1 ip6-loopback
-fe80::1%lo0 localhost
-ff00::0 ip6-localnet
-ff00::0 ip6-mcastprefix
-ff02::1 ip6-allnodes
-ff02::2 ip6-allrouters
-ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
 
-
-
-
+0.0.0.0 turkce-kitabin.ancient-egypt.ru
+0.0.0.0 ancient-egypt.ru
+0.0.0.0 pdfkitapdunyam.com
+0.0.0.0 indirdepo.mobi
+0.0.0.0 1pdfsplash5.indirdepo.mobi
+0.0.0.0 www.satiliklar.net
+0.0.0.0 satiliklar.net
+0.0.0.0 belespdf.com
+0.0.0.0 2pdfsplash2.indirdepo.mobi
+0.0.0.0 kutuphanesi.kickscooter.ru
+0.0.0.0 kickscooter.ru
+0.0.0.0 www.kitabinabak.com
+0.0.0.0 kitabinabak.com
+0.0.0.0 dbooks.online
+0.0.0.0 www.dbooks.online
+0.0.0.0 7.uzelok4u.ru
+0.0.0.0 uzelok4u.ru
+0.0.0.0 cn.chipola.ru
+0.0.0.0 chipola.ru
+0.0.0.0 eighbooks.xyz
+0.0.0.0 www.eighbooks.xyz
+0.0.0.0 erbeta.sites.post-gazette.com
+0.0.0.0 post-gazette.com
 0.0.0.0 www.booksurfers.co.uk
 0.0.0.0 booksurfers.co.uk
 0.0.0.0 kitaplar.rukomos.ru
