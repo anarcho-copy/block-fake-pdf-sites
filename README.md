@@ -38,4 +38,4 @@ powershell terminalini administrator yetkisinde açıp şu kodları yaz:
 
 ## listeye yeni bir domain eklemek için:
 
-anarchocopy[et]protonmail[nokta]com adresine ****hosts**** konusuyla domaini mail olarak atabilirsin yada bu gitlab reposuna pr isteği at.
+anarchocopy[et]protonmail[nokta]com adresine ****hosts**** konusuyla domainleri mail olarak atabilirsin ya da bu gitlab reposuna PR isteği yollayabilirsin.
