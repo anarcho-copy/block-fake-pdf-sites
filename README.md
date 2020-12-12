@@ -2,30 +2,18 @@
 
 Bir pdfyi internette arattığımız zaman genellikle "kitapismi pdf" diye aratırız. 
 
-Bunu fırsat bilen reklam oburları herhangi bir aradığımız kitabın/derginin sahte pdf sitesini oluşturarak reklamlar ve virüsler ile karşımıza çıkıyor.
+Bunu fırsat bilen reklam oburları herhangi bir aradığımız kitabın/derginin sahte pdf sayfalarını oluşturarak reklam ve virüsler ile karşımıza çıkıyor.
 
-Bunlarla karşılaşmamamız için sahte pdf sitesi engelleyiciyi yaptık.
+Bu durumla karşılaşmamak için sahte pdf sitesileri engelleme listesi oluşturma ihtiyacı duyduk.
 
-Bu engelleyici bir **domain listesi** dir. 
-
-## engeleyiciyi kurmak için:
+## blok listesini aktif etmek için:
 
 ### gnu/linux bilgisayarda
-terminali açıp şu kodları yaz:
+terminali açıp şu koduları yaz:
     
     curl -s https://gitlab.com/anarcho-copy/block-fake-pdf-sites/-/raw/master/hosts >> /etc/hosts
 
 ### windows bilgisayarda 
-
-#### powershell:
-powershell terminalini administrator yetkisinde açıp şu kodları yaz:
-
-     git clone https://gitlab.com/anarcho-copy/block-fake-pdf-sites.git
-     cd block-fake-pdf-sites
-     cat hosts >> C:\Windows\System32\drivers\etc\hosts
-     
-
-#### el ile yapmak istersen:
 
 - https://gitlab.com/anarcho-copy/block-fake-pdf-sites/raw/master/hosts bağlantısına gidip buradaki listenin tümünü kopyala.
 - C:\Windows\System32\drivers\etc dizini git
@@ -33,7 +21,17 @@ powershell terminalini administrator yetkisinde açıp şu kodları yaz:
 - ve ardından kopyaladığın listeyi yapıştır.  Kaydedip çık, çalışmış
   olacaktır.
 
+#### powershell ile yapmak istersen:
+powershell terminalini administrator yetkisinde açıp şu kodları yaz:
 
+     git clone https://gitlab.com/anarcho-copy/block-fake-pdf-sites.git
+     cd block-fake-pdf-sites
+     cat hosts >> C:\Windows\System32\drivers\etc\hosts
+     
 ## listeye yeni bir domain eklemek için:
 
 anarchocopy[et]protonmail[nokta]com adresine ****hosts**** konusuyla domainleri mail olarak atabilirsin ya da bu gitlab reposuna PR isteği yollayabilirsin.
+
+## daha fazlası:
+
+[filterlists.com](https://filterlists.com/)
