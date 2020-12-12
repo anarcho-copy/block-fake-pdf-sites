@@ -9,7 +9,7 @@ Bu durumla karşılaşmamak için sahte pdf sitesileri engelleme listesi oluştu
 ## blok listesini aktif etmek için:
 
 ### gnu/linux bilgisayarda
-terminali açıp şu koduları yaz:
+terminali açıp şu kodu yaz:
     
     curl -s https://gitlab.com/anarcho-copy/block-fake-pdf-sites/-/raw/master/hosts >> /etc/hosts
 
@@ -32,6 +32,7 @@ powershell terminalini administrator yetkisinde açıp şu kodları yaz:
 
 anarchocopy[et]protonmail[nokta]com adresine ****hosts**** konusuyla domainleri mail olarak atabilirsin ya da bu gitlab reposuna PR isteği yollayabilirsin.
 
-## daha fazlası:
+### daha kapsamlı reklam engelleme listeleri için:
+
 
 [filterlists.com](https://filterlists.com/)
