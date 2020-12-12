@@ -22,7 +22,7 @@ terminali açıp şu kodu yaz:
   olacaktır.
 
 #### powershell ile yapmak istersen:
-powershell terminalini administrator yetkisinde açıp şu kodları yaz:
+powershell terminalini administrator yetkisinde açıp şu kodu yaz:
 
      curl.exe https://gitlab.com/anarcho-copy/block-fake-pdf-sites/-/raw/master/hosts >> C:\Windows\System32\drivers\etc\hosts
      
