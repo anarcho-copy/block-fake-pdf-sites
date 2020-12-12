@@ -24,9 +24,7 @@ terminali açıp şu kodu yaz:
 #### powershell ile yapmak istersen:
 powershell terminalini administrator yetkisinde açıp şu kodları yaz:
 
-     git clone https://gitlab.com/anarcho-copy/block-fake-pdf-sites.git
-     cd block-fake-pdf-sites
-     cat hosts >> C:\Windows\System32\drivers\etc\hosts
+     curl.exe https://gitlab.com/anarcho-copy/block-fake-pdf-sites/-/raw/master/hosts >> C:\Windows\System32\drivers\etc\hosts
      
 ## listeye yeni bir domain eklemek için:
 
