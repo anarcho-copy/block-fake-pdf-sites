@@ -38,10 +38,4 @@ powershell terminalini administrator yetkisinde açıp şu kodları yaz:
 
 ## listeye yeni bir domain eklemek için:
 
-anarchocopy[et]protonmail[nokta]com adresine ****hosts**** konusuyla domaini mail olarak atabilirsin yada aşağıdaki gibi anarcho-copy | etherpad sunucusunu kullanarak eklemeyi dene.
-
-### etherpad
-
-https://pad.anarcho-copy.org/p/hosts adresine git, listenin en altına inip alan adını şu şekilde yaz:
-
-    0.0.0.0 engellenecek-domain.example
+anarchocopy[et]protonmail[nokta]com adresine ****hosts**** konusuyla domaini mail olarak atabilirsin yada bu gitlab reposuna pr isteği at.
