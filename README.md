@@ -10,12 +10,10 @@ Bu engelleyici bir **domain listesi** dir.
 
 ## engeleyiciyi kurmak için:
 
-### linux bilgisayarda
+### gnu/linux bilgisayarda
 terminali açıp şu kodları yaz:
-
-    git clone https://gitlab.com/anarcho-copy/block-fake-pdf-sites.git
-    cd block-fake-pdf-sites
-    sudo cat hosts >> /etc/hosts
+    
+    curl -s https://gitlab.com/anarcho-copy/block-fake-pdf-sites/-/raw/master/hosts >> /etc/hosts
 
 ### windows bilgisayarda 
 
