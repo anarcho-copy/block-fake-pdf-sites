@@ -26,6 +26,10 @@ powershell terminalini administrator yetkisinde açıp şu kodu yaz:
 
      curl.exe https://gitlab.com/anarcho-copy/block-fake-pdf-sites/-/raw/master/hosts >> C:\Windows\System32\drivers\etc\hosts
      
+### android cihazlar için
+
+[daedalus](https://play.google.com/store/apps/details?id=org.itxtech.daedalus) uygulamasını kullanın.
+
 ## listeye yeni bir domain eklemek için:
 
 anarchocopy[et]protonmail[nokta]com adresine ****hosts**** konusuyla domainleri mail olarak atabilirsin ya da bu gitlab reposuna PR isteği yollayabilirsin.
