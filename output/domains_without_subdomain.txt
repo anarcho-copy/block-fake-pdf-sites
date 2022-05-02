@@ -3,8 +3,10 @@
 109.73.75.3
 1686607364.rsc.cdn77.org
 16haber.com
+1lib.cz
 1rx.io
 217.195.197.45
+257.cz
 2mdn.net
 2o7.net
 4dex.io
@@ -250,6 +252,7 @@ adtech.com
 adtech.de
 adtilt.com
 adtrack.king.com
+aduardinbeeld.nl
 advancenative.com
 advertag.in
 advertising.bulurum.com
@@ -297,14 +300,17 @@ akelyanina1994.files.wordpress.com
 akelyanina1994.wordpress.com
 akilligundem.com
 aksam.com.tr
+albignasego1.it
 alephd.com
 alexahbanducci1984.files.wordpress.com
 alexahbanducci1984.wordpress.com
 alexametrics.com
+alleexamens.nl
 allegrapistol.files.wordpress.com
 allegrapistol.wordpress.com
 alo25.com
 altin.us
+alvaroreyesfoto.es
 alyzeglascott.files.wordpress.com
 alyzeglascott.wordpress.com
 amazingcounters.com
@@ -342,6 +348,7 @@ analytics.yeniakit.com.tr
 analytic.turkiyefinans.com.tr
 analytik.xyz
 ancient-egypt.ru
+andelskysalon.cz
 androidads23.adcolony.com
 annevekadin.com
 antalyasonhaber.com
@@ -367,12 +374,14 @@ appsflyer.com
 arabiamarzocchi1996.files.wordpress.com
 arabiamarzocchi1996.wordpress.com
 arcyfotka.pl
+arduino-lernen.de
 areabet.net
 ariyayin.com
 artemisaffiliates.com
 artihaber.com
 asasmedya.info
 asdqweq.com
+asociacionhontanares.es
 assoc-amazon.com
 asylcafe-roemerschanze.de
 atemda.com
@@ -438,6 +447,7 @@ b.cdn.md
 bcvc.mobi
 bcvcrdr.xyz
 beacon.securestudies.com
+bear-better.nl
 bedavapdf.com
 bedavapdfdunyasi.com
 beelert.com
@@ -446,6 +456,7 @@ belrosepax1992.files.wordpress.com
 belrosepax1992.wordpress.com
 bembitansion.files.wordpress.com
 bembitansion.wordpress.com
+bestebuitenloungesets.nl
 bestvalueclean.com.au
 betburdaaffiliates.com
 betcdn.biz
@@ -458,6 +469,7 @@ beyazgundem.com
 bgazete.com.tr
 bgc.com
 bgprofessionals.nl
+bibliotheek.nl
 bicasussie1995.files.wordpress.com
 bicasussie1995.wordpress.com
 bigshow.com.mx
@@ -555,9 +567,12 @@ camariepotaczala1992.wordpress.com
 camarowalts99.files.wordpress.com
 camarowalts99.wordpress.com
 campaign.nmobs.com
+camp-chase.nl
 canlihaber.com
+carolahallak.de
 casalemedia.com
 castmagazin.com
+cbdb.cz
 cdn.adhouse.pro
 cdn.appround.biz
 cdn.bigspeedpro.com
@@ -625,6 +640,7 @@ clicks.hurriyet.com.tr
 clicktale.net
 clifads.com
 clinica-de-termografia.eu
+clinicaveterinariasaline.it
 cloudflareinsights.com
 clubajedreztoledo.es
 cm.g.doubleclick.net
@@ -642,12 +658,14 @@ collector.wawlabs.com
 collect.tealiumiq.com
 collect-test.arabam.com
 collect.trendyol.com
+confaeldisabili.it
 connectad.io
 connextra.com
 consent.cookiebot.com
 console.yapaytech.com
 content.bitsontherun.com
 contextweb.com
+controsoffittimodena.it
 cookiebar.eticaret.com
 cookiebot.com
 cookie-cdn.cookiepro.com
@@ -672,6 +690,7 @@ creativecdn.com
 criteo.com
 crowdynews.com
 crwdcntrl.net
+csfd.cz
 csi.gstatic.com
 cukurovaexpres.com
 cukurovamanset.com
@@ -720,16 +739,20 @@ deraneyadabella.files.wordpress.com
 deraneyadabella.wordpress.com
 derwinjexiel87.files.wordpress.com
 derwinjexiel87.wordpress.com
+desatascosvillaconejos.es
 deschaatschallenge.nl
 despainstylianos.files.wordpress.com
 despainstylianos.wordpress.com
+despevalleydancers.de
 dessinemoiuneemotion.fr
 detops.net
 device-metrics-us-2.amazon.com
+devvy.nl
 d.haberciniz.biz
 d.haberler.com
 dikgazete.com
 dimml.io
+dineraandachtvoorelkaar.nl
 dineroptveld.nl
 dionaermatinger.files.wordpress.com
 dionaermatinger.wordpress.com
@@ -742,6 +765,8 @@ diziyou.com
 dk-priozerskoe.ru
 dmcdn.yieldbird.com
 dmtracking2.alibaba.com
+docplayer.nl
+doczz.cz
 doganburda.com
 dogubayazithalkinsesi.com
 dogurehberi.com
@@ -754,6 +779,7 @@ dosyataciri.com
 doubleclick.net
 downads.com
 downloadbookpdf.com
+drukkerijtova.nl
 dskfv.de
 ds.serving-sys.com
 dtscout.com
@@ -799,7 +825,9 @@ ekitapyeri.com
 ekometre.com
 ekovitrin.com
 elberijschool.nl
+electrodiver.es
 elele.com.tr
+elenaetc.es
 elle.com.tr
 ellisoneuber94.files.wordpress.com
 ellisoneuber94.wordpress.com
@@ -855,6 +883,7 @@ events.bitaksi.com
 events.getirapi.com
 evosangels.com
 evs.data.ciceksepeti.com
+examenblad.nl
 exelator.com
 eyeviewads.com
 ezekeiloneil.files.wordpress.com
@@ -866,8 +895,10 @@ fast-redirecting.com
 fawsonjuliena.files.wordpress.com
 fawsonjuliena.wordpress.com
 fbartsanddesign.de
+fbib-basket.es
 fewo-ith18.de
 fiat500altoadige.it
+filmer.cz
 finansgundem.com
 fingersoft-log.scientificrevenue.com
 firebaseapp.com
@@ -892,6 +923,7 @@ foxpush.com
 fracchiaandra94.files.wordpress.com
 fracchiaandra94.wordpress.com
 franecki.net
+freakplay.es
 freegeoip.net
 freesite.host
 freie-halunken.de
@@ -908,6 +940,7 @@ fvbaffiliate.com
 fvchipsquad.files.wordpress.com
 fvchipsquad.wordpress.com
 fyziohomeo.cz
+gabor-schwerdtfeger-immobilien.de
 gaestehausi49.de
 ganeshhonor.files.wordpress.com
 ganeshhonor.wordpress.com
@@ -927,6 +960,7 @@ gcpsmapi.vodafone.com0638.info
 geanopulostelvin94.files.wordpress.com
 geanopulostelvin94.wordpress.com
 gebaeudetechnikbock.de
+geldregelen.nl
 gelirartisi.com
 gemius.pl
 genelajans.com
@@ -944,6 +978,8 @@ gez.io
 gigya.com
 girlsobsession.xyz
 git.emarketing724.com
+glassathome.nl
+glasvezelinmijnhuis.nl
 glbnews.com
 glenderaynen1995.files.wordpress.com
 glenderaynen1995.wordpress.com
@@ -1048,6 +1084,7 @@ harshangrisso1998.files.wordpress.com
 harshangrisso1998.wordpress.com
 hatayinternettv.com
 havadurumu.com.tr
+havellandreisen.de
 havyataverab88.files.wordpress.com
 havyataverab88.wordpress.com
 hayrankaldim.com
@@ -1056,6 +1093,7 @@ hbrma.com
 hdapicourbia.files.wordpress.com
 hdapicourbia.wordpress.com
 hdbyfenetresurcour.fr
+healthstylecoach.de
 hebergratuit.net
 heidis-farbenwelt.de
 hellohayat.com
@@ -1064,8 +1102,10 @@ hepsiads-bff.hepsiburada.com
 hepsiads-gw.hepsiburada.com
 hepsiads-ui.hepsiburada.com
 hepsiburada01.webtrekk.net
+herenkapsalon-jos.nl
 herseybu.com
 heryerhaber.com
+heureka.cz
 hilleredjorje1997.files.wordpress.com
 hilleredjorje1997.wordpress.com
 hippennihal84.files.wordpress.com
@@ -1083,6 +1123,7 @@ hits.acunn.com
 hits.tv8.com.tr
 hizlipop.com
 hizlireklam.com
+hledejceny.cz
 hodor-collect.arabam.com
 home.blog
 h.online-metrix.net
@@ -1100,6 +1141,7 @@ hwn500.de
 hyprshr.com
 iadsdk.apple.com
 ibillboard.com
+icm-kladno.cz
 ifddigital.com
 ihavideo.com.tr
 i.kissmetrics.com
@@ -1119,6 +1161,7 @@ indirdirek.org
 indirkitaplarpdf.com
 indisancal.com
 indr.in
+industrie-handwerker-portal.de
 inegolonline.com
 inegolreklam.net
 inescontentmarketing.de
@@ -1163,6 +1206,9 @@ istatistik.trthaber.com
 istat.izlesene.com
 istat.nktcdn.com
 istiklal.com.tr
+italiaansewijnhandel.nl
+iteichhorn.de
+it-nije-ensemble.nl
 itnowa.pl
 ittifakgazetesi.com
 iuiokumakitabi.files.wordpress.com
@@ -1193,8 +1239,10 @@ jaslynnepenzel.files.wordpress.com
 jaslynnepenzel.wordpress.com
 jayceyonlandberg90.files.wordpress.com
 jayceyonlandberg90.wordpress.com
+jeanettevoetverzorging.nl
 jeoldkhy.com
 jestakademi.com
+jhlhardware.es
 jinbonsaiclub.it
 jocimcclain88.files.wordpress.com
 jocimcclain88.wordpress.com
@@ -1247,6 +1295,8 @@ kieleenarayanan.files.wordpress.com
 kieleenarayanan.wordpress.com
 kineosteo-issy.fr
 kingads.mobi
+kinobox.cz
+kis.nl
 kissmetrics.com
 kitabinabak.com
 kitabipdfindir.com
@@ -1266,6 +1316,7 @@ kitappdfinndir.com
 kitegu.ru
 klasingdouglass1985.files.wordpress.com
 klasingdouglass1985.wordpress.com
+kleinemuk.de
 klemens-hecht.de
 kloostervloeren.nl
 kmcchicband.files.wordpress.com
@@ -1285,12 +1336,15 @@ kralseo.info
 krmwbimfpndwui.top
 krxd.net
 kulliyeliler.com.tr
+kunsthandwerk-stralsund.de
 kureselhaberci.com
 kuzeyekspres.com.tr
+lab42livestream.nl
 lada-trutnov.cz
 ladikamarleen85.files.wordpress.com
 ladikamarleen85.wordpress.com
 laludocanda.it
+lampierre.es
 laptrinhx.com
 lassanalenahan90.files.wordpress.com
 lassanalenahan90.wordpress.com
@@ -1374,6 +1428,7 @@ malannabrochure98.files.wordpress.com
 malannabrochure98.wordpress.com
 malatyacadde.com
 maltepeekspress.com
+mama2020.it
 mamydirect.com
 manisaturk.com
 mansetturkiye.com
@@ -1386,6 +1441,7 @@ margerumagasthya.wordpress.com
 marinsm.com
 marisslife1983.files.wordpress.com
 marisslife1983.wordpress.com
+marit-johannsen.de
 marketing.modalife.com
 marketing.turkiyefinans.com.tr
 marketo.net
@@ -1425,12 +1481,15 @@ medyarota.com
 medyatilkisi.com
 meenamathiason99.files.wordpress.com
 meenamathiason99.wordpress.com
+megaknihy.cz
 mehrnews.com
+meine-firma-24.de
 meleyjaniyah.files.wordpress.com
 meleyjaniyah.wordpress.com
 melipop.es
 memurlar.net
 mersintime.com
+mervedennis.de
 metaffiliation.com
 metrica.yandex.com.tr
 metrics34.com
@@ -1444,11 +1503,13 @@ mfkcogibunk.files.wordpress.com
 mfkcogibunk.wordpress.com
 mgid.com
 mgmovies.xyz
+mijnkleinkunstlied.nl
 milligazete.com.tr
 milliyet.com.tr
 minireklam.com
 mismeejecda1980.files.wordpress.com
 mismeejecda1980.wordpress.com
+mittwoch-maedels.de
 mkaylamaurey.files.wordpress.com
 mkaylamaurey.wordpress.com
 mkazanc.com
@@ -1484,9 +1545,11 @@ msqlinkagram.files.wordpress.com
 msqlinkagram.wordpress.com
 mtburn.com
 mtisanaturalbeauty.com.au
+mtweb.cz
 muhabir.com.tr
 muhalif.com.tr
 muhalifyazar.com
+mujstit.cz
 multi-elec.fr
 mundinemayven.files.wordpress.com
 mundinemayven.wordpress.com
@@ -1506,11 +1569,14 @@ nasil.co
 nationalturk.com
 nativendo.com
 nativespot.com
+natuurlijkbalansboekelo.nl
 naugherwells.files.wordpress.com
 naugherwells.wordpress.com
+nbdbiblion.nl
 nedenben.com
 nedimtaktakkimdir.com
 nehaber24.com
+nejlevnejsi-knihy.cz
 nemlak.com
 netaffiliation.com
 netbookmedia.com
@@ -1559,6 +1625,7 @@ olay53.com
 olay.com.tr
 olekmccuistion1989.files.wordpress.com
 olekmccuistion1989.wordpress.com
+olitcon.de
 omaze.com
 oms.eu
 omtrdc.net
@@ -1602,6 +1669,7 @@ owlcarousel2.github.io
 oxcdn.com
 ozgurhaberci.com
 ozgurkocaeli.com.tr
+paalvijftien.nl
 pabloarbesu.es
 padovafotografia.it
 pagead2.googlesyndication.com
@@ -1620,6 +1688,7 @@ partners.betbooaffiliates.com
 partner.superbahisaffiliates248.com
 partnerx.bethub.io
 patrickkurpershoek.nl
+pause-accept.nl
 pavelrican.cz
 paykasasitesi.com
 paylas.io
@@ -1670,6 +1739,7 @@ perr.h-cdn.com
 personaclick.com
 perzonalization.com
 petametrics.com
+petrafranz-praxis.de
 pferdesportbeauftragteoh.de
 pghub.io
 phobuthoespan1974.files.wordpress.com
@@ -1710,6 +1780,7 @@ postaffiliatepro.com
 post-gazette.com
 powferads.com
 pozitron.com
+ppnuevobaztan.es
 pradma.com
 prebid.a-mo.net
 pre.footprintpredict.com
@@ -1740,6 +1811,7 @@ pyramide-ansatz.de
 qha.com.tr
 qservz.com
 quantserve.com
+querijnhensen.nl
 quistatotse1973.files.wordpress.com
 quistatotse1973.wordpress.com
 radikal.com.tr
@@ -1843,6 +1915,7 @@ rum.ibb.gov.tr
 rum.uptime.com
 rvminfochat.files.wordpress.com
 rvminfochat.wordpress.com
+rx0.nl
 s3.adbers.com
 sabah.com.tr
 sabahhaberi.com
@@ -1879,9 +1952,11 @@ sayac.onlinewebstat.com
 sayac.tmgrup.com.tr
 sayyac.net
 sb.scorecardresearch.com
+sbuweb.nl
 sc-analytics.appshot.com
 scarabresearch.com
 schinkel-kirche-schaepe.de
+schoenmakerijdegaard.nl
 scoop.it
 scorecardresearch.com
 scripts.sophus3.com
@@ -1901,6 +1976,7 @@ selnesmarkeis.files.wordpress.com
 selnesmarkeis.wordpress.com
 semasio.net
 senav.com.mx
+sensabella.nl
 septergermaine86.files.wordpress.com
 septergermaine86.wordpress.com
 sergixadyn.files.wordpress.com
@@ -1982,6 +2058,7 @@ spotxchange.com
 sppolna.pl
 spwms.com
 sqgz.generalmobile.com
+srovnanicen.cz
 stackstaging.com
 stairtuy.com
 star.com.tr
@@ -2005,6 +2082,7 @@ stats.vidyome.com
 stats.wp.com
 stats.yenicaggazetesi.com.tr
 stickyadstv.com
+stint-manual.nl
 stop32spotsun.live
 stopblyat.tk
 storj.cloud
@@ -2046,6 +2124,7 @@ talasexpresshaber.com
 tamgaturk.com
 tamiragerchak1987.files.wordpress.com
 tamiragerchak1987.wordpress.com
+tandemstudio.it
 tanidigital.com
 tapad.com
 tapfiliate.com
@@ -2056,9 +2135,11 @@ tarpitbar.com
 tarsuskulis.com
 tavirareeve.files.wordpress.com
 tavirareeve.wordpress.com
+tawdry-grass.nl
 teads.tv
 teatroemperador.es
 teatrslovo.ru
+teechinesischer.de
 tekdeeps.com
 teknogaste.com
 teknoport.com.tr
@@ -2075,6 +2156,7 @@ teneec.com
 t.enuygun.com
 terraclicks.com
 tevhidgundemi.com
+thalia.de
 thatcherchicoine83.files.wordpress.com
 thatcherchicoine83.wordpress.com
 theadx.com
@@ -2160,6 +2242,7 @@ tylunvernia1991.wordpress.com
 tynt.com
 ua.supersonicads.com
 uazmti.a101.com.tr
+ucebnice.cz
 ucretsiz-ekitaplar.site
 ucretsiz-kitap-pdf-indirin.com
 ukbet99.com
@@ -2169,7 +2252,10 @@ ulife17yeter.com
 ulusal.com.tr
 unblockia.com
 unityads.unity3d.com
+universiteitleiden.nl
 uqd.io
+urbanlights.es
+urgo.cz
 uriasmcnellie89.files.wordpress.com
 uriasmcnellie89.wordpress.com
 urielshy2000.files.wordpress.com
@@ -2216,6 +2302,7 @@ vinaygazitano82.wordpress.com
 v.internethaber.com
 viralvideos.pw
 virgul.com
+virona.nl
 visilabs.com
 visilabs.net
 visit.hepsiburada.com
@@ -2237,6 +2324,7 @@ wawlabs.com
 webanalyzer.bussion.com
 webcanavari.net
 webdesign-tobies.de
+weber-gartengeraete.de
 webeyo.com
 webhaberci.net
 webhakim.com
@@ -2330,6 +2418,7 @@ ziuauriwright.files.wordpress.com
 ziuauriwright.wordpress.com
 zmdcoralitect.files.wordpress.com
 zmdcoralitect.wordpress.com
+zoekdeschat.nl
 zoellevereen1989.files.wordpress.com
 zoellevereen1989.wordpress.com
 z-system.cz
