@@ -23,6 +23,10 @@ curl -s https://raw.githubusercontent.com/arosh/ublacklist-github-translation/ma
 echo "GET: https://raw.githubusercontent.com/arosh/ublacklist-stackoverflow-translation/master/uBlacklist.txt"
 curl -s https://raw.githubusercontent.com/arosh/ublacklist-stackoverflow-translation/master/uBlacklist.txt | sed 's/*:\/\///g; s/\/\*//g; s/\*\.//g' > ${OTHERSOURCES}/fake-stack
 
-# pinterest
+# pinterest:
 echo "GET: https://raw.githubusercontent.com/rjaus/ublacklist-pinterest/main/ublacklist-pinterest.txt"
 curl -s https://raw.githubusercontent.com/rjaus/ublacklist-pinterest/main/ublacklist-pinterest.txt | grep 'pinterest\.' | sed 's/*:\/\///g; s/\/\*//g; s/\*\.//g' > ${OTHERSOURCES}/pinterest
+
+# aliexpress-fake-sites:
+echo "GET: https://raw.githubusercontent.com/franga2000/aliexpress-fake-sites/main/domains_uBlacklist.txt"
+curl -s https://raw.githubusercontent.com/franga2000/aliexpress-fake-sites/main/domains_uBlacklist.txt | sed 's/*:\/\///g; s/\/\*//g' > ${OTHERSOURCES}/aliexpress-fake-sites
