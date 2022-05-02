@@ -1,12 +1,12 @@
 ###
 #
 # Name        : fake (malicious/profiting from ads) pdf site blocker
-# Version     : 20220502161543
-# Date        : Mon May  2 01:15:43 PM UTC 2022
+# Version     : 20220502162913
+# Date        : Mon May  2 01:29:13 PM UTC 2022
 #
 # Repo        : https://gitlab.com/anarcho-copy/block-fake-pdf-sites
 # File        : https://gitlab.com/anarcho-copy/block-fake-pdf-sites/-/raw/master/output/hosts
-# Total lines : 2461
+# Total lines : 2478
 #
 ###
 
@@ -290,6 +290,7 @@
 0.0.0.0 adzbaba.com
 0.0.0.0 adzerk.net
 0.0.0.0 ae.dmxleo.com
+0.0.0.0 aerialyoga-osnabrueck.de
 0.0.0.0 aff2.gittigidiyor.com
 0.0.0.0 aff3.gittigidiyor.com
 0.0.0.0 affiliatenetworkhq.com
@@ -322,6 +323,7 @@
 0.0.0.0 alleexamens.nl
 0.0.0.0 allegrapistol.files.wordpress.com
 0.0.0.0 allegrapistol.wordpress.com
+0.0.0.0 allgaeu-fewo-hildebrandt.de
 0.0.0.0 alo25.com
 0.0.0.0 altin.us
 0.0.0.0 alvaroreyesfoto.es
@@ -403,6 +405,7 @@
 0.0.0.0 athena-event-provider.n11.com
 0.0.0.0 atv.com.tr
 0.0.0.0 australiabizreviews.com.au
+0.0.0.0 auto-kauf-pro.de
 0.0.0.0 autoradiator.mn
 0.0.0.0 autrement2020.fr
 0.0.0.0 avaeahpederson1986.files.wordpress.com
@@ -463,6 +466,7 @@
 0.0.0.0 bcvcrdr.xyz
 0.0.0.0 beacon.securestudies.com
 0.0.0.0 bear-better.nl
+0.0.0.0 becopet.es
 0.0.0.0 bedavapdf.com
 0.0.0.0 bedavapdfdunyasi.com
 0.0.0.0 beelert.com
@@ -515,6 +519,7 @@
 0.0.0.0 bjs.cz
 0.0.0.0 bkrtx.com
 0.0.0.0 blackorwhitedergi.com
+0.0.0.0 blanqueryasociados.es
 0.0.0.0 blinnrockie.files.wordpress.com
 0.0.0.0 blinnrockie.wordpress.com
 0.0.0.0 block.s2block.com
@@ -540,6 +545,7 @@
 0.0.0.0 branninsoma85.wordpress.com
 0.0.0.0 brassardsaed86.files.wordpress.com
 0.0.0.0 brassardsaed86.wordpress.com
+0.0.0.0 breida-software.de
 0.0.0.0 breitenivianna90.files.wordpress.com
 0.0.0.0 breitenivianna90.wordpress.com
 0.0.0.0 bridgeforthaliveah1993.files.wordpress.com
@@ -769,6 +775,7 @@
 0.0.0.0 devvy.nl
 0.0.0.0 d.haberciniz.biz
 0.0.0.0 d.haberler.com
+0.0.0.0 dibox.es
 0.0.0.0 dikgazete.com
 0.0.0.0 dimml.io
 0.0.0.0 dineraandachtvoorelkaar.nl
@@ -848,6 +855,7 @@
 0.0.0.0 electrodiver.es
 0.0.0.0 elele.com.tr
 0.0.0.0 elenaetc.es
+0.0.0.0 elescaparatedecantillana.es
 0.0.0.0 elle.com.tr
 0.0.0.0 ellisoneuber94.files.wordpress.com
 0.0.0.0 ellisoneuber94.wordpress.com
@@ -935,8 +943,11 @@
 0.0.0.0 flix360.com
 0.0.0.0 flixcar.com
 0.0.0.0 flixfacts.com
+0.0.0.0 floe8.de
 0.0.0.0 flowwithus.cz
+0.0.0.0 forgiveness-esslingen.de
 0.0.0.0 forlumineontor.com
+0.0.0.0 fotecnica.es
 0.0.0.0 fotodesign-wick.de
 0.0.0.0 fotos-paisajes.net
 0.0.0.0 fotospor.com
@@ -1306,6 +1317,7 @@
 0.0.0.0 kartal24.com
 0.0.0.0 kartalbakisi.com
 0.0.0.0 kasimpasa.org
+0.0.0.0 katrin-wartenberg.de
 0.0.0.0 kayserim.net
 0.0.0.0 kayseritempo.org
 0.0.0.0 kbtbk.de
@@ -1529,6 +1541,7 @@
 0.0.0.0 mfkcogibunk.wordpress.com
 0.0.0.0 mgid.com
 0.0.0.0 mgmovies.xyz
+0.0.0.0 mifinanciero.es
 0.0.0.0 mijnkleinkunstlied.nl
 0.0.0.0 milligazete.com.tr
 0.0.0.0 milliyet.com.tr
@@ -1621,6 +1634,7 @@
 0.0.0.0 ng2.virgul.com
 0.0.0.0 ng.virgul.com
 0.0.0.0 nhls.nscdn9.com
+0.0.0.0 ninodelpuertoarquitecto.es
 0.0.0.0 niveyahblatnik1986.files.wordpress.com
 0.0.0.0 niveyahblatnik1986.wordpress.com
 0.0.0.0 nizioltrevyon97.files.wordpress.com
@@ -1785,6 +1799,7 @@
 0.0.0.0 pillowsandpie.nl
 0.0.0.0 pingdom.net
 0.0.0.0 ping.staticmoly.me
+0.0.0.0 pinterest.com
 0.0.0.0 pippio.com
 0.0.0.0 pixel.adsafeprotected.com
 0.0.0.0 pixels.ingbank.com.tr
@@ -2175,6 +2190,7 @@
 0.0.0.0 teatroemperador.es
 0.0.0.0 teatrslovo.ru
 0.0.0.0 teechinesischer.de
+0.0.0.0 tefanella.de
 0.0.0.0 tekdeeps.com
 0.0.0.0 teknogaste.com
 0.0.0.0 teknoport.com.tr
@@ -2673,6 +2689,7 @@
 0.0.0.0 www.adzbaba.com
 0.0.0.0 www.adzerk.net
 0.0.0.0 www.ae.dmxleo.com
+0.0.0.0 www.aerialyoga-osnabrueck.de
 0.0.0.0 www.aff2.gittigidiyor.com
 0.0.0.0 www.aff3.gittigidiyor.com
 0.0.0.0 www.affiliatenetworkhq.com
@@ -2705,6 +2722,7 @@
 0.0.0.0 www.alleexamens.nl
 0.0.0.0 www.allegrapistol.files.wordpress.com
 0.0.0.0 www.allegrapistol.wordpress.com
+0.0.0.0 www.allgaeu-fewo-hildebrandt.de
 0.0.0.0 www.alo25.com
 0.0.0.0 www.altin.us
 0.0.0.0 www.alvaroreyesfoto.es
@@ -2786,6 +2804,7 @@
 0.0.0.0 www.athena-event-provider.n11.com
 0.0.0.0 www.atv.com.tr
 0.0.0.0 www.australiabizreviews.com.au
+0.0.0.0 www.auto-kauf-pro.de
 0.0.0.0 www.autoradiator.mn
 0.0.0.0 www.autrement2020.fr
 0.0.0.0 www.avaeahpederson1986.files.wordpress.com
@@ -2846,6 +2865,7 @@
 0.0.0.0 www.bcvcrdr.xyz
 0.0.0.0 www.beacon.securestudies.com
 0.0.0.0 www.bear-better.nl
+0.0.0.0 www.becopet.es
 0.0.0.0 www.bedavapdf.com
 0.0.0.0 www.bedavapdfdunyasi.com
 0.0.0.0 www.beelert.com
@@ -2898,6 +2918,7 @@
 0.0.0.0 www.bjs.cz
 0.0.0.0 www.bkrtx.com
 0.0.0.0 www.blackorwhitedergi.com
+0.0.0.0 www.blanqueryasociados.es
 0.0.0.0 www.blinnrockie.files.wordpress.com
 0.0.0.0 www.blinnrockie.wordpress.com
 0.0.0.0 www.block.s2block.com
@@ -2923,6 +2944,7 @@
 0.0.0.0 www.branninsoma85.wordpress.com
 0.0.0.0 www.brassardsaed86.files.wordpress.com
 0.0.0.0 www.brassardsaed86.wordpress.com
+0.0.0.0 www.breida-software.de
 0.0.0.0 www.breitenivianna90.files.wordpress.com
 0.0.0.0 www.breitenivianna90.wordpress.com
 0.0.0.0 www.bridgeforthaliveah1993.files.wordpress.com
@@ -3152,6 +3174,7 @@
 0.0.0.0 www.devvy.nl
 0.0.0.0 www.d.haberciniz.biz
 0.0.0.0 www.d.haberler.com
+0.0.0.0 www.dibox.es
 0.0.0.0 www.dikgazete.com
 0.0.0.0 www.dimml.io
 0.0.0.0 www.dineraandachtvoorelkaar.nl
@@ -3231,6 +3254,7 @@
 0.0.0.0 www.electrodiver.es
 0.0.0.0 www.elele.com.tr
 0.0.0.0 www.elenaetc.es
+0.0.0.0 www.elescaparatedecantillana.es
 0.0.0.0 www.elle.com.tr
 0.0.0.0 www.ellisoneuber94.files.wordpress.com
 0.0.0.0 www.ellisoneuber94.wordpress.com
@@ -3318,8 +3342,11 @@
 0.0.0.0 www.flix360.com
 0.0.0.0 www.flixcar.com
 0.0.0.0 www.flixfacts.com
+0.0.0.0 www.floe8.de
 0.0.0.0 www.flowwithus.cz
+0.0.0.0 www.forgiveness-esslingen.de
 0.0.0.0 www.forlumineontor.com
+0.0.0.0 www.fotecnica.es
 0.0.0.0 www.fotodesign-wick.de
 0.0.0.0 www.fotos-paisajes.net
 0.0.0.0 www.fotospor.com
@@ -3689,6 +3716,7 @@
 0.0.0.0 www.kartal24.com
 0.0.0.0 www.kartalbakisi.com
 0.0.0.0 www.kasimpasa.org
+0.0.0.0 www.katrin-wartenberg.de
 0.0.0.0 www.kayserim.net
 0.0.0.0 www.kayseritempo.org
 0.0.0.0 www.kbtbk.de
@@ -3912,6 +3940,7 @@
 0.0.0.0 www.mfkcogibunk.wordpress.com
 0.0.0.0 www.mgid.com
 0.0.0.0 www.mgmovies.xyz
+0.0.0.0 www.mifinanciero.es
 0.0.0.0 www.mijnkleinkunstlied.nl
 0.0.0.0 www.milligazete.com.tr
 0.0.0.0 www.milliyet.com.tr
@@ -4004,6 +4033,7 @@
 0.0.0.0 www.ng2.virgul.com
 0.0.0.0 www.ng.virgul.com
 0.0.0.0 www.nhls.nscdn9.com
+0.0.0.0 www.ninodelpuertoarquitecto.es
 0.0.0.0 www.niveyahblatnik1986.files.wordpress.com
 0.0.0.0 www.niveyahblatnik1986.wordpress.com
 0.0.0.0 www.nizioltrevyon97.files.wordpress.com
@@ -4168,6 +4198,7 @@
 0.0.0.0 www.pillowsandpie.nl
 0.0.0.0 www.pingdom.net
 0.0.0.0 www.ping.staticmoly.me
+0.0.0.0 www.pinterest.com
 0.0.0.0 www.pippio.com
 0.0.0.0 www.pixel.adsafeprotected.com
 0.0.0.0 www.pixels.ingbank.com.tr
@@ -4558,6 +4589,7 @@
 0.0.0.0 www.teatroemperador.es
 0.0.0.0 www.teatrslovo.ru
 0.0.0.0 www.teechinesischer.de
+0.0.0.0 www.tefanella.de
 0.0.0.0 www.tekdeeps.com
 0.0.0.0 www.teknogaste.com
 0.0.0.0 www.teknoport.com.tr
@@ -4838,6 +4870,7 @@
 0.0.0.0 www.zaragozacoaching.es
 0.0.0.0 www.ziannahpotolsky96.files.wordpress.com
 0.0.0.0 www.ziannahpotolsky96.wordpress.com
+0.0.0.0 www.zielenzakopane.pl
 0.0.0.0 www.ziuauriwright.files.wordpress.com
 0.0.0.0 www.ziuauriwright.wordpress.com
 0.0.0.0 www.zmdcoralitect.files.wordpress.com
@@ -4906,6 +4939,7 @@
 0.0.0.0 zaragozacoaching.es
 0.0.0.0 ziannahpotolsky96.files.wordpress.com
 0.0.0.0 ziannahpotolsky96.wordpress.com
+0.0.0.0 zielenzakopane.pl
 0.0.0.0 ziuauriwright.files.wordpress.com
 0.0.0.0 ziuauriwright.wordpress.com
 0.0.0.0 zmdcoralitect.files.wordpress.com
