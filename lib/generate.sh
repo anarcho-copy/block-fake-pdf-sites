@@ -15,7 +15,7 @@ cat ${SERVICE} | sort -u >> ${TEMP}/domain
 
 # include sources
 if [[ "${include_other_sources}" == "true" ]]; then
-	find ${OTHERSOURCES} -type f -not -name 'etherpad' -exec cat {} \; | sort -u >> ${TEMP}/domain
+	find ${OTHERSOURCES} -type f -not -name 'etherpad' -exec cat {} \; | urlp --registered_domain |sort -u >> ${TEMP}/domain
 fi
 
 # include etherpad
