@@ -71,7 +71,7 @@ cat > ${DNSMASQ} <<EOT
 EOT
 while IFS= read -r DOMAIN; do
 	echo "address=/${DOMAIN}/"
-done < ${TEMP}/domain | sort -u >> ${DNSMASQ}
+done < ${TEMP}/domain | sed "s/www.//g" | sort -u >> ${DNSMASQ}
 
 
 # GENERATE LOCAL DNS
