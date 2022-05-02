@@ -17,4 +17,9 @@ curl -s https://raw.githubusercontent.com/saurane/Turkish-Blocklist/master/Block
 
 # fake-github:
 echo "GET: https://raw.githubusercontent.com/arosh/ublacklist-github-translation/master/uBlacklist.txt"
-curl -s https://raw.githubusercontent.com/arosh/ublacklist-github-translation/master/uBlacklist.txt > ${OTHERSOURCES}/fake-github
+curl -s https://raw.githubusercontent.com/arosh/ublacklist-github-translation/master/uBlacklist.txt | sed 's/*:\/\///g; s/\/\*//g' > ${OTHERSOURCES}/fake-github
+
+# fake-stack:
+echo "GET: https://raw.githubusercontent.com/arosh/ublacklist-stackoverflow-translation/master/uBlacklist.txt"
+curl -s https://raw.githubusercontent.com/arosh/ublacklist-stackoverflow-translation/master/uBlacklist.txt | sed 's/*:\/\///g; s/\/\*//g; s/\*\.//g' > ${OTHERSOURCES}/fake-stack
+
