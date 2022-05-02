@@ -14,3 +14,7 @@ curl -s https://raw.githubusercontent.com/dr-norton/ublacklist-tr/master/blockli
 # Turkish-Blocklist:
 echo "GET: https://raw.githubusercontent.com/saurane/Turkish-Blocklist/master/Blocklist/plain.txt"
 curl -s https://raw.githubusercontent.com/saurane/Turkish-Blocklist/master/Blocklist/plain.txt > ${OTHERSOURCES}/Turkish-Blocklist
+
+# fake-github:
+echo "GET: https://raw.githubusercontent.com/arosh/ublacklist-github-translation/master/uBlacklist.txt"
+curl -s https://raw.githubusercontent.com/arosh/ublacklist-github-translation/master/uBlacklist.txt > ${OTHERSOURCES}/fake-github

@@ -400,6 +400,7 @@
 *://aviatowler.files.wordpress.com/*
 *://aviatowler.wordpress.com/*
 *://avlsh.visilabs.net/*
+*://*://awesomeopensource.com/*/*
 *://axbet20.com/*
 *://axbetb2.com/*
 *://axbetb.com/*
@@ -462,6 +463,7 @@
 *://bembitansion.files.wordpress.com/*
 *://bembitansion.wordpress.com/*
 *://bestebuitenloungesets.nl/*
+*://*://bestofcpp.com/*/*
 *://bestvalueclean.com.au/*
 *://betburdaaffiliates.com/*
 *://betcdn.biz/*
@@ -506,6 +508,7 @@
 *://bkrtx.com/*
 *://blackorwhitedergi.com/*
 *://blanqueryasociados.es/*
+*://*://bleepcoder.com/*/*
 *://blinnrockie.files.wordpress.com/*
 *://blinnrockie.wordpress.com/*
 *://block.s2block.com/*
@@ -996,7 +999,17 @@
 *://gez.io/*
 *://gigya.com/*
 *://girlsobsession.xyz/*
+*://*://gitanswer.com/*/*
 *://git.emarketing724.com/*
+*://*://giters.com/*/*
+*://*://githubhelp.com/*/*
+*://*://githubhot.com/*/*
+*://*://github.innominds.com/*/*
+*://*://githubja.com/*/*
+*://*://githublab.com/*/*
+*://*://githubmemory.com/*/*
+*://*://githubplus.com/*/*
+*://*://gitmemory.cn/*/*
 *://glassathome.nl/*
 *://glasvezelinmijnhuis.nl/*
 *://glbnews.com/*
@@ -1006,6 +1019,7 @@
 *://global.msads.net/*
 *://globalsun.io/*
 *://gmgreklam.com/*
+*://*://golangrepo.com/*/*
 *://go-mpulse.net/*
 *://goocloudchat.files.wordpress.com/*
 *://goocloudchat.wordpress.com/*
@@ -1217,6 +1231,7 @@
 *://isesapphirebuilder.files.wordpress.com/*
 *://isesapphirebuilder.wordpress.com/*
 *://is.sabah.com.tr/*
+*://*://issueexplorer.com/*/*
 *://istanbulseo.net/*
 *://istanbulses.com/*
 *://istatistik.arabam.com/*
@@ -1672,6 +1687,8 @@
 *://ontek-serv.com/*
 *://onthe.io/*
 *://openlandschapkaagenbraassem.nl/*
+*://*://openprojectrepo.com/*/*
+*://*://opensourcelibs.com/*/*
 *://openx.net/*
 *://optad360.io/*
 *://optimizely.com/*
@@ -1838,6 +1855,8 @@
 *://puysoncar.es/*
 *://pxlad.io/*
 *://pyramide-ansatz.de/*
+*://*://pythonissues.com/*/*
+*://*://pythonrepo.com/*/*
 *://qha.com.tr/*
 *://qservz.com/*
 *://quantserve.com/*
@@ -1903,6 +1922,7 @@
 *://rek.yemlee.com/*
 *://relateddigital.com/*
 *://report.appmetrica.yandex.net/*
+*://*://reposhub.com/*/*
 *://resmihaber.net/*
 *://revenueflex.com/*
 *://reviveservers.com/*
@@ -2397,9 +2417,14 @@
 *://ws.tapjoyads.com/*
 *://wuidschnee.de/*
 *://ww3.smartadserver.com/*
+*://*://www.findbestopensource.com/*/*
+*://*://www.giters.com/*/*
+*://*://www.gitmemory.com/*/*
 *://www.googleadservices.com/*
 *://www.google-analytics.com/*
+*://*://www.higithub.com/*/*
 *://www.omaze.com/*
+*://*://www.wenyanet.com/*/*
 *://wziviridimechanic.files.wordpress.com/*
 *://wziviridimechanic.wordpress.com/*
 *://xdkavablog.files.wordpress.com/*

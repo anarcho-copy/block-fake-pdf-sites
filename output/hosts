@@ -1,12 +1,12 @@
 ###
 #
 # Name        : fake (malicious/profiting from ads) pdf site blocker
-# Version     : 20220502162913
-# Date        : Mon May  2 01:29:13 PM UTC 2022
+# Version     : 20220502164142
+# Date        : Mon May  2 01:41:42 PM UTC 2022
 #
 # Repo        : https://gitlab.com/anarcho-copy/block-fake-pdf-sites
 # File        : https://gitlab.com/anarcho-copy/block-fake-pdf-sites/-/raw/master/output/hosts
-# Total lines : 2478
+# Total lines : 2503
 #
 ###
 
@@ -414,6 +414,7 @@
 0.0.0.0 aviatowler.files.wordpress.com
 0.0.0.0 aviatowler.wordpress.com
 0.0.0.0 avlsh.visilabs.net
+0.0.0.0 *://awesomeopensource.com/*
 0.0.0.0 axbet20.com
 0.0.0.0 axbetb2.com
 0.0.0.0 axbetb.com
@@ -476,6 +477,7 @@
 0.0.0.0 bembitansion.files.wordpress.com
 0.0.0.0 bembitansion.wordpress.com
 0.0.0.0 bestebuitenloungesets.nl
+0.0.0.0 *://bestofcpp.com/*
 0.0.0.0 bestvalueclean.com.au
 0.0.0.0 betburdaaffiliates.com
 0.0.0.0 betcdn.biz
@@ -520,6 +522,7 @@
 0.0.0.0 bkrtx.com
 0.0.0.0 blackorwhitedergi.com
 0.0.0.0 blanqueryasociados.es
+0.0.0.0 *://bleepcoder.com/*
 0.0.0.0 blinnrockie.files.wordpress.com
 0.0.0.0 blinnrockie.wordpress.com
 0.0.0.0 block.s2block.com
@@ -1010,7 +1013,17 @@
 0.0.0.0 gez.io
 0.0.0.0 gigya.com
 0.0.0.0 girlsobsession.xyz
+0.0.0.0 *://gitanswer.com/*
 0.0.0.0 git.emarketing724.com
+0.0.0.0 *://giters.com/*
+0.0.0.0 *://githubhelp.com/*
+0.0.0.0 *://githubhot.com/*
+0.0.0.0 *://github.innominds.com/*
+0.0.0.0 *://githubja.com/*
+0.0.0.0 *://githublab.com/*
+0.0.0.0 *://githubmemory.com/*
+0.0.0.0 *://githubplus.com/*
+0.0.0.0 *://gitmemory.cn/*
 0.0.0.0 glassathome.nl
 0.0.0.0 glasvezelinmijnhuis.nl
 0.0.0.0 glbnews.com
@@ -1020,6 +1033,7 @@
 0.0.0.0 global.msads.net
 0.0.0.0 globalsun.io
 0.0.0.0 gmgreklam.com
+0.0.0.0 *://golangrepo.com/*
 0.0.0.0 go-mpulse.net
 0.0.0.0 goocloudchat.files.wordpress.com
 0.0.0.0 goocloudchat.wordpress.com
@@ -1231,6 +1245,7 @@
 0.0.0.0 isesapphirebuilder.files.wordpress.com
 0.0.0.0 isesapphirebuilder.wordpress.com
 0.0.0.0 is.sabah.com.tr
+0.0.0.0 *://issueexplorer.com/*
 0.0.0.0 istanbulseo.net
 0.0.0.0 istanbulses.com
 0.0.0.0 istatistik.arabam.com
@@ -1686,6 +1701,8 @@
 0.0.0.0 ontek-serv.com
 0.0.0.0 onthe.io
 0.0.0.0 openlandschapkaagenbraassem.nl
+0.0.0.0 *://openprojectrepo.com/*
+0.0.0.0 *://opensourcelibs.com/*
 0.0.0.0 openx.net
 0.0.0.0 optad360.io
 0.0.0.0 optimizely.com
@@ -1852,6 +1869,8 @@
 0.0.0.0 puysoncar.es
 0.0.0.0 pxlad.io
 0.0.0.0 pyramide-ansatz.de
+0.0.0.0 *://pythonissues.com/*
+0.0.0.0 *://pythonrepo.com/*
 0.0.0.0 qha.com.tr
 0.0.0.0 qservz.com
 0.0.0.0 quantserve.com
@@ -1917,6 +1936,7 @@
 0.0.0.0 rek.yemlee.com
 0.0.0.0 relateddigital.com
 0.0.0.0 report.appmetrica.yandex.net
+0.0.0.0 *://reposhub.com/*
 0.0.0.0 resmihaber.net
 0.0.0.0 revenueflex.com
 0.0.0.0 reviveservers.com
@@ -2813,6 +2833,7 @@
 0.0.0.0 www.aviatowler.files.wordpress.com
 0.0.0.0 www.aviatowler.wordpress.com
 0.0.0.0 www.avlsh.visilabs.net
+0.0.0.0 www.*://awesomeopensource.com/*
 0.0.0.0 www.axbet20.com
 0.0.0.0 www.axbetb2.com
 0.0.0.0 www.axbetb.com
@@ -2875,6 +2896,7 @@
 0.0.0.0 www.bembitansion.files.wordpress.com
 0.0.0.0 www.bembitansion.wordpress.com
 0.0.0.0 www.bestebuitenloungesets.nl
+0.0.0.0 www.*://bestofcpp.com/*
 0.0.0.0 www.bestvalueclean.com.au
 0.0.0.0 www.betburdaaffiliates.com
 0.0.0.0 www.betcdn.biz
@@ -2919,6 +2941,7 @@
 0.0.0.0 www.bkrtx.com
 0.0.0.0 www.blackorwhitedergi.com
 0.0.0.0 www.blanqueryasociados.es
+0.0.0.0 www.*://bleepcoder.com/*
 0.0.0.0 www.blinnrockie.files.wordpress.com
 0.0.0.0 www.blinnrockie.wordpress.com
 0.0.0.0 www.block.s2block.com
@@ -3329,6 +3352,7 @@
 0.0.0.0 www.fiat500altoadige.it
 0.0.0.0 www.filmer.cz
 0.0.0.0 www.finansgundem.com
+0.0.0.0 *://www.findbestopensource.com/*
 0.0.0.0 www.fingersoft-log.scientificrevenue.com
 0.0.0.0 www.firebaseapp.com
 0.0.0.0 www.fishtownsmurfs.de
@@ -3409,7 +3433,19 @@
 0.0.0.0 www.gez.io
 0.0.0.0 www.gigya.com
 0.0.0.0 www.girlsobsession.xyz
+0.0.0.0 www.*://gitanswer.com/*
 0.0.0.0 www.git.emarketing724.com
+0.0.0.0 www.*://giters.com/*
+0.0.0.0 *://www.giters.com/*
+0.0.0.0 www.*://githubhelp.com/*
+0.0.0.0 www.*://githubhot.com/*
+0.0.0.0 www.*://github.innominds.com/*
+0.0.0.0 www.*://githubja.com/*
+0.0.0.0 www.*://githublab.com/*
+0.0.0.0 www.*://githubmemory.com/*
+0.0.0.0 www.*://githubplus.com/*
+0.0.0.0 www.*://gitmemory.cn/*
+0.0.0.0 *://www.gitmemory.com/*
 0.0.0.0 www.glassathome.nl
 0.0.0.0 www.glasvezelinmijnhuis.nl
 0.0.0.0 www.glbnews.com
@@ -3419,6 +3455,7 @@
 0.0.0.0 www.global.msads.net
 0.0.0.0 www.globalsun.io
 0.0.0.0 www.gmgreklam.com
+0.0.0.0 www.*://golangrepo.com/*
 0.0.0.0 www.go-mpulse.net
 0.0.0.0 www.goocloudchat.files.wordpress.com
 0.0.0.0 www.goocloudchat.wordpress.com
@@ -3539,6 +3576,7 @@
 0.0.0.0 www.herseybu.com
 0.0.0.0 www.heryerhaber.com
 0.0.0.0 www.heureka.cz
+0.0.0.0 *://www.higithub.com/*
 0.0.0.0 www.hilleredjorje1997.files.wordpress.com
 0.0.0.0 www.hilleredjorje1997.wordpress.com
 0.0.0.0 www.hippennihal84.files.wordpress.com
@@ -3630,6 +3668,7 @@
 0.0.0.0 www.isesapphirebuilder.files.wordpress.com
 0.0.0.0 www.isesapphirebuilder.wordpress.com
 0.0.0.0 www.is.sabah.com.tr
+0.0.0.0 www.*://issueexplorer.com/*
 0.0.0.0 www.istanbulseo.net
 0.0.0.0 www.istanbulses.com
 0.0.0.0 www.istatistik.arabam.com
@@ -4085,6 +4124,8 @@
 0.0.0.0 www.ontek-serv.com
 0.0.0.0 www.onthe.io
 0.0.0.0 www.openlandschapkaagenbraassem.nl
+0.0.0.0 www.*://openprojectrepo.com/*
+0.0.0.0 www.*://opensourcelibs.com/*
 0.0.0.0 www.openx.net
 0.0.0.0 www.optad360.io
 0.0.0.0 www.optimizely.com
@@ -4251,6 +4292,8 @@
 0.0.0.0 www.puysoncar.es
 0.0.0.0 www.pxlad.io
 0.0.0.0 www.pyramide-ansatz.de
+0.0.0.0 www.*://pythonissues.com/*
+0.0.0.0 www.*://pythonrepo.com/*
 0.0.0.0 www.qha.com.tr
 0.0.0.0 www.qservz.com
 0.0.0.0 www.quantserve.com
@@ -4316,6 +4359,7 @@
 0.0.0.0 www.rek.yemlee.com
 0.0.0.0 www.relateddigital.com
 0.0.0.0 www.report.appmetrica.yandex.net
+0.0.0.0 www.*://reposhub.com/*
 0.0.0.0 www.resmihaber.net
 0.0.0.0 www.revenueflex.com
 0.0.0.0 www.reviveservers.com
@@ -4792,6 +4836,7 @@
 0.0.0.0 www.webview.unityads.unity3d.com
 0.0.0.0 www.web.webpushs.com
 0.0.0.0 www.weinbau-strauss.de
+0.0.0.0 *://www.wenyanet.com/*
 0.0.0.0 www.widengle.com
 0.0.0.0 www.widget.boomads.com
 0.0.0.0 www.widget.cdn.vidyome.com
@@ -4810,9 +4855,14 @@
 0.0.0.0 www.ws.tapjoyads.com
 0.0.0.0 www.wuidschnee.de
 0.0.0.0 www.ww3.smartadserver.com
+0.0.0.0 www.*://www.findbestopensource.com/*
+0.0.0.0 www.*://www.giters.com/*
+0.0.0.0 www.*://www.gitmemory.com/*
 0.0.0.0 www.www.googleadservices.com
 0.0.0.0 www.www.google-analytics.com
+0.0.0.0 www.*://www.higithub.com/*
 0.0.0.0 www.www.omaze.com
+0.0.0.0 www.*://www.wenyanet.com/*
 0.0.0.0 www.wziviridimechanic.files.wordpress.com
 0.0.0.0 www.wziviridimechanic.wordpress.com
 0.0.0.0 www.xdkavablog.files.wordpress.com
