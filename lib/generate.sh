@@ -3,31 +3,49 @@
 mkdir -p ${TEMP}
 
 # insert domains
+cat ${TLD} > ${TEMP}/tld
+cat ${TLD} | urlp --registered_domain >> ${TEMP}/tld
+cat ${TEMP}/tld | sort -u > ${TEMP}/domain
 
-# domain.tld it includes forcely denied ${HOSTS}.
-cat ${TLD} | urlp --registered_domain | sort -u > ${TEMP}/domain
-cat ${SLD} | urlp --registered_domain | sort -u >> ${TEMP}/domain
-cat ${LOGINREQ} | urlp --registered_domain | sort -u >> ${TEMP}/domain
+cat ${SLD} > ${TEMP}/sld
+cat ${SLD} | urlp --registered_domain >> ${TEMP}/sld
+cat ${TEMP}/sld | sort -u >> ${TEMP}/domain
 
+cat ${LOGINREQ} > ${TEMP}/login_req
+cat ${LOGINREQ} | urlp --registered_domain >> ${TEMP}/login_req
+cat ${TEMP}/login_req | sort -u >> ${TEMP}/domain
+
+# blocked services
+cat ${SERVICE} | sort -u >> ${TEMP}/domain
+
+# wordpress based domains
 sed 's/\.wordpress\.com/\.files\.wordpress\.com/g' ${WORDPRESS} | sort -u >> ${TEMP}/domain
 cat ${WORDPRESS} | sort -u >> ${TEMP}/domain
-cat ${SERVICE} | sort -u >> ${TEMP}/domain
 
 # include sources
 if [[ "${include_other_sources}" == "true" ]]; then
-	find ${OTHERSOURCES} -type f -not -name 'etherpad' -exec cat {} \; | sed 's/www\.//g' |sort -u >> ${TEMP}/domain
+	find ${OTHERSOURCES} -type f -not -name 'etherpad' -exec cat {} \; | sed 's/www\.//g' > ${TEMP}/other_sources
+	find ${OTHERSOURCES} -type f -not -name 'etherpad' -exec cat {} \; | urlp --registered_domain  >> ${TEMP}/other_sources
+	sort -u ${TEMP}/other_sources | sed -r '/^\s*$/d' >> ${TEMP}/domain
 fi
 
 # include etherpad
 if [[ "${include_etherpad}" == "true" ]]; then
-	cat ${OTHERSOURCES}/etherpad | sort -u >> ${TEMP}/domain
+	cat ${OTHERSOURCES}/etherpad > ${TEMP}/etherpad
+	cat ${OTHERSOURCES}/etherpad | urlp --registered_domain >> ${TEMP}/etherpad
+	cat ${TEMP}/etherpad | sort -u >> ${TEMP}/domain
 fi
 
 # parse domain option
 case ${1} in
 	--all|-a|all)
-		cat ${ALLOW} | grep "\." | sort -u >> ${TEMP}/domain
-		cat ${STORE} | grep "\." | sort -u >> ${TEMP}/domain
+		cat ${ALLOW} > ${TEMP}/allow
+		cat ${ALLOW} | urlp --registered_domain >> ${TEMP}/allow
+		cat ${TEMP}/allow | grep "\." | sort -u >> ${TEMP}/domain
+
+		cat ${STORE} > ${TEMP}/store
+		cat ${STORE} | urlp --registered_domain >> ${TEMP}/store
+		cat ${TEMP}/store | grep "\." | sort -u >> ${TEMP}/domain
 	;;
 esac
 
@@ -76,7 +94,7 @@ EOT
 while IFS= read -r DOMAIN; do
         echo "0.0.0.0 ${DOMAIN}"
 	echo "0.0.0.0 www.${DOMAIN}"	#force add www subdomain
-done < ${TEMP}/domain | sort -u >> ${HOSTS}
+done < ${TEMP}/domain | sed "s/www.www./www./g" | sort -u >> ${HOSTS}
 
 
 # GENERATE PURE DOMAIN LIST
