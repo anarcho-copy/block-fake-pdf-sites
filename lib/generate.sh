@@ -15,7 +15,7 @@ cat ${SERVICE} | sort -u >> ${TEMP}/domain
 
 # include sources
 if [[ "${include_other_sources}" == "true" ]]; then
-	find ${OTHERSOURCES} -type f -not -name 'etherpad' -exec cat {} \; | urlp --registered_domain |sort -u >> ${TEMP}/domain
+	find ${OTHERSOURCES} -type f -not -name 'etherpad' -exec cat {} \; | sed 's/www\.//g' |sort -u >> ${TEMP}/domain
 fi
 
 # include etherpad
@@ -39,7 +39,7 @@ VERSION=$(date "+%Y%m%d%H%M%S" -d "$DATE")
 
 # GENERATE UBLACKLIST
 while IFS= read -r DOMAIN; do
-	echo "*://${DOMAIN}/*"
+	echo "/${DOMAIN}/"
 done < ${TEMP}/domain | sort -u > ${UBLACKLIST}
 
 
