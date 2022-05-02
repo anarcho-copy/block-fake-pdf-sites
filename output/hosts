@@ -1,12 +1,12 @@
 ###
 #
 # Name        : fake (malicious/profiting from ads) pdf site blocker
-# Version     : 20220502152636
-# Date        : Mon May  2 12:26:36 PM UTC 2022
+# Version     : 20220502153606
+# Date        : Mon May  2 12:36:06 PM UTC 2022
 #
 # Repo        : https://gitlab.com/anarcho-copy/block-fake-pdf-sites
 # File        : https://gitlab.com/anarcho-copy/block-fake-pdf-sites/-/raw/master/output/hosts
-# Total lines : 2301
+# Total lines : 2307
 #
 ###
 
@@ -612,6 +612,7 @@
 0.0.0.0 cedexis.com
 0.0.0.0 cekmekoyevdenevenakliyat.org
 0.0.0.0 centralbm.com.mx
+0.0.0.0 cerrajerosdealcoy.es
 0.0.0.0 ceviz.pw
 0.0.0.0 c.gazetevatan.com
 0.0.0.0 chaicdn.tk
@@ -716,6 +717,7 @@
 0.0.0.0 dbooks.online
 0.0.0.0 deavensidles1988.files.wordpress.com
 0.0.0.0 deavensidles1988.wordpress.com
+0.0.0.0 deco-mineraux.fr
 0.0.0.0 degisimmedya.com
 0.0.0.0 dehabertr.blogspot.com
 0.0.0.0 demand.supply
@@ -865,6 +867,7 @@
 0.0.0.0 ezekeiloneil.wordpress.com
 0.0.0.0 faggrim.com
 0.0.0.0 farmaciamiguelgallego.es
+0.0.0.0 fashmask.es
 0.0.0.0 fast-redirecting.com
 0.0.0.0 fawsonjuliena.files.wordpress.com
 0.0.0.0 fawsonjuliena.wordpress.com
@@ -1830,6 +1833,7 @@
 0.0.0.0 s3.adbers.com
 0.0.0.0 sabah.com.tr
 0.0.0.0 sabahhaberi.com
+0.0.0.0 sabine-botta.de
 0.0.0.0 sadecereklam.net
 0.0.0.0 s.adklik.com.tr
 0.0.0.0 sagliklimanset.com
@@ -1845,6 +1849,7 @@
 0.0.0.0 sandalca.com
 0.0.0.0 sanoranacecilia.files.wordpress.com
 0.0.0.0 sanoranacecilia.wordpress.com
+0.0.0.0 sanzo-verlag.de
 0.0.0.0 sariyerposta.com
 0.0.0.0 satiliklar.net
 0.0.0.0 sauravfossa1987.files.wordpress.com
@@ -2839,6 +2844,7 @@
 0.0.0.0 www.cedexis.com
 0.0.0.0 www.cekmekoyevdenevenakliyat.org
 0.0.0.0 www.centralbm.com.mx
+0.0.0.0 www.cerrajerosdealcoy.es
 0.0.0.0 www.ceviz.pw
 0.0.0.0 www.c.gazetevatan.com
 0.0.0.0 www.chaicdn.tk
@@ -2943,6 +2949,7 @@
 0.0.0.0 www.dbooks.online
 0.0.0.0 www.deavensidles1988.files.wordpress.com
 0.0.0.0 www.deavensidles1988.wordpress.com
+0.0.0.0 www.deco-mineraux.fr
 0.0.0.0 www.degisimmedya.com
 0.0.0.0 www.dehabertr.blogspot.com
 0.0.0.0 www.demand.supply
@@ -3092,6 +3099,7 @@
 0.0.0.0 www.ezekeiloneil.wordpress.com
 0.0.0.0 www.faggrim.com
 0.0.0.0 www.farmaciamiguelgallego.es
+0.0.0.0 www.fashmask.es
 0.0.0.0 www.fast-redirecting.com
 0.0.0.0 www.fawsonjuliena.files.wordpress.com
 0.0.0.0 www.fawsonjuliena.wordpress.com
@@ -4057,6 +4065,7 @@
 0.0.0.0 www.s3.adbers.com
 0.0.0.0 www.sabah.com.tr
 0.0.0.0 www.sabahhaberi.com
+0.0.0.0 www.sabine-botta.de
 0.0.0.0 www.sadecereklam.net
 0.0.0.0 www.s.adklik.com.tr
 0.0.0.0 www.sagliklimanset.com
@@ -4072,6 +4081,7 @@
 0.0.0.0 www.sandalca.com
 0.0.0.0 www.sanoranacecilia.files.wordpress.com
 0.0.0.0 www.sanoranacecilia.wordpress.com
+0.0.0.0 www.sanzo-verlag.de
 0.0.0.0 www.sariyerposta.com
 0.0.0.0 www.satiliklar.net
 0.0.0.0 www.sauravfossa1987.files.wordpress.com
