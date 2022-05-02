@@ -373,6 +373,7 @@
 *://appsflyer.com/*
 *://arabiamarzocchi1996.files.wordpress.com/*
 *://arabiamarzocchi1996.wordpress.com/*
+*://aradasabogados.es/*
 *://arcyfotka.pl/*
 *://arduino-lernen.de/*
 *://areabet.net/*
@@ -630,6 +631,7 @@
 *://cinerreklam.com.tr/*
 *://cirkevvdome.cz/*
 *://citireklam.com/*
+*://city-quartier-eutin.de/*
 *://ckacogikeep.files.wordpress.com/*
 *://ckacogikeep.wordpress.com/*
 *://ck-calvinklein.ru/*
@@ -710,11 +712,13 @@
 *://d3oxtn1x3b8d7i.cloudfront.net/*
 *://d3rt1990lpmkn.cloudfront.net/*
 *://da-ads.com/*
+*://dacarimprenta.es/*
 *://dacs.generalmobile.com/*
 *://dadmarine90.files.wordpress.com/*
 *://dadmarine90.wordpress.com/*
 *://danielaophir.tk/*
 *://danmeneldur.com/*
+*://dapiccolobusinessabrand.it/*
 *://d.applovin.com/*
 *://darcusjamyri83.files.wordpress.com/*
 *://darcusjamyri83.wordpress.com/*
@@ -739,6 +743,7 @@
 *://deraneyadabella.wordpress.com/*
 *://derwinjexiel87.files.wordpress.com/*
 *://derwinjexiel87.wordpress.com/*
+*://desantvi.es/*
 *://desatascosvillaconejos.es/*
 *://deschaatschallenge.nl/*
 *://despainstylianos.files.wordpress.com/*
@@ -814,6 +819,7 @@
 *://egesaati.com/*
 *://egeyonhaber.com/*
 *://eighbooks.xyz/*
+*://eja-ebermannstadt.de/*
 *://ekadin.org/*
 *://ekitaparsivhome.files.wordpress.com/*
 *://ekitaparsivhome.wordpress.com/*
@@ -868,6 +874,7 @@
 *://esgazete.com/*
 *://eshost.com.ar/*
 *://eskisehirekspres.net/*
+*://esperco.es/*
 *://etcodes.com/*
 *://etracker.com/*
 *://eue.d-teknoloji.com.tr/*
@@ -881,6 +888,7 @@
 *://events3alt.adcolony.com/*
 *://events.bitaksi.com/*
 *://events.getirapi.com/*
+*://ev-familienzentrum-hiesfeld.de/*
 *://evosangels.com/*
 *://evs.data.ciceksepeti.com/*
 *://examenblad.nl/*
@@ -1096,6 +1104,7 @@
 *://healthstylecoach.de/*
 *://hebergratuit.net/*
 *://heidis-farbenwelt.de/*
+*://helflinge.de/*
 *://hellohayat.com/*
 *://henry-james.site/*
 *://hepsiads-bff.hepsiburada.com/*
@@ -1172,6 +1181,7 @@
 *://iniestraaalaiyah83.wordpress.com/*
 *://init.supersonicads.com/*
 *://inmobi.com/*
+*://innenstadthelden-landshut.de/*
 *://inno.bisrv.com/*
 *://inrool.com/*
 *://inspectlet.com/*
@@ -1417,6 +1427,7 @@
 *://mahaxayjaxlynn82.wordpress.com/*
 *://mahinfograph.files.wordpress.com/*
 *://mahinfograph.wordpress.com/*
+*://maiahome.es/*
 *://mail-ads.google.com/*
 *://majestyfrueh1984.files.wordpress.com/*
 *://majestyfrueh1984.wordpress.com/*
@@ -1467,6 +1478,7 @@
 *://mediaplex.com/*
 *://medierosmarcayla.files.wordpress.com/*
 *://medierosmarcayla.wordpress.com/*
+*://medodo.pl/*
 *://medyaalemi.com.tr/*
 *://medyablok.org/*
 *://medyagazete.com/*
@@ -1506,6 +1518,7 @@
 *://mijnkleinkunstlied.nl/*
 *://milligazete.com.tr/*
 *://milliyet.com.tr/*
+*://mindfulwarriors.de/*
 *://minireklam.com/*
 *://mismeejecda1980.files.wordpress.com/*
 *://mismeejecda1980.wordpress.com/*
@@ -1741,6 +1754,7 @@
 *://petametrics.com/*
 *://petrafranz-praxis.de/*
 *://pferdesportbeauftragteoh.de/*
+*://pfi-industrie.fr/*
 *://pghub.io/*
 *://phobuthoespan1974.files.wordpress.com/*
 *://phobuthoespan1974.wordpress.com/*
@@ -1786,6 +1800,7 @@
 *://pre.footprintpredict.com/*
 *://prfct.co/*
 *://programattik.com/*
+*://programista-doswiadczony.pl/*
 *://projeanaliz.com/*
 *://pro-market.net/*
 *://promoviral.com/*
@@ -1894,6 +1909,7 @@
 *://rothburyfoodandcraftfestival.co.uk/*
 *://rotmanalicianna.files.wordpress.com/*
 *://rotmanalicianna.wordpress.com/*
+*://rotultech.es/*
 *://roxenyowell99.files.wordpress.com/*
 *://roxenyowell99.wordpress.com/*
 *://rpc.tapjoy.com/*
@@ -1956,6 +1972,7 @@
 *://sc-analytics.appshot.com/*
 *://scarabresearch.com/*
 *://schinkel-kirche-schaepe.de/*
+*://schlicker-pizza.de/*
 *://schoenmakerijdegaard.nl/*
 *://scoop.it/*
 *://scorecardresearch.com/*
@@ -2004,6 +2021,7 @@
 *://signals.turkcell.com.tr/*
 *://signa-pro.fr/*
 *://sigortacigazetesi.com.tr/*
+*://siropompeo.it/*
 *://sitecenneti.com/*
 *://sites.google.com/*
 *://sivori.es/*
@@ -2012,6 +2030,7 @@
 *://slhgfdsir.com/*
 *://smaclick.com/*
 *://smartadserver.com/*
+*://smartexpress.cz/*
 *://smartlook.cloud/*
 *://smartlook.com/*
 *://smetrics.capitalone.com/*
@@ -2056,11 +2075,13 @@
 *://spoods.rce.veeseo.com/*
 *://spotxchange.com/*
 *://sppolna.pl/*
+*://sprarpalagiano.it/*
 *://spwms.com/*
 *://sqgz.generalmobile.com/*
 *://srovnanicen.cz/*
 *://stackstaging.com/*
 *://stairtuy.com/*
+*://stammheim-hilft.de/*
 *://star.com.tr/*
 *://statcounter.com/*
 *://stathat.com/*
@@ -2260,6 +2281,7 @@
 *://uriasmcnellie89.wordpress.com/*
 *://urielshy2000.files.wordpress.com/*
 *://urielshy2000.wordpress.com/*
+*://urlaubiene.de/*
 *://usabilla.com/*
 *://usa-media.net/*
 *://useinsider.com/*
@@ -2271,6 +2293,7 @@
 *://uzmanyorumlari.com/*
 *://uzreklam.com/*
 *://v.ajanshaber.com.tr/*
+*://vakantiepermotor.nl/*
 *://valerimichoel89.files.wordpress.com/*
 *://valerimichoel89.wordpress.com/*
 *://vanhavadis.com/*
@@ -2288,6 +2311,7 @@
 *://veneciahaid.files.wordpress.com/*
 *://veneciahaid.wordpress.com/*
 *://veracdn.xyz/*
+*://verofar.es/*
 *://veryansintv.com/*
 *://v.haber3.com/*
 *://viadata.store/*
@@ -2338,6 +2362,7 @@
 *://webverzeichnis-de.de/*
 *://webview.unityads.unity3d.com/*
 *://web.webpushs.com/*
+*://weinbau-strauss.de/*
 *://widengle.com/*
 *://widget.boomads.com/*
 *://widget.cdn.vidyome.com/*
@@ -2352,6 +2377,7 @@
 *://woobooks.info/*
 *://wopita.com/*
 *://wordpress.com/*
+*://woschlab.de/*
 *://ws.tapjoyads.com/*
 *://wuidschnee.de/*
 *://ww3.smartadserver.com/*
@@ -2412,6 +2438,7 @@
 *://yozgatcamlik.com/*
 *://yx-ads6.com/*
 *://zafrc.5780.site/*
+*://zaragozacoaching.es/*
 *://ziannahpotolsky96.files.wordpress.com/*
 *://ziannahpotolsky96.wordpress.com/*
 *://ziuauriwright.files.wordpress.com/*
