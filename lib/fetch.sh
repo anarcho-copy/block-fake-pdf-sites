@@ -23,3 +23,6 @@ curl -s https://raw.githubusercontent.com/arosh/ublacklist-github-translation/ma
 echo "GET: https://raw.githubusercontent.com/arosh/ublacklist-stackoverflow-translation/master/uBlacklist.txt"
 curl -s https://raw.githubusercontent.com/arosh/ublacklist-stackoverflow-translation/master/uBlacklist.txt | sed 's/*:\/\///g; s/\/\*//g; s/\*\.//g' > ${OTHERSOURCES}/fake-stack
 
+# pinterest
+echo "GET: https://raw.githubusercontent.com/rjaus/ublacklist-pinterest/main/ublacklist-pinterest.txt"
+curl -s https://raw.githubusercontent.com/rjaus/ublacklist-pinterest/main/ublacklist-pinterest.txt | grep 'pinterest\.' | sed 's/*:\/\///g; s/\/\*//g; s/\*\.//g' > ${OTHERSOURCES}/pinterest

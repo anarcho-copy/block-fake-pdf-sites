@@ -1,12 +1,12 @@
 ###
 #
 # Name        : fake (malicious/profiting from ads) pdf site blocker
-# Version     : 20220502164655
-# Date        : Mon May  2 01:46:55 PM UTC 2022
+# Version     : 20220502165007
+# Date        : Mon May  2 01:50:07 PM UTC 2022
 #
 # Repo        : https://gitlab.com/anarcho-copy/block-fake-pdf-sites
 # File        : https://gitlab.com/anarcho-copy/block-fake-pdf-sites/-/raw/master/output/hosts
-# Total lines : 2667
+# Total lines : 2687
 #
 ###
 
@@ -4463,7 +4463,25 @@
 0.0.0.0 www.pillowsandpie.nl
 0.0.0.0 www.pingdom.net
 0.0.0.0 www.ping.staticmoly.me
+0.0.0.0 www.pinterest.at
+0.0.0.0 www.pinterest.ca
+0.0.0.0 www.pinterest.ch
+0.0.0.0 www.pinterest.cl
+0.0.0.0 www.pinterest.co.kr
 0.0.0.0 www.pinterest.com
+0.0.0.0 www.pinterest.com.au
+0.0.0.0 www.pinterest.com.mx
+0.0.0.0 www.pinterest.co.uk
+0.0.0.0 www.pinterest.de
+0.0.0.0 www.pinterest.dk
+0.0.0.0 www.pinterest.es
+0.0.0.0 www.pinterest.fr
+0.0.0.0 www.pinterest.ie
+0.0.0.0 www.pinterest.it
+0.0.0.0 www.pinterest.nz
+0.0.0.0 www.pinterest.ph
+0.0.0.0 www.pinterest.pt
+0.0.0.0 www.pinterest.ru
 0.0.0.0 www.pippio.com
 0.0.0.0 www.pixel.adsafeprotected.com
 0.0.0.0 www.pixels.ingbank.com.tr
@@ -5172,6 +5190,25 @@
 0.0.0.0 www.www.jscodetips.com
 0.0.0.0 www.www.nuomiphp.com
 0.0.0.0 www.www.omaze.com
+0.0.0.0 www.www.pinterest.at
+0.0.0.0 www.www.pinterest.ca
+0.0.0.0 www.www.pinterest.ch
+0.0.0.0 www.www.pinterest.cl
+0.0.0.0 www.www.pinterest.co.kr
+0.0.0.0 www.www.pinterest.com
+0.0.0.0 www.www.pinterest.com.au
+0.0.0.0 www.www.pinterest.com.mx
+0.0.0.0 www.www.pinterest.co.uk
+0.0.0.0 www.www.pinterest.de
+0.0.0.0 www.www.pinterest.dk
+0.0.0.0 www.www.pinterest.es
+0.0.0.0 www.www.pinterest.fr
+0.0.0.0 www.www.pinterest.ie
+0.0.0.0 www.www.pinterest.it
+0.0.0.0 www.www.pinterest.nz
+0.0.0.0 www.www.pinterest.ph
+0.0.0.0 www.www.pinterest.pt
+0.0.0.0 www.www.pinterest.ru
 0.0.0.0 www.www.py4u.net
 0.0.0.0 www.www.qi-u.com
 0.0.0.0 www.www.semicolonworld.com
