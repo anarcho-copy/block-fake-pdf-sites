@@ -478,6 +478,7 @@
 /bizimyaka.com/
 /bizimyol.info/
 /bizographics.com/
+/bjs.cz/
 /bkrtx.com/
 /blackorwhitedergi.com/
 /blinnrockie.files.wordpress.com/
@@ -600,6 +601,7 @@
 /cibgoldmason.files.wordpress.com/
 /cibgoldmason.wordpress.com/
 /cinerreklam.com.tr/
+/cirkevvdome.cz/
 /citireklam.com/
 /ckacogikeep.files.wordpress.com/
 /ckacogikeep.wordpress.com/
@@ -817,6 +819,7 @@
 /eue.d-teknoloji.com.tr/
 /euromsg.com/
 /evagevorgyan.ru/
+/evapetruzalkova.cz/
 /event-collector.analytics.onedio.com/
 /event.demirorenteknoloji.com/
 /event.dengage.com/
@@ -844,6 +847,7 @@
 /flix360.com/
 /flixcar.com/
 /flixfacts.com/
+/flowwithus.cz/
 /forlumineontor.com/
 /fotos-paisajes.net/
 /fotospor.com/
@@ -864,6 +868,7 @@
 /fvbaffiliate.com/
 /fvchipsquad.files.wordpress.com/
 /fvchipsquad.wordpress.com/
+/fyziohomeo.cz/
 /ganeshhonor.files.wordpress.com/
 /ganeshhonor.wordpress.com/
 /gastepress.com/
@@ -1037,6 +1042,7 @@
 /home.blog/
 /h.online-metrix.net/
 /hood.ninja/
+/hornirakousy.cz/
 /hotjar.com/
 /hstats.hepsiburada.com/
 /htpanel.com/
@@ -1084,6 +1090,7 @@
 /installer.betterinstaller.com/
 /installer.filebulldog.com/
 /instana.io/
+/internatkrenovice.cz/
 /internetgundem.com/
 /internethabercisi.com/
 /internethaber.com/
@@ -1109,6 +1116,7 @@
 /ittifakgazetesi.com/
 /iuiokumakitabi.files.wordpress.com/
 /iuiokumakitabi.wordpress.com/
+/ivetafilipova.cz/
 /ivr.com.tr/
 /iyiblogcu.com/
 /iyihaberci.com/
@@ -1221,6 +1229,7 @@
 /kulliyeliler.com.tr/
 /kureselhaberci.com/
 /kuzeyekspres.com.tr/
+/lada-trutnov.cz/
 /ladikamarleen85.files.wordpress.com/
 /ladikamarleen85.wordpress.com/
 /laptrinhx.com/
@@ -1250,6 +1259,7 @@
 /localytics.com/
 /locteskey1998.files.wordpress.com/
 /locteskey1998.wordpress.com/
+/lodmerkaba.cz/
 /lodoshaber.com/
 /log.clarity.ms/
 /logger-01.vty.dailymotion.com/
@@ -1527,6 +1537,7 @@
 /partners.betbooaffiliates.com/
 /partner.superbahisaffiliates248.com/
 /partnerx.bethub.io/
+/pavelrican.cz/
 /paykasasitesi.com/
 /paylas.io/
 /pcdn.dengage.com/
@@ -2206,5 +2217,7 @@
 /zmdcoralitect.wordpress.com/
 /zoellevereen1989.files.wordpress.com/
 /zoellevereen1989.wordpress.com/
+/z-system.cz/
 /ztpsapphireineer.files.wordpress.com/
 /ztpsapphireineer.wordpress.com/
+/zwebu.cz/
