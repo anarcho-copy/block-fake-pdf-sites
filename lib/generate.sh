@@ -39,7 +39,7 @@ VERSION=$(date "+%Y%m%d%H%M%S" -d "$DATE")
 
 # GENERATE UBLACKLIST
 while IFS= read -r DOMAIN; do
-	echo "/${DOMAIN}/"
+	echo "*://${DOMAIN}/*"
 done < ${TEMP}/domain | sort -u > ${UBLACKLIST}
 
 
