@@ -4,4 +4,4 @@
 - separate service for ublacklist
 - data/domain.google
 - create special etherpad service
-- CHECK: site:*.wordpress.com "Bütün kitaplar. 30 günlük deneme sürümü."
++ CHECK: site:*.wordpress.com "Bütün kitaplar. 30 günlük deneme sürümü."
