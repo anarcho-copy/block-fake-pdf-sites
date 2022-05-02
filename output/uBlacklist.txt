@@ -390,6 +390,7 @@
 *://axbet20.com/*
 *://axbetb2.com/*
 *://axbetb.com/*
+*://axlead-cuttereco.fr/*
 *://ayakligazete.com/*
 *://ayandns.com/*
 *://aydindenge.com.tr/*
@@ -522,6 +523,7 @@
 *://btloader.com/*
 *://buchwaldjodey.files.wordpress.com/*
 *://buchwaldjodey.wordpress.com/*
+*://buehler-versicherungen.de/*
 *://bugun.com.tr/*
 *://buhaber.net/*
 *://bultenler.klscdn.com/*
@@ -624,6 +626,7 @@
 *://clifads.com/*
 *://clinica-de-termografia.eu/*
 *://cloudflareinsights.com/*
+*://clubajedreztoledo.es/*
 *://cm.g.doubleclick.net/*
 *://cmsbetconstruct.com/*
 *://cmt.setrowid.com/*
@@ -697,6 +700,7 @@
 *://darcusjamyri83.files.wordpress.com/*
 *://darcusjamyri83.wordpress.com/*
 *://datacollection.beymen.com/*
+*://datalift.fr/*
 *://dataroid.com/*
 *://davamhaber.com/*
 *://dbfukofby5ycr.cloudfront.net/*
@@ -716,6 +720,7 @@
 *://deraneyadabella.wordpress.com/*
 *://derwinjexiel87.files.wordpress.com/*
 *://derwinjexiel87.wordpress.com/*
+*://deschaatschallenge.nl/*
 *://despainstylianos.files.wordpress.com/*
 *://despainstylianos.wordpress.com/*
 *://dessinemoiuneemotion.fr/*
@@ -766,6 +771,7 @@
 *://dygassets.dygdigital.com/*
 *://eaglemanmehgan98.files.wordpress.com/*
 *://eaglemanmehgan98.wordpress.com/*
+*://easycbd.es/*
 *://ebookpdfozetioku.xyz/*
 *://ebookrich.com/*
 *://ebrinfocaster.files.wordpress.com/*
@@ -792,6 +798,7 @@
 *://ekitapyeri.com/*
 *://ekometre.com/*
 *://ekovitrin.com/*
+*://elberijschool.nl/*
 *://elele.com.tr/*
 *://elle.com.tr/*
 *://ellisoneuber94.files.wordpress.com/*
@@ -807,6 +814,7 @@
 *://enhencer.com/*
 *://enjoy-live-shop.de/*
 *://enkocaeli.com/*
+*://enniobrilli.it/*
 *://ensighten.com/*
 *://ensonhaber.com/*
 *://ensontv.com/*
@@ -859,13 +867,17 @@
 *://fawsonjuliena.wordpress.com/*
 *://fbartsanddesign.de/*
 *://fewo-ith18.de/*
+*://fiat500altoadige.it/*
 *://finansgundem.com/*
 *://fingersoft-log.scientificrevenue.com/*
 *://firebaseapp.com/*
+*://fishtownsmurfs.de/*
 *://fitanalytics.com/*
 *://fitteropmaat.nl/*
 *://flash53.com.tr/*
 *://flashtalking.com/*
+*://fleischerei-rietschel.de/*
+*://fleurdeviekalmthout.be/*
 *://flipboard.com/*
 *://flix360.com/*
 *://flixcar.com/*
@@ -882,6 +894,7 @@
 *://franecki.net/*
 *://freegeoip.net/*
 *://freesite.host/*
+*://freie-halunken.de/*
 *://freresdarmesenpicardie.fr/*
 *://frerichkristyna83.files.wordpress.com/*
 *://frerichkristyna83.wordpress.com/*
@@ -953,6 +966,7 @@
 *://gramho.com/*
 *://grand-ads.com/*
 *://gravityrd-services.com/*
+*://greenback-orangepack.de/*
 *://grimex.net/*
 *://gtm.lidyana.com/*
 *://gtssl2-ocsp.geotrust.com/*
@@ -1043,6 +1057,7 @@
 *://hdapicourbia.wordpress.com/*
 *://hdbyfenetresurcour.fr/*
 *://hebergratuit.net/*
+*://heidis-farbenwelt.de/*
 *://hellohayat.com/*
 *://henry-james.site/*
 *://hepsiads-bff.hepsiburada.com/*
@@ -1106,6 +1121,7 @@
 *://indr.in/*
 *://inegolonline.com/*
 *://inegolreklam.net/*
+*://inescontentmarketing.de/*
 *://infolinks.com/*
 *://ingest.sentry.io/*
 *://inicjatywy-patriotyczne.pl/*
@@ -1220,6 +1236,7 @@
 *://kasimpasa.org/*
 *://kayserim.net/*
 *://kayseritempo.org/*
+*://kbtbk.de/*
 *://kcbyaharbor.files.wordpress.com/*
 *://kcbyaharbor.wordpress.com/*
 *://k-g-kittelbacher-blumenkinder.de/*
@@ -1249,6 +1266,7 @@
 *://kitegu.ru/*
 *://klasingdouglass1985.files.wordpress.com/*
 *://klasingdouglass1985.wordpress.com/*
+*://klemens-hecht.de/*
 *://kloostervloeren.nl/*
 *://kmcchicband.files.wordpress.com/*
 *://kmcchicband.wordpress.com/*
@@ -1272,6 +1290,7 @@
 *://lada-trutnov.cz/*
 *://ladikamarleen85.files.wordpress.com/*
 *://ladikamarleen85.wordpress.com/*
+*://laludocanda.it/*
 *://laptrinhx.com/*
 *://lassanalenahan90.files.wordpress.com/*
 *://lassanalenahan90.wordpress.com/*
@@ -1361,6 +1380,7 @@
 *://mansetturkiyem.com.tr/*
 *://marasmanset.com/*
 *://mardinlife.com/*
+*://maredavivere.it/*
 *://margerumagasthya.files.wordpress.com/*
 *://margerumagasthya.wordpress.com/*
 *://marinsm.com/*
@@ -1380,6 +1400,7 @@
 *://mayropamotiteparmuto.wordpress.com/*
 *://mc.yandex.ru/*
 *://med4ad.com/*
+*://mediaberater-ullrich.de/*
 *://media.betexperaff.com/*
 *://media.fastclick.net/*
 *://media.marsaffiliates.com/*
@@ -1582,6 +1603,7 @@
 *://ozgurhaberci.com/*
 *://ozgurkocaeli.com.tr/*
 *://pabloarbesu.es/*
+*://padovafotografia.it/*
 *://pagead2.googlesyndication.com/*
 *://pagead46.l.doubleclick.net/*
 *://pagead.l.google.com/*
@@ -1648,6 +1670,7 @@
 *://personaclick.com/*
 *://perzonalization.com/*
 *://petametrics.com/*
+*://pferdesportbeauftragteoh.de/*
 *://pghub.io/*
 *://phobuthoespan1974.files.wordpress.com/*
 *://phobuthoespan1974.wordpress.com/*
@@ -1661,6 +1684,7 @@
 *://picomico.com/*
 *://picosico.org/*
 *://picterio.com/*
+*://pillowsandpie.nl/*
 *://pingdom.net/*
 *://ping.staticmoly.me/*
 *://pippio.com/*
@@ -1695,6 +1719,8 @@
 *://pro-market.net/*
 *://promoviral.com/*
 *://psabah.tmgrup.com.tr/*
+*://psdrinks.de/*
+*://psychotherapie-hoelzer.de/*
 *://ptreklam.com/*
 *://ptreklam.com.tr/*
 *://ptreklamcrv.com.tr/*
@@ -1705,6 +1731,7 @@
 *://public-prod-dspcookiematching.dmxleo.com/*
 *://pubmatic.com/*
 *://puentesdecritica.es/*
+*://puertosur.es/*
 *://push.ilan365.net/*
 *://pusulagazetesi.com.tr/*
 *://puysoncar.es/*
@@ -1822,6 +1849,7 @@
 *://sabine-botta.de/*
 *://sadecereklam.net/*
 *://s.adklik.com.tr/*
+*://safe-crypto.me/*
 *://sagliklimanset.com/*
 *://sahnerengi.com/*
 *://sail-horizon.com/*
@@ -1854,6 +1882,7 @@
 *://sc-analytics.appshot.com/*
 *://scarabresearch.com/*
 *://schinkel-kirche-schaepe.de/*
+*://scoop.it/*
 *://scorecardresearch.com/*
 *://scripts.sophus3.com/*
 *://scroll.com.tr/*
@@ -1923,6 +1952,7 @@
 *://smrtbnr.xyz/*
 *://smrtcdn.club/*
 *://snobmagazin.com/*
+*://sobiad.com/*
 *://sociaplus.com/*
 *://sociomantic.com/*
 *://softreklam.com/*
@@ -1949,6 +1979,7 @@
 *://spearsabner84.wordpress.com/*
 *://spoods.rce.veeseo.com/*
 *://spotxchange.com/*
+*://sppolna.pl/*
 *://spwms.com/*
 *://sqgz.generalmobile.com/*
 *://stackstaging.com/*
@@ -1982,11 +2013,13 @@
 *://struq.com/*
 *://st.tmgrup.com.tr/*
 *://studads.com/*
+*://studioschrikdraad.nl/*
 *://subservis.com/*
 *://subttijelbi1973.files.wordpress.com/*
 *://subttijelbi1973.wordpress.com/*
 *://suifahsipy1983.files.wordpress.com/*
 *://suifahsipy1983.wordpress.com/*
+*://sunshade-shop.ch/*
 *://sunucu7.com/*
 *://supercell.net/*
 *://supersonicads-a.akamaihd.net/*
@@ -2024,6 +2057,7 @@
 *://tavirareeve.files.wordpress.com/*
 *://tavirareeve.wordpress.com/*
 *://teads.tv/*
+*://teatroemperador.es/*
 *://teatrslovo.ru/*
 *://tekdeeps.com/*
 *://teknogaste.com/*
@@ -2062,6 +2096,7 @@
 *://torynnkaliszewski90.files.wordpress.com/*
 *://torynnkaliszewski90.wordpress.com/*
 *://tourismtoday.net/*
+*://toyzzou.es/*
 *://tpc.googlesyndication.com/*
 *://track.adform.net/*
 *://tracker.blutv.com/*
@@ -2201,6 +2236,7 @@
 *://wawlabs.com/*
 *://webanalyzer.bussion.com/*
 *://webcanavari.net/*
+*://webdesign-tobies.de/*
 *://webeyo.com/*
 *://webhaberci.net/*
 *://webhakim.com/*
@@ -2227,6 +2263,7 @@
 *://wloszakowice2021.pl/*
 *://woobooks.info/*
 *://wopita.com/*
+*://wordpress.com/*
 *://ws.tapjoyads.com/*
 *://wuidschnee.de/*
 *://ww3.smartadserver.com/*
