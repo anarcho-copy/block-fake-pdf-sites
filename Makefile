@@ -20,6 +20,13 @@ generate-all: $(TLD) $(SLD) $(LOGINREQ) $(WORDPRESS) $(SERVICE) $(ALLOW) $(STORE
 	@echo generating configuration files...
 	lib/generate.sh --all
 
+generate-all-with-fetch: $(TLD) $(SLD) $(LOGINREQ) $(WORDPRESS) $(SERVICE) $(ALLOW) $(STORE) $(OTHERSOURCES)/ lib/generate.sh
+	@echo fetching sources..
+	@make -s fetch
+	@make -s fetch-etherpad
+	@echo generating configuration files...
+	lib/generate.sh --all
+
 clean:
 	@echo removing configuration files...
 	rm -rf $(UBLACKLIST) $(HOSTS) $(DNSMASQ) $(TEMP) $(RAW)
