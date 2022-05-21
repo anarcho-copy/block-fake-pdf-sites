@@ -28,4 +28,3 @@ sholtis.centralbm.com.mx
 stormer.centralbm.com.mx
 trauth.centralbm.com.mx
 pdfkitap.web.tr
-pdf-scan.alloverinformation.com
