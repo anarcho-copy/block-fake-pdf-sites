@@ -30,3 +30,7 @@ curl -s https://raw.githubusercontent.com/rjaus/ublacklist-pinterest/main/ublack
 # aliexpress-fake-sites:
 echo "GET: https://raw.githubusercontent.com/franga2000/aliexpress-fake-sites/main/domains_uBlacklist.txt"
 curl -s https://raw.githubusercontent.com/franga2000/aliexpress-fake-sites/main/domains_uBlacklist.txt | sed 's/*:\/\///g; s/\/\*//g' > ${OTHERSOURCES}/aliexpress-fake-sites
+
+# TurkishAdblockList
+echo "GET: https://raw.githubusercontent.com/huzunluartemis/TurkishAdblockList/main/src/HostsList.txt"
+curl -s https://raw.githubusercontent.com/huzunluartemis/TurkishAdblockList/main/src/HostsList.txt | grep '127.0.0.1' | grep -v 'localhost' | sed 's/127.0.0.1 //g' > ${OTHERSOURCES}/TurkishAdblockList
