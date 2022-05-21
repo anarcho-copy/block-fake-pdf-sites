@@ -1,12 +1,12 @@
 ###
 #
 # Name        : fake (malicious/profiting from ads) pdf site blocker
-# Version     : 20220521013630
-# Date        : Fri May 20 10:36:30 PM UTC 2022
+# Version     : 20220521131944
+# Date        : Sat May 21 10:19:44 AM UTC 2022
 #
 # Repo        : https://gitlab.com/anarcho-copy/block-fake-pdf-sites
 # File        : https://gitlab.com/anarcho-copy/block-fake-pdf-sites/-/raw/master/output/hosts
-# Total lines : 1061
+# Total lines : 973
 #
 ###
 
@@ -49,6 +49,7 @@
 0.0.0.0 allegrapistol.files.wordpress.com
 0.0.0.0 allegrapistol.wordpress.com
 0.0.0.0 allgaeu-fewo-hildebrandt.de
+0.0.0.0 alloverinformation.com
 0.0.0.0 alvaroreyesfoto.es
 0.0.0.0 alyzeglascott.files.wordpress.com
 0.0.0.0 alyzeglascott.wordpress.com
@@ -137,6 +138,7 @@
 0.0.0.0 boacherize1977.files.wordpress.com
 0.0.0.0 boacherize1977.wordpress.com
 0.0.0.0 bonus.classiccarnovolpaint.es
+0.0.0.0 books-now.com
 0.0.0.0 booksurfers.co.uk
 0.0.0.0 borajansen.files.wordpress.com
 0.0.0.0 borajansen.wordpress.com
@@ -287,6 +289,7 @@
 0.0.0.0 eokcogibin.wordpress.com
 0.0.0.0 epdfkitapindiir.com
 0.0.0.0 epdfkitapoku.com
+0.0.0.0 epdfkitapp.com
 0.0.0.0 epub-pdf-fb2-kitabn.info
 0.0.0.0 epub-pdf-kitaplar.info
 0.0.0.0 erbeta.sites.post-gazette.com
@@ -531,6 +534,7 @@
 0.0.0.0 letoileduberger.it
 0.0.0.0 limanbet.jhlhardware.es
 0.0.0.0 limanbet.teechinesischer.de
+0.0.0.0 limitlessdownloads.com
 0.0.0.0 linksfraktion-wa-fkb.de
 0.0.0.0 liveblog.gosgm.com
 0.0.0.0 locteskey1998.files.wordpress.com
@@ -656,6 +660,7 @@
 0.0.0.0 pause-accept.nl
 0.0.0.0 pavelrican.cz
 0.0.0.0 pcls24.de
+0.0.0.0 pdfdunyam.com
 0.0.0.0 pdfekitaparsivii.org
 0.0.0.0 pdfe-kitap.com
 0.0.0.0 pdf-fb2-kitabn.info
@@ -672,14 +677,17 @@
 0.0.0.0 pdfkitaparsivi.com.tr
 0.0.0.0 pdfkitapdunyam.com
 0.0.0.0 pdfkitap.ga
+0.0.0.0 pdfkitapindirelim.com
 0.0.0.0 pdfkitapindir.info
 0.0.0.0 pdfkitapindirucretsiz.com
 0.0.0.0 pdfkitapindirx.blogspot.com
 0.0.0.0 pdf-kitaplarl-evrimicii.info
 0.0.0.0 pdf-kitaplar-ucretsiz.info
 0.0.0.0 pdfkitapucretsiz.com
+0.0.0.0 pdfkitap.web.tr
 0.0.0.0 pdfkitapyurdu.com
 0.0.0.0 pdfkutuphanesi.com
+0.0.0.0 pdf-scan.alloverinformation.com
 0.0.0.0 pdfwor.com
 0.0.0.0 pdtpets.elenaetc.es
 0.0.0.0 penglongyi.tk
@@ -851,6 +859,7 @@
 0.0.0.0 tikla-indir.com
 0.0.0.0 tkmvihide.files.wordpress.com
 0.0.0.0 tkmvihide.wordpress.com
+0.0.0.0 tlgclk.files.wordpress.com
 0.0.0.0 tlgclk.wordpress.com
 0.0.0.0 torynnkaliszewski90.files.wordpress.com
 0.0.0.0 torynnkaliszewski90.wordpress.com
@@ -926,7 +935,6 @@
 0.0.0.0 wimbligeter1979.wordpress.com
 0.0.0.0 wloszakowice2021.pl
 0.0.0.0 woobooks.info
-0.0.0.0 wordpress.com
 0.0.0.0 woschlab.de
 0.0.0.0 wuidschnee.de
 0.0.0.0 www.0801202223.aduardinbeeld.nl
@@ -969,6 +977,7 @@
 0.0.0.0 www.allegrapistol.files.wordpress.com
 0.0.0.0 www.allegrapistol.wordpress.com
 0.0.0.0 www.allgaeu-fewo-hildebrandt.de
+0.0.0.0 www.alloverinformation.com
 0.0.0.0 www.alvaroreyesfoto.es
 0.0.0.0 www.alyzeglascott.files.wordpress.com
 0.0.0.0 www.alyzeglascott.wordpress.com
@@ -1058,6 +1067,7 @@
 0.0.0.0 www.boacherize1977.files.wordpress.com
 0.0.0.0 www.boacherize1977.wordpress.com
 0.0.0.0 www.bonus.classiccarnovolpaint.es
+0.0.0.0 www.books-now.com
 0.0.0.0 www.booksurfers.co.uk
 0.0.0.0 www.borajansen.files.wordpress.com
 0.0.0.0 www.borajansen.wordpress.com
@@ -1209,6 +1219,7 @@
 0.0.0.0 www.eokcogibin.wordpress.com
 0.0.0.0 www.epdfkitapindiir.com
 0.0.0.0 www.epdfkitapoku.com
+0.0.0.0 www.epdfkitapp.com
 0.0.0.0 www.epub-pdf-fb2-kitabn.info
 0.0.0.0 www.epub-pdf-kitaplar.info
 0.0.0.0 www.erbeta.sites.post-gazette.com
@@ -1454,6 +1465,7 @@
 0.0.0.0 www.letoileduberger.it
 0.0.0.0 www.limanbet.jhlhardware.es
 0.0.0.0 www.limanbet.teechinesischer.de
+0.0.0.0 www.limitlessdownloads.com
 0.0.0.0 www.linksfraktion-wa-fkb.de
 0.0.0.0 www.liveblog.gosgm.com
 0.0.0.0 www.locteskey1998.files.wordpress.com
@@ -1579,6 +1591,7 @@
 0.0.0.0 www.pause-accept.nl
 0.0.0.0 www.pavelrican.cz
 0.0.0.0 www.pcls24.de
+0.0.0.0 www.pdfdunyam.com
 0.0.0.0 www.pdfekitaparsivii.org
 0.0.0.0 www.pdfe-kitap.com
 0.0.0.0 www.pdf-fb2-kitabn.info
@@ -1595,14 +1608,17 @@
 0.0.0.0 www.pdfkitaparsivi.com.tr
 0.0.0.0 www.pdfkitapdunyam.com
 0.0.0.0 www.pdfkitap.ga
+0.0.0.0 www.pdfkitapindirelim.com
 0.0.0.0 www.pdfkitapindir.info
 0.0.0.0 www.pdfkitapindirucretsiz.com
 0.0.0.0 www.pdfkitapindirx.blogspot.com
 0.0.0.0 www.pdf-kitaplarl-evrimicii.info
 0.0.0.0 www.pdf-kitaplar-ucretsiz.info
 0.0.0.0 www.pdfkitapucretsiz.com
+0.0.0.0 www.pdfkitap.web.tr
 0.0.0.0 www.pdfkitapyurdu.com
 0.0.0.0 www.pdfkutuphanesi.com
+0.0.0.0 www.pdf-scan.alloverinformation.com
 0.0.0.0 www.pdfwor.com
 0.0.0.0 www.pdtpets.elenaetc.es
 0.0.0.0 www.penglongyi.tk
@@ -1774,6 +1790,7 @@
 0.0.0.0 www.tikla-indir.com
 0.0.0.0 www.tkmvihide.files.wordpress.com
 0.0.0.0 www.tkmvihide.wordpress.com
+0.0.0.0 www.tlgclk.files.wordpress.com
 0.0.0.0 www.tlgclk.wordpress.com
 0.0.0.0 www.torynnkaliszewski90.files.wordpress.com
 0.0.0.0 www.torynnkaliszewski90.wordpress.com
@@ -1849,7 +1866,6 @@
 0.0.0.0 www.wimbligeter1979.wordpress.com
 0.0.0.0 www.wloszakowice2021.pl
 0.0.0.0 www.woobooks.info
-0.0.0.0 www.wordpress.com
 0.0.0.0 www.woschlab.de
 0.0.0.0 www.wuidschnee.de
 0.0.0.0 www.wziviridimechanic.files.wordpress.com
