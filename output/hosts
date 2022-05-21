@@ -1,12 +1,12 @@
 ###
 #
 # Name        : fake (malicious/profiting from ads) pdf site blocker
-# Version     : 20220521131944
-# Date        : Sat May 21 10:19:44 AM UTC 2022
+# Version     : 20220521170443
+# Date        : Sat May 21 02:04:43 PM UTC 2022
 #
 # Repo        : https://gitlab.com/anarcho-copy/block-fake-pdf-sites
 # File        : https://gitlab.com/anarcho-copy/block-fake-pdf-sites/-/raw/master/output/hosts
-# Total lines : 973
+# Total lines : 977
 #
 ###
 
@@ -236,7 +236,9 @@
 0.0.0.0 dineroptveld.nl
 0.0.0.0 dionaermatinger.files.wordpress.com
 0.0.0.0 dionaermatinger.wordpress.com
+0.0.0.0 dm7g.k-hen.com
 0.0.0.0 docplayer.nl
+0.0.0.0 docuri.com
 0.0.0.0 doczz.cz
 0.0.0.0 dolinarjeff.files.wordpress.com
 0.0.0.0 dolinarjeff.wordpress.com
@@ -476,6 +478,7 @@
 0.0.0.0 kcbyaharbor.files.wordpress.com
 0.0.0.0 kcbyaharbor.wordpress.com
 0.0.0.0 k-g-kittelbacher-blumenkinder.de
+0.0.0.0 k-hen.com
 0.0.0.0 kickscooter.ru
 0.0.0.0 kieleenarayanan.files.wordpress.com
 0.0.0.0 kieleenarayanan.wordpress.com
@@ -730,6 +733,7 @@
 0.0.0.0 reasiaestanislau.files.wordpress.com
 0.0.0.0 reasiaestanislau.wordpress.com
 0.0.0.0 recherchedecouple.fr
+0.0.0.0 restaurantsidibou.fr
 0.0.0.0 righilady90.files.wordpress.com
 0.0.0.0 righilady90.wordpress.com
 0.0.0.0 rightbellmatch.top
@@ -1165,7 +1169,9 @@
 0.0.0.0 www.dineroptveld.nl
 0.0.0.0 www.dionaermatinger.files.wordpress.com
 0.0.0.0 www.dionaermatinger.wordpress.com
+0.0.0.0 www.dm7g.k-hen.com
 0.0.0.0 www.docplayer.nl
+0.0.0.0 www.docuri.com
 0.0.0.0 www.doczz.cz
 0.0.0.0 www.dolinarjeff.files.wordpress.com
 0.0.0.0 www.dolinarjeff.wordpress.com
@@ -1407,6 +1413,7 @@
 0.0.0.0 www.kcbyaharbor.files.wordpress.com
 0.0.0.0 www.kcbyaharbor.wordpress.com
 0.0.0.0 www.k-g-kittelbacher-blumenkinder.de
+0.0.0.0 www.k-hen.com
 0.0.0.0 www.kickscooter.ru
 0.0.0.0 www.kieleenarayanan.files.wordpress.com
 0.0.0.0 www.kieleenarayanan.wordpress.com
@@ -1661,6 +1668,7 @@
 0.0.0.0 www.reasiaestanislau.files.wordpress.com
 0.0.0.0 www.reasiaestanislau.wordpress.com
 0.0.0.0 www.recherchedecouple.fr
+0.0.0.0 www.restaurantsidibou.fr
 0.0.0.0 www.righilady90.files.wordpress.com
 0.0.0.0 www.righilady90.wordpress.com
 0.0.0.0 www.rightbellmatch.top
