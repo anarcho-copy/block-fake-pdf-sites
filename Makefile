@@ -64,3 +64,12 @@ test-with-list: lib/test.sh lib/google_url_extractor.py $(RAW)
 
 test: lib/test.sh lib/google_url_extractor.py
 	lib/test.sh -gi -p 5
+
+serve: lib/serve.sh $(CONFIG) $(BUILD_PATH)
+	@make serve-kill || true
+	@mkdir -p $(TEMP)
+	@lib/serve.sh -c $(CONFIG) &>> $(TEMP)/server.log &
+	@echo -e "\nhttp://$(TEMP_SERVER_BIND):$(TEMP_SERVER_PORT)\n"
+
+serve-kill:
+	@ps a | grep $(TEMP_SERVER_PORT) | head -1 | awk '{print $$1}' | xargs kill -SEGV &>/dev/null
