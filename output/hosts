@@ -1,12 +1,12 @@
 ###
 #
 # Name        : fake (malicious/profiting from ads) pdf site blocker
-# Version     : 20220608202358
-# Date        : Wed Jun  8 05:23:58 PM UTC 2022
+# Version     : 20220621113442
+# Date        : Tue Jun 21 08:34:42 AM UTC 2022
 #
 # Repo        : https://gitlab.com/anarcho-copy/block-fake-pdf-sites
 # File        : https://gitlab.com/anarcho-copy/block-fake-pdf-sites/-/raw/master/output/hosts
-# Total lines : 1110
+# Total lines : 1129
 #
 ###
 
@@ -188,6 +188,7 @@
 0.0.0.0 camarowalts99.wordpress.com
 0.0.0.0 camh.rthtalleresruben.es
 0.0.0.0 camp-chase.nl
+0.0.0.0 campeonatocadetebaloncesto2015.es
 0.0.0.0 camperyvan.es
 0.0.0.0 carefulsack.nl
 0.0.0.0 carolahallak.de
@@ -290,6 +291,7 @@
 0.0.0.0 ebrinfocaster.files.wordpress.com
 0.0.0.0 ebrinfocaster.wordpress.com
 0.0.0.0 ecph.flowwithus.cz
+0.0.0.0 edebiyat.garderobnaya.su
 0.0.0.0 edebiyatkitabi.com
 0.0.0.0 egld.maredavivere.it
 0.0.0.0 egld.padovafotografia.it
@@ -387,6 +389,7 @@
 0.0.0.0 galanis.centralbm.com.mx
 0.0.0.0 ganeshhonor.files.wordpress.com
 0.0.0.0 ganeshhonor.wordpress.com
+0.0.0.0 garderobnaya.su
 0.0.0.0 gauss.centralbm.com.mx
 0.0.0.0 geanopulostelvin94.files.wordpress.com
 0.0.0.0 geanopulostelvin94.wordpress.com
@@ -442,6 +445,7 @@
 0.0.0.0 heureka.cz
 0.0.0.0 hilleredjorje1997.files.wordpress.com
 0.0.0.0 hilleredjorje1997.wordpress.com
+0.0.0.0 hiposter.ru
 0.0.0.0 hippennihal84.files.wordpress.com
 0.0.0.0 hippennihal84.wordpress.com
 0.0.0.0 hledejceny.cz
@@ -472,6 +476,7 @@
 0.0.0.0 iniestraaalaiyah83.files.wordpress.com
 0.0.0.0 iniestraaalaiyah83.wordpress.com
 0.0.0.0 innenstadthelden-landshut.de
+0.0.0.0 in.net
 0.0.0.0 institutoivec.es
 0.0.0.0 interbahis.intuitionlang.es
 0.0.0.0 internatkrenovice.cz
@@ -514,6 +519,7 @@
 0.0.0.0 jolavacaster.files.wordpress.com
 0.0.0.0 jolavacaster.wordpress.com
 0.0.0.0 josebamoreno.es
+0.0.0.0 juliansimon.es
 0.0.0.0 kadv.flowwithus.cz
 0.0.0.0 kahrijesenovec1989.files.wordpress.com
 0.0.0.0 kahrijesenovec1989.wordpress.com
@@ -542,13 +548,16 @@
 0.0.0.0 kitap.brandeurs.ru
 0.0.0.0 kitapbu.net
 0.0.0.0 kitapci.ga
+0.0.0.0 kitap-dunyasi-mp3-pdf.site
 0.0.0.0 kitap-dunyasi-odf-mp3.site
 0.0.0.0 kitap-dunyasi-odf-pdf-mp3.site
+0.0.0.0 kitap-dunyasi-pdf-mp3.site
 0.0.0.0 kitap-dunyasi-pdf-odf-mp3.site
 0.0.0.0 kitapindir.pw
 0.0.0.0 kitapindirr.org
 0.0.0.0 kitapindir.website
 0.0.0.0 kitaplar.gen.tr
+0.0.0.0 kitaplar.ml
 0.0.0.0 kitaplar.rukomos.ru
 0.0.0.0 kitap.live
 0.0.0.0 kitap-mahzeni.hozyayka.org
@@ -593,6 +602,7 @@
 0.0.0.0 lesateliersdiy.fr
 0.0.0.0 letoileduberger.it
 0.0.0.0 levantehomestaging.es
+0.0.0.0 lewes.nabat.us
 0.0.0.0 lightsintheheights.com.au
 0.0.0.0 limanbet.asesoriaasescar.es
 0.0.0.0 limanbet.jhlhardware.es
@@ -690,6 +700,7 @@
 0.0.0.0 myradiohits.nl
 0.0.0.0 mysiliconvalley.es
 0.0.0.0 myslide.es
+0.0.0.0 nabat.us
 0.0.0.0 nadya.us
 0.0.0.0 naryanladucer1983.files.wordpress.com
 0.0.0.0 naryanladucer1983.wordpress.com
@@ -740,6 +751,7 @@
 0.0.0.0 pause-accept.nl
 0.0.0.0 pavelrican.cz
 0.0.0.0 pcls24.de
+0.0.0.0 pdfcehennemi.com
 0.0.0.0 pdfdunyam.com
 0.0.0.0 pdfekitaparsivii.org
 0.0.0.0 pdfe-kitap.com
@@ -760,12 +772,14 @@
 0.0.0.0 pdfkitap.ga
 0.0.0.0 pdfkitap.gen.tr
 0.0.0.0 pdfkitapindirelim.com
+0.0.0.0 pdf-kitap-indir.info
 0.0.0.0 pdfkitapindir.info
 0.0.0.0 pdfkitapindirucretsiz.com
 0.0.0.0 pdfkitapindir.us
 0.0.0.0 pdfkitapindirx.blogspot.com
 0.0.0.0 pdf-kitaplarl-evrimicii.info
 0.0.0.0 pdf-kitaplar-ucretsiz.info
+0.0.0.0 pdfkitap.org
 0.0.0.0 pdfkitapucretsiz.com
 0.0.0.0 pdfkitap.web.tr
 0.0.0.0 pdfkitapyurdu.com
@@ -994,6 +1008,7 @@
 0.0.0.0 travalikourtland.wordpress.com
 0.0.0.0 tr.elberijschool.nl
 0.0.0.0 tr.friseur-olga.de
+0.0.0.0 tr.hiposter.ru
 0.0.0.0 tr.pinterest.com
 0.0.0.0 tr.sppolna.pl
 0.0.0.0 tr.teatroemperador.es
@@ -1005,6 +1020,7 @@
 0.0.0.0 turkce-okuma.hozyayka.org
 0.0.0.0 turkishpdfbooks.info
 0.0.0.0 turs.freesite.host
+0.0.0.0 twinge-deputy.nl
 0.0.0.0 tylenphothirath93.files.wordpress.com
 0.0.0.0 tylenphothirath93.wordpress.com
 0.0.0.0 tylerjamesborbon.files.wordpress.com
@@ -1015,6 +1031,7 @@
 0.0.0.0 ucretsiz-ekitaplar.site
 0.0.0.0 ucretsiz-kitap-pdf-indirin.com
 0.0.0.0 ugu.girlsobsession.xyz
+0.0.0.0 uk.campeonatocadetebaloncesto2015.es
 0.0.0.0 ukinoryc1976.files.wordpress.com
 0.0.0.0 ukinoryc1976.wordpress.com
 0.0.0.0 uk.puertosur.es
@@ -1034,6 +1051,7 @@
 0.0.0.0 uvrf.omniglobe.es
 0.0.0.0 uxcc.flowwithus.cz
 0.0.0.0 uzelok4u.ru
+0.0.0.0 uznetsi.in.net
 0.0.0.0 vakantiepermotor.nl
 0.0.0.0 valerimichoel89.files.wordpress.com
 0.0.0.0 valerimichoel89.wordpress.com
@@ -1064,6 +1082,7 @@
 0.0.0.0 web.app
 0.0.0.0 webdesign-tobies.de
 0.0.0.0 weber-gartengeraete.de
+0.0.0.0 webpdfoku.com
 0.0.0.0 webverzeichnis-de.de
 0.0.0.0 weinbau-strauss.de
 0.0.0.0 wimbligeter1979.files.wordpress.com
@@ -1254,6 +1273,7 @@
 0.0.0.0 www.camarowalts99.wordpress.com
 0.0.0.0 www.camh.rthtalleresruben.es
 0.0.0.0 www.camp-chase.nl
+0.0.0.0 www.campeonatocadetebaloncesto2015.es
 0.0.0.0 www.camperyvan.es
 0.0.0.0 www.carefulsack.nl
 0.0.0.0 www.carolahallak.de
@@ -1356,6 +1376,7 @@
 0.0.0.0 www.ebrinfocaster.files.wordpress.com
 0.0.0.0 www.ebrinfocaster.wordpress.com
 0.0.0.0 www.ecph.flowwithus.cz
+0.0.0.0 www.edebiyat.garderobnaya.su
 0.0.0.0 www.edebiyatkitabi.com
 0.0.0.0 www.egld.maredavivere.it
 0.0.0.0 www.egld.padovafotografia.it
@@ -1455,6 +1476,7 @@
 0.0.0.0 www.galanis.centralbm.com.mx
 0.0.0.0 www.ganeshhonor.files.wordpress.com
 0.0.0.0 www.ganeshhonor.wordpress.com
+0.0.0.0 www.garderobnaya.su
 0.0.0.0 www.gauss.centralbm.com.mx
 0.0.0.0 www.geanopulostelvin94.files.wordpress.com
 0.0.0.0 www.geanopulostelvin94.wordpress.com
@@ -1510,6 +1532,7 @@
 0.0.0.0 www.heureka.cz
 0.0.0.0 www.hilleredjorje1997.files.wordpress.com
 0.0.0.0 www.hilleredjorje1997.wordpress.com
+0.0.0.0 www.hiposter.ru
 0.0.0.0 www.hippennihal84.files.wordpress.com
 0.0.0.0 www.hippennihal84.wordpress.com
 0.0.0.0 www.hledejceny.cz
@@ -1540,6 +1563,7 @@
 0.0.0.0 www.iniestraaalaiyah83.files.wordpress.com
 0.0.0.0 www.iniestraaalaiyah83.wordpress.com
 0.0.0.0 www.innenstadthelden-landshut.de
+0.0.0.0 www.in.net
 0.0.0.0 www.institutoivec.es
 0.0.0.0 www.interbahis.intuitionlang.es
 0.0.0.0 www.internatkrenovice.cz
@@ -1582,6 +1606,7 @@
 0.0.0.0 www.jolavacaster.files.wordpress.com
 0.0.0.0 www.jolavacaster.wordpress.com
 0.0.0.0 www.josebamoreno.es
+0.0.0.0 www.juliansimon.es
 0.0.0.0 www.kadv.flowwithus.cz
 0.0.0.0 www.kahrijesenovec1989.files.wordpress.com
 0.0.0.0 www.kahrijesenovec1989.wordpress.com
@@ -1610,13 +1635,16 @@
 0.0.0.0 www.kitap.brandeurs.ru
 0.0.0.0 www.kitapbu.net
 0.0.0.0 www.kitapci.ga
+0.0.0.0 www.kitap-dunyasi-mp3-pdf.site
 0.0.0.0 www.kitap-dunyasi-odf-mp3.site
 0.0.0.0 www.kitap-dunyasi-odf-pdf-mp3.site
+0.0.0.0 www.kitap-dunyasi-pdf-mp3.site
 0.0.0.0 www.kitap-dunyasi-pdf-odf-mp3.site
 0.0.0.0 www.kitapindir.pw
 0.0.0.0 www.kitapindirr.org
 0.0.0.0 www.kitapindir.website
 0.0.0.0 www.kitaplar.gen.tr
+0.0.0.0 www.kitaplar.ml
 0.0.0.0 www.kitaplar.rukomos.ru
 0.0.0.0 www.kitap.live
 0.0.0.0 www.kitap-mahzeni.hozyayka.org
@@ -1661,6 +1689,7 @@
 0.0.0.0 www.lesateliersdiy.fr
 0.0.0.0 www.letoileduberger.it
 0.0.0.0 www.levantehomestaging.es
+0.0.0.0 www.lewes.nabat.us
 0.0.0.0 www.lightsintheheights.com.au
 0.0.0.0 www.limanbet.asesoriaasescar.es
 0.0.0.0 www.limanbet.jhlhardware.es
@@ -1758,6 +1787,7 @@
 0.0.0.0 www.myradiohits.nl
 0.0.0.0 www.mysiliconvalley.es
 0.0.0.0 www.myslide.es
+0.0.0.0 www.nabat.us
 0.0.0.0 www.nadya.us
 0.0.0.0 www.naryanladucer1983.files.wordpress.com
 0.0.0.0 www.naryanladucer1983.wordpress.com
@@ -1808,6 +1838,7 @@
 0.0.0.0 www.pause-accept.nl
 0.0.0.0 www.pavelrican.cz
 0.0.0.0 www.pcls24.de
+0.0.0.0 www.pdfcehennemi.com
 0.0.0.0 www.pdfdunyam.com
 0.0.0.0 www.pdfekitaparsivii.org
 0.0.0.0 www.pdfe-kitap.com
@@ -1828,12 +1859,14 @@
 0.0.0.0 www.pdfkitap.ga
 0.0.0.0 www.pdfkitap.gen.tr
 0.0.0.0 www.pdfkitapindirelim.com
+0.0.0.0 www.pdf-kitap-indir.info
 0.0.0.0 www.pdfkitapindir.info
 0.0.0.0 www.pdfkitapindirucretsiz.com
 0.0.0.0 www.pdfkitapindir.us
 0.0.0.0 www.pdfkitapindirx.blogspot.com
 0.0.0.0 www.pdf-kitaplarl-evrimicii.info
 0.0.0.0 www.pdf-kitaplar-ucretsiz.info
+0.0.0.0 www.pdfkitap.org
 0.0.0.0 www.pdfkitapucretsiz.com
 0.0.0.0 www.pdfkitap.web.tr
 0.0.0.0 www.pdfkitapyurdu.com
@@ -2062,6 +2095,7 @@
 0.0.0.0 www.travalikourtland.wordpress.com
 0.0.0.0 www.tr.elberijschool.nl
 0.0.0.0 www.tr.friseur-olga.de
+0.0.0.0 www.tr.hiposter.ru
 0.0.0.0 www.tr.pinterest.com
 0.0.0.0 www.tr.sppolna.pl
 0.0.0.0 www.tr.teatroemperador.es
@@ -2073,6 +2107,7 @@
 0.0.0.0 www.turkce-okuma.hozyayka.org
 0.0.0.0 www.turkishpdfbooks.info
 0.0.0.0 www.turs.freesite.host
+0.0.0.0 www.twinge-deputy.nl
 0.0.0.0 www.tylenphothirath93.files.wordpress.com
 0.0.0.0 www.tylenphothirath93.wordpress.com
 0.0.0.0 www.tylerjamesborbon.files.wordpress.com
@@ -2083,6 +2118,7 @@
 0.0.0.0 www.ucretsiz-ekitaplar.site
 0.0.0.0 www.ucretsiz-kitap-pdf-indirin.com
 0.0.0.0 www.ugu.girlsobsession.xyz
+0.0.0.0 www.uk.campeonatocadetebaloncesto2015.es
 0.0.0.0 www.ukinoryc1976.files.wordpress.com
 0.0.0.0 www.ukinoryc1976.wordpress.com
 0.0.0.0 www.uk.puertosur.es
@@ -2102,6 +2138,7 @@
 0.0.0.0 www.uvrf.omniglobe.es
 0.0.0.0 www.uxcc.flowwithus.cz
 0.0.0.0 www.uzelok4u.ru
+0.0.0.0 www.uznetsi.in.net
 0.0.0.0 www.vakantiepermotor.nl
 0.0.0.0 www.valerimichoel89.files.wordpress.com
 0.0.0.0 www.valerimichoel89.wordpress.com
@@ -2132,6 +2169,7 @@
 0.0.0.0 www.web.app
 0.0.0.0 www.webdesign-tobies.de
 0.0.0.0 www.weber-gartengeraete.de
+0.0.0.0 www.webpdfoku.com
 0.0.0.0 www.webverzeichnis-de.de
 0.0.0.0 www.weinbau-strauss.de
 0.0.0.0 www.wimbligeter1979.files.wordpress.com
