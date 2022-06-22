@@ -59,9 +59,18 @@ VERSION=$(date "+%Y%m%d%H%M%S" -d "$DATE")
 
 
 # GENERATE UBLACKLIST
+cat > ${UBLACKLIST} <<EOT
+# Name        : ${TITLE}
+# Version     : ${VERSION}
+# Date        : ${DATE}
+# Repo        : ${REPO}
+# File        : ${RAW_SOURCE}/${UBLACKLIST}
+# Total lines : ${TOTAL_LINES}
+
+EOT
 while IFS= read -r DOMAIN; do
 	echo "/${DOMAIN}/"
-done < ${TEMP}/domain | sort -u > ${UBLACKLIST}
+done < ${TEMP}/domain | sort -u >> ${UBLACKLIST}
 
 
 # GENREATE DNSMASQ
@@ -71,6 +80,7 @@ cat > ${DNSMASQ} <<EOT
 #URL=${REPO}
 #FILE=${RAW_SOURCE}/${DNSMASQ}
 #TOTAL_LINES=${TOTAL_LINES}
+
 EOT
 while IFS= read -r DOMAIN; do
 	echo "address=/${DOMAIN}/"
@@ -79,20 +89,14 @@ done < ${TEMP}/domain | sed "s/www.//g" | sort -u >> ${DNSMASQ}
 
 # GENERATE LOCAL DNS
 cat > ${HOSTS} <<EOT
-###
-#
 # Name        : ${TITLE}
 # Version     : ${VERSION}
 # Date        : ${DATE}
-#
 # Repo        : ${REPO}
 # File        : ${RAW_SOURCE}/${HOSTS}
 # Total lines : ${TOTAL_LINES}
-#
-###
 
 0.0.0.0 0.0.0.0
-
 EOT
 while IFS= read -r DOMAIN; do
         echo "0.0.0.0 ${DOMAIN}"

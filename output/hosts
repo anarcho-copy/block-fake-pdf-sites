@@ -1,17 +1,11 @@
-###
-#
 # Name        : fake (malicious/profiting from ads) pdf site blocker
-# Version     : 20220622203319
-# Date        : Wed Jun 22 05:33:19 PM UTC 2022
-#
+# Version     : 20220622213048
+# Date        : Wed Jun 22 06:30:48 PM UTC 2022
 # Repo        : https://gitlab.com/anarcho-copy/block-fake-pdf-sites
 # File        : https://gitlab.com/anarcho-copy/block-fake-pdf-sites/-/raw/master/output/hosts
 # Total lines : 1128
-#
-###
 
 0.0.0.0 0.0.0.0
-
 0.0.0.0 0801202223.aduardinbeeld.nl
 0.0.0.0 100casas.es
 0.0.0.0 1701202223.inbetweendreams.nl
