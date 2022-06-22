@@ -22,6 +22,9 @@ cat ${SERVICE} | sort -u >> ${TEMP}/domain
 sed 's/\.wordpress\.com/\.files\.wordpress\.com/g' ${WORDPRESS} | sort -u >> ${TEMP}/domain
 cat ${WORDPRESS} | sort -u >> ${TEMP}/domain
 
+# blogspot based domains
+cat ${BLOGSPOT} | sort -u >> ${TEMP}/domain
+
 # include sources
 if [[ "${include_other_sources}" == "true" ]]; then
 	find ${OTHERSOURCES} -type f -not -name 'etherpad' -exec cat {} \; | sed 's/www\.//g' > ${TEMP}/other_sources
