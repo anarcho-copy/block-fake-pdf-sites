@@ -1,12 +1,12 @@
 ###
 #
 # Name        : fake (malicious/profiting from ads) pdf site blocker
-# Version     : 20220621113442
-# Date        : Tue Jun 21 08:34:42 AM UTC 2022
+# Version     : 20220622203319
+# Date        : Wed Jun 22 05:33:19 PM UTC 2022
 #
 # Repo        : https://gitlab.com/anarcho-copy/block-fake-pdf-sites
 # File        : https://gitlab.com/anarcho-copy/block-fake-pdf-sites/-/raw/master/output/hosts
-# Total lines : 1129
+# Total lines : 1128
 #
 ###
 
@@ -151,7 +151,6 @@
 0.0.0.0 blogaaja.fi
 0.0.0.0 blog.flowwithus.cz
 0.0.0.0 blog.ivetafilipova.cz
-0.0.0.0 blogspot.com
 0.0.0.0 boacherize1977.files.wordpress.com
 0.0.0.0 boacherize1977.wordpress.com
 0.0.0.0 bonus.classiccarnovolpaint.es
@@ -1236,7 +1235,6 @@
 0.0.0.0 www.blogaaja.fi
 0.0.0.0 www.blog.flowwithus.cz
 0.0.0.0 www.blog.ivetafilipova.cz
-0.0.0.0 www.blogspot.com
 0.0.0.0 www.boacherize1977.files.wordpress.com
 0.0.0.0 www.boacherize1977.wordpress.com
 0.0.0.0 www.bonus.classiccarnovolpaint.es
