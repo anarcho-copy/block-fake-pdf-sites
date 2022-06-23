@@ -1,9 +1,9 @@
 # Name        : fake (malicious/profiting from ads) pdf site blocker
-# Version     : 20220623222654
-# Date        : Thu Jun 23 07:26:54 PM UTC 2022
+# Version     : 20220623224955
+# Date        : Thu Jun 23 07:49:55 PM UTC 2022
 # Repo        : https://gitlab.com/anarcho-copy/block-fake-pdf-sites
 # File        : https://gitlab.com/anarcho-copy/block-fake-pdf-sites/-/raw/master/output/uBlacklist.txt
-# Total lines : 1127
+# Total lines : 1198
 
 /0801202223.aduardinbeeld.nl/
 /100casas.es/
@@ -22,6 +22,7 @@
 /3004202223.signa-pro.fr/
 /3007202118.virona.nl/
 /3112202123.crazylazy.nl/
+/404notfound.nl/
 /7.uzelok4u.ru/
 /aarishbeahm94.files.wordpress.com/
 /aarishbeahm94.wordpress.com/
@@ -47,6 +48,7 @@
 /allegrapistol.wordpress.com/
 /allgaeu-fewo-hildebrandt.de/
 /alloverinformation.com/
+/alpignano5stelle.it/
 /alvaroreyesfoto.es/
 /alyzeglascott.files.wordpress.com/
 /alyzeglascott.wordpress.com/
@@ -73,11 +75,13 @@
 /asd.teatroemperador.es/
 /asesoriaasescar.es/
 /asociacionhontanares.es/
+/associazionekokeshi.it/
 /asylcafe-roemerschanze.de/
 /atif.sobiad.com/
 /australiabizreviews.com.au/
 /auto-kauf-pro.de/
 /automobile24.net/
+/autonym.cz/
 /autoradiator.mn/
 /autosxalo.es/
 /autrement2020.fr/
@@ -124,6 +128,7 @@
 /bestebuitenloungesets.nl/
 /bestvalueclean.com.au/
 /bettilt.ardidproyectos.es/
+/bettilt.mejormesadeluz.es/
 /bet.urbanlights.es/
 /bgprofessionals.nl/
 /bicasussie1995.files.wordpress.com/
@@ -146,11 +151,13 @@
 /boacherize1977.files.wordpress.com/
 /boacherize1977.wordpress.com/
 /bonus.classiccarnovolpaint.es/
+/booby.nl/
 /bookingcuba.es/
 /books-now.com/
 /booksurfers.co.uk/
 /borajansen.files.wordpress.com/
 /borajansen.wordpress.com/
+/bozuidwijk.nl/
 /brandeurs.ru/
 /branninsoma85.files.wordpress.com/
 /branninsoma85.wordpress.com/
@@ -214,6 +221,7 @@
 /crazylazy.nl/
 /criscuolo.centralbm.com.mx/
 /csfd.cz/
+/cyclingprogram.it/
 /cyznetblogger.files.wordpress.com/
 /cyznetblogger.wordpress.com/
 /czca.flowwithus.cz/
@@ -230,6 +238,7 @@
 /deavensidles1988.wordpress.com/
 /deco3d.es/
 /deco-mineraux.fr/
+/definitiveesteticcenter.es/
 /deneme.baratoweb.es/
 /deneme.classiccarnovolpaint.es/
 /deneme.esperco.es/
@@ -287,6 +296,7 @@
 /egld.maredavivere.it/
 /egld.padovafotografia.it/
 /eighbooks.xyz/
+/einrent.nl/
 /eja-ebermannstadt.de/
 /ekitaparsiv.home.blog/
 /ekitaparsivhome.files.wordpress.com/
@@ -331,6 +341,7 @@
 /ev-familienzentrum-hiesfeld.de/
 /examenblad.nl/
 /expiraciondejaen.es/
+/eyeseet.nl/
 /ezekeiloneil.files.wordpress.com/
 /ezekeiloneil.wordpress.com/
 /farmaciamiguelgallego.es/
@@ -378,13 +389,16 @@
 /gabor-schwerdtfeger-immobilien.de/
 /gaestehausi49.de/
 /galanis.centralbm.com.mx/
+/galanteriemladaboleslav.cz/
 /ganeshhonor.files.wordpress.com/
 /ganeshhonor.wordpress.com/
 /garderobnaya.su/
+/gastropaviljoenxv.nl/
 /gauss.centralbm.com.mx/
 /geanopulostelvin94.files.wordpress.com/
 /geanopulostelvin94.wordpress.com/
 /gebaeudetechnikbock.de/
+/gelateriaestateinverno.it/
 /geldregelen.nl/
 /genellecampise1998.files.wordpress.com/
 /genellecampise1998.wordpress.com/
@@ -434,6 +448,7 @@
 /herenkapsalon-jos.nl/
 /herseybu.com/
 /heureka.cz/
+/hghresine.cz/
 /hilleredjorje1997.files.wordpress.com/
 /hilleredjorje1997.wordpress.com/
 /hiposter.ru/
@@ -463,13 +478,16 @@
 /industrie-handwerker-portal.de/
 /inescontentmarketing.de/
 /infoisofrance.fr/
+/inforeview.es/
 /inicjatywy-patriotyczne.pl/
 /iniestraaalaiyah83.files.wordpress.com/
 /iniestraaalaiyah83.wordpress.com/
 /innenstadthelden-landshut.de/
 /in.net/
+/inspirujici-bydleni.cz/
 /institutoivec.es/
 /interbahis.intuitionlang.es/
+/interbyt-breuer.cz/
 /internatkrenovice.cz/
 /intuitionlang.es/
 /iphonesremont.ru/
@@ -503,6 +521,8 @@
 /jeanettevoetverzorging.nl/
 /jhlhardware.es/
 /jinbonsaiclub.it/
+/jinovysvet.cz/
+/jmcarpintero.es/
 /jocimcclain88.files.wordpress.com/
 /jocimcclain88.wordpress.com/
 /johnicoalexiel83.files.wordpress.com/
@@ -521,6 +541,7 @@
 /karzones.blogaaja.fi/
 /katrin-wartenberg.de/
 /kazbek2015.pl/
+/kblog.cz/
 /kbtbk.de/
 /kcbyaharbor.files.wordpress.com/
 /kcbyaharbor.wordpress.com/
@@ -529,6 +550,7 @@
 /kickscooter.ru/
 /kieleenarayanan.files.wordpress.com/
 /kieleenarayanan.wordpress.com/
+/killersbaits.cz/
 /kineosteo-issy.fr/
 /kinobox.cz/
 /kis.nl/
@@ -572,6 +594,8 @@
 /kolbykiles97.files.wordpress.com/
 /kolbykiles97.wordpress.com/
 /kongmengxi.tk/
+/kraleninbulk.nl/
+/krasapece.cz/
 /kunsthandwerk-stralsund.de/
 /kutuphanesi.kickscooter.ru/
 /lab42livestream.nl/
@@ -582,6 +606,7 @@
 /lampierre.es/
 /lassanalenahan90.files.wordpress.com/
 /lassanalenahan90.wordpress.com/
+/latkovna-modestia.cz/
 /latourette.centralbm.com.mx/
 /lavisitaroomscape.es/
 /ledabbspecaf1975.files.wordpress.com/
@@ -605,6 +630,8 @@
 /locteskey1998.files.wordpress.com/
 /locteskey1998.wordpress.com/
 /lodmerkaba.cz/
+/lolapps.es/
+/loradinglese.it/
 /loreafosnaugh1987.files.wordpress.com/
 /loreafosnaugh1987.wordpress.com/
 /lrdnf.fr/
@@ -613,6 +640,7 @@
 /luboconsulting.it/
 /lykensmaisha93.files.wordpress.com/
 /lykensmaisha93.wordpress.com/
+/maastrichtdisrupt.nl/
 /ma.ck-calvinklein.ru/
 /madsruhenkamp.files.wordpress.com/
 /madsruhenkamp.wordpress.com/
@@ -642,6 +670,7 @@
 /maxstonflippen87.wordpress.com/
 /mayropamotiteparmuto.files.wordpress.com/
 /mayropamotiteparmuto.wordpress.com/
+/mbquadro.it/
 /mediaberater-ullrich.de/
 /medierosmarcayla.files.wordpress.com/
 /medierosmarcayla.wordpress.com/
@@ -650,13 +679,17 @@
 /meenamathiason99.wordpress.com/
 /megaknihy.cz/
 /meine-firma-24.de/
+/mejormesadeluz.es/
 /meleyjaniyah.files.wordpress.com/
 /meleyjaniyah.wordpress.com/
 /melipop.es/
+/melodietrebon.cz/
 /mervedennis.de/
 /meubiflexinterieurs.nl/
 /mfkcogibunk.files.wordpress.com/
 /mfkcogibunk.wordpress.com/
+/mgallinorolegnami.it/
+/mifarmaceutica.es/
 /mifinanciero.es/
 /mijnkleinkunstlied.nl/
 /mimarstudio.es/
@@ -724,6 +757,7 @@
 /nqhitsyverse.wordpress.com/
 /ohtbittyvale.files.wordpress.com/
 /ohtbittyvale.wordpress.com/
+/oknaidvere.cz/
 /okunmasi-gereken-kitaplar.netlify.app/
 /olekmccuistion1989.files.wordpress.com/
 /olekmccuistion1989.wordpress.com/
@@ -734,13 +768,20 @@
 /openlandschapkaagenbraassem.nl/
 /osopabvei1980.files.wordpress.com/
 /osopabvei1980.wordpress.com/
+/osteriadelcirmolo.it/
+/otr.mifarmaceutica.es/
+/owncase.cz/
 /oxutak.recherchedecouple.fr/
 /paalvijftien.nl/
 /pabloarbesu.es/
 /padovafotografia.it/
+/paginasandaluzas.es/
+/palencialegal.es/
+/partystanylitomysl.cz/
 /patrickkurpershoek.nl/
 /pause-accept.nl/
 /pavelrican.cz/
+/pavlakratka.cz/
 /pcls24.de/
 /pdfcehennemi.com/
 /pdfdunyam.com/
@@ -781,6 +822,7 @@
 /penetroniberica.es/
 /penglongyi.tk/
 /pennymiller.com.au/
+/pensionhotel.es/
 /perkins.centralbm.com.mx/
 /petrafranz-praxis.de/
 /pferdesportbeauftragteoh.de/
@@ -809,6 +851,8 @@
 /ppnuevobaztan.es/
 /pqqq.internatkrenovice.cz/
 /predikten-wirkte.clemcoudre.fr/
+/prodejmotocykluhonda.cz/
+/progettolaser.it/
 /programista-doswiadczony.pl/
 /promising-out-of-this-world.nl/
 /promo.mafik.es/
@@ -831,7 +875,11 @@
 /reasiaestanislau.wordpress.com/
 /recheptiwoman.wpdevcloud.com/
 /recherchedecouple.fr/
+/reformasdecoracionmurcia.es/
+/regeneracni-centrum.cz/
+/reiterhof-edelweiss.it/
 /restaurantsidibou.fr/
+/ricettenelverde.it/
 /righilady90.files.wordpress.com/
 /righilady90.wordpress.com/
 /rightbellmatch.top/
@@ -882,11 +930,13 @@
 /schoenmakerijdegaard.nl/
 /scoop.it/
 /scxmlworkshop.de/
+/sdhtroubky.cz/
 /seguimasiyah.files.wordpress.com/
 /seguimasiyah.wordpress.com/
 /segurimuralarmas.es/
 /sekabet.itnowa.pl/
 /seka.freakout.es/
+/sekstotaal.nl/
 /se.ledbot.de/
 /selnesmarkeis.files.wordpress.com/
 /selnesmarkeis.wordpress.com/
@@ -921,8 +971,11 @@
 /slot.solidbeats.es/
 /slot.wuidschnee.de/
 /smartexpress.cz/
+/smartosso.it/
 /sobiad.com/
 /socialaffair.org/
+/soelma.es/
+/softstudio.cz/
 /solidbeats.es/
 /solucionvertical.es/
 /southwestbilliards.com.au/
@@ -934,6 +987,7 @@
 /spor.cerrajerosdealcoy.es/
 /spor.desatascosvillaconejos.es/
 /spor.dromosmantenimientos.es/
+/spor.mejormesadeluz.es/
 /sportboss.electrodiver.es/
 /sppolna.pl/
 /sprarpalagiano.it/
@@ -946,6 +1000,8 @@
 /stormer.centralbm.com.mx/
 /studenttheses.universiteitleiden.nl/
 /studiodentisticodottorcardella.it/
+/studiomedicoperone.it/
+/studioradichfesta.it/
 /studioschrikdraad.nl/
 /stylimmo.es/
 /subttijelbi1973.files.wordpress.com/
@@ -959,6 +1015,7 @@
 /supreme.quieresserfuncionario.es/
 /susanc.iteichhorn.de/
 /swayve.com.au/
+/tabuho.es/
 /tamiragerchak1987.files.wordpress.com/
 /tamiragerchak1987.wordpress.com/
 /tandemstudio.it/
@@ -970,11 +1027,13 @@
 /teatroemperador.es/
 /teechinesischer.de/
 /tefanella.de/
+/telehobby.cz/
 /tellierjaqari.files.wordpress.com/
 /tellierjaqari.wordpress.com/
 /telreh.com/
 /templesmenaal.files.wordpress.com/
 /templesmenaal.wordpress.com/
+/tencs.es/
 /teqv.flowwithus.cz/
 /tevfik-fikret-pdf-odf-mp3.site/
 /thalia.de/
@@ -987,10 +1046,13 @@
 /thisismolise.it/
 /tikla-indir.com/
 /tipobet.ardidproyectos.es/
+/tisknecelesvitavsko.cz/
 /tkmvihide.files.wordpress.com/
 /tkmvihide.wordpress.com/
 /tlgclk.files.wordpress.com/
 /tlgclk.wordpress.com/
+/tomaszatko.cz/
+/tomiproyectopol.es/
 /torynnkaliszewski90.files.wordpress.com/
 /torynnkaliszewski90.wordpress.com/
 /toyzzou.es/
@@ -998,6 +1060,7 @@
 /travalikourtland.files.wordpress.com/
 /travalikourtland.wordpress.com/
 /tr.elberijschool.nl/
+/tremonte.it/
 /tr.friseur-olga.de/
 /tr.hiposter.ru/
 /tr.pinterest.com/
@@ -1023,6 +1086,7 @@
 /ucretsiz-kitap-pdf-indirin.com/
 /ugu.girlsobsession.xyz/
 /uk.campeonatocadetebaloncesto2015.es/
+/uk.eyeseet.nl/
 /ukinoryc1976.files.wordpress.com/
 /ukinoryc1976.wordpress.com/
 /uk.puertosur.es/
@@ -1047,6 +1111,7 @@
 /valerimichoel89.files.wordpress.com/
 /valerimichoel89.wordpress.com/
 /vanguard-stars.es/
+/vanityaffair.it/
 /vdbviridinator.files.wordpress.com/
 /vdbviridinator.wordpress.com/
 /veneciahaid.files.wordpress.com/
@@ -1070,6 +1135,7 @@
 /vs1.doczz.cz/
 /vskx.flowwithus.cz/
 /wafirmaldives.it/
+/waltermoladori.it/
 /web.app/
 /webdesign-tobies.de/
 /weber-gartengeraete.de/
@@ -1079,6 +1145,7 @@
 /wimbligeter1979.files.wordpress.com/
 /wimbligeter1979.wordpress.com/
 /win.bookingcuba.es/
+/windsurfingbazar.cz/
 /wloszakowice2021.pl/
 /woobooks.info/
 /woschlab.de/
@@ -1089,6 +1156,7 @@
 /www1.fleischerei-rietschel.de/
 /wziviridimechanic.files.wordpress.com/
 /wziviridimechanic.wordpress.com/
+/xaviersoledesign.es/
 /xbkp.flowwithus.cz/
 /xdkavablog.files.wordpress.com/
 /xdkavablog.wordpress.com/
@@ -1104,9 +1172,12 @@
 /xzavienattig.wordpress.com/
 /yarelizgiesler.files.wordpress.com/
 /yarelizgiesler.wordpress.com/
+/yitechnology.com.es/
 /younkinskyell83.files.wordpress.com/
 /younkinskyell83.wordpress.com/
+/zahradnictvi-vesely.cz/
 /zaragozacoaching.es/
+/zeinstrahoveniers.nl/
 /zgpd.puentesdecritica.es/
 /ziannahpotolsky96.files.wordpress.com/
 /ziannahpotolsky96.wordpress.com/
