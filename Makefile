@@ -49,7 +49,7 @@ install: $(DNSMASQ) $(UBLACKLIST) $(HOSTS) lib/hosts.sh
 
 uninstall: lib/hosts.sh
 	@echo uninstalling configuration files...
-	rm $(GLOBALHOSTS) $(GLOBALDNSMASQ)
+	rm $(GLOBALHOSTS) $(GLOBALDNSMASQ) || true
 	lib/hosts.sh --disable
 
 dnsmasq:
