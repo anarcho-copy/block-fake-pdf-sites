@@ -1,9 +1,9 @@
 # Name        : fake (malicious/profiting from ads) pdf site blocker
-# Version     : 20220622213048
-# Date        : Wed Jun 22 06:30:48 PM UTC 2022
+# Version     : 20220623222654
+# Date        : Thu Jun 23 07:26:54 PM UTC 2022
 # Repo        : https://gitlab.com/anarcho-copy/block-fake-pdf-sites
 # File        : https://gitlab.com/anarcho-copy/block-fake-pdf-sites/-/raw/master/output/hosts
-# Total lines : 1128
+# Total lines : 1127
 
 0.0.0.0 0.0.0.0
 0.0.0.0 0801202223.aduardinbeeld.nl
@@ -127,7 +127,6 @@
 0.0.0.0 bettilt.ardidproyectos.es
 0.0.0.0 bet.urbanlights.es
 0.0.0.0 bgprofessionals.nl
-0.0.0.0 bibliotheek.nl
 0.0.0.0 bicasussie1995.files.wordpress.com
 0.0.0.0 bicasussie1995.wordpress.com
 0.0.0.0 bignews.es
@@ -1211,7 +1210,6 @@
 0.0.0.0 www.bet.urbanlights.es
 0.0.0.0 www..bgprofessionals.nl
 0.0.0.0 www.bgprofessionals.nl
-0.0.0.0 www.bibliotheek.nl
 0.0.0.0 www.bicasussie1995.files.wordpress.com
 0.0.0.0 www.bicasussie1995.wordpress.com
 0.0.0.0 www.bignews.es
