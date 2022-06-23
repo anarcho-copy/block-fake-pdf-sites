@@ -42,7 +42,8 @@ fetch-etherpad: $(OTHERSOURCES)/ lib/fetch.sh
 
 install: $(DNSMASQ) $(UBLACKLIST) $(HOSTS) lib/hosts.sh
 	@echo installing configuration files...
-	cp $(DNSMASQ) $(GLOBALDNSMASQ)
+	cp $(DNSMASQ) $(GLOBALDNSMASQ) || true
+	mkdir -p /etc/hosts.d
 	cp $(HOSTS) $(GLOBALHOSTS)
 	lib/hosts.sh --enable
 
