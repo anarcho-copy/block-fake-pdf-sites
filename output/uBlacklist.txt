@@ -1,9 +1,9 @@
 # Name        : fake (malicious/profiting from ads) pdf site blocker
-# Version     : 20220625023550
-# Date        : Fri Jun 24 11:35:50 PM UTC 2022
+# Version     : 20220625024901
+# Date        : Fri Jun 24 11:49:01 PM UTC 2022
 # Repo        : https://gitlab.com/anarcho-copy/block-fake-pdf-sites
 # File        : https://gitlab.com/anarcho-copy/block-fake-pdf-sites/-/raw/master/./output/uBlacklist.txt
-# Total lines : 1252
+# Total lines : 1292
 
 /0801202223.aduardinbeeld.nl/
 /100casas.es/
@@ -31,6 +31,7 @@
 /accurate-hat.nl/
 /addisonjeans.com.au/
 /adgz.flowwithus.cz/
+/adh54.fr/
 /aduardinbeeld.nl/
 /aerialyoga-osnabrueck.de/
 /africa2019.blogaaja.fi/
@@ -63,6 +64,7 @@
 /andelskysalon.cz/
 /antenormichelle97.files.wordpress.com/
 /antenormichelle97.wordpress.com/
+/anti-guepes95.fr/
 /ape.maredavivere.it/
 /ape.padovafotografia.it/
 /arabiamarzocchi1996.files.wordpress.com/
@@ -107,6 +109,7 @@
 /bahis.baratoweb.es/
 /bahis.mafisa.es/
 /bahismania.electrodiver.es/
+/bapla.fr/
 /baratoweb.es/
 /batshevagomoll1994.files.wordpress.com/
 /batshevagomoll1994.wordpress.com/
@@ -154,6 +157,7 @@
 /blog.ivetafilipova.cz/
 /boacherize1977.files.wordpress.com/
 /boacherize1977.wordpress.com/
+/bonjourjosette.fr/
 /bonus.classiccarnovolpaint.es/
 /bonus.mafisa.es/
 /booby.nl/
@@ -195,13 +199,16 @@
 /camperyvan.es/
 /carefulsack.nl/
 /carolahallak.de/
+/carscompagnie.fr/
 /cbdb.cz/
 /centralbm.com.mx/
+/centre-zen-tonic.fr/
 /cerrajeroenhuelva.es/
 /cerrajerosdealcoy.es/
 /cevapanahtaripdf.com/
 /champagnelaforge.nl/
 /chauffeurassistance.fr/
+/chemindumuguet.fr/
 /cherifculbreth1998.files.wordpress.com/
 /cherifculbreth1998.wordpress.com/
 /chipola.ru/
@@ -219,14 +226,19 @@
 /clubajedreztoledo.es/
 /cmpybp.rightbellmatch.top/
 /cn.chipola.ru/
+/college-montand.fr/
+/comqse.fr/
 /confaeldisabili.it/
 /controsoffittimodena.it/
+/convention-absoluce.fr/
 /copelandgain1985.files.wordpress.com/
 /copelandgain1985.wordpress.com/
 /covell.nadya.us/
 /crazylazy.nl/
+/creteil-quartiers-centre.fr/
 /criscuolo.centralbm.com.mx/
 /csfd.cz/
+/cuisine-prix-net.fr/
 /cyclingprogram.it/
 /cyznetblogger.files.wordpress.com/
 /cyznetblogger.wordpress.com/
@@ -239,6 +251,7 @@
 /darcusjamyri83.files.wordpress.com/
 /darcusjamyri83.wordpress.com/
 /datalift.fr/
+/davpail.fr/
 /dbooks.online/
 /dcos.rasajel.de/
 /deavensidles1988.files.wordpress.com/
@@ -268,6 +281,7 @@
 /dessinemoiuneemotion.fr/
 /devvy.nl/
 /dibox.es/
+/differenci-elles.fr/
 /dineraandachtvoorelkaar.nl/
 /dineroptveld.nl/
 /dionaermatinger.files.wordpress.com/
@@ -354,6 +368,7 @@
 /eyeseet.nl/
 /ezekeiloneil.files.wordpress.com/
 /ezekeiloneil.wordpress.com/
+/f1x.fr/
 /farmaciamiguelgallego.es/
 /fashmask.es/
 /fawsonjuliena.files.wordpress.com/
@@ -445,6 +460,7 @@
 /happyeventmanagement.nl/
 /hardenbrooklaree00.files.wordpress.com/
 /hardenbrooklaree00.wordpress.com/
+/harrachmax.cz/
 /harshangrisso1998.files.wordpress.com/
 /harshangrisso1998.wordpress.com/
 /hausverwaltung-stinn.de/
@@ -480,11 +496,13 @@
 /humayraberchielli87.files.wordpress.com/
 /humayraberchielli87.wordpress.com/
 /hwn500.de/
+/hypnotherapie-bigoin.fr/
 /icm-kladno.cz/
 /icp.maredavivere.it/
 /icp.padovafotografia.it/
 /icp.toyzzou.es/
 /ie.solucionvertical.es/
+/ifps-education.fr/
 /imajbet.cerrajeroenhuelva.es/
 /inbetweendreams.nl/
 /indexator.2407202114.montebaducco.nl/
@@ -500,6 +518,7 @@
 /iniestraaalaiyah83.wordpress.com/
 /innenstadthelden-landshut.de/
 /in.net/
+/inovadiet.fr/
 /inspirujici-bydleni.cz/
 /institutoivec.es/
 /interbahis.intuitionlang.es/
@@ -630,12 +649,14 @@
 /lassanalenahan90.files.wordpress.com/
 /lassanalenahan90.wordpress.com/
 /latkovna-modestia.cz/
+/latoquedejacque.fr/
 /latourette.centralbm.com.mx/
 /lavisitaroomscape.es/
 /ledabbspecaf1975.files.wordpress.com/
 /ledabbspecaf1975.wordpress.com/
 /ledbot.de/
 /lefterismaxim.firebaseapp.com/
+/legrandagencement.fr/
 /leprintempsdesmines.fr/
 /leroy-demenagement.fr/
 /lesateliersdiy.fr/
@@ -650,6 +671,7 @@
 /limitlessdownloads.com/
 /linksfraktion-wa-fkb.de/
 /liveblog.gosgm.com/
+/localiv.fr/
 /locteskey1998.files.wordpress.com/
 /locteskey1998.wordpress.com/
 /lodmerkaba.cz/
@@ -670,6 +692,7 @@
 /madsruhenkamp.wordpress.com/
 /mafik.es/
 /mafisa.es/
+/magiedeforme.fr/
 /mahaxayjaxlynn82.files.wordpress.com/
 /mahaxayjaxlynn82.wordpress.com/
 /mahinfograph.files.wordpress.com/
@@ -688,6 +711,7 @@
 /marisslife1983.wordpress.com/
 /marit-johannsen.de/
 /mas50.es/
+/masdazilleblog.fr/
 /massimilianopalazzo.it/
 /matchado.com.au/
 /maxfield.centralbm.com.mx/
@@ -717,6 +741,7 @@
 /mgallinorolegnami.it/
 /michaelj.ag1008.de/
 /michelleb.lutherqm.de/
+/microfirst-solutions-informatiques.fr/
 /mifarmaceutica.es/
 /mifinanciero.es/
 /mijnkleinkunstlied.nl/
@@ -733,6 +758,7 @@
 /monpackaustralie.fr/
 /montebaducco.nl/
 /moveresaludydanza.es/
+/movips.it/
 /mrfisioterapia.es/
 /mscalzadosymoda.es/
 /mspot.lt/
@@ -785,6 +811,7 @@
 /noviny.cirkevvdome.cz/
 /nqhitsyverse.files.wordpress.com/
 /nqhitsyverse.wordpress.com/
+/oepl.fr/
 /ohtbittyvale.files.wordpress.com/
 /ohtbittyvale.wordpress.com/
 /oknaidvere.cz/
@@ -793,7 +820,9 @@
 /olekmccuistion1989.wordpress.com/
 /olitcon.de/
 /omniglobe.es/
+/onirism.fr/
 /onlinekitapoku.com/
+/online-psicologo.it/
 /onlinewebshop.net/
 /openlandschapkaagenbraassem.nl/
 /osopabvei1980.files.wordpress.com/
@@ -869,6 +898,7 @@
 /pickusaholly-info.stackstaging.com/
 /pillowsandpie.nl/
 /pilotcover.de/
+/pimarco.es/
 /pinbank.es/
 /pinterest.com/
 /pinterest.es/
@@ -880,6 +910,8 @@
 /plaindesign3d.es/
 /play.silke-hubert.de/
 /podologodeportivovalencia.es/
+/poissonneriedelile.fr/
+/polisportivodoncalabria.it/
 /ponylo.freesite.host/
 /positiveimagespain.es/
 /post-gazette.com/
@@ -897,6 +929,7 @@
 /psychotherapie-hoelzer.de/
 /puentesdecritica.es/
 /puertosur.es/
+/purebox.fr/
 /puysoncar.es/
 /pyramide-ansatz.de/
 /querijnhensen.nl/
@@ -916,6 +949,7 @@
 /regeneracni-centrum.cz/
 /reiterhof-edelweiss.it/
 /restaurantsidibou.fr/
+/retropharmacie.fr/
 /ricettenelverde.it/
 /righilady90.files.wordpress.com/
 /righilady90.wordpress.com/
@@ -1042,6 +1076,7 @@
 /static.examenblad.nl/
 /stint-manual.nl/
 /stormer.centralbm.com.mx/
+/streetcroque-restaurant.fr/
 /studenttheses.universiteitleiden.nl/
 /studiodentisticodottorcardella.it/
 /studiomedicoperone.it/
@@ -1082,9 +1117,11 @@
 /tencs.es/
 /teqv.flowwithus.cz/
 /tevfik-fikret-pdf-odf-mp3.site/
+/tgc-kunratice.cz/
 /thalia.de/
 /thatcherchicoine83.files.wordpress.com/
 /thatcherchicoine83.wordpress.com/
+/thebestrend.it/
 /thecbd1.es/
 /thereplicants.es/
 /theta.maredavivere.it/
@@ -1180,6 +1217,8 @@
 /vohs.monpackaustralie.fr/
 /vorwalleralby.files.wordpress.com/
 /vorwalleralby.wordpress.com/
+/votre-protection-sanitaire.fr/
+/vpsochy.cz/
 /vs1.doczz.cz/
 /vskx.flowwithus.cz/
 /wafirmaldives.it/
@@ -1233,6 +1272,7 @@
 /ziannahpotolsky96.files.wordpress.com/
 /ziannahpotolsky96.wordpress.com/
 /zielenzakopane.pl/
+/zimbalam.es/
 /ziuauriwright.files.wordpress.com/
 /ziuauriwright.wordpress.com/
 /zmblvv.rightbellmatch.top/
