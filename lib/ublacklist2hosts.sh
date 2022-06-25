@@ -1,4 +1,4 @@
 #!/bin/bash
 
-sed 's/*:\/\///g; s/\/\*//g'
+sed 's/*:\/\///g; s/\/\*//g; s/www.//g' | sort -u
 
