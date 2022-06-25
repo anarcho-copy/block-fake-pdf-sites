@@ -1,0 +1,4 @@
+- check: domain.service (find better way)
+- check: domain.add, domain.login_required (find better way)
+- apply: domain.google
+- combine: domain.netlify, domain.blogspot

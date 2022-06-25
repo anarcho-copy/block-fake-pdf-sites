@@ -1,9 +1,9 @@
 # Name        : fake (malicious/profiting from ads) pdf site blocker
-# Version     : 20220625235318
-# Date        : Sat Jun 25 08:53:18 PM UTC 2022
+# Version     : 20220626001403
+# Date        : Sat Jun 25 09:14:03 PM UTC 2022
 # Repo        : https://gitlab.com/anarcho-copy/block-fake-pdf-sites
 # File        : https://gitlab.com/anarcho-copy/block-fake-pdf-sites/-/raw/master/./output/hosts
-# Total lines : 1399
+# Total lines : 1398
 
 0.0.0.0 0.0.0.0
 0.0.0.0 0801202223.aduardinbeeld.nl
@@ -857,7 +857,6 @@
 0.0.0.0 nehirmishaw84.files.wordpress.com
 0.0.0.0 nehirmishaw84.wordpress.com
 0.0.0.0 nejlevnejsi-knihy.cz
-0.0.0.0 netlify.app
 0.0.0.0 newson.centralbm.com.mx
 0.0.0.0 newssharing.es
 0.0.0.0 neyamiahbrigges1983.files.wordpress.com
@@ -2202,7 +2201,6 @@
 0.0.0.0 www.nehirmishaw84.files.wordpress.com
 0.0.0.0 www.nehirmishaw84.wordpress.com
 0.0.0.0 www.nejlevnejsi-knihy.cz
-0.0.0.0 www.netlify.app
 0.0.0.0 www.newson.centralbm.com.mx
 0.0.0.0 www.newssharing.es
 0.0.0.0 www.neyamiahbrigges1983.files.wordpress.com
