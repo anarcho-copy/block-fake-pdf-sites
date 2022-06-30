@@ -1,9 +1,9 @@
 # Name        : fake (malicious/profiting from ads) pdf site blocker
-# Version     : 20220630100917
-# Date        : Thu Jun 30 07:09:17 AM UTC 2022
+# Version     : 20220630102234
+# Date        : Thu Jun 30 07:22:34 AM UTC 2022
 # Repo        : https://gitlab.com/anarcho-copy/block-fake-pdf-sites
 # File        : https://gitlab.com/anarcho-copy/block-fake-pdf-sites/-/raw/master/./output/uBlacklist.txt
-# Total lines : 1466
+# Total lines : 1480
 
 /0801202223.aduardinbeeld.nl/
 /100casas.es/
@@ -165,6 +165,7 @@
 /best10.quitaplagas.es/
 /bestebuitenloungesets.nl/
 /bestvalueclean.com.au/
+/bets.radio.am/
 /bettilt.ardidproyectos.es/
 /bettilt.mejormesadeluz.es/
 /bet.urbanlights.es/
@@ -225,6 +226,7 @@
 /burttjaxel1989.files.wordpress.com/
 /burttjaxel1989.wordpress.com/
 /buzzmedia.es/
+/cafebarversatil.es/
 /calayaprimas96.files.wordpress.com/
 /calayaprimas96.wordpress.com/
 /camariepotaczala1992.files.wordpress.com/
@@ -425,6 +427,7 @@
 /ev-familienzentrum-hiesfeld.de/
 /examenblad.nl/
 /expiraciondejaen.es/
+/eyekraftnv.ru/
 /eyeseet.nl/
 /ezekeiloneil.files.wordpress.com/
 /ezekeiloneil.wordpress.com/
@@ -448,9 +451,11 @@
 /fishtownsmurfs.de/
 /fitteropmaat.nl/
 /flannigan.bigshow.com.mx/
+/flappygist.com/
 /flappygist.life/
 /fleischerei-rietschel.de/
 /fleurdeviekalmthout.be/
+/flightofjazz.ru/
 /floe8.de/
 /flowwithus.cz/
 /forgiveness-esslingen.de/
@@ -582,6 +587,7 @@
 /icp.toyzzou.es/
 /ie.solucionvertical.es/
 /ifps-education.fr/
+/igetxo.reysport.es/
 /imajbet.cerrajeroenhuelva.es/
 /immobilier-ozoirlaferriere-era.fr/
 /inbetweendreams.nl/
@@ -828,6 +834,7 @@
 /mayropamotiteparmuto.files.wordpress.com/
 /mayropamotiteparmuto.wordpress.com/
 /mbquadro.it/
+/mczoo.nl/
 /mediaberater-ullrich.de/
 /medierosmarcayla.files.wordpress.com/
 /medierosmarcayla.wordpress.com/
@@ -889,6 +896,7 @@
 /myradiohits.nl/
 /mysiliconvalley.es/
 /myslide.es/
+/my-tone.ru/
 /nabat.us/
 /nadya.us/
 /naked.za.com/
@@ -1064,6 +1072,7 @@
 /quistatotse1973.files.wordpress.com/
 /quistatotse1973.wordpress.com/
 /quitaplagas.es/
+/radio.am/
 /rahr.centralbm.com.mx/
 /rasajel.de/
 /rashanti.de/
@@ -1080,6 +1089,7 @@
 /resolusi.news/
 /restaurantsidibou.fr/
 /retropharmacie.fr/
+/reysport.es/
 /ricettenelverde.it/
 /righilady90.files.wordpress.com/
 /righilady90.wordpress.com/
@@ -1177,12 +1187,14 @@
 /sites.google.com/
 /sivori.es/
 /sizekitap.com/
+/sj-autoaufbereitung.de/
 /sklep-calzadi.pl/
 /slot.deco3d.es/
 /slot.fdmweb.es/
 /slot.quitaplagas.es/
 /slot.solidbeats.es/
 /slot.wuidschnee.de/
+/smarcography.de/
 /smartex.net.pl/
 /smartexpress.cz/
 /smartosso.it/
@@ -1193,6 +1205,7 @@
 /softstudio.cz/
 /solidbeats.es/
 /solucionvertical.es/
+/sonne-statt-oel.de/
 /soundtheke.de/
 /southwestbilliards.com.au/
 /spannertaislee1983.files.wordpress.com/
@@ -1288,6 +1301,7 @@
 /tokichtabius1994.wordpress.com/
 /tomaszatko.cz/
 /tomiproyectopol.es/
+/toptrask.site/
 /tornadoescursioni.it/
 /torynnkaliszewski90.files.wordpress.com/
 /torynnkaliszewski90.wordpress.com/

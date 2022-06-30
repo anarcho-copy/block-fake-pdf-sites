@@ -1,9 +1,9 @@
 # Name        : fake (malicious/profiting from ads) pdf site blocker
-# Version     : 20220630100917
-# Date        : Thu Jun 30 07:09:17 AM UTC 2022
+# Version     : 20220630102234
+# Date        : Thu Jun 30 07:22:34 AM UTC 2022
 # Repo        : https://gitlab.com/anarcho-copy/block-fake-pdf-sites
 # File        : https://gitlab.com/anarcho-copy/block-fake-pdf-sites/-/raw/master/./output/hosts
-# Total lines : 1466
+# Total lines : 1480
 
 0.0.0.0 0.0.0.0
 0.0.0.0 0801202223.aduardinbeeld.nl
@@ -166,6 +166,7 @@
 0.0.0.0 best10.quitaplagas.es
 0.0.0.0 bestebuitenloungesets.nl
 0.0.0.0 bestvalueclean.com.au
+0.0.0.0 bets.radio.am
 0.0.0.0 bettilt.ardidproyectos.es
 0.0.0.0 bettilt.mejormesadeluz.es
 0.0.0.0 bet.urbanlights.es
@@ -226,6 +227,7 @@
 0.0.0.0 burttjaxel1989.files.wordpress.com
 0.0.0.0 burttjaxel1989.wordpress.com
 0.0.0.0 buzzmedia.es
+0.0.0.0 cafebarversatil.es
 0.0.0.0 calayaprimas96.files.wordpress.com
 0.0.0.0 calayaprimas96.wordpress.com
 0.0.0.0 camariepotaczala1992.files.wordpress.com
@@ -426,6 +428,7 @@
 0.0.0.0 ev-familienzentrum-hiesfeld.de
 0.0.0.0 examenblad.nl
 0.0.0.0 expiraciondejaen.es
+0.0.0.0 eyekraftnv.ru
 0.0.0.0 eyeseet.nl
 0.0.0.0 ezekeiloneil.files.wordpress.com
 0.0.0.0 ezekeiloneil.wordpress.com
@@ -449,9 +452,11 @@
 0.0.0.0 fishtownsmurfs.de
 0.0.0.0 fitteropmaat.nl
 0.0.0.0 flannigan.bigshow.com.mx
+0.0.0.0 flappygist.com
 0.0.0.0 flappygist.life
 0.0.0.0 fleischerei-rietschel.de
 0.0.0.0 fleurdeviekalmthout.be
+0.0.0.0 flightofjazz.ru
 0.0.0.0 floe8.de
 0.0.0.0 flowwithus.cz
 0.0.0.0 forgiveness-esslingen.de
@@ -583,6 +588,7 @@
 0.0.0.0 icp.toyzzou.es
 0.0.0.0 ie.solucionvertical.es
 0.0.0.0 ifps-education.fr
+0.0.0.0 igetxo.reysport.es
 0.0.0.0 imajbet.cerrajeroenhuelva.es
 0.0.0.0 immobilier-ozoirlaferriere-era.fr
 0.0.0.0 inbetweendreams.nl
@@ -829,6 +835,7 @@
 0.0.0.0 mayropamotiteparmuto.files.wordpress.com
 0.0.0.0 mayropamotiteparmuto.wordpress.com
 0.0.0.0 mbquadro.it
+0.0.0.0 mczoo.nl
 0.0.0.0 mediaberater-ullrich.de
 0.0.0.0 medierosmarcayla.files.wordpress.com
 0.0.0.0 medierosmarcayla.wordpress.com
@@ -890,6 +897,7 @@
 0.0.0.0 myradiohits.nl
 0.0.0.0 mysiliconvalley.es
 0.0.0.0 myslide.es
+0.0.0.0 my-tone.ru
 0.0.0.0 nabat.us
 0.0.0.0 nadya.us
 0.0.0.0 naked.za.com
@@ -1065,6 +1073,7 @@
 0.0.0.0 quistatotse1973.files.wordpress.com
 0.0.0.0 quistatotse1973.wordpress.com
 0.0.0.0 quitaplagas.es
+0.0.0.0 radio.am
 0.0.0.0 rahr.centralbm.com.mx
 0.0.0.0 rasajel.de
 0.0.0.0 rashanti.de
@@ -1081,6 +1090,7 @@
 0.0.0.0 resolusi.news
 0.0.0.0 restaurantsidibou.fr
 0.0.0.0 retropharmacie.fr
+0.0.0.0 reysport.es
 0.0.0.0 ricettenelverde.it
 0.0.0.0 righilady90.files.wordpress.com
 0.0.0.0 righilady90.wordpress.com
@@ -1178,12 +1188,14 @@
 0.0.0.0 sites.google.com
 0.0.0.0 sivori.es
 0.0.0.0 sizekitap.com
+0.0.0.0 sj-autoaufbereitung.de
 0.0.0.0 sklep-calzadi.pl
 0.0.0.0 slot.deco3d.es
 0.0.0.0 slot.fdmweb.es
 0.0.0.0 slot.quitaplagas.es
 0.0.0.0 slot.solidbeats.es
 0.0.0.0 slot.wuidschnee.de
+0.0.0.0 smarcography.de
 0.0.0.0 smartex.net.pl
 0.0.0.0 smartexpress.cz
 0.0.0.0 smartosso.it
@@ -1194,6 +1206,7 @@
 0.0.0.0 softstudio.cz
 0.0.0.0 solidbeats.es
 0.0.0.0 solucionvertical.es
+0.0.0.0 sonne-statt-oel.de
 0.0.0.0 soundtheke.de
 0.0.0.0 southwestbilliards.com.au
 0.0.0.0 spannertaislee1983.files.wordpress.com
@@ -1289,6 +1302,7 @@
 0.0.0.0 tokichtabius1994.wordpress.com
 0.0.0.0 tomaszatko.cz
 0.0.0.0 tomiproyectopol.es
+0.0.0.0 toptrask.site
 0.0.0.0 tornadoescursioni.it
 0.0.0.0 torynnkaliszewski90.files.wordpress.com
 0.0.0.0 torynnkaliszewski90.wordpress.com
@@ -1575,6 +1589,7 @@
 0.0.0.0 www.best10.quitaplagas.es
 0.0.0.0 www.bestebuitenloungesets.nl
 0.0.0.0 www.bestvalueclean.com.au
+0.0.0.0 www.bets.radio.am
 0.0.0.0 www.bettilt.ardidproyectos.es
 0.0.0.0 www.bettilt.mejormesadeluz.es
 0.0.0.0 www.bet.urbanlights.es
@@ -1636,6 +1651,7 @@
 0.0.0.0 www.burttjaxel1989.files.wordpress.com
 0.0.0.0 www.burttjaxel1989.wordpress.com
 0.0.0.0 www.buzzmedia.es
+0.0.0.0 www.cafebarversatil.es
 0.0.0.0 www.calayaprimas96.files.wordpress.com
 0.0.0.0 www.calayaprimas96.wordpress.com
 0.0.0.0 www.camariepotaczala1992.files.wordpress.com
@@ -1837,6 +1853,7 @@
 0.0.0.0 www.ev-familienzentrum-hiesfeld.de
 0.0.0.0 www.examenblad.nl
 0.0.0.0 www.expiraciondejaen.es
+0.0.0.0 www.eyekraftnv.ru
 0.0.0.0 www.eyeseet.nl
 0.0.0.0 www.ezekeiloneil.files.wordpress.com
 0.0.0.0 www.ezekeiloneil.wordpress.com
@@ -1860,10 +1877,12 @@
 0.0.0.0 www.fishtownsmurfs.de
 0.0.0.0 www.fitteropmaat.nl
 0.0.0.0 www.flannigan.bigshow.com.mx
+0.0.0.0 www.flappygist.com
 0.0.0.0 www.flappygist.life
 0.0.0.0 www..fleischerei-rietschel.de
 0.0.0.0 www.fleischerei-rietschel.de
 0.0.0.0 www.fleurdeviekalmthout.be
+0.0.0.0 www.flightofjazz.ru
 0.0.0.0 www.floe8.de
 0.0.0.0 www.flowwithus.cz
 0.0.0.0 www.forgiveness-esslingen.de
@@ -1995,6 +2014,7 @@
 0.0.0.0 www.icp.toyzzou.es
 0.0.0.0 www.ie.solucionvertical.es
 0.0.0.0 www.ifps-education.fr
+0.0.0.0 www.igetxo.reysport.es
 0.0.0.0 www.imajbet.cerrajeroenhuelva.es
 0.0.0.0 www.immobilier-ozoirlaferriere-era.fr
 0.0.0.0 www.inbetweendreams.nl
@@ -2241,6 +2261,7 @@
 0.0.0.0 www.mayropamotiteparmuto.files.wordpress.com
 0.0.0.0 www.mayropamotiteparmuto.wordpress.com
 0.0.0.0 www.mbquadro.it
+0.0.0.0 www.mczoo.nl
 0.0.0.0 www.mediaberater-ullrich.de
 0.0.0.0 www.medierosmarcayla.files.wordpress.com
 0.0.0.0 www.medierosmarcayla.wordpress.com
@@ -2302,6 +2323,7 @@
 0.0.0.0 www.myradiohits.nl
 0.0.0.0 www.mysiliconvalley.es
 0.0.0.0 www.myslide.es
+0.0.0.0 www.my-tone.ru
 0.0.0.0 www.nabat.us
 0.0.0.0 www.nadya.us
 0.0.0.0 www.naked.za.com
@@ -2477,6 +2499,7 @@
 0.0.0.0 www.quistatotse1973.files.wordpress.com
 0.0.0.0 www.quistatotse1973.wordpress.com
 0.0.0.0 www.quitaplagas.es
+0.0.0.0 www.radio.am
 0.0.0.0 www.rahr.centralbm.com.mx
 0.0.0.0 www.rasajel.de
 0.0.0.0 www.rashanti.de
@@ -2493,6 +2516,7 @@
 0.0.0.0 www.resolusi.news
 0.0.0.0 www.restaurantsidibou.fr
 0.0.0.0 www.retropharmacie.fr
+0.0.0.0 www.reysport.es
 0.0.0.0 www.ricettenelverde.it
 0.0.0.0 www.righilady90.files.wordpress.com
 0.0.0.0 www.righilady90.wordpress.com
@@ -2590,12 +2614,14 @@
 0.0.0.0 www.sites.google.com
 0.0.0.0 www.sivori.es
 0.0.0.0 www.sizekitap.com
+0.0.0.0 www.sj-autoaufbereitung.de
 0.0.0.0 www.sklep-calzadi.pl
 0.0.0.0 www.slot.deco3d.es
 0.0.0.0 www.slot.fdmweb.es
 0.0.0.0 www.slot.quitaplagas.es
 0.0.0.0 www.slot.solidbeats.es
 0.0.0.0 www.slot.wuidschnee.de
+0.0.0.0 www.smarcography.de
 0.0.0.0 www.smartex.net.pl
 0.0.0.0 www.smartexpress.cz
 0.0.0.0 www.smartosso.it
@@ -2606,6 +2632,7 @@
 0.0.0.0 www.softstudio.cz
 0.0.0.0 www.solidbeats.es
 0.0.0.0 www.solucionvertical.es
+0.0.0.0 www.sonne-statt-oel.de
 0.0.0.0 www.soundtheke.de
 0.0.0.0 www.southwestbilliards.com.au
 0.0.0.0 www.spannertaislee1983.files.wordpress.com
@@ -2701,6 +2728,7 @@
 0.0.0.0 www.tokichtabius1994.wordpress.com
 0.0.0.0 www.tomaszatko.cz
 0.0.0.0 www.tomiproyectopol.es
+0.0.0.0 www.toptrask.site
 0.0.0.0 www.tornadoescursioni.it
 0.0.0.0 www.torynnkaliszewski90.files.wordpress.com
 0.0.0.0 www.torynnkaliszewski90.wordpress.com
