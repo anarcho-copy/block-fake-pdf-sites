@@ -1,13 +1,14 @@
 # Name        : fake (malicious/profiting from ads) pdf site blocker
-# Version     : 20220630095249
-# Date        : Thu Jun 30 06:52:49 AM UTC 2022
+# Version     : 20220630100917
+# Date        : Thu Jun 30 07:09:17 AM UTC 2022
 # Repo        : https://gitlab.com/anarcho-copy/block-fake-pdf-sites
 # File        : https://gitlab.com/anarcho-copy/block-fake-pdf-sites/-/raw/master/./output/hosts
-# Total lines : 1408
+# Total lines : 1466
 
 0.0.0.0 0.0.0.0
 0.0.0.0 0801202223.aduardinbeeld.nl
 0.0.0.0 100casas.es
+0.0.0.0 148785882.bleumetalgolf.fr
 0.0.0.0 16a0b.flappygist.life
 0.0.0.0 1701202223.inbetweendreams.nl
 0.0.0.0 1lib.cz
@@ -25,17 +26,23 @@
 0.0.0.0 3007202118.virona.nl
 0.0.0.0 3112202123.crazylazy.nl
 0.0.0.0 404notfound.nl
+0.0.0.0 424387999.lepainmarocain.be
+0.0.0.0 511241158.la-boutique-hygy.fr
+0.0.0.0 643589013.la-boutique-hygy.fr
 0.0.0.0 6tjvk.kulturelislemarabasi.com
 0.0.0.0 7.uzelok4u.ru
+0.0.0.0 857558668.bleumetalgolf.fr
 0.0.0.0 9wh8o.hayalalimi.com
 0.0.0.0 aarishbeahm94.files.wordpress.com
 0.0.0.0 aarishbeahm94.wordpress.com
 0.0.0.0 abdulkareemtyree87.files.wordpress.com
 0.0.0.0 abdulkareemtyree87.wordpress.com
 0.0.0.0 accurate-hat.nl
+0.0.0.0 acmesport.es
 0.0.0.0 addisonjeans.com.au
 0.0.0.0 adgz.flowwithus.cz
 0.0.0.0 adh54.fr
+0.0.0.0 adsr02.fr
 0.0.0.0 aduardinbeeld.nl
 0.0.0.0 aerialyoga-osnabrueck.de
 0.0.0.0 africa2019.blogaaja.fi
@@ -67,6 +74,7 @@
 0.0.0.0 alyzeglascott.files.wordpress.com
 0.0.0.0 alyzeglascott.wordpress.com
 0.0.0.0 amelie-duperon.fr
+0.0.0.0 amisducentredartdechateauvert.fr
 0.0.0.0 amrenszollosi96.files.wordpress.com
 0.0.0.0 amrenszollosi96.wordpress.com
 0.0.0.0 amritcapps94.files.wordpress.com
@@ -91,6 +99,7 @@
 0.0.0.0 asd.teatroemperador.es
 0.0.0.0 asesoriaasescar.es
 0.0.0.0 asociacionhontanares.es
+0.0.0.0 associazionealterego.it
 0.0.0.0 associazionekokeshi.it
 0.0.0.0 asylcafe-roemerschanze.de
 0.0.0.0 atif.sobiad.com
@@ -103,6 +112,7 @@
 0.0.0.0 autrement2020.fr
 0.0.0.0 avaeahpederson1986.files.wordpress.com
 0.0.0.0 avaeahpederson1986.wordpress.com
+0.0.0.0 avandcie-energy.fr
 0.0.0.0 aviatowler.files.wordpress.com
 0.0.0.0 aviatowler.wordpress.com
 0.0.0.0 axlead-cuttereco.fr
@@ -115,6 +125,7 @@
 0.0.0.0 ayyubdadd83.files.wordpress.com
 0.0.0.0 ayyubdadd83.wordpress.com
 0.0.0.0 b2book.onlinewebshop.net
+0.0.0.0 b2prof.pl
 0.0.0.0 babrowjeylan1998.files.wordpress.com
 0.0.0.0 babrowjeylan1998.wordpress.com
 0.0.0.0 bahis.baratoweb.es
@@ -138,6 +149,7 @@
 0.0.0.0 bear-better.nl
 0.0.0.0 beatrizgonzalo.es
 0.0.0.0 becopet.es
+0.0.0.0 beczkoland.pl
 0.0.0.0 bedavapdf.com
 0.0.0.0 bedavapdfdunyasi.com
 0.0.0.0 bedavapdfkitap.com
@@ -164,16 +176,19 @@
 0.0.0.0 bigshow.com.mx
 0.0.0.0 billiroarty87.files.wordpress.com
 0.0.0.0 billiroarty87.wordpress.com
+0.0.0.0 bionic5.de
 0.0.0.0 biozono.es
 0.0.0.0 birdtalk.nl
 0.0.0.0 biscarideclan1996.files.wordpress.com
 0.0.0.0 biscarideclan1996.wordpress.com
 0.0.0.0 bjs.cz
 0.0.0.0 blanqueryasociados.es
+0.0.0.0 bleumetalgolf.fr
 0.0.0.0 blinnrockie.files.wordpress.com
 0.0.0.0 blinnrockie.wordpress.com
 0.0.0.0 blogaaja.fi
 0.0.0.0 blog.flowwithus.cz
+0.0.0.0 blogger-ilf.ru
 0.0.0.0 blog.ivetafilipova.cz
 0.0.0.0 boacherize1977.files.wordpress.com
 0.0.0.0 boacherize1977.wordpress.com
@@ -238,6 +253,8 @@
 0.0.0.0 cherifculbreth1998.files.wordpress.com
 0.0.0.0 cherifculbreth1998.wordpress.com
 0.0.0.0 chipola.ru
+0.0.0.0 chistabinos.es
+0.0.0.0 chooseafrica-onair.fr
 0.0.0.0 cibgoldmason.files.wordpress.com
 0.0.0.0 cibgoldmason.wordpress.com
 0.0.0.0 cirkevvdome.cz
@@ -268,6 +285,7 @@
 0.0.0.0 criscuolo.centralbm.com.mx
 0.0.0.0 csfd.cz
 0.0.0.0 cuisine-prix-net.fr
+0.0.0.0 cukoyem.com.tr
 0.0.0.0 cyclingprogram.it
 0.0.0.0 cyznetblogger.files.wordpress.com
 0.0.0.0 cyznetblogger.wordpress.com
@@ -310,10 +328,12 @@
 0.0.0.0 despevalleydancers.de
 0.0.0.0 dessinemoiuneemotion.fr
 0.0.0.0 detoks-watroby.pl
+0.0.0.0 detsat.ru
 0.0.0.0 devvy.nl
 0.0.0.0 dgear.hayalalimi.com
 0.0.0.0 dibox.es
 0.0.0.0 differenci-elles.fr
+0.0.0.0 digitalmeetingsesi.fr
 0.0.0.0 dignitauomo.it
 0.0.0.0 dineraandachtvoorelkaar.nl
 0.0.0.0 dineroptveld.nl
@@ -399,6 +419,8 @@
 0.0.0.0 eshost.com.ar
 0.0.0.0 esperco.es
 0.0.0.0 espiritualwoman.es
+0.0.0.0 estavayerlutte.ch
+0.0.0.0 evagebuh.digitalmeetingsesi.fr
 0.0.0.0 evagevorgyan.ru
 0.0.0.0 evapetruzalkova.cz
 0.0.0.0 ev-familienzentrum-hiesfeld.de
@@ -410,6 +432,7 @@
 0.0.0.0 ezh.news
 0.0.0.0 f1x.fr
 0.0.0.0 farmaciamiguelgallego.es
+0.0.0.0 farmaciavilardell-santpedor.cat
 0.0.0.0 fashmask.es
 0.0.0.0 fastonline.news
 0.0.0.0 fawsonjuliena.files.wordpress.com
@@ -436,9 +459,11 @@
 0.0.0.0 foroayuda.es
 0.0.0.0 fotecnica.es
 0.0.0.0 fotodesign-wick.de
+0.0.0.0 fotolaserestudio.es
 0.0.0.0 fotos-paisajes.net
 0.0.0.0 fracchiaandra94.files.wordpress.com
 0.0.0.0 fracchiaandra94.wordpress.com
+0.0.0.0 fraternafm.cl
 0.0.0.0 freakout.es
 0.0.0.0 freakplay.es
 0.0.0.0 freesite.host
@@ -487,6 +512,7 @@
 0.0.0.0 goocloudchat.wordpress.com
 0.0.0.0 gosgm.com
 0.0.0.0 gradgram-snowcoat.web.app
+0.0.0.0 grana-iuris.es
 0.0.0.0 greenback-orangepack.de
 0.0.0.0 grillwelt-berlin.de
 0.0.0.0 guncelpdf.com
@@ -539,6 +565,7 @@
 0.0.0.0 hlkua.mezitlielektrik.com
 0.0.0.0 holaele.es
 0.0.0.0 home.blog
+0.0.0.0 hornik.ch
 0.0.0.0 hornirakousy.cz
 0.0.0.0 hotel-e2m.fr
 0.0.0.0 hozyayka.org
@@ -548,6 +575,7 @@
 0.0.0.0 humayraberchielli87.wordpress.com
 0.0.0.0 hwn500.de
 0.0.0.0 hypnotherapie-bigoin.fr
+0.0.0.0 iberofusion.com.es
 0.0.0.0 icm-kladno.cz
 0.0.0.0 icp.maredavivere.it
 0.0.0.0 icpopupstores.pl
@@ -574,6 +602,7 @@
 0.0.0.0 inovadiet.fr
 0.0.0.0 inspirujici-bydleni.cz
 0.0.0.0 institutoivec.es
+0.0.0.0 instruktorpaula.pl
 0.0.0.0 interbahis.intuitionlang.es
 0.0.0.0 interbyt-breuer.cz
 0.0.0.0 internatkrenovice.cz
@@ -652,6 +681,7 @@
 0.0.0.0 kineosteo-issy.fr
 0.0.0.0 kinobox.cz
 0.0.0.0 kis.nl
+0.0.0.0 kita-am-rotbach.de
 0.0.0.0 kitabinabak.com
 0.0.0.0 kitabipdfindir.com
 0.0.0.0 kitabipdfindir.com  
@@ -668,6 +698,7 @@
 0.0.0.0 kitapindirr.org
 0.0.0.0 kitapindir.website
 0.0.0.0 kitaplar.gen.tr
+0.0.0.0 kitaplari-oku.blogger-ilf.ru
 0.0.0.0 kitaplar.ml
 0.0.0.0 kitaplar.rukomos.ru
 0.0.0.0 kitap.live
@@ -700,14 +731,18 @@
 0.0.0.0 kuehrundpartner.de
 0.0.0.0 kulturelislemarabasi.com
 0.0.0.0 kunsthandwerk-stralsund.de
+0.0.0.0 kurskrun.ru
 0.0.0.0 kutuphanesi.kickscooter.ru
 0.0.0.0 lab42livestream.nl
+0.0.0.0 labornetwork.it
+0.0.0.0 la-boutique-hygy.fr
 0.0.0.0 lachwichtel-diy.de
 0.0.0.0 lada-trutnov.cz
 0.0.0.0 ladikamarleen85.files.wordpress.com
 0.0.0.0 ladikamarleen85.wordpress.com
 0.0.0.0 laludocanda.it
 0.0.0.0 lampierre.es
+0.0.0.0 lapetitesuzette.cz
 0.0.0.0 lash-lifting-gronau.de
 0.0.0.0 lassanalenahan90.files.wordpress.com
 0.0.0.0 lassanalenahan90.wordpress.com
@@ -720,6 +755,7 @@
 0.0.0.0 ledbot.de
 0.0.0.0 lefterismaxim.firebaseapp.com
 0.0.0.0 legrandagencement.fr
+0.0.0.0 lepainmarocain.be
 0.0.0.0 leprintempsdesmines.fr
 0.0.0.0 leroy-demenagement.fr
 0.0.0.0 lesateliersdiy.fr
@@ -734,7 +770,9 @@
 0.0.0.0 limitlessdownloads.com
 0.0.0.0 linksfraktion-wa-fkb.de
 0.0.0.0 liveblog.gosgm.com
+0.0.0.0 live-online-stream.xyz
 0.0.0.0 localiv.fr
+0.0.0.0 locationautos.ch
 0.0.0.0 locteskey1998.files.wordpress.com
 0.0.0.0 locteskey1998.wordpress.com
 0.0.0.0 lodmerkaba.cz
@@ -749,6 +787,7 @@
 0.0.0.0 lrglitclan.files.wordpress.com
 0.0.0.0 lrglitclan.wordpress.com
 0.0.0.0 luboconsulting.it
+0.0.0.0 luminacoach.es
 0.0.0.0 lundynarya.files.wordpress.com
 0.0.0.0 lundynarya.wordpress.com
 0.0.0.0 lutherqm.de
@@ -778,10 +817,12 @@
 0.0.0.0 marisslife1983.files.wordpress.com
 0.0.0.0 marisslife1983.wordpress.com
 0.0.0.0 marit-johannsen.de
+0.0.0.0 marryknotty.pl
 0.0.0.0 mas50.es
 0.0.0.0 masdazilleblog.fr
 0.0.0.0 massimilianopalazzo.it
 0.0.0.0 matchado.com.au
+0.0.0.0 matematykazpasja.pl
 0.0.0.0 maxfield.centralbm.com.mx
 0.0.0.0 maxstonflippen87.files.wordpress.com
 0.0.0.0 maxstonflippen87.wordpress.com
@@ -877,6 +918,7 @@
 0.0.0.0 nl.industrie-handwerker-portal.de
 0.0.0.0 nl.salonbelzigaro.de
 0.0.0.0 noadiosas.es
+0.0.0.0 noiriformistipercecina.it
 0.0.0.0 noldigang.de
 0.0.0.0 notariadeastorga.es
 0.0.0.0 noteninflation.de
@@ -899,6 +941,7 @@
 0.0.0.0 onlinekitapoku.com
 0.0.0.0 online-psicologo.it
 0.0.0.0 onlinewebshop.net
+0.0.0.0 onoranzefunebrimarecchia.it
 0.0.0.0 openlandschapkaagenbraassem.nl
 0.0.0.0 osopabvei1980.files.wordpress.com
 0.0.0.0 osopabvei1980.wordpress.com
@@ -985,12 +1028,14 @@
 0.0.0.0 pivanson.hebergratuit.net
 0.0.0.0 piyushkayser.files.wordpress.com
 0.0.0.0 piyushkayser.wordpress.com
+0.0.0.0 pkps.com.pl
 0.0.0.0 plaindesign3d.es
 0.0.0.0 play.silke-hubert.de
 0.0.0.0 podologodeportivovalencia.es
 0.0.0.0 poissonneriedelile.fr
 0.0.0.0 polisportivodoncalabria.it
 0.0.0.0 ponylo.freesite.host
+0.0.0.0 poshbeautyshop.de
 0.0.0.0 positiveimagespain.es
 0.0.0.0 post-gazette.com
 0.0.0.0 ppnuevobaztan.es
@@ -1014,6 +1059,7 @@
 0.0.0.0 purebox.fr
 0.0.0.0 puysoncar.es
 0.0.0.0 pyramide-ansatz.de
+0.0.0.0 qraedwyg.detsat.ru
 0.0.0.0 querijnhensen.nl
 0.0.0.0 quieresserfuncionario.es
 0.0.0.0 quistatotse1973.files.wordpress.com
@@ -1021,6 +1067,7 @@
 0.0.0.0 quitaplagas.es
 0.0.0.0 rahr.centralbm.com.mx
 0.0.0.0 rasajel.de
+0.0.0.0 rashanti.de
 0.0.0.0 read.woobooks.info
 0.0.0.0 reasiaestanislau.files.wordpress.com
 0.0.0.0 reasiaestanislau.wordpress.com
@@ -1030,6 +1077,7 @@
 0.0.0.0 reformasdecoracionmurcia.es
 0.0.0.0 regeneracni-centrum.cz
 0.0.0.0 reiterhof-edelweiss.it
+0.0.0.0 reitstallvoser.ch
 0.0.0.0 resolusi.news
 0.0.0.0 restaurantsidibou.fr
 0.0.0.0 retropharmacie.fr
@@ -1130,11 +1178,13 @@
 0.0.0.0 sites.google.com
 0.0.0.0 sivori.es
 0.0.0.0 sizekitap.com
+0.0.0.0 sklep-calzadi.pl
 0.0.0.0 slot.deco3d.es
 0.0.0.0 slot.fdmweb.es
 0.0.0.0 slot.quitaplagas.es
 0.0.0.0 slot.solidbeats.es
 0.0.0.0 slot.wuidschnee.de
+0.0.0.0 smartex.net.pl
 0.0.0.0 smartexpress.cz
 0.0.0.0 smartosso.it
 0.0.0.0 sobiad.com
@@ -1169,6 +1219,7 @@
 0.0.0.0 stepptamarrion1998.wordpress.com
 0.0.0.0 stint-manual.nl
 0.0.0.0 stormer.centralbm.com.mx
+0.0.0.0 stowarzyszenievictoria.pl
 0.0.0.0 streetcroque-restaurant.fr
 0.0.0.0 studenttheses.universiteitleiden.nl
 0.0.0.0 studiodentisticodottorcardella.it
@@ -1225,6 +1276,7 @@
 0.0.0.0 thereplicants.es
 0.0.0.0 theta.maredavivere.it
 0.0.0.0 theta.padovafotografia.it
+0.0.0.0 thijsschepens.be
 0.0.0.0 thisismolise.it
 0.0.0.0 tikla-indir.com
 0.0.0.0 tipobet.ardidproyectos.es
@@ -1237,10 +1289,12 @@
 0.0.0.0 tokichtabius1994.wordpress.com
 0.0.0.0 tomaszatko.cz
 0.0.0.0 tomiproyectopol.es
+0.0.0.0 tornadoescursioni.it
 0.0.0.0 torynnkaliszewski90.files.wordpress.com
 0.0.0.0 torynnkaliszewski90.wordpress.com
 0.0.0.0 toschesmiran.files.wordpress.com
 0.0.0.0 toschesmiran.wordpress.com
+0.0.0.0 tourperu.it
 0.0.0.0 toyzzou.es
 0.0.0.0 trauth.centralbm.com.mx
 0.0.0.0 travalikourtland.files.wordpress.com
@@ -1271,6 +1325,7 @@
 0.0.0.0 u7xd.tedarik-urun.news
 0.0.0.0 ucebnice.cz
 0.0.0.0 ucretsiz-ekitaplar.site
+0.0.0.0 ucretsiz-kitaplar.live-online-stream.xyz
 0.0.0.0 ucretsiz-kitap-pdf-indirin.com
 0.0.0.0 ugu.girlsobsession.xyz
 0.0.0.0 uk.campeonatocadetebaloncesto2015.es
@@ -1280,6 +1335,7 @@
 0.0.0.0 uklidtommik.cz
 0.0.0.0 uk.puertosur.es
 0.0.0.0 uk.sivori.es
+0.0.0.0 unaonadadepetitssomriures.cat
 0.0.0.0 universiteitleiden.nl
 0.0.0.0 unsw.plaindesign3d.es
 0.0.0.0 uploads.iphonesremont.ru
@@ -1290,6 +1346,7 @@
 0.0.0.0 urielshy2000.files.wordpress.com
 0.0.0.0 urielshy2000.wordpress.com
 0.0.0.0 urlaubiene.de
+0.0.0.0 uscarsmuensterland.de
 0.0.0.0 ustbuzzlot.files.wordpress.com
 0.0.0.0 ustbuzzlot.wordpress.com
 0.0.0.0 uvrf.omniglobe.es
@@ -1341,6 +1398,7 @@
 0.0.0.0 wedigoliath.wordpress.com
 0.0.0.0 weinbau-strauss.de
 0.0.0.0 wi2y.ezh.news
+0.0.0.0 wichrywojny.pl
 0.0.0.0 wimbligeter1979.files.wordpress.com
 0.0.0.0 wimbligeter1979.wordpress.com
 0.0.0.0 win.bookingcuba.es
@@ -1356,6 +1414,7 @@
 0.0.0.0 wuidschnee.de
 0.0.0.0 www.0801202223.aduardinbeeld.nl
 0.0.0.0 www.100casas.es
+0.0.0.0 www.148785882.bleumetalgolf.fr
 0.0.0.0 www.16a0b.flappygist.life
 0.0.0.0 www.1701202223.inbetweendreams.nl
 0.0.0.0 www1.bgprofessionals.nl
@@ -1376,17 +1435,23 @@
 0.0.0.0 www.3007202118.virona.nl
 0.0.0.0 www.3112202123.crazylazy.nl
 0.0.0.0 www.404notfound.nl
+0.0.0.0 www.424387999.lepainmarocain.be
+0.0.0.0 www.511241158.la-boutique-hygy.fr
+0.0.0.0 www.643589013.la-boutique-hygy.fr
 0.0.0.0 www.6tjvk.kulturelislemarabasi.com
 0.0.0.0 www.7.uzelok4u.ru
+0.0.0.0 www.857558668.bleumetalgolf.fr
 0.0.0.0 www.9wh8o.hayalalimi.com
 0.0.0.0 www.aarishbeahm94.files.wordpress.com
 0.0.0.0 www.aarishbeahm94.wordpress.com
 0.0.0.0 www.abdulkareemtyree87.files.wordpress.com
 0.0.0.0 www.abdulkareemtyree87.wordpress.com
 0.0.0.0 www.accurate-hat.nl
+0.0.0.0 www.acmesport.es
 0.0.0.0 www.addisonjeans.com.au
 0.0.0.0 www.adgz.flowwithus.cz
 0.0.0.0 www.adh54.fr
+0.0.0.0 www.adsr02.fr
 0.0.0.0 www.aduardinbeeld.nl
 0.0.0.0 www.aerialyoga-osnabrueck.de
 0.0.0.0 www.africa2019.blogaaja.fi
@@ -1418,6 +1483,7 @@
 0.0.0.0 www.alyzeglascott.files.wordpress.com
 0.0.0.0 www.alyzeglascott.wordpress.com
 0.0.0.0 www.amelie-duperon.fr
+0.0.0.0 www.amisducentredartdechateauvert.fr
 0.0.0.0 www.amrenszollosi96.files.wordpress.com
 0.0.0.0 www.amrenszollosi96.wordpress.com
 0.0.0.0 www.amritcapps94.files.wordpress.com
@@ -1442,6 +1508,7 @@
 0.0.0.0 www.asd.teatroemperador.es
 0.0.0.0 www.asesoriaasescar.es
 0.0.0.0 www.asociacionhontanares.es
+0.0.0.0 www.associazionealterego.it
 0.0.0.0 www.associazionekokeshi.it
 0.0.0.0 www.asylcafe-roemerschanze.de
 0.0.0.0 www.atif.sobiad.com
@@ -1454,6 +1521,7 @@
 0.0.0.0 www.autrement2020.fr
 0.0.0.0 www.avaeahpederson1986.files.wordpress.com
 0.0.0.0 www.avaeahpederson1986.wordpress.com
+0.0.0.0 www.avandcie-energy.fr
 0.0.0.0 www.aviatowler.files.wordpress.com
 0.0.0.0 www.aviatowler.wordpress.com
 0.0.0.0 www.axlead-cuttereco.fr
@@ -1466,6 +1534,7 @@
 0.0.0.0 www.ayyubdadd83.files.wordpress.com
 0.0.0.0 www.ayyubdadd83.wordpress.com
 0.0.0.0 www.b2book.onlinewebshop.net
+0.0.0.0 www.b2prof.pl
 0.0.0.0 www.babrowjeylan1998.files.wordpress.com
 0.0.0.0 www.babrowjeylan1998.wordpress.com
 0.0.0.0 www.bahis.baratoweb.es
@@ -1489,6 +1558,7 @@
 0.0.0.0 www.bear-better.nl
 0.0.0.0 www.beatrizgonzalo.es
 0.0.0.0 www.becopet.es
+0.0.0.0 www.beczkoland.pl
 0.0.0.0 www.bedavapdf.com
 0.0.0.0 www.bedavapdfdunyasi.com
 0.0.0.0 www.bedavapdfkitap.com
@@ -1516,16 +1586,19 @@
 0.0.0.0 www.bigshow.com.mx
 0.0.0.0 www.billiroarty87.files.wordpress.com
 0.0.0.0 www.billiroarty87.wordpress.com
+0.0.0.0 www.bionic5.de
 0.0.0.0 www.biozono.es
 0.0.0.0 www.birdtalk.nl
 0.0.0.0 www.biscarideclan1996.files.wordpress.com
 0.0.0.0 www.biscarideclan1996.wordpress.com
 0.0.0.0 www.bjs.cz
 0.0.0.0 www.blanqueryasociados.es
+0.0.0.0 www.bleumetalgolf.fr
 0.0.0.0 www.blinnrockie.files.wordpress.com
 0.0.0.0 www.blinnrockie.wordpress.com
 0.0.0.0 www.blogaaja.fi
 0.0.0.0 www.blog.flowwithus.cz
+0.0.0.0 www.blogger-ilf.ru
 0.0.0.0 www.blog.ivetafilipova.cz
 0.0.0.0 www.boacherize1977.files.wordpress.com
 0.0.0.0 www.boacherize1977.wordpress.com
@@ -1590,6 +1663,8 @@
 0.0.0.0 www.cherifculbreth1998.files.wordpress.com
 0.0.0.0 www.cherifculbreth1998.wordpress.com
 0.0.0.0 www.chipola.ru
+0.0.0.0 www.chistabinos.es
+0.0.0.0 www.chooseafrica-onair.fr
 0.0.0.0 www.cibgoldmason.files.wordpress.com
 0.0.0.0 www.cibgoldmason.wordpress.com
 0.0.0.0 www.cirkevvdome.cz
@@ -1620,6 +1695,7 @@
 0.0.0.0 www.criscuolo.centralbm.com.mx
 0.0.0.0 www.csfd.cz
 0.0.0.0 www.cuisine-prix-net.fr
+0.0.0.0 www.cukoyem.com.tr
 0.0.0.0 www.cyclingprogram.it
 0.0.0.0 www.cyznetblogger.files.wordpress.com
 0.0.0.0 www.cyznetblogger.wordpress.com
@@ -1662,10 +1738,12 @@
 0.0.0.0 www.despevalleydancers.de
 0.0.0.0 www.dessinemoiuneemotion.fr
 0.0.0.0 www.detoks-watroby.pl
+0.0.0.0 www.detsat.ru
 0.0.0.0 www.devvy.nl
 0.0.0.0 www.dgear.hayalalimi.com
 0.0.0.0 www.dibox.es
 0.0.0.0 www.differenci-elles.fr
+0.0.0.0 www.digitalmeetingsesi.fr
 0.0.0.0 www.dignitauomo.it
 0.0.0.0 www.dineraandachtvoorelkaar.nl
 0.0.0.0 www.dineroptveld.nl
@@ -1752,6 +1830,8 @@
 0.0.0.0 www.eshost.com.ar
 0.0.0.0 www.esperco.es
 0.0.0.0 www.espiritualwoman.es
+0.0.0.0 www.estavayerlutte.ch
+0.0.0.0 www.evagebuh.digitalmeetingsesi.fr
 0.0.0.0 www.evagevorgyan.ru
 0.0.0.0 www.evapetruzalkova.cz
 0.0.0.0 www.ev-familienzentrum-hiesfeld.de
@@ -1763,6 +1843,7 @@
 0.0.0.0 www.ezh.news
 0.0.0.0 www.f1x.fr
 0.0.0.0 www.farmaciamiguelgallego.es
+0.0.0.0 www.farmaciavilardell-santpedor.cat
 0.0.0.0 www.fashmask.es
 0.0.0.0 www.fastonline.news
 0.0.0.0 www.fawsonjuliena.files.wordpress.com
@@ -1790,9 +1871,11 @@
 0.0.0.0 www.foroayuda.es
 0.0.0.0 www.fotecnica.es
 0.0.0.0 www.fotodesign-wick.de
+0.0.0.0 www.fotolaserestudio.es
 0.0.0.0 www.fotos-paisajes.net
 0.0.0.0 www.fracchiaandra94.files.wordpress.com
 0.0.0.0 www.fracchiaandra94.wordpress.com
+0.0.0.0 www.fraternafm.cl
 0.0.0.0 www.freakout.es
 0.0.0.0 www.freakplay.es
 0.0.0.0 www.freesite.host
@@ -1841,6 +1924,7 @@
 0.0.0.0 www.goocloudchat.wordpress.com
 0.0.0.0 www.gosgm.com
 0.0.0.0 www.gradgram-snowcoat.web.app
+0.0.0.0 www.grana-iuris.es
 0.0.0.0 www.greenback-orangepack.de
 0.0.0.0 www.grillwelt-berlin.de
 0.0.0.0 www.guncelpdf.com
@@ -1893,6 +1977,7 @@
 0.0.0.0 www.hlkua.mezitlielektrik.com
 0.0.0.0 www.holaele.es
 0.0.0.0 www.home.blog
+0.0.0.0 www.hornik.ch
 0.0.0.0 www.hornirakousy.cz
 0.0.0.0 www.hotel-e2m.fr
 0.0.0.0 www.hozyayka.org
@@ -1902,6 +1987,7 @@
 0.0.0.0 www.humayraberchielli87.wordpress.com
 0.0.0.0 www.hwn500.de
 0.0.0.0 www.hypnotherapie-bigoin.fr
+0.0.0.0 www.iberofusion.com.es
 0.0.0.0 www.icm-kladno.cz
 0.0.0.0 www.icp.maredavivere.it
 0.0.0.0 www.icpopupstores.pl
@@ -1928,6 +2014,7 @@
 0.0.0.0 www.inovadiet.fr
 0.0.0.0 www.inspirujici-bydleni.cz
 0.0.0.0 www.institutoivec.es
+0.0.0.0 www.instruktorpaula.pl
 0.0.0.0 www.interbahis.intuitionlang.es
 0.0.0.0 www.interbyt-breuer.cz
 0.0.0.0 www.internatkrenovice.cz
@@ -2006,6 +2093,7 @@
 0.0.0.0 www.kineosteo-issy.fr
 0.0.0.0 www.kinobox.cz
 0.0.0.0 www.kis.nl
+0.0.0.0 www.kita-am-rotbach.de
 0.0.0.0 www.kitabinabak.com
 0.0.0.0 www.kitabipdfindir.com
 0.0.0.0 www.kitabipdfindir.com  
@@ -2022,6 +2110,7 @@
 0.0.0.0 www.kitapindirr.org
 0.0.0.0 www.kitapindir.website
 0.0.0.0 www.kitaplar.gen.tr
+0.0.0.0 www.kitaplari-oku.blogger-ilf.ru
 0.0.0.0 www.kitaplar.ml
 0.0.0.0 www.kitaplar.rukomos.ru
 0.0.0.0 www.kitap.live
@@ -2054,14 +2143,18 @@
 0.0.0.0 www.kuehrundpartner.de
 0.0.0.0 www.kulturelislemarabasi.com
 0.0.0.0 www.kunsthandwerk-stralsund.de
+0.0.0.0 www.kurskrun.ru
 0.0.0.0 www.kutuphanesi.kickscooter.ru
 0.0.0.0 www.lab42livestream.nl
+0.0.0.0 www.labornetwork.it
+0.0.0.0 www.la-boutique-hygy.fr
 0.0.0.0 www.lachwichtel-diy.de
 0.0.0.0 www.lada-trutnov.cz
 0.0.0.0 www.ladikamarleen85.files.wordpress.com
 0.0.0.0 www.ladikamarleen85.wordpress.com
 0.0.0.0 www.laludocanda.it
 0.0.0.0 www.lampierre.es
+0.0.0.0 www.lapetitesuzette.cz
 0.0.0.0 www.lash-lifting-gronau.de
 0.0.0.0 www.lassanalenahan90.files.wordpress.com
 0.0.0.0 www.lassanalenahan90.wordpress.com
@@ -2074,6 +2167,7 @@
 0.0.0.0 www.ledbot.de
 0.0.0.0 www.lefterismaxim.firebaseapp.com
 0.0.0.0 www.legrandagencement.fr
+0.0.0.0 www.lepainmarocain.be
 0.0.0.0 www.leprintempsdesmines.fr
 0.0.0.0 www.leroy-demenagement.fr
 0.0.0.0 www.lesateliersdiy.fr
@@ -2088,7 +2182,9 @@
 0.0.0.0 www.limitlessdownloads.com
 0.0.0.0 www.linksfraktion-wa-fkb.de
 0.0.0.0 www.liveblog.gosgm.com
+0.0.0.0 www.live-online-stream.xyz
 0.0.0.0 www.localiv.fr
+0.0.0.0 www.locationautos.ch
 0.0.0.0 www.locteskey1998.files.wordpress.com
 0.0.0.0 www.locteskey1998.wordpress.com
 0.0.0.0 www.lodmerkaba.cz
@@ -2103,6 +2199,7 @@
 0.0.0.0 www.lrglitclan.files.wordpress.com
 0.0.0.0 www.lrglitclan.wordpress.com
 0.0.0.0 www.luboconsulting.it
+0.0.0.0 www.luminacoach.es
 0.0.0.0 www.lundynarya.files.wordpress.com
 0.0.0.0 www.lundynarya.wordpress.com
 0.0.0.0 www.lutherqm.de
@@ -2132,10 +2229,12 @@
 0.0.0.0 www.marisslife1983.files.wordpress.com
 0.0.0.0 www.marisslife1983.wordpress.com
 0.0.0.0 www.marit-johannsen.de
+0.0.0.0 www.marryknotty.pl
 0.0.0.0 www.mas50.es
 0.0.0.0 www.masdazilleblog.fr
 0.0.0.0 www.massimilianopalazzo.it
 0.0.0.0 www.matchado.com.au
+0.0.0.0 www.matematykazpasja.pl
 0.0.0.0 www.maxfield.centralbm.com.mx
 0.0.0.0 www.maxstonflippen87.files.wordpress.com
 0.0.0.0 www.maxstonflippen87.wordpress.com
@@ -2231,6 +2330,7 @@
 0.0.0.0 www.nl.industrie-handwerker-portal.de
 0.0.0.0 www.nl.salonbelzigaro.de
 0.0.0.0 www.noadiosas.es
+0.0.0.0 www.noiriformistipercecina.it
 0.0.0.0 www.noldigang.de
 0.0.0.0 www.notariadeastorga.es
 0.0.0.0 www.noteninflation.de
@@ -2253,6 +2353,7 @@
 0.0.0.0 www.onlinekitapoku.com
 0.0.0.0 www.online-psicologo.it
 0.0.0.0 www.onlinewebshop.net
+0.0.0.0 www.onoranzefunebrimarecchia.it
 0.0.0.0 www.openlandschapkaagenbraassem.nl
 0.0.0.0 www.osopabvei1980.files.wordpress.com
 0.0.0.0 www.osopabvei1980.wordpress.com
@@ -2339,12 +2440,14 @@
 0.0.0.0 www.pivanson.hebergratuit.net
 0.0.0.0 www.piyushkayser.files.wordpress.com
 0.0.0.0 www.piyushkayser.wordpress.com
+0.0.0.0 www.pkps.com.pl
 0.0.0.0 www.plaindesign3d.es
 0.0.0.0 www.play.silke-hubert.de
 0.0.0.0 www.podologodeportivovalencia.es
 0.0.0.0 www.poissonneriedelile.fr
 0.0.0.0 www.polisportivodoncalabria.it
 0.0.0.0 www.ponylo.freesite.host
+0.0.0.0 www.poshbeautyshop.de
 0.0.0.0 www.positiveimagespain.es
 0.0.0.0 www.post-gazette.com
 0.0.0.0 www.ppnuevobaztan.es
@@ -2368,6 +2471,7 @@
 0.0.0.0 www.purebox.fr
 0.0.0.0 www.puysoncar.es
 0.0.0.0 www.pyramide-ansatz.de
+0.0.0.0 www.qraedwyg.detsat.ru
 0.0.0.0 www.querijnhensen.nl
 0.0.0.0 www.quieresserfuncionario.es
 0.0.0.0 www.quistatotse1973.files.wordpress.com
@@ -2375,6 +2479,7 @@
 0.0.0.0 www.quitaplagas.es
 0.0.0.0 www.rahr.centralbm.com.mx
 0.0.0.0 www.rasajel.de
+0.0.0.0 www.rashanti.de
 0.0.0.0 www.read.woobooks.info
 0.0.0.0 www.reasiaestanislau.files.wordpress.com
 0.0.0.0 www.reasiaestanislau.wordpress.com
@@ -2384,6 +2489,7 @@
 0.0.0.0 www.reformasdecoracionmurcia.es
 0.0.0.0 www.regeneracni-centrum.cz
 0.0.0.0 www.reiterhof-edelweiss.it
+0.0.0.0 www.reitstallvoser.ch
 0.0.0.0 www.resolusi.news
 0.0.0.0 www.restaurantsidibou.fr
 0.0.0.0 www.retropharmacie.fr
@@ -2484,11 +2590,13 @@
 0.0.0.0 www.sites.google.com
 0.0.0.0 www.sivori.es
 0.0.0.0 www.sizekitap.com
+0.0.0.0 www.sklep-calzadi.pl
 0.0.0.0 www.slot.deco3d.es
 0.0.0.0 www.slot.fdmweb.es
 0.0.0.0 www.slot.quitaplagas.es
 0.0.0.0 www.slot.solidbeats.es
 0.0.0.0 www.slot.wuidschnee.de
+0.0.0.0 www.smartex.net.pl
 0.0.0.0 www.smartexpress.cz
 0.0.0.0 www.smartosso.it
 0.0.0.0 www.sobiad.com
@@ -2523,6 +2631,7 @@
 0.0.0.0 www.stepptamarrion1998.wordpress.com
 0.0.0.0 www.stint-manual.nl
 0.0.0.0 www.stormer.centralbm.com.mx
+0.0.0.0 www.stowarzyszenievictoria.pl
 0.0.0.0 www.streetcroque-restaurant.fr
 0.0.0.0 www.studenttheses.universiteitleiden.nl
 0.0.0.0 www.studiodentisticodottorcardella.it
@@ -2579,6 +2688,7 @@
 0.0.0.0 www.thereplicants.es
 0.0.0.0 www.theta.maredavivere.it
 0.0.0.0 www.theta.padovafotografia.it
+0.0.0.0 www.thijsschepens.be
 0.0.0.0 www.thisismolise.it
 0.0.0.0 www.tikla-indir.com
 0.0.0.0 www.tipobet.ardidproyectos.es
@@ -2591,10 +2701,12 @@
 0.0.0.0 www.tokichtabius1994.wordpress.com
 0.0.0.0 www.tomaszatko.cz
 0.0.0.0 www.tomiproyectopol.es
+0.0.0.0 www.tornadoescursioni.it
 0.0.0.0 www.torynnkaliszewski90.files.wordpress.com
 0.0.0.0 www.torynnkaliszewski90.wordpress.com
 0.0.0.0 www.toschesmiran.files.wordpress.com
 0.0.0.0 www.toschesmiran.wordpress.com
+0.0.0.0 www.tourperu.it
 0.0.0.0 www.toyzzou.es
 0.0.0.0 www.trauth.centralbm.com.mx
 0.0.0.0 www.travalikourtland.files.wordpress.com
@@ -2625,6 +2737,7 @@
 0.0.0.0 www.u7xd.tedarik-urun.news
 0.0.0.0 www.ucebnice.cz
 0.0.0.0 www.ucretsiz-ekitaplar.site
+0.0.0.0 www.ucretsiz-kitaplar.live-online-stream.xyz
 0.0.0.0 www.ucretsiz-kitap-pdf-indirin.com
 0.0.0.0 www.ugu.girlsobsession.xyz
 0.0.0.0 www.uk.campeonatocadetebaloncesto2015.es
@@ -2634,6 +2747,7 @@
 0.0.0.0 www.uklidtommik.cz
 0.0.0.0 www.uk.puertosur.es
 0.0.0.0 www.uk.sivori.es
+0.0.0.0 www.unaonadadepetitssomriures.cat
 0.0.0.0 www.universiteitleiden.nl
 0.0.0.0 www.unsw.plaindesign3d.es
 0.0.0.0 www.uploads.iphonesremont.ru
@@ -2644,6 +2758,7 @@
 0.0.0.0 www.urielshy2000.files.wordpress.com
 0.0.0.0 www.urielshy2000.wordpress.com
 0.0.0.0 www.urlaubiene.de
+0.0.0.0 www.uscarsmuensterland.de
 0.0.0.0 www.ustbuzzlot.files.wordpress.com
 0.0.0.0 www.ustbuzzlot.wordpress.com
 0.0.0.0 www.uvrf.omniglobe.es
@@ -2695,6 +2810,7 @@
 0.0.0.0 www.wedigoliath.wordpress.com
 0.0.0.0 www.weinbau-strauss.de
 0.0.0.0 www.wi2y.ezh.news
+0.0.0.0 www.wichrywojny.pl
 0.0.0.0 www.wimbligeter1979.files.wordpress.com
 0.0.0.0 www.wimbligeter1979.wordpress.com
 0.0.0.0 www.win.bookingcuba.es
