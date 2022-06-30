@@ -1,9 +1,9 @@
 # Name        : fake (malicious/profiting from ads) pdf site blocker
-# Version     : 20220626001403
-# Date        : Sat Jun 25 09:14:03 PM UTC 2022
+# Version     : 20220630095249
+# Date        : Thu Jun 30 06:52:49 AM UTC 2022
 # Repo        : https://gitlab.com/anarcho-copy/block-fake-pdf-sites
 # File        : https://gitlab.com/anarcho-copy/block-fake-pdf-sites/-/raw/master/./output/hosts
-# Total lines : 1398
+# Total lines : 1408
 
 0.0.0.0 0.0.0.0
 0.0.0.0 0801202223.aduardinbeeld.nl
@@ -120,6 +120,7 @@
 0.0.0.0 bahis.baratoweb.es
 0.0.0.0 bahis.mafisa.es
 0.0.0.0 bahismania.electrodiver.es
+0.0.0.0 bahis.monoestudio.es
 0.0.0.0 baixada.news
 0.0.0.0 bapla.fr
 0.0.0.0 baratoweb.es
@@ -139,6 +140,7 @@
 0.0.0.0 becopet.es
 0.0.0.0 bedavapdf.com
 0.0.0.0 bedavapdfdunyasi.com
+0.0.0.0 bedavapdfkitap.com
 0.0.0.0 beep.fastonline.news
 0.0.0.0 belespdf.com
 0.0.0.0 belrosepax1992.files.wordpress.com
@@ -226,6 +228,7 @@
 0.0.0.0 cdy6.teksler.news
 0.0.0.0 centralbm.com.mx
 0.0.0.0 centre-zen-tonic.fr
+0.0.0.0 centrsim.ru
 0.0.0.0 cerrajeroenhuelva.es
 0.0.0.0 cerrajerosdealcoy.es
 0.0.0.0 cevapanahtaripdf.com
@@ -301,6 +304,7 @@
 0.0.0.0 desatascosvillaconejos.es
 0.0.0.0 desatascosvillamantilla.es
 0.0.0.0 deschaatschallenge.nl
+0.0.0.0 descuentosalobestia.es
 0.0.0.0 despainstylianos.files.wordpress.com
 0.0.0.0 despainstylianos.wordpress.com
 0.0.0.0 despevalleydancers.de
@@ -310,6 +314,7 @@
 0.0.0.0 dgear.hayalalimi.com
 0.0.0.0 dibox.es
 0.0.0.0 differenci-elles.fr
+0.0.0.0 dignitauomo.it
 0.0.0.0 dineraandachtvoorelkaar.nl
 0.0.0.0 dineroptveld.nl
 0.0.0.0 dionaermatinger.files.wordpress.com
@@ -522,6 +527,7 @@
 0.0.0.0 henry-james.site
 0.0.0.0 herenkapsalon-jos.nl
 0.0.0.0 herseybu.com
+0.0.0.0 hervo.ballafyn.sa.com
 0.0.0.0 heureka.cz
 0.0.0.0 hghresine.cz
 0.0.0.0 hilleredjorje1997.files.wordpress.com
@@ -818,6 +824,7 @@
 0.0.0.0 mmpm.flowwithus.cz
 0.0.0.0 mobilbahis.quitaplagas.es
 0.0.0.0 mobi-pdf-kitaplar.info
+0.0.0.0 monoestudio.es
 0.0.0.0 monpackaustralie.fr
 0.0.0.0 montebaducco.nl
 0.0.0.0 moveresaludydanza.es
@@ -882,6 +889,7 @@
 0.0.0.0 ohtbittyvale.wordpress.com
 0.0.0.0 oknaidvere.cz
 0.0.0.0 okunmasi-gereken-kitaplar.netlify.app
+0.0.0.0 okuyucu.centrsim.ru
 0.0.0.0 olekmccuistion1989.files.wordpress.com
 0.0.0.0 olekmccuistion1989.wordpress.com
 0.0.0.0 olitcon.de
@@ -1034,6 +1042,7 @@
 0.0.0.0 rolenstonelake84.files.wordpress.com
 0.0.0.0 rolenstonelake84.wordpress.com
 0.0.0.0 rosamariagorgues.es
+0.0.0.0 rosarioysanti.es
 0.0.0.0 rossmanaliina1991.files.wordpress.com
 0.0.0.0 rossmanaliina1991.wordpress.com
 0.0.0.0 rothburyfoodandcraftfestival.co.uk
@@ -1055,6 +1064,7 @@
 0.0.0.0 rvminfochat.wordpress.com
 0.0.0.0 rx0.nl
 0.0.0.0 sabine-botta.de
+0.0.0.0 sa.com
 0.0.0.0 safe-crypto.me
 0.0.0.0 salm24.de
 0.0.0.0 salonbelzigaro.de
@@ -1461,6 +1471,7 @@
 0.0.0.0 www.bahis.baratoweb.es
 0.0.0.0 www.bahis.mafisa.es
 0.0.0.0 www.bahismania.electrodiver.es
+0.0.0.0 www.bahis.monoestudio.es
 0.0.0.0 www.baixada.news
 0.0.0.0 www.bapla.fr
 0.0.0.0 www.baratoweb.es
@@ -1480,6 +1491,7 @@
 0.0.0.0 www.becopet.es
 0.0.0.0 www.bedavapdf.com
 0.0.0.0 www.bedavapdfdunyasi.com
+0.0.0.0 www.bedavapdfkitap.com
 0.0.0.0 www.beep.fastonline.news
 0.0.0.0 www.belespdf.com
 0.0.0.0 www.belrosepax1992.files.wordpress.com
@@ -1568,6 +1580,7 @@
 0.0.0.0 www.cdy6.teksler.news
 0.0.0.0 www.centralbm.com.mx
 0.0.0.0 www.centre-zen-tonic.fr
+0.0.0.0 www.centrsim.ru
 0.0.0.0 www.cerrajeroenhuelva.es
 0.0.0.0 www.cerrajerosdealcoy.es
 0.0.0.0 www.cevapanahtaripdf.com
@@ -1643,6 +1656,7 @@
 0.0.0.0 www.desatascosvillaconejos.es
 0.0.0.0 www.desatascosvillamantilla.es
 0.0.0.0 www.deschaatschallenge.nl
+0.0.0.0 www.descuentosalobestia.es
 0.0.0.0 www.despainstylianos.files.wordpress.com
 0.0.0.0 www.despainstylianos.wordpress.com
 0.0.0.0 www.despevalleydancers.de
@@ -1652,6 +1666,7 @@
 0.0.0.0 www.dgear.hayalalimi.com
 0.0.0.0 www.dibox.es
 0.0.0.0 www.differenci-elles.fr
+0.0.0.0 www.dignitauomo.it
 0.0.0.0 www.dineraandachtvoorelkaar.nl
 0.0.0.0 www.dineroptveld.nl
 0.0.0.0 www.dionaermatinger.files.wordpress.com
@@ -1866,6 +1881,7 @@
 0.0.0.0 www.henry-james.site
 0.0.0.0 www.herenkapsalon-jos.nl
 0.0.0.0 www.herseybu.com
+0.0.0.0 www.hervo.ballafyn.sa.com
 0.0.0.0 www.heureka.cz
 0.0.0.0 www.hghresine.cz
 0.0.0.0 www.hilleredjorje1997.files.wordpress.com
@@ -2162,6 +2178,7 @@
 0.0.0.0 www.mmpm.flowwithus.cz
 0.0.0.0 www.mobilbahis.quitaplagas.es
 0.0.0.0 www.mobi-pdf-kitaplar.info
+0.0.0.0 www.monoestudio.es
 0.0.0.0 www.monpackaustralie.fr
 0.0.0.0 www.montebaducco.nl
 0.0.0.0 www.moveresaludydanza.es
@@ -2226,6 +2243,7 @@
 0.0.0.0 www.ohtbittyvale.wordpress.com
 0.0.0.0 www.oknaidvere.cz
 0.0.0.0 www.okunmasi-gereken-kitaplar.netlify.app
+0.0.0.0 www.okuyucu.centrsim.ru
 0.0.0.0 www.olekmccuistion1989.files.wordpress.com
 0.0.0.0 www.olekmccuistion1989.wordpress.com
 0.0.0.0 www.olitcon.de
@@ -2378,6 +2396,7 @@
 0.0.0.0 www.rolenstonelake84.files.wordpress.com
 0.0.0.0 www.rolenstonelake84.wordpress.com
 0.0.0.0 www.rosamariagorgues.es
+0.0.0.0 www.rosarioysanti.es
 0.0.0.0 www.rossmanaliina1991.files.wordpress.com
 0.0.0.0 www.rossmanaliina1991.wordpress.com
 0.0.0.0 www.rothburyfoodandcraftfestival.co.uk
@@ -2399,6 +2418,7 @@
 0.0.0.0 www.rvminfochat.wordpress.com
 0.0.0.0 www.rx0.nl
 0.0.0.0 www.sabine-botta.de
+0.0.0.0 www.sa.com
 0.0.0.0 www.safe-crypto.me
 0.0.0.0 www.salm24.de
 0.0.0.0 www.salonbelzigaro.de

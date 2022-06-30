@@ -1,9 +1,9 @@
 # Name        : fake (malicious/profiting from ads) pdf site blocker
-# Version     : 20220626001403
-# Date        : Sat Jun 25 09:14:03 PM UTC 2022
+# Version     : 20220630095249
+# Date        : Thu Jun 30 06:52:49 AM UTC 2022
 # Repo        : https://gitlab.com/anarcho-copy/block-fake-pdf-sites
 # File        : https://gitlab.com/anarcho-copy/block-fake-pdf-sites/-/raw/master/./output/uBlacklist.txt
-# Total lines : 1398
+# Total lines : 1408
 
 /0801202223.aduardinbeeld.nl/
 /100casas.es/
@@ -119,6 +119,7 @@
 /bahis.baratoweb.es/
 /bahis.mafisa.es/
 /bahismania.electrodiver.es/
+/bahis.monoestudio.es/
 /baixada.news/
 /bapla.fr/
 /baratoweb.es/
@@ -138,6 +139,7 @@
 /becopet.es/
 /bedavapdf.com/
 /bedavapdfdunyasi.com/
+/bedavapdfkitap.com/
 /beep.fastonline.news/
 /belespdf.com/
 /belrosepax1992.files.wordpress.com/
@@ -225,6 +227,7 @@
 /cdy6.teksler.news/
 /centralbm.com.mx/
 /centre-zen-tonic.fr/
+/centrsim.ru/
 /cerrajeroenhuelva.es/
 /cerrajerosdealcoy.es/
 /cevapanahtaripdf.com/
@@ -300,6 +303,7 @@
 /desatascosvillaconejos.es/
 /desatascosvillamantilla.es/
 /deschaatschallenge.nl/
+/descuentosalobestia.es/
 /despainstylianos.files.wordpress.com/
 /despainstylianos.wordpress.com/
 /despevalleydancers.de/
@@ -309,6 +313,7 @@
 /dgear.hayalalimi.com/
 /dibox.es/
 /differenci-elles.fr/
+/dignitauomo.it/
 /dineraandachtvoorelkaar.nl/
 /dineroptveld.nl/
 /dionaermatinger.files.wordpress.com/
@@ -521,6 +526,7 @@
 /henry-james.site/
 /herenkapsalon-jos.nl/
 /herseybu.com/
+/hervo.ballafyn.sa.com/
 /heureka.cz/
 /hghresine.cz/
 /hilleredjorje1997.files.wordpress.com/
@@ -817,6 +823,7 @@
 /mmpm.flowwithus.cz/
 /mobilbahis.quitaplagas.es/
 /mobi-pdf-kitaplar.info/
+/monoestudio.es/
 /monpackaustralie.fr/
 /montebaducco.nl/
 /moveresaludydanza.es/
@@ -881,6 +888,7 @@
 /ohtbittyvale.wordpress.com/
 /oknaidvere.cz/
 /okunmasi-gereken-kitaplar.netlify.app/
+/okuyucu.centrsim.ru/
 /olekmccuistion1989.files.wordpress.com/
 /olekmccuistion1989.wordpress.com/
 /olitcon.de/
@@ -1033,6 +1041,7 @@
 /rolenstonelake84.files.wordpress.com/
 /rolenstonelake84.wordpress.com/
 /rosamariagorgues.es/
+/rosarioysanti.es/
 /rossmanaliina1991.files.wordpress.com/
 /rossmanaliina1991.wordpress.com/
 /rothburyfoodandcraftfestival.co.uk/
@@ -1054,6 +1063,7 @@
 /rvminfochat.wordpress.com/
 /rx0.nl/
 /sabine-botta.de/
+/sa.com/
 /safe-crypto.me/
 /salm24.de/
 /salonbelzigaro.de/
