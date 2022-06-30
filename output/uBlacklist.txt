@@ -1,9 +1,9 @@
 # Name        : fake (malicious/profiting from ads) pdf site blocker
-# Version     : 20220630102234
-# Date        : Thu Jun 30 07:22:34 AM UTC 2022
+# Version     : 20220630103823
+# Date        : Thu Jun 30 07:38:23 AM UTC 2022
 # Repo        : https://gitlab.com/anarcho-copy/block-fake-pdf-sites
 # File        : https://gitlab.com/anarcho-copy/block-fake-pdf-sites/-/raw/master/./output/uBlacklist.txt
-# Total lines : 1480
+# Total lines : 1502
 
 /0801202223.aduardinbeeld.nl/
 /100casas.es/
@@ -48,6 +48,7 @@
 /ag1008.de/
 /agapehosteleria.es/
 /agroflorseborga.it/
+/aiolta.eb2a.com/
 /ajavianpagan1995.files.wordpress.com/
 /ajavianpagan1995.wordpress.com/
 /akelyanina1994.files.wordpress.com/
@@ -88,6 +89,7 @@
 /arabiamarzocchi1996.files.wordpress.com/
 /arabiamarzocchi1996.wordpress.com/
 /aradasabogados.es/
+/arcomatera2019.it/
 /arcyfotka.pl/
 /ardidproyectos.es/
 /arduino-lernen.de/
@@ -101,6 +103,7 @@
 /associazionealterego.it/
 /associazionekokeshi.it/
 /asylcafe-roemerschanze.de/
+/ateliercandleco.fr/
 /atif.sobiad.com/
 /australiabizreviews.com.au/
 /auto-kauf-pro.de/
@@ -167,6 +170,7 @@
 /bestvalueclean.com.au/
 /bets.radio.am/
 /bettilt.ardidproyectos.es/
+/bettilt.climatechangehub.es/
 /bettilt.mejormesadeluz.es/
 /bet.urbanlights.es/
 /bgprofessionals.nl/
@@ -190,6 +194,7 @@
 /blog.flowwithus.cz/
 /blogger-ilf.ru/
 /blog.ivetafilipova.cz/
+/bnb-lodge.ch/
 /boacherize1977.files.wordpress.com/
 /boacherize1977.wordpress.com/
 /bonjourjosette.fr/
@@ -244,11 +249,13 @@
 /cdy6.teksler.news/
 /centralbm.com.mx/
 /centre-zen-tonic.fr/
+/centrocimma.es/
 /centrsim.ru/
 /cerrajeroenhuelva.es/
 /cerrajerosdealcoy.es/
 /cevapanahtaripdf.com/
 /champagnelaforge.nl/
+/chauffe-eauelectrique.fr/
 /chauffeurassistance.fr/
 /chemindumuguet.fr/
 /cherifculbreth1998.files.wordpress.com/
@@ -266,6 +273,7 @@
 /classiccarnovolpaint.es/
 /cleanylife.fr/
 /clemcoudre.fr/
+/climatechangehub.es/
 /clinica-de-termografia.eu/
 /clinicaveterinariasaline.it/
 /clubajedreztoledo.es/
@@ -365,6 +373,7 @@
 /eaglemanmehgan98.files.wordpress.com/
 /eaglemanmehgan98.wordpress.com/
 /easycbd.es/
+/eb2a.com/
 /ebookpdfozetioku.xyz/
 /ebookrich.com/
 /ebrinfocaster.files.wordpress.com/
@@ -391,6 +400,7 @@
 /elberijschool.nl/
 /election.urgo.cz/
 /electrodiver.es/
+/electronuki.es/
 /elenaetc.es/
 /elescaparatedecantillana.es/
 /ellisoneuber94.files.wordpress.com/
@@ -426,6 +436,7 @@
 /evapetruzalkova.cz/
 /ev-familienzentrum-hiesfeld.de/
 /examenblad.nl/
+/exelec.ch/
 /expiraciondejaen.es/
 /eyekraftnv.ru/
 /eyeseet.nl/
@@ -448,6 +459,7 @@
 /filmer.cz/
 /fil.padovafotografia.it/
 /firebaseapp.com/
+/fishingacademyecuisine.it/
 /fishtownsmurfs.de/
 /fitteropmaat.nl/
 /flannigan.bigshow.com.mx/
@@ -551,6 +563,7 @@
 /healthstylecoach.de/
 /hebergratuit.net/
 /heidis-farbenwelt.de/
+/heimtextiliengenuss.de/
 /helflinge.de/
 /helkerrykir1992.files.wordpress.com/
 /helkerrykir1992.wordpress.com/
@@ -754,13 +767,16 @@
 /latkovna-modestia.cz/
 /latoquedejacque.fr/
 /latourette.centralbm.com.mx/
+/lavinadelgranteatro.es/
 /lavisitaroomscape.es/
+/lebras-david-joaillerie.fr/
 /ledabbspecaf1975.files.wordpress.com/
 /ledabbspecaf1975.wordpress.com/
 /ledbot.de/
 /lefterismaxim.firebaseapp.com/
 /legrandagencement.fr/
 /lepainmarocain.be/
+/lepontaubert.fr/
 /leprintempsdesmines.fr/
 /leroy-demenagement.fr/
 /lesateliersdiy.fr/
@@ -1012,6 +1028,7 @@
 /pensionhotel.es/
 /perkins.centralbm.com.mx/
 /permanent-make-up-gronau.de/
+/pescheriasandolo.it/
 /petrafranz-praxis.de/
 /pferdesportbeauftragteoh.de/
 /pfi-industrie.fr/
@@ -1057,6 +1074,7 @@
 /psdrinks.de/
 /psychoanalytikerinnen.de/
 /psychotherapie-hoelzer.de/
+/pucka59.pl/
 /puentesdecritica.es/
 /puertosur.es/
 /puncsasorkoa1974.files.wordpress.com/
@@ -1086,6 +1104,7 @@
 /regeneracni-centrum.cz/
 /reiterhof-edelweiss.it/
 /reitstallvoser.ch/
+/renoma-esteticmed.pl/
 /resolusi.news/
 /restaurantsidibou.fr/
 /retropharmacie.fr/
@@ -1185,6 +1204,7 @@
 /sirajganj24.news/
 /siropompeo.it/
 /sites.google.com/
+/sitzgelegenheit.ch/
 /sivori.es/
 /sizekitap.com/
 /sj-autoaufbereitung.de/
@@ -1291,6 +1311,7 @@
 /thijsschepens.be/
 /thisismolise.it/
 /tikla-indir.com/
+/tinkilinki.ru/
 /tipobet.ardidproyectos.es/
 /tisknecelesvitavsko.cz/
 /tkmvihide.files.wordpress.com/
@@ -1410,6 +1431,7 @@
 /wedigoliath.files.wordpress.com/
 /wedigoliath.wordpress.com/
 /weinbau-strauss.de/
+/whatthefilm.es/
 /wi2y.ezh.news/
 /wichrywojny.pl/
 /wimbligeter1979.files.wordpress.com/

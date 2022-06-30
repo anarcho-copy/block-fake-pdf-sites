@@ -1,9 +1,9 @@
 # Name        : fake (malicious/profiting from ads) pdf site blocker
-# Version     : 20220630102234
-# Date        : Thu Jun 30 07:22:34 AM UTC 2022
+# Version     : 20220630103823
+# Date        : Thu Jun 30 07:38:23 AM UTC 2022
 # Repo        : https://gitlab.com/anarcho-copy/block-fake-pdf-sites
 # File        : https://gitlab.com/anarcho-copy/block-fake-pdf-sites/-/raw/master/./output/hosts
-# Total lines : 1480
+# Total lines : 1502
 
 0.0.0.0 0.0.0.0
 0.0.0.0 0801202223.aduardinbeeld.nl
@@ -49,6 +49,7 @@
 0.0.0.0 ag1008.de
 0.0.0.0 agapehosteleria.es
 0.0.0.0 agroflorseborga.it
+0.0.0.0 aiolta.eb2a.com
 0.0.0.0 ajavianpagan1995.files.wordpress.com
 0.0.0.0 ajavianpagan1995.wordpress.com
 0.0.0.0 akelyanina1994.files.wordpress.com
@@ -89,6 +90,7 @@
 0.0.0.0 arabiamarzocchi1996.files.wordpress.com
 0.0.0.0 arabiamarzocchi1996.wordpress.com
 0.0.0.0 aradasabogados.es
+0.0.0.0 arcomatera2019.it
 0.0.0.0 arcyfotka.pl
 0.0.0.0 ardidproyectos.es
 0.0.0.0 arduino-lernen.de
@@ -102,6 +104,7 @@
 0.0.0.0 associazionealterego.it
 0.0.0.0 associazionekokeshi.it
 0.0.0.0 asylcafe-roemerschanze.de
+0.0.0.0 ateliercandleco.fr
 0.0.0.0 atif.sobiad.com
 0.0.0.0 australiabizreviews.com.au
 0.0.0.0 auto-kauf-pro.de
@@ -168,6 +171,7 @@
 0.0.0.0 bestvalueclean.com.au
 0.0.0.0 bets.radio.am
 0.0.0.0 bettilt.ardidproyectos.es
+0.0.0.0 bettilt.climatechangehub.es
 0.0.0.0 bettilt.mejormesadeluz.es
 0.0.0.0 bet.urbanlights.es
 0.0.0.0 bgprofessionals.nl
@@ -191,6 +195,7 @@
 0.0.0.0 blog.flowwithus.cz
 0.0.0.0 blogger-ilf.ru
 0.0.0.0 blog.ivetafilipova.cz
+0.0.0.0 bnb-lodge.ch
 0.0.0.0 boacherize1977.files.wordpress.com
 0.0.0.0 boacherize1977.wordpress.com
 0.0.0.0 bonjourjosette.fr
@@ -245,11 +250,13 @@
 0.0.0.0 cdy6.teksler.news
 0.0.0.0 centralbm.com.mx
 0.0.0.0 centre-zen-tonic.fr
+0.0.0.0 centrocimma.es
 0.0.0.0 centrsim.ru
 0.0.0.0 cerrajeroenhuelva.es
 0.0.0.0 cerrajerosdealcoy.es
 0.0.0.0 cevapanahtaripdf.com
 0.0.0.0 champagnelaforge.nl
+0.0.0.0 chauffe-eauelectrique.fr
 0.0.0.0 chauffeurassistance.fr
 0.0.0.0 chemindumuguet.fr
 0.0.0.0 cherifculbreth1998.files.wordpress.com
@@ -267,6 +274,7 @@
 0.0.0.0 classiccarnovolpaint.es
 0.0.0.0 cleanylife.fr
 0.0.0.0 clemcoudre.fr
+0.0.0.0 climatechangehub.es
 0.0.0.0 clinica-de-termografia.eu
 0.0.0.0 clinicaveterinariasaline.it
 0.0.0.0 clubajedreztoledo.es
@@ -366,6 +374,7 @@
 0.0.0.0 eaglemanmehgan98.files.wordpress.com
 0.0.0.0 eaglemanmehgan98.wordpress.com
 0.0.0.0 easycbd.es
+0.0.0.0 eb2a.com
 0.0.0.0 ebookpdfozetioku.xyz
 0.0.0.0 ebookrich.com
 0.0.0.0 ebrinfocaster.files.wordpress.com
@@ -392,6 +401,7 @@
 0.0.0.0 elberijschool.nl
 0.0.0.0 election.urgo.cz
 0.0.0.0 electrodiver.es
+0.0.0.0 electronuki.es
 0.0.0.0 elenaetc.es
 0.0.0.0 elescaparatedecantillana.es
 0.0.0.0 ellisoneuber94.files.wordpress.com
@@ -427,6 +437,7 @@
 0.0.0.0 evapetruzalkova.cz
 0.0.0.0 ev-familienzentrum-hiesfeld.de
 0.0.0.0 examenblad.nl
+0.0.0.0 exelec.ch
 0.0.0.0 expiraciondejaen.es
 0.0.0.0 eyekraftnv.ru
 0.0.0.0 eyeseet.nl
@@ -449,6 +460,7 @@
 0.0.0.0 filmer.cz
 0.0.0.0 fil.padovafotografia.it
 0.0.0.0 firebaseapp.com
+0.0.0.0 fishingacademyecuisine.it
 0.0.0.0 fishtownsmurfs.de
 0.0.0.0 fitteropmaat.nl
 0.0.0.0 flannigan.bigshow.com.mx
@@ -552,6 +564,7 @@
 0.0.0.0 healthstylecoach.de
 0.0.0.0 hebergratuit.net
 0.0.0.0 heidis-farbenwelt.de
+0.0.0.0 heimtextiliengenuss.de
 0.0.0.0 helflinge.de
 0.0.0.0 helkerrykir1992.files.wordpress.com
 0.0.0.0 helkerrykir1992.wordpress.com
@@ -755,13 +768,16 @@
 0.0.0.0 latkovna-modestia.cz
 0.0.0.0 latoquedejacque.fr
 0.0.0.0 latourette.centralbm.com.mx
+0.0.0.0 lavinadelgranteatro.es
 0.0.0.0 lavisitaroomscape.es
+0.0.0.0 lebras-david-joaillerie.fr
 0.0.0.0 ledabbspecaf1975.files.wordpress.com
 0.0.0.0 ledabbspecaf1975.wordpress.com
 0.0.0.0 ledbot.de
 0.0.0.0 lefterismaxim.firebaseapp.com
 0.0.0.0 legrandagencement.fr
 0.0.0.0 lepainmarocain.be
+0.0.0.0 lepontaubert.fr
 0.0.0.0 leprintempsdesmines.fr
 0.0.0.0 leroy-demenagement.fr
 0.0.0.0 lesateliersdiy.fr
@@ -1013,6 +1029,7 @@
 0.0.0.0 pensionhotel.es
 0.0.0.0 perkins.centralbm.com.mx
 0.0.0.0 permanent-make-up-gronau.de
+0.0.0.0 pescheriasandolo.it
 0.0.0.0 petrafranz-praxis.de
 0.0.0.0 pferdesportbeauftragteoh.de
 0.0.0.0 pfi-industrie.fr
@@ -1058,6 +1075,7 @@
 0.0.0.0 psdrinks.de
 0.0.0.0 psychoanalytikerinnen.de
 0.0.0.0 psychotherapie-hoelzer.de
+0.0.0.0 pucka59.pl
 0.0.0.0 puentesdecritica.es
 0.0.0.0 puertosur.es
 0.0.0.0 puncsasorkoa1974.files.wordpress.com
@@ -1087,6 +1105,7 @@
 0.0.0.0 regeneracni-centrum.cz
 0.0.0.0 reiterhof-edelweiss.it
 0.0.0.0 reitstallvoser.ch
+0.0.0.0 renoma-esteticmed.pl
 0.0.0.0 resolusi.news
 0.0.0.0 restaurantsidibou.fr
 0.0.0.0 retropharmacie.fr
@@ -1186,6 +1205,7 @@
 0.0.0.0 sirajganj24.news
 0.0.0.0 siropompeo.it
 0.0.0.0 sites.google.com
+0.0.0.0 sitzgelegenheit.ch
 0.0.0.0 sivori.es
 0.0.0.0 sizekitap.com
 0.0.0.0 sj-autoaufbereitung.de
@@ -1292,6 +1312,7 @@
 0.0.0.0 thijsschepens.be
 0.0.0.0 thisismolise.it
 0.0.0.0 tikla-indir.com
+0.0.0.0 tinkilinki.ru
 0.0.0.0 tipobet.ardidproyectos.es
 0.0.0.0 tisknecelesvitavsko.cz
 0.0.0.0 tkmvihide.files.wordpress.com
@@ -1411,6 +1432,7 @@
 0.0.0.0 wedigoliath.files.wordpress.com
 0.0.0.0 wedigoliath.wordpress.com
 0.0.0.0 weinbau-strauss.de
+0.0.0.0 whatthefilm.es
 0.0.0.0 wi2y.ezh.news
 0.0.0.0 wichrywojny.pl
 0.0.0.0 wimbligeter1979.files.wordpress.com
@@ -1472,6 +1494,7 @@
 0.0.0.0 www.ag1008.de
 0.0.0.0 www.agapehosteleria.es
 0.0.0.0 www.agroflorseborga.it
+0.0.0.0 www.aiolta.eb2a.com
 0.0.0.0 www.ajavianpagan1995.files.wordpress.com
 0.0.0.0 www.ajavianpagan1995.wordpress.com
 0.0.0.0 www.akelyanina1994.files.wordpress.com
@@ -1512,6 +1535,7 @@
 0.0.0.0 www.arabiamarzocchi1996.files.wordpress.com
 0.0.0.0 www.arabiamarzocchi1996.wordpress.com
 0.0.0.0 www.aradasabogados.es
+0.0.0.0 www.arcomatera2019.it
 0.0.0.0 www.arcyfotka.pl
 0.0.0.0 www.ardidproyectos.es
 0.0.0.0 www.arduino-lernen.de
@@ -1525,6 +1549,7 @@
 0.0.0.0 www.associazionealterego.it
 0.0.0.0 www.associazionekokeshi.it
 0.0.0.0 www.asylcafe-roemerschanze.de
+0.0.0.0 www.ateliercandleco.fr
 0.0.0.0 www.atif.sobiad.com
 0.0.0.0 www.australiabizreviews.com.au
 0.0.0.0 www.auto-kauf-pro.de
@@ -1591,6 +1616,7 @@
 0.0.0.0 www.bestvalueclean.com.au
 0.0.0.0 www.bets.radio.am
 0.0.0.0 www.bettilt.ardidproyectos.es
+0.0.0.0 www.bettilt.climatechangehub.es
 0.0.0.0 www.bettilt.mejormesadeluz.es
 0.0.0.0 www.bet.urbanlights.es
 0.0.0.0 www..bgprofessionals.nl
@@ -1615,6 +1641,7 @@
 0.0.0.0 www.blog.flowwithus.cz
 0.0.0.0 www.blogger-ilf.ru
 0.0.0.0 www.blog.ivetafilipova.cz
+0.0.0.0 www.bnb-lodge.ch
 0.0.0.0 www.boacherize1977.files.wordpress.com
 0.0.0.0 www.boacherize1977.wordpress.com
 0.0.0.0 www.bonjourjosette.fr
@@ -1669,11 +1696,13 @@
 0.0.0.0 www.cdy6.teksler.news
 0.0.0.0 www.centralbm.com.mx
 0.0.0.0 www.centre-zen-tonic.fr
+0.0.0.0 www.centrocimma.es
 0.0.0.0 www.centrsim.ru
 0.0.0.0 www.cerrajeroenhuelva.es
 0.0.0.0 www.cerrajerosdealcoy.es
 0.0.0.0 www.cevapanahtaripdf.com
 0.0.0.0 www.champagnelaforge.nl
+0.0.0.0 www.chauffe-eauelectrique.fr
 0.0.0.0 www.chauffeurassistance.fr
 0.0.0.0 www.chemindumuguet.fr
 0.0.0.0 www.cherifculbreth1998.files.wordpress.com
@@ -1691,6 +1720,7 @@
 0.0.0.0 www.classiccarnovolpaint.es
 0.0.0.0 www.cleanylife.fr
 0.0.0.0 www.clemcoudre.fr
+0.0.0.0 www.climatechangehub.es
 0.0.0.0 www.clinica-de-termografia.eu
 0.0.0.0 www.clinicaveterinariasaline.it
 0.0.0.0 www.clubajedreztoledo.es
@@ -1790,6 +1820,7 @@
 0.0.0.0 www.eaglemanmehgan98.files.wordpress.com
 0.0.0.0 www.eaglemanmehgan98.wordpress.com
 0.0.0.0 www.easycbd.es
+0.0.0.0 www.eb2a.com
 0.0.0.0 www.ebookpdfozetioku.xyz
 0.0.0.0 www.ebookrich.com
 0.0.0.0 www.ebrinfocaster.files.wordpress.com
@@ -1817,6 +1848,7 @@
 0.0.0.0 www.elberijschool.nl
 0.0.0.0 www.election.urgo.cz
 0.0.0.0 www.electrodiver.es
+0.0.0.0 www.electronuki.es
 0.0.0.0 www.elenaetc.es
 0.0.0.0 www.elescaparatedecantillana.es
 0.0.0.0 www.ellisoneuber94.files.wordpress.com
@@ -1852,6 +1884,7 @@
 0.0.0.0 www.evapetruzalkova.cz
 0.0.0.0 www.ev-familienzentrum-hiesfeld.de
 0.0.0.0 www.examenblad.nl
+0.0.0.0 www.exelec.ch
 0.0.0.0 www.expiraciondejaen.es
 0.0.0.0 www.eyekraftnv.ru
 0.0.0.0 www.eyeseet.nl
@@ -1874,6 +1907,7 @@
 0.0.0.0 www.filmer.cz
 0.0.0.0 www.fil.padovafotografia.it
 0.0.0.0 www.firebaseapp.com
+0.0.0.0 www.fishingacademyecuisine.it
 0.0.0.0 www.fishtownsmurfs.de
 0.0.0.0 www.fitteropmaat.nl
 0.0.0.0 www.flannigan.bigshow.com.mx
@@ -1978,6 +2012,7 @@
 0.0.0.0 www.healthstylecoach.de
 0.0.0.0 www.hebergratuit.net
 0.0.0.0 www.heidis-farbenwelt.de
+0.0.0.0 www.heimtextiliengenuss.de
 0.0.0.0 www.helflinge.de
 0.0.0.0 www.helkerrykir1992.files.wordpress.com
 0.0.0.0 www.helkerrykir1992.wordpress.com
@@ -2181,13 +2216,16 @@
 0.0.0.0 www.latkovna-modestia.cz
 0.0.0.0 www.latoquedejacque.fr
 0.0.0.0 www.latourette.centralbm.com.mx
+0.0.0.0 www.lavinadelgranteatro.es
 0.0.0.0 www.lavisitaroomscape.es
+0.0.0.0 www.lebras-david-joaillerie.fr
 0.0.0.0 www.ledabbspecaf1975.files.wordpress.com
 0.0.0.0 www.ledabbspecaf1975.wordpress.com
 0.0.0.0 www.ledbot.de
 0.0.0.0 www.lefterismaxim.firebaseapp.com
 0.0.0.0 www.legrandagencement.fr
 0.0.0.0 www.lepainmarocain.be
+0.0.0.0 www.lepontaubert.fr
 0.0.0.0 www.leprintempsdesmines.fr
 0.0.0.0 www.leroy-demenagement.fr
 0.0.0.0 www.lesateliersdiy.fr
@@ -2439,6 +2477,7 @@
 0.0.0.0 www.pensionhotel.es
 0.0.0.0 www.perkins.centralbm.com.mx
 0.0.0.0 www.permanent-make-up-gronau.de
+0.0.0.0 www.pescheriasandolo.it
 0.0.0.0 www.petrafranz-praxis.de
 0.0.0.0 www.pferdesportbeauftragteoh.de
 0.0.0.0 www.pfi-industrie.fr
@@ -2484,6 +2523,7 @@
 0.0.0.0 www.psdrinks.de
 0.0.0.0 www.psychoanalytikerinnen.de
 0.0.0.0 www.psychotherapie-hoelzer.de
+0.0.0.0 www.pucka59.pl
 0.0.0.0 www.puentesdecritica.es
 0.0.0.0 www.puertosur.es
 0.0.0.0 www.puncsasorkoa1974.files.wordpress.com
@@ -2513,6 +2553,7 @@
 0.0.0.0 www.regeneracni-centrum.cz
 0.0.0.0 www.reiterhof-edelweiss.it
 0.0.0.0 www.reitstallvoser.ch
+0.0.0.0 www.renoma-esteticmed.pl
 0.0.0.0 www.resolusi.news
 0.0.0.0 www.restaurantsidibou.fr
 0.0.0.0 www.retropharmacie.fr
@@ -2612,6 +2653,7 @@
 0.0.0.0 www.sirajganj24.news
 0.0.0.0 www.siropompeo.it
 0.0.0.0 www.sites.google.com
+0.0.0.0 www.sitzgelegenheit.ch
 0.0.0.0 www.sivori.es
 0.0.0.0 www.sizekitap.com
 0.0.0.0 www.sj-autoaufbereitung.de
@@ -2718,6 +2760,7 @@
 0.0.0.0 www.thijsschepens.be
 0.0.0.0 www.thisismolise.it
 0.0.0.0 www.tikla-indir.com
+0.0.0.0 www.tinkilinki.ru
 0.0.0.0 www.tipobet.ardidproyectos.es
 0.0.0.0 www.tisknecelesvitavsko.cz
 0.0.0.0 www.tkmvihide.files.wordpress.com
@@ -2837,6 +2880,7 @@
 0.0.0.0 www.wedigoliath.files.wordpress.com
 0.0.0.0 www.wedigoliath.wordpress.com
 0.0.0.0 www.weinbau-strauss.de
+0.0.0.0 www.whatthefilm.es
 0.0.0.0 www.wi2y.ezh.news
 0.0.0.0 www.wichrywojny.pl
 0.0.0.0 www.wimbligeter1979.files.wordpress.com
