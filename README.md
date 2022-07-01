@@ -1,24 +1,40 @@
-## sahte pdf siteleri engelleyici
+## Sahte PDF Siteleri Engelleyici
 
-### neden?
-
-Bir pdfyi internette arattığımız zaman genellikle "kitapismi pdf" diye aratırız. 
-
-Bunu fırsat bilen sahtekarlar herhangi bir aradığımız kitabın/derginin sahte pdf sayfalarını oluşturarak reklam ve virüsler ile karşımıza çıkıyor.
-
-Bu durumla karşılaşmamak için sahte pdf sitesileri engelleme listesi oluşturma ihtiyacı duyduk.
-
-### uBlacklist
-
-Abone ol: https://gitlab.com/anarcho-copy/block-fake-pdf-sites/-/raw/master/output/uBlacklist.txt
-
-### ekleme yap
-
-[paper.komun.org/p/block-fake-pdf-sites](https://paper.komun.org/p/block-fake-pdf-sites) adresindeki etherpad çalışmasına tavsiye ettiğin domaini ekleyebilirsin, otomatik bir şekilde şuraya eşleştirilecektir: [data/hosts.d/etherpad](https://gitlab.com/anarcho-copy/block-fake-pdf-sites/-/blob/master/data/hosts.d/etherpad)
+### Neden?
 
 
-### diğer kaynaklar: [data/hosts.d](https://gitlab.com/anarcho-copy/block-fake-pdf-sites/-/tree/master/data/hosts.d)
+Bir kitabın PDF dosyasını online arşivlerde bulamadığımız zaman genellikle arama motorlarında "kitapismi pdf" diye aratırız. Bu durumu kötüye kullanan sahtekarlar aradığımız kitabın sahte pdf sayfalarını oluşturarak reklam veya virüsler ile karşımıza çıkarlar.
 
-Aktif etmek için `config.conf` dosyasındaki `include_other_sources` değerini `true` olarak değiştir. 
+İşte bu tarz siteleri engellemek için bu listeyi oluşturduk.
 
-Tekrarlamaları önlemek -başka listelerin de kullanabilmesi- için bu depoda aktif edilmedi.
+### Nasıl Kullanırım?
+
+**1.**  uBlacklist'i indir
+
+ - [Chrome Web Store](https://chrome.google.com/webstore/detail/ublacklist/pncfbmialoiaghdehhbnbhkkgmjanfhe)
+ - [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/ublacklist/)
+
+![](https://lib.anarcho-copy.org/special/t-l-tool-1.png)
+
+
+**2.**  uBlacklist yapılandırma sayfasını açın ve ardından "Add a subscription"a tıklayın.
+
+![](https://lib.anarcho-copy.org/special/t-l-tool-2.png)
+
+![](https://lib.anarcho-copy.org/special/t-l-tool-3.png)
+
+
+**3.**  Açılan  kutuya aşağıdaki değerleri kopyalayıp yapıştırın ve ardından "Add"e tıklayın.
+
+
+| Name        | Url           |
+| ------------- |-------------|
+| fake pdf site blocker      | [https://gitlab.com/anarcho-copy/block-fake-pdf-sites/-/raw/master/output/uBlacklist.txt](https://gitlab.com/anarcho-copy/block-fake-pdf-sites/-/raw/master/output/uBlacklist.txt) |
+
+
+![](https://lib.anarcho-copy.org/special/t-l-tool-4.png)
+
+**4.**  Abone olduktan sonra artık liste otomatik bir şekilde eşleştirilecektir.
+
+![](https://lib.anarcho-copy.org/special/t-l-tool-5.png)
+
