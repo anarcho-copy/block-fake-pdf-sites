@@ -1,2 +1,5 @@
 #https://pypi.org/project/urlp
 urlp
+dos2unix
+mac2unix
+curl
