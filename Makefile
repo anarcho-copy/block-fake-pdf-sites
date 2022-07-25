@@ -4,23 +4,23 @@ include $(CONFIG)
 help: .config/makehelp lib/makefile2help.sh
 	@lib/makefile2help.sh -c $(CONFIG)
 
-generate: $(TLD) $(SLD) $(LOGINREQ) $(WORDPRESS) $(SERVICE) $(ALLOW) $(STORE) $(OTHERSOURCES)/ lib/generate.sh
+generate: $(TLD) $(SLD) $(LOGINREQ) $(WORDPRESS) $(SERVICE) $(ALLOW) $(STORE) $(UBASED)/ $(HBASED)/ lib/generate.sh
 	@echo Generating configuration files...
 	lib/generate.sh
 
 
-generate-with-fetch: $(TLD) $(SLD) $(LOGINREQ) $(WORDPRESS) $(SERVICE) $(ALLOW) $(STORE) $(OTHERSOURCES)/ lib/generate.sh
+generate-with-fetch: $(TLD) $(SLD) $(LOGINREQ) $(WORDPRESS) $(SERVICE) $(ALLOW) $(STORE) $(UBASED)/ $(HBASED)/ lib/generate.sh
 	@echo fetching sources..
 	@make -s fetch
 	@make -s fetch-etherpad
 	@echo generating configuration files...
 	lib/generate.sh
 
-generate-all: $(TLD) $(SLD) $(LOGINREQ) $(WORDPRESS) $(SERVICE) $(ALLOW) $(STORE) $(OTHERSOURCES)/ lib/generate.sh
+generate-all: $(TLD) $(SLD) $(LOGINREQ) $(WORDPRESS) $(SERVICE) $(ALLOW) $(STORE) $(UBASED)/ $(HBASED)/ lib/generate.sh
 	@echo generating configuration files...
 	lib/generate.sh --all
 
-generate-all-with-fetch: $(TLD) $(SLD) $(LOGINREQ) $(WORDPRESS) $(SERVICE) $(ALLOW) $(STORE) $(OTHERSOURCES)/ lib/generate.sh
+generate-all-with-fetch: $(TLD) $(SLD) $(LOGINREQ) $(WORDPRESS) $(SERVICE) $(ALLOW) $(STORE) $(UBASED)/ $(HBASED)/ lib/generate.sh
 	@echo fetching sources..
 	@make -s fetch
 	@make -s fetch-etherpad
@@ -34,10 +34,10 @@ clean:
 check: INSTALL lib/check.sh
 	@lib/check.sh
 
-fetch: $(OTHERSOURCES)/ lib/fetch.sh
+fetch: $(UBASED)/ $(HBASED)/ lib/fetch.sh
 	lib/fetch.sh
 
-fetch-etherpad: $(OTHERSOURCES)/ lib/fetch.sh
+fetch-etherpad: $(UBASED)/ $(HBASED)/ lib/fetch.sh
 	lib/etherpad.sh
 
 install: $(DNSMASQ) $(UBLACKLIST) $(HOSTS) lib/hosts.sh

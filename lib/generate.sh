@@ -1,6 +1,8 @@
 #!/bin/bash
 . config.conf || exit 1
 mkdir -p ${TEMP}
+rm -rf ${TEMP}/*
+touch ${TEMP}/ubased ${TEMP}/hbased
 
 # insert domains
 cat ${TLD} > ${TEMP}/tld
@@ -28,21 +30,7 @@ cat ${BLOGSPOT} | sort -u >> ${TEMP}/domain
 # netlify based domains
 cat ${NETLIFY} | sort -u >> ${TEMP}/domain
 
-# include sources
-if [[ "${include_other_sources}" == "true" ]]; then
-	find ${OTHERSOURCES} -type f -not -name 'etherpad' -exec cat {} \; | sed 's/www\.//g' > ${TEMP}/other_sources
-	find ${OTHERSOURCES} -type f -not -name 'etherpad' -exec cat {} \; | urlp --registered_domain  >> ${TEMP}/other_sources
-	sort -u ${TEMP}/other_sources | sed -r '/^\s*$/d' >> ${TEMP}/domain
-fi
-
-# include etherpad
-if [[ "${include_etherpad}" == "true" ]]; then
-	cat ${OTHERSOURCES}/etherpad > ${TEMP}/etherpad
-	cat ${OTHERSOURCES}/etherpad | urlp --registered_domain >> ${TEMP}/etherpad
-	cat ${TEMP}/etherpad | sort -u >> ${TEMP}/domain
-fi
-
-# parse domain option
+# include allowed domains
 case ${1} in
 	--all|-a|all)
 		cat ${ALLOW} > ${TEMP}/allow
@@ -55,8 +43,34 @@ case ${1} in
 	;;
 esac
 
-#VARIABLES
-TOTAL_LINES=$(cat ${TEMP}/domain | wc -l)
+# include sources
+if [[ "${include_other_sources}" == "true" ]]; then
+        # include host sources
+        find ${HBASED} -type f -exec cat {} \; | sed 's/www\.//g' > ${TEMP}/.hbased
+        find ${HBASED} -type f -exec cat {} \; | urlp --registered_domain  >> ${TEMP}/.hbased
+        sort -u ${TEMP}/.hbased | sed -r '/^\s*$/d' > ${TEMP}/hbased
+
+        # include ublacklist sources
+        find ${UBASED} -type f -not -name 'etherpad' -exec cat {} \; | sed 's/www\.//g' > ${TEMP}/.ubased
+        find ${UBASED} -type f -not -name 'etherpad' -exec cat {} \; | urlp --registered_domain  >> ${TEMP}/.ubased
+        sort -u ${TEMP}/.ubased | sed -r '/^\s*$/d' > ${TEMP}/ubased
+fi
+
+# include etherpad
+if [[ "${include_etherpad}" == "true" ]]; then
+        cat ${UBASED}/etherpad > ${TEMP}/etherpad
+        cat ${UBASED}/etherpad | urlp --registered_domain >> ${TEMP}/etherpad
+        cat ${TEMP}/etherpad | sort -u >> ${TEMP}/ubased
+fi
+
+# last write step
+sort -u ${TEMP}/domain ${TEMP}/ubased > ${TEMP}/ubaseddomain
+sort -u ${TEMP}/domain ${TEMP}/ubased ${TEMP}/hbased > ${TEMP}/lastdomain
+
+
+# set info variables
+TOTAL_LINES=$(cat ${TEMP}/lastdomain | wc -l)
+TOTAL_LINES_UBASED=$(cat ${TEMP}/ubaseddomain | wc -l)
 DATE=$(date -u)
 VERSION=$(date "+%Y%m%d%H%M%S" -d "$DATE")
 
@@ -68,12 +82,12 @@ cat > ${UBLACKLIST} <<EOT
 # Date        : ${DATE}
 # Repo        : ${REPO}
 # File        : ${RAW_SOURCE}/${UBLACKLIST}
-# Total lines : ${TOTAL_LINES}
+# Total lines : ${TOTAL_LINES_UBASED}
 
 EOT
 while IFS= read -r DOMAIN; do
 	echo "/${DOMAIN}/"
-done < ${TEMP}/domain | sort -u >> ${UBLACKLIST}
+done < ${TEMP}/ubaseddomain | sort -u >> ${UBLACKLIST}
 
 
 # GENREATE DNSMASQ
@@ -87,7 +101,7 @@ cat > ${DNSMASQ} <<EOT
 EOT
 while IFS= read -r DOMAIN; do
 	echo "address=/${DOMAIN}/"
-done < ${TEMP}/domain | sed "s/www.//g" | sort -u >> ${DNSMASQ}
+done < ${TEMP}/lastdomain | sed "s/www.//g" | sort -u >> ${DNSMASQ}
 
 
 # GENERATE LOCAL DNS
@@ -104,8 +118,8 @@ EOT
 while IFS= read -r DOMAIN; do
         echo "0.0.0.0 ${DOMAIN}"
 	echo "0.0.0.0 www.${DOMAIN}"	#force add www subdomain
-done < ${TEMP}/domain | sed "s/www.www./www./g" | sort -u >> ${HOSTS}
+done < ${TEMP}/lastdomain | sed "s/www.www./www./g" | sort -u >> ${HOSTS}
 
 
 # GENERATE PURE DOMAIN LIST
-cat ${TEMP}/domain | sort -u > ${RAW}
+cat ${TEMP}/lastdomain | sort -u > ${RAW}

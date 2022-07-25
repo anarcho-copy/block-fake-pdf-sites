@@ -1,9 +1,9 @@
 # Name        : fake (malicious/profiting from ads) pdf site blocker
-# Version     : 20220630104100
-# Date        : Thu Jun 30 07:41:00 AM UTC 2022
+# Version     : 20220725170446
+# Date        : Mon Jul 25 02:04:46 PM UTC 2022
 # Repo        : https://gitlab.com/anarcho-copy/block-fake-pdf-sites
 # File        : https://gitlab.com/anarcho-copy/block-fake-pdf-sites/-/raw/master/./output/hosts
-# Total lines : 1545
+# Total lines : 1539
 
 0.0.0.0 0.0.0.0
 0.0.0.0 0801202223.aduardinbeeld.nl
