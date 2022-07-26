@@ -1,12 +1,11 @@
 # Name        : fake (malicious/profiting from ads) pdf site blocker
-# Version     : 20220726111245
-# Date        : Tue Jul 26 08:12:45 AM UTC 2022
+# Version     : 20220726141242
+# Date        : Tue Jul 26 11:12:42 AM UTC 2022
 # Repo        : https://gitlab.com/anarcho-copy/block-fake-pdf-sites
 # File        : https://gitlab.com/anarcho-copy/block-fake-pdf-sites/-/raw/master/./output/hosts
-# Total lines : 1831
+# Total lines : 1830
 
 0.0.0.0 0.0.0.0
-0.0.0.0 
 0.0.0.0 0801202223.aduardinbeeld.nl
 0.0.0.0 100casas.es
 0.0.0.0 112th.playsboom.us
@@ -1772,7 +1771,6 @@
 0.0.0.0 wrldlib.ru
 0.0.0.0 wuidschnee.de
 0.0.0.0 ww25.pdfkitapindir.org
-0.0.0.0 www.
 0.0.0.0 www.0801202223.aduardinbeeld.nl
 0.0.0.0 www.100casas.es
 0.0.0.0 www.112th.playsboom.us

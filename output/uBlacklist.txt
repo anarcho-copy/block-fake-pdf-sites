@@ -1,11 +1,10 @@
 # Name        : fake (malicious/profiting from ads) pdf site blocker
-# Version     : 20220726111245
-# Date        : Tue Jul 26 08:12:45 AM UTC 2022
+# Version     : 20220726141242
+# Date        : Tue Jul 26 11:12:42 AM UTC 2022
 # Repo        : https://gitlab.com/anarcho-copy/block-fake-pdf-sites
 # File        : https://gitlab.com/anarcho-copy/block-fake-pdf-sites/-/raw/master/./output/uBlacklist.txt
-# Total lines : 1831
+# Total lines : 1830
 
-//
 /0801202223.aduardinbeeld.nl/
 /100casas.es/
 /112th.playsboom.us/

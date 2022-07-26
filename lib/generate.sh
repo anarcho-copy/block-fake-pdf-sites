@@ -64,8 +64,8 @@ if [[ "${include_etherpad}" == "true" ]]; then
 fi
 
 # last write step
-sort -u ${TEMP}/domain ${TEMP}/ubased > ${TEMP}/ubaseddomain
-sort -u ${TEMP}/domain ${TEMP}/ubased ${TEMP}/hbased > ${TEMP}/lastdomain
+sort -u ${TEMP}/domain ${TEMP}/ubased | sed -r '/^\s*$/d' > ${TEMP}/ubaseddomain
+sort -u ${TEMP}/domain ${TEMP}/ubased ${TEMP}/hbased | sed -r '/^\s*$/d' > ${TEMP}/lastdomain
 
 
 # set info variables
