@@ -1,11 +1,12 @@
 # Name        : fake (malicious/profiting from ads) pdf site blocker
-# Version     : 20220726033759
-# Date        : Tue Jul 26 12:37:59 AM UTC 2022
+# Version     : 20220726110202
+# Date        : Tue Jul 26 08:02:02 AM UTC 2022
 # Repo        : https://gitlab.com/anarcho-copy/block-fake-pdf-sites
 # File        : https://gitlab.com/anarcho-copy/block-fake-pdf-sites/-/raw/master/./output/hosts
-# Total lines : 1761
+# Total lines : 1791
 
 0.0.0.0 0.0.0.0
+0.0.0.0 
 0.0.0.0 0801202223.aduardinbeeld.nl
 0.0.0.0 100casas.es
 0.0.0.0 112th.playsboom.us
@@ -22,6 +23,7 @@
 0.0.0.0 2608202123.fitteropmaat.nl
 0.0.0.0 2904202223.albignasego1.it
 0.0.0.0 29.bnksjqt1.site
+0.0.0.0 2m16.elektrikciadana.com
 0.0.0.0 2pdfsplash2.indirdepo.mobi
 0.0.0.0 2wlzihu.257.cz
 0.0.0.0 3004202223.signa-pro.fr
@@ -38,7 +40,9 @@
 0.0.0.0 7.uzelok4u.ru
 0.0.0.0 857558668.bleumetalgolf.fr
 0.0.0.0 89044.sangerboom.us
+0.0.0.0 93kof.elektrikciadana.com
 0.0.0.0 9wh8o.hayalalimi.com
+0.0.0.0 aaliaasultana.chat
 0.0.0.0 aarishbeahm94.files.wordpress.com
 0.0.0.0 aarishbeahm94.wordpress.com
 0.0.0.0 aaybabblebyte.files.wordpress.com
@@ -87,6 +91,8 @@
 0.0.0.0 alyzeglascott.files.wordpress.com
 0.0.0.0 alyzeglascott.wordpress.com
 0.0.0.0 amelie-duperon.fr
+0.0.0.0 amerisalvatore1988.files.wordpress.com
+0.0.0.0 amerisalvatore1988.wordpress.com
 0.0.0.0 amisducentredartdechateauvert.fr
 0.0.0.0 amrenszollosi96.files.wordpress.com
 0.0.0.0 amrenszollosi96.wordpress.com
@@ -203,6 +209,7 @@
 0.0.0.0 bettilt.ardidproyectos.es
 0.0.0.0 bettilt.climatechangehub.es
 0.0.0.0 bettilt.mejormesadeluz.es
+0.0.0.0 bettiltzozmmbbp.netlify.app
 0.0.0.0 bet.urbanlights.es
 0.0.0.0 bgprofessionals.nl
 0.0.0.0 bicasussie1995.files.wordpress.com
@@ -218,6 +225,7 @@
 0.0.0.0 birdtalk.nl
 0.0.0.0 biscarideclan1996.files.wordpress.com
 0.0.0.0 biscarideclan1996.wordpress.com
+0.0.0.0 bistrozator.pl
 0.0.0.0 bjs.cz
 0.0.0.0 blanqueryasociados.es
 0.0.0.0 blauwbord.nl
@@ -328,6 +336,7 @@
 0.0.0.0 climatechangehub.es
 0.0.0.0 clinica-de-termografia.eu
 0.0.0.0 clinicaveterinariasaline.it
+0.0.0.0 cloudbet.factusyn.esa
 0.0.0.0 clubajedreztoledo.es
 0.0.0.0 cmpybp.rightbellmatch.top
 0.0.0.0 cn.chipola.ru
@@ -343,6 +352,8 @@
 0.0.0.0 coolwebing.com.au
 0.0.0.0 copelandgain1985.files.wordpress.com
 0.0.0.0 copelandgain1985.wordpress.com
+0.0.0.0 cortlynmasero1991.files.wordpress.com
+0.0.0.0 cortlynmasero1991.wordpress.com
 0.0.0.0 coursehero.com
 0.0.0.0 covell.nadya.us
 0.0.0.0 crashbox.ru
@@ -416,6 +427,7 @@
 0.0.0.0 dineroptveld.nl
 0.0.0.0 dionaermatinger.files.wordpress.com
 0.0.0.0 dionaermatinger.wordpress.com
+0.0.0.0 djacoura.fr
 0.0.0.0 dm7g.k-hen.com
 0.0.0.0 docplayer.nl
 0.0.0.0 docslide.es
@@ -471,6 +483,7 @@
 0.0.0.0 election.urgo.cz
 0.0.0.0 electrodiver.es
 0.0.0.0 electronuki.es
+0.0.0.0 elektrikciadana.com
 0.0.0.0 elenaetc.es
 0.0.0.0 elescaparatedecantillana.es
 0.0.0.0 ellisoneuber94.files.wordpress.com
@@ -551,10 +564,12 @@
 0.0.0.0 flufs.pl
 0.0.0.0 forgiveness-esslingen.de
 0.0.0.0 form-bild-farbe.de
+0.0.0.0 foroaforo.es
 0.0.0.0 foroayuda.es
 0.0.0.0 fotecnica.es
 0.0.0.0 fotodesign-wick.de
 0.0.0.0 fotolaserestudio.es
+0.0.0.0 fotopunch.ru
 0.0.0.0 fotos-paisajes.net
 0.0.0.0 fpip.playsboom.us
 0.0.0.0 fracchiaandra94.files.wordpress.com
@@ -798,6 +813,8 @@
 0.0.0.0 kbtbk.de
 0.0.0.0 kcbyaharbor.files.wordpress.com
 0.0.0.0 kcbyaharbor.wordpress.com
+0.0.0.0 keagleamirbek88.files.wordpress.com
+0.0.0.0 keagleamirbek88.wordpress.com
 0.0.0.0 kellyngalbreath84.files.wordpress.com
 0.0.0.0 kellyngalbreath84.wordpress.com
 0.0.0.0 k-g-kittelbacher-blumenkinder.de
@@ -943,6 +960,7 @@
 0.0.0.0 lundynarya.files.wordpress.com
 0.0.0.0 lundynarya.wordpress.com
 0.0.0.0 lutherqm.de
+0.0.0.0 lvt-chimie.fr
 0.0.0.0 lykensmaisha93.files.wordpress.com
 0.0.0.0 lykensmaisha93.wordpress.com
 0.0.0.0 maastrichtdisrupt.nl
@@ -1079,6 +1097,8 @@
 0.0.0.0 nehirmishaw84.files.wordpress.com
 0.0.0.0 nehirmishaw84.wordpress.com
 0.0.0.0 nejlevnejsi-knihy.cz
+0.0.0.0 nevisyitzel84.files.wordpress.com
+0.0.0.0 nevisyitzel84.wordpress.com
 0.0.0.0 newson.centralbm.com.mx
 0.0.0.0 newssharing.es
 0.0.0.0 new-work-old-school.de
@@ -1118,6 +1138,8 @@
 0.0.0.0 olekmccuistion1989.wordpress.com
 0.0.0.0 olitcon.de
 0.0.0.0 oliveroarredamenti.it
+0.0.0.0 oltzjoa.files.wordpress.com
+0.0.0.0 oltzjoa.wordpress.com
 0.0.0.0 omniglobe.es
 0.0.0.0 onelove.news
 0.0.0.0 onirism.fr
@@ -1262,6 +1284,7 @@
 0.0.0.0 puysoncar.es
 0.0.0.0 pyramide-ansatz.de
 0.0.0.0 qasarumur.rest
+0.0.0.0 qepx.foroaforo.es
 0.0.0.0 qmuthadich.files.wordpress.com
 0.0.0.0 qmuthadich.wordpress.com
 0.0.0.0 qraedwyg.detsat.ru
@@ -1388,6 +1411,8 @@
 0.0.0.0 sensabella.nl
 0.0.0.0 septergermaine86.files.wordpress.com
 0.0.0.0 septergermaine86.wordpress.com
+0.0.0.0 seraphimcliett98.files.wordpress.com
+0.0.0.0 seraphimcliett98.wordpress.com
 0.0.0.0 sergixadyn.files.wordpress.com
 0.0.0.0 sergixadyn.wordpress.com
 0.0.0.0 seriyahsiedlecki.files.wordpress.com
@@ -1641,6 +1666,8 @@
 0.0.0.0 vanguard-stars.es
 0.0.0.0 vanityaffair.it
 0.0.0.0 vansah.de
+0.0.0.0 vasiliahemmert.files.wordpress.com
+0.0.0.0 vasiliahemmert.wordpress.com
 0.0.0.0 vbarcadia.pl
 0.0.0.0 vdbviridinator.files.wordpress.com
 0.0.0.0 vdbviridinator.wordpress.com
@@ -1705,6 +1732,7 @@
 0.0.0.0 wpdevcloud.com
 0.0.0.0 wrldlib.ru
 0.0.0.0 wuidschnee.de
+0.0.0.0 www.
 0.0.0.0 www.0801202223.aduardinbeeld.nl
 0.0.0.0 www.100casas.es
 0.0.0.0 www.112th.playsboom.us
@@ -1724,6 +1752,7 @@
 0.0.0.0 www.2608202123.fitteropmaat.nl
 0.0.0.0 www.2904202223.albignasego1.it
 0.0.0.0 www.29.bnksjqt1.site
+0.0.0.0 www.2m16.elektrikciadana.com
 0.0.0.0 www.2pdfsplash2.indirdepo.mobi
 0.0.0.0 www.2wlzihu.257.cz
 0.0.0.0 www.3004202223.signa-pro.fr
@@ -1740,7 +1769,9 @@
 0.0.0.0 www.7.uzelok4u.ru
 0.0.0.0 www.857558668.bleumetalgolf.fr
 0.0.0.0 www.89044.sangerboom.us
+0.0.0.0 www.93kof.elektrikciadana.com
 0.0.0.0 www.9wh8o.hayalalimi.com
+0.0.0.0 www.aaliaasultana.chat
 0.0.0.0 www.aarishbeahm94.files.wordpress.com
 0.0.0.0 www.aarishbeahm94.wordpress.com
 0.0.0.0 www.aaybabblebyte.files.wordpress.com
@@ -1789,6 +1820,8 @@
 0.0.0.0 www.alyzeglascott.files.wordpress.com
 0.0.0.0 www.alyzeglascott.wordpress.com
 0.0.0.0 www.amelie-duperon.fr
+0.0.0.0 www.amerisalvatore1988.files.wordpress.com
+0.0.0.0 www.amerisalvatore1988.wordpress.com
 0.0.0.0 www.amisducentredartdechateauvert.fr
 0.0.0.0 www.amrenszollosi96.files.wordpress.com
 0.0.0.0 www.amrenszollosi96.wordpress.com
@@ -1905,6 +1938,7 @@
 0.0.0.0 www.bettilt.ardidproyectos.es
 0.0.0.0 www.bettilt.climatechangehub.es
 0.0.0.0 www.bettilt.mejormesadeluz.es
+0.0.0.0 www.bettiltzozmmbbp.netlify.app
 0.0.0.0 www.bet.urbanlights.es
 0.0.0.0 www..bgprofessionals.nl
 0.0.0.0 www.bgprofessionals.nl
@@ -1921,6 +1955,7 @@
 0.0.0.0 www.birdtalk.nl
 0.0.0.0 www.biscarideclan1996.files.wordpress.com
 0.0.0.0 www.biscarideclan1996.wordpress.com
+0.0.0.0 www.bistrozator.pl
 0.0.0.0 www.bjs.cz
 0.0.0.0 www.blanqueryasociados.es
 0.0.0.0 www.blauwbord.nl
@@ -2031,6 +2066,7 @@
 0.0.0.0 www.climatechangehub.es
 0.0.0.0 www.clinica-de-termografia.eu
 0.0.0.0 www.clinicaveterinariasaline.it
+0.0.0.0 www.cloudbet.factusyn.esa
 0.0.0.0 www.clubajedreztoledo.es
 0.0.0.0 www.cmpybp.rightbellmatch.top
 0.0.0.0 www.cn.chipola.ru
@@ -2046,6 +2082,8 @@
 0.0.0.0 www.coolwebing.com.au
 0.0.0.0 www.copelandgain1985.files.wordpress.com
 0.0.0.0 www.copelandgain1985.wordpress.com
+0.0.0.0 www.cortlynmasero1991.files.wordpress.com
+0.0.0.0 www.cortlynmasero1991.wordpress.com
 0.0.0.0 www.coursehero.com
 0.0.0.0 www.covell.nadya.us
 0.0.0.0 www.crashbox.ru
@@ -2119,6 +2157,7 @@
 0.0.0.0 www.dineroptveld.nl
 0.0.0.0 www.dionaermatinger.files.wordpress.com
 0.0.0.0 www.dionaermatinger.wordpress.com
+0.0.0.0 www.djacoura.fr
 0.0.0.0 www.dm7g.k-hen.com
 0.0.0.0 www.docplayer.nl
 0.0.0.0 www.docslide.es
@@ -2175,6 +2214,7 @@
 0.0.0.0 www.election.urgo.cz
 0.0.0.0 www.electrodiver.es
 0.0.0.0 www.electronuki.es
+0.0.0.0 www.elektrikciadana.com
 0.0.0.0 www.elenaetc.es
 0.0.0.0 www.elescaparatedecantillana.es
 0.0.0.0 www.ellisoneuber94.files.wordpress.com
@@ -2256,10 +2296,12 @@
 0.0.0.0 www.flufs.pl
 0.0.0.0 www.forgiveness-esslingen.de
 0.0.0.0 www.form-bild-farbe.de
+0.0.0.0 www.foroaforo.es
 0.0.0.0 www.foroayuda.es
 0.0.0.0 www.fotecnica.es
 0.0.0.0 www.fotodesign-wick.de
 0.0.0.0 www.fotolaserestudio.es
+0.0.0.0 www.fotopunch.ru
 0.0.0.0 www.fotos-paisajes.net
 0.0.0.0 www.fpip.playsboom.us
 0.0.0.0 www.fracchiaandra94.files.wordpress.com
@@ -2503,6 +2545,8 @@
 0.0.0.0 www.kbtbk.de
 0.0.0.0 www.kcbyaharbor.files.wordpress.com
 0.0.0.0 www.kcbyaharbor.wordpress.com
+0.0.0.0 www.keagleamirbek88.files.wordpress.com
+0.0.0.0 www.keagleamirbek88.wordpress.com
 0.0.0.0 www.kellyngalbreath84.files.wordpress.com
 0.0.0.0 www.kellyngalbreath84.wordpress.com
 0.0.0.0 www.k-g-kittelbacher-blumenkinder.de
@@ -2648,6 +2692,7 @@
 0.0.0.0 www.lundynarya.files.wordpress.com
 0.0.0.0 www.lundynarya.wordpress.com
 0.0.0.0 www.lutherqm.de
+0.0.0.0 www.lvt-chimie.fr
 0.0.0.0 www.lykensmaisha93.files.wordpress.com
 0.0.0.0 www.lykensmaisha93.wordpress.com
 0.0.0.0 www.maastrichtdisrupt.nl
@@ -2784,6 +2829,8 @@
 0.0.0.0 www.nehirmishaw84.files.wordpress.com
 0.0.0.0 www.nehirmishaw84.wordpress.com
 0.0.0.0 www.nejlevnejsi-knihy.cz
+0.0.0.0 www.nevisyitzel84.files.wordpress.com
+0.0.0.0 www.nevisyitzel84.wordpress.com
 0.0.0.0 www.newson.centralbm.com.mx
 0.0.0.0 www.newssharing.es
 0.0.0.0 www.new-work-old-school.de
@@ -2823,6 +2870,8 @@
 0.0.0.0 www.olekmccuistion1989.wordpress.com
 0.0.0.0 www.olitcon.de
 0.0.0.0 www.oliveroarredamenti.it
+0.0.0.0 www.oltzjoa.files.wordpress.com
+0.0.0.0 www.oltzjoa.wordpress.com
 0.0.0.0 www.omniglobe.es
 0.0.0.0 www.onelove.news
 0.0.0.0 www.onirism.fr
@@ -2967,6 +3016,7 @@
 0.0.0.0 www.puysoncar.es
 0.0.0.0 www.pyramide-ansatz.de
 0.0.0.0 www.qasarumur.rest
+0.0.0.0 www.qepx.foroaforo.es
 0.0.0.0 www.qmuthadich.files.wordpress.com
 0.0.0.0 www.qmuthadich.wordpress.com
 0.0.0.0 www.qraedwyg.detsat.ru
@@ -3093,6 +3143,8 @@
 0.0.0.0 www.sensabella.nl
 0.0.0.0 www.septergermaine86.files.wordpress.com
 0.0.0.0 www.septergermaine86.wordpress.com
+0.0.0.0 www.seraphimcliett98.files.wordpress.com
+0.0.0.0 www.seraphimcliett98.wordpress.com
 0.0.0.0 www.sergixadyn.files.wordpress.com
 0.0.0.0 www.sergixadyn.wordpress.com
 0.0.0.0 www.seriyahsiedlecki.files.wordpress.com
@@ -3346,6 +3398,8 @@
 0.0.0.0 www.vanguard-stars.es
 0.0.0.0 www.vanityaffair.it
 0.0.0.0 www.vansah.de
+0.0.0.0 www.vasiliahemmert.files.wordpress.com
+0.0.0.0 www.vasiliahemmert.wordpress.com
 0.0.0.0 www.vbarcadia.pl
 0.0.0.0 www.vdbviridinator.files.wordpress.com
 0.0.0.0 www.vdbviridinator.wordpress.com
@@ -3437,6 +3491,7 @@
 0.0.0.0 www.younkinskyell83.files.wordpress.com
 0.0.0.0 www.younkinskyell83.wordpress.com
 0.0.0.0 www.yventus.de
+0.0.0.0 www.yyedh.aaliaasultana.chat
 0.0.0.0 www.z6y9m.onelove.news
 0.0.0.0 www.za.com
 0.0.0.0 www.zahradnictvi-vesely.cz
@@ -3460,6 +3515,8 @@
 0.0.0.0 www.zoekdeschat.nl
 0.0.0.0 www.zoellevereen1989.files.wordpress.com
 0.0.0.0 www.zoellevereen1989.wordpress.com
+0.0.0.0 www.zollmanjamariya1989.files.wordpress.com
+0.0.0.0 www.zollmanjamariya1989.wordpress.com
 0.0.0.0 www.zpravy.internatkrenovice.cz
 0.0.0.0 www.z-system.cz
 0.0.0.0 www.ztpsapphireineer.files.wordpress.com
@@ -3496,6 +3553,7 @@
 0.0.0.0 younkinskyell83.files.wordpress.com
 0.0.0.0 younkinskyell83.wordpress.com
 0.0.0.0 yventus.de
+0.0.0.0 yyedh.aaliaasultana.chat
 0.0.0.0 z6y9m.onelove.news
 0.0.0.0 za.com
 0.0.0.0 zahradnictvi-vesely.cz
@@ -3519,6 +3577,8 @@
 0.0.0.0 zoekdeschat.nl
 0.0.0.0 zoellevereen1989.files.wordpress.com
 0.0.0.0 zoellevereen1989.wordpress.com
+0.0.0.0 zollmanjamariya1989.files.wordpress.com
+0.0.0.0 zollmanjamariya1989.wordpress.com
 0.0.0.0 zpravy.internatkrenovice.cz
 0.0.0.0 z-system.cz
 0.0.0.0 ztpsapphireineer.files.wordpress.com
