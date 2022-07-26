@@ -1,9 +1,9 @@
 # Name        : fake (malicious/profiting from ads) pdf site blocker
-# Version     : 20220726110202
-# Date        : Tue Jul 26 08:02:02 AM UTC 2022
+# Version     : 20220726111245
+# Date        : Tue Jul 26 08:12:45 AM UTC 2022
 # Repo        : https://gitlab.com/anarcho-copy/block-fake-pdf-sites
 # File        : https://gitlab.com/anarcho-copy/block-fake-pdf-sites/-/raw/master/./output/hosts
-# Total lines : 1791
+# Total lines : 1831
 
 0.0.0.0 0.0.0.0
 0.0.0.0 
@@ -236,7 +236,6 @@
 0.0.0.0 blog.flowwithus.cz
 0.0.0.0 blogger-ilf.ru
 0.0.0.0 blog.ivetafilipova.cz
-0.0.0.0 blogspot.com
 0.0.0.0 bnb-lodge.ch
 0.0.0.0 bnksjqt1.site
 0.0.0.0 boacherize1977.files.wordpress.com
@@ -476,6 +475,7 @@
 0.0.0.0 ekitapcilarr.com
 0.0.0.0 e-kitaphavuzu.com
 0.0.0.0 ekitapindirelim.org
+0.0.0.0 ekitapindirpdf.com
 0.0.0.0 ekitap.site
 0.0.0.0 ekitap.telreh.com
 0.0.0.0 ekitapyeri.com
@@ -502,6 +502,8 @@
 0.0.0.0 eokcogibin.files.wordpress.com
 0.0.0.0 eokcogibin.wordpress.com
 0.0.0.0 epdfkitapindiir.com
+0.0.0.0 epdfkitapindir.com
+0.0.0.0 epdfkitapinndir.com
 0.0.0.0 epdfkitapoku.com
 0.0.0.0 epdfkitapp.com
 0.0.0.0 epub-pdf-fb2-kitabn.info
@@ -586,6 +588,7 @@
 0.0.0.0 friseur-olga.de
 0.0.0.0 ftm.maredavivere.it
 0.0.0.0 ftm.padovafotografia.it
+0.0.0.0 fullpdfkitapindir.com
 0.0.0.0 fuoridaidebiti.eu
 0.0.0.0 furlecge.ml
 0.0.0.0 futnation.fr
@@ -791,6 +794,7 @@
 0.0.0.0 jolavacaster.wordpress.com
 0.0.0.0 jonathan-zerbib.fr
 0.0.0.0 josebamoreno.es
+0.0.0.0 jscinmark.ru
 0.0.0.0 juliaclauss.de
 0.0.0.0 juliansimon.es
 0.0.0.0 juttetuin.nl
@@ -852,16 +856,21 @@
 0.0.0.0 kitaplar.gen.tr
 0.0.0.0 kitaplari-oku.blogger-ilf.ru
 0.0.0.0 kitaplar.ml
+0.0.0.0 kitaplarpdfindir.com
 0.0.0.0 kitaplar.rukomos.ru
 0.0.0.0 kitap.live
 0.0.0.0 kitap-mahzeni.hozyayka.org
 0.0.0.0 kitap.name
 0.0.0.0 kitapokupdfindir.com
+0.0.0.0 kitappdff.com
+0.0.0.0 kitappdffoku.com
 0.0.0.0 kitappdfindir.com
 0.0.0.0 kitappdfindirr.com
 0.0.0.0 kitappdfinndir.com
+0.0.0.0 kitappdflerioku.org
 0.0.0.0 kitap-saklama.kitegu.ru
 0.0.0.0 kitapsizinsan.blogspot.com
+0.0.0.0 kitap-ucretsiz-pdf.info
 0.0.0.0 kitegu.ru
 0.0.0.0 klasingdouglass1985.files.wordpress.com
 0.0.0.0 klasingdouglass1985.wordpress.com
@@ -1173,11 +1182,24 @@
 0.0.0.0 pavelrican.cz
 0.0.0.0 pavlakratka.cz
 0.0.0.0 pcls24.de
+0.0.0.0 pdf0.indirdepo.mobi
+0.0.0.0 pdf1.indirdepo.mobi
+0.0.0.0 pdf2.indirdepo.mobi
+0.0.0.0 pdfarsivindir.com
 0.0.0.0 pdfcehennemi.com
 0.0.0.0 pdfdunyam.com
+0.0.0.0 pdfekitaparsiv.com
 0.0.0.0 pdfekitaparsivii.org
 0.0.0.0 pdfe-kitap.com
+0.0.0.0 pdfekitapevi.blogspot.com
+0.0.0.0 pdfekitapindir.net
+0.0.0.0 pdf-epub-fb2-kitaplar.info
 0.0.0.0 pdf-fb2-kitabn.info
+0.0.0.0 pdfhemenindir.com
+0.0.0.0 pdf.indirdepo.mobi
+0.0.0.0 pdfindir.info
+0.0.0.0 pdfindirkitap.com
+0.0.0.0 pdfindirmek.com
 0.0.0.0 pdfindir.ml
 0.0.0.0 pdfindir.net
 0.0.0.0 pdfindiroku.site
@@ -1190,24 +1212,37 @@
 0.0.0.0 pdfizy.com
 0.0.0.0 pdfkitaparsiv.com
 0.0.0.0 pdfkitaparsivi.com.tr
+0.0.0.0 pdfkitaparsivi.tk
 0.0.0.0 pdfkitapdunyam.com
 0.0.0.0 pdfkitap.ga
 0.0.0.0 pdfkitap.gen.tr
+0.0.0.0 pdfkitaphanem.blogspot.com
 0.0.0.0 pdfkitapindir.co
 0.0.0.0 pdfkitapindirelim.com
+0.0.0.0 pdfkitapindirelim.net
 0.0.0.0 pdf-kitap-indir.info
 0.0.0.0 pdfkitapindir.info
+0.0.0.0 pdfkitapindirokuekitap.blogspot.com
+0.0.0.0 pdfkitapindir.org
 0.0.0.0 pdfkitapindirucretsiz.com
 0.0.0.0 pdfkitapindir.us
 0.0.0.0 pdfkitapindirx.blogspot.com
+0.0.0.0 pdfkitapinndir.blogspot.com
+0.0.0.0 pdfkitaplariindir.files.wordpress.com
+0.0.0.0 pdfkitaplariindir.wordpress.com
 0.0.0.0 pdf-kitaplarl-evrimicii.info
 0.0.0.0 pdf-kitaplar-ucretsiz.info
+0.0.0.0 pdfkitapligi.com
+0.0.0.0 pdfkitapokutr.com
 0.0.0.0 pdfkitap.online
 0.0.0.0 pdfkitap.org
+0.0.0.0 pdfkitapp.com
+0.0.0.0 pdfkitapsitesi.com
 0.0.0.0 pdfkitapucretsiz.com
 0.0.0.0 pdfkitap.web.tr
 0.0.0.0 pdfkitapyurdu.com
 0.0.0.0 pdfkutuphanesi.com
+0.0.0.0 pdfoku.net
 0.0.0.0 pdf-scan.alloverinformation.com
 0.0.0.0 pdfwor.com
 0.0.0.0 pdtpets.elenaetc.es
@@ -1426,6 +1461,7 @@
 0.0.0.0 sharayadino94.files.wordpress.com
 0.0.0.0 sharayadino94.wordpress.com
 0.0.0.0 share.tiodocoultosa.tk
+0.0.0.0 sharing-pdf.jscinmark.ru
 0.0.0.0 sheftemayreni1989.files.wordpress.com
 0.0.0.0 sheftemayreni1989.wordpress.com
 0.0.0.0 shirley-hundefotografie.de
@@ -1599,6 +1635,7 @@
 0.0.0.0 tr.friseur-olga.de
 0.0.0.0 tr.hiposter.ru
 0.0.0.0 trojansystems.de
+0.0.0.0 trpdfs.info
 0.0.0.0 tr.pinterest.com
 0.0.0.0 tr.sppolna.pl
 0.0.0.0 tr.teatroemperador.es
@@ -1628,6 +1665,8 @@
 0.0.0.0 ucretsiz-ekitaplar.site
 0.0.0.0 ucretsiz-kitaplar.live-online-stream.xyz
 0.0.0.0 ucretsiz-kitap-pdf-indirin.com
+0.0.0.0 ucretsiz-pdf-kitap-indir.com
+0.0.0.0 ucretsiz-pdf-kitaplar.info
 0.0.0.0 ugu.girlsobsession.xyz
 0.0.0.0 uhmtifyinothe.files.wordpress.com
 0.0.0.0 uhmtifyinothe.wordpress.com
@@ -1732,6 +1771,7 @@
 0.0.0.0 wpdevcloud.com
 0.0.0.0 wrldlib.ru
 0.0.0.0 wuidschnee.de
+0.0.0.0 ww25.pdfkitapindir.org
 0.0.0.0 www.
 0.0.0.0 www.0801202223.aduardinbeeld.nl
 0.0.0.0 www.100casas.es
@@ -1966,7 +2006,6 @@
 0.0.0.0 www.blog.flowwithus.cz
 0.0.0.0 www.blogger-ilf.ru
 0.0.0.0 www.blog.ivetafilipova.cz
-0.0.0.0 www.blogspot.com
 0.0.0.0 www.bnb-lodge.ch
 0.0.0.0 www.bnksjqt1.site
 0.0.0.0 www.boacherize1977.files.wordpress.com
@@ -2206,6 +2245,7 @@
 0.0.0.0 www.ekitapcilarr.com
 0.0.0.0 www.e-kitaphavuzu.com
 0.0.0.0 www.ekitapindirelim.org
+0.0.0.0 www.ekitapindirpdf.com
 0.0.0.0 www.ekitap.site
 0.0.0.0 www.ekitap.telreh.com
 0.0.0.0 www.ekitapyeri.com
@@ -2233,6 +2273,8 @@
 0.0.0.0 www.eokcogibin.files.wordpress.com
 0.0.0.0 www.eokcogibin.wordpress.com
 0.0.0.0 www.epdfkitapindiir.com
+0.0.0.0 www.epdfkitapindir.com
+0.0.0.0 www.epdfkitapinndir.com
 0.0.0.0 www.epdfkitapoku.com
 0.0.0.0 www.epdfkitapp.com
 0.0.0.0 www.epub-pdf-fb2-kitabn.info
@@ -2318,6 +2360,7 @@
 0.0.0.0 www.friseur-olga.de
 0.0.0.0 www.ftm.maredavivere.it
 0.0.0.0 www.ftm.padovafotografia.it
+0.0.0.0 www.fullpdfkitapindir.com
 0.0.0.0 www.fuoridaidebiti.eu
 0.0.0.0 www.furlecge.ml
 0.0.0.0 www.futnation.fr
@@ -2523,6 +2566,7 @@
 0.0.0.0 www.jolavacaster.wordpress.com
 0.0.0.0 www.jonathan-zerbib.fr
 0.0.0.0 www.josebamoreno.es
+0.0.0.0 www.jscinmark.ru
 0.0.0.0 www.juliaclauss.de
 0.0.0.0 www.juliansimon.es
 0.0.0.0 www.juttetuin.nl
@@ -2584,16 +2628,21 @@
 0.0.0.0 www.kitaplar.gen.tr
 0.0.0.0 www.kitaplari-oku.blogger-ilf.ru
 0.0.0.0 www.kitaplar.ml
+0.0.0.0 www.kitaplarpdfindir.com
 0.0.0.0 www.kitaplar.rukomos.ru
 0.0.0.0 www.kitap.live
 0.0.0.0 www.kitap-mahzeni.hozyayka.org
 0.0.0.0 www.kitap.name
 0.0.0.0 www.kitapokupdfindir.com
+0.0.0.0 www.kitappdff.com
+0.0.0.0 www.kitappdffoku.com
 0.0.0.0 www.kitappdfindir.com
 0.0.0.0 www.kitappdfindirr.com
 0.0.0.0 www.kitappdfinndir.com
+0.0.0.0 www.kitappdflerioku.org
 0.0.0.0 www.kitap-saklama.kitegu.ru
 0.0.0.0 www.kitapsizinsan.blogspot.com
+0.0.0.0 www.kitap-ucretsiz-pdf.info
 0.0.0.0 www.kitegu.ru
 0.0.0.0 www.klasingdouglass1985.files.wordpress.com
 0.0.0.0 www.klasingdouglass1985.wordpress.com
@@ -2905,11 +2954,24 @@
 0.0.0.0 www.pavelrican.cz
 0.0.0.0 www.pavlakratka.cz
 0.0.0.0 www.pcls24.de
+0.0.0.0 www.pdf0.indirdepo.mobi
+0.0.0.0 www.pdf1.indirdepo.mobi
+0.0.0.0 www.pdf2.indirdepo.mobi
+0.0.0.0 www.pdfarsivindir.com
 0.0.0.0 www.pdfcehennemi.com
 0.0.0.0 www.pdfdunyam.com
+0.0.0.0 www.pdfekitaparsiv.com
 0.0.0.0 www.pdfekitaparsivii.org
 0.0.0.0 www.pdfe-kitap.com
+0.0.0.0 www.pdfekitapevi.blogspot.com
+0.0.0.0 www.pdfekitapindir.net
+0.0.0.0 www.pdf-epub-fb2-kitaplar.info
 0.0.0.0 www.pdf-fb2-kitabn.info
+0.0.0.0 www.pdfhemenindir.com
+0.0.0.0 www.pdf.indirdepo.mobi
+0.0.0.0 www.pdfindir.info
+0.0.0.0 www.pdfindirkitap.com
+0.0.0.0 www.pdfindirmek.com
 0.0.0.0 www.pdfindir.ml
 0.0.0.0 www.pdfindir.net
 0.0.0.0 www.pdfindiroku.site
@@ -2922,24 +2984,37 @@
 0.0.0.0 www.pdfizy.com
 0.0.0.0 www.pdfkitaparsiv.com
 0.0.0.0 www.pdfkitaparsivi.com.tr
+0.0.0.0 www.pdfkitaparsivi.tk
 0.0.0.0 www.pdfkitapdunyam.com
 0.0.0.0 www.pdfkitap.ga
 0.0.0.0 www.pdfkitap.gen.tr
+0.0.0.0 www.pdfkitaphanem.blogspot.com
 0.0.0.0 www.pdfkitapindir.co
 0.0.0.0 www.pdfkitapindirelim.com
+0.0.0.0 www.pdfkitapindirelim.net
 0.0.0.0 www.pdf-kitap-indir.info
 0.0.0.0 www.pdfkitapindir.info
+0.0.0.0 www.pdfkitapindirokuekitap.blogspot.com
+0.0.0.0 www.pdfkitapindir.org
 0.0.0.0 www.pdfkitapindirucretsiz.com
 0.0.0.0 www.pdfkitapindir.us
 0.0.0.0 www.pdfkitapindirx.blogspot.com
+0.0.0.0 www.pdfkitapinndir.blogspot.com
+0.0.0.0 www.pdfkitaplariindir.files.wordpress.com
+0.0.0.0 www.pdfkitaplariindir.wordpress.com
 0.0.0.0 www.pdf-kitaplarl-evrimicii.info
 0.0.0.0 www.pdf-kitaplar-ucretsiz.info
+0.0.0.0 www.pdfkitapligi.com
+0.0.0.0 www.pdfkitapokutr.com
 0.0.0.0 www.pdfkitap.online
 0.0.0.0 www.pdfkitap.org
+0.0.0.0 www.pdfkitapp.com
+0.0.0.0 www.pdfkitapsitesi.com
 0.0.0.0 www.pdfkitapucretsiz.com
 0.0.0.0 www.pdfkitap.web.tr
 0.0.0.0 www.pdfkitapyurdu.com
 0.0.0.0 www.pdfkutuphanesi.com
+0.0.0.0 www.pdfoku.net
 0.0.0.0 www.pdf-scan.alloverinformation.com
 0.0.0.0 www.pdfwor.com
 0.0.0.0 www.pdtpets.elenaetc.es
@@ -3158,6 +3233,7 @@
 0.0.0.0 www.sharayadino94.files.wordpress.com
 0.0.0.0 www.sharayadino94.wordpress.com
 0.0.0.0 www.share.tiodocoultosa.tk
+0.0.0.0 www.sharing-pdf.jscinmark.ru
 0.0.0.0 www.sheftemayreni1989.files.wordpress.com
 0.0.0.0 www.sheftemayreni1989.wordpress.com
 0.0.0.0 www.shirley-hundefotografie.de
@@ -3331,6 +3407,7 @@
 0.0.0.0 www.tr.friseur-olga.de
 0.0.0.0 www.tr.hiposter.ru
 0.0.0.0 www.trojansystems.de
+0.0.0.0 www.trpdfs.info
 0.0.0.0 www.tr.pinterest.com
 0.0.0.0 www.tr.sppolna.pl
 0.0.0.0 www.tr.teatroemperador.es
@@ -3360,6 +3437,8 @@
 0.0.0.0 www.ucretsiz-ekitaplar.site
 0.0.0.0 www.ucretsiz-kitaplar.live-online-stream.xyz
 0.0.0.0 www.ucretsiz-kitap-pdf-indirin.com
+0.0.0.0 www.ucretsiz-pdf-kitap-indir.com
+0.0.0.0 www.ucretsiz-pdf-kitaplar.info
 0.0.0.0 www.ugu.girlsobsession.xyz
 0.0.0.0 www.uhmtifyinothe.files.wordpress.com
 0.0.0.0 www.uhmtifyinothe.wordpress.com
@@ -3464,6 +3543,7 @@
 0.0.0.0 www.wpdevcloud.com
 0.0.0.0 www.wrldlib.ru
 0.0.0.0 www.wuidschnee.de
+0.0.0.0 www.ww25.pdfkitapindir.org
 0.0.0.0 www.wziviridimechanic.files.wordpress.com
 0.0.0.0 www.wziviridimechanic.wordpress.com
 0.0.0.0 www.xalam.us

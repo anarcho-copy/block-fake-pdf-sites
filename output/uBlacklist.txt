@@ -1,9 +1,9 @@
 # Name        : fake (malicious/profiting from ads) pdf site blocker
-# Version     : 20220726110202
-# Date        : Tue Jul 26 08:02:02 AM UTC 2022
+# Version     : 20220726111245
+# Date        : Tue Jul 26 08:12:45 AM UTC 2022
 # Repo        : https://gitlab.com/anarcho-copy/block-fake-pdf-sites
 # File        : https://gitlab.com/anarcho-copy/block-fake-pdf-sites/-/raw/master/./output/uBlacklist.txt
-# Total lines : 1791
+# Total lines : 1831
 
 //
 /0801202223.aduardinbeeld.nl/
@@ -235,7 +235,6 @@
 /blog.flowwithus.cz/
 /blogger-ilf.ru/
 /blog.ivetafilipova.cz/
-/blogspot.com/
 /bnb-lodge.ch/
 /bnksjqt1.site/
 /boacherize1977.files.wordpress.com/
@@ -475,6 +474,7 @@
 /ekitapcilarr.com/
 /e-kitaphavuzu.com/
 /ekitapindirelim.org/
+/ekitapindirpdf.com/
 /ekitap.site/
 /ekitap.telreh.com/
 /ekitapyeri.com/
@@ -501,6 +501,8 @@
 /eokcogibin.files.wordpress.com/
 /eokcogibin.wordpress.com/
 /epdfkitapindiir.com/
+/epdfkitapindir.com/
+/epdfkitapinndir.com/
 /epdfkitapoku.com/
 /epdfkitapp.com/
 /epub-pdf-fb2-kitabn.info/
@@ -585,6 +587,7 @@
 /friseur-olga.de/
 /ftm.maredavivere.it/
 /ftm.padovafotografia.it/
+/fullpdfkitapindir.com/
 /fuoridaidebiti.eu/
 /furlecge.ml/
 /futnation.fr/
@@ -790,6 +793,7 @@
 /jolavacaster.wordpress.com/
 /jonathan-zerbib.fr/
 /josebamoreno.es/
+/jscinmark.ru/
 /juliaclauss.de/
 /juliansimon.es/
 /juttetuin.nl/
@@ -851,16 +855,21 @@
 /kitaplar.gen.tr/
 /kitaplari-oku.blogger-ilf.ru/
 /kitaplar.ml/
+/kitaplarpdfindir.com/
 /kitaplar.rukomos.ru/
 /kitap.live/
 /kitap-mahzeni.hozyayka.org/
 /kitap.name/
 /kitapokupdfindir.com/
+/kitappdff.com/
+/kitappdffoku.com/
 /kitappdfindir.com/
 /kitappdfindirr.com/
 /kitappdfinndir.com/
+/kitappdflerioku.org/
 /kitap-saklama.kitegu.ru/
 /kitapsizinsan.blogspot.com/
+/kitap-ucretsiz-pdf.info/
 /kitegu.ru/
 /klasingdouglass1985.files.wordpress.com/
 /klasingdouglass1985.wordpress.com/
@@ -1172,11 +1181,24 @@
 /pavelrican.cz/
 /pavlakratka.cz/
 /pcls24.de/
+/pdf0.indirdepo.mobi/
+/pdf1.indirdepo.mobi/
+/pdf2.indirdepo.mobi/
+/pdfarsivindir.com/
 /pdfcehennemi.com/
 /pdfdunyam.com/
+/pdfekitaparsiv.com/
 /pdfekitaparsivii.org/
 /pdfe-kitap.com/
+/pdfekitapevi.blogspot.com/
+/pdfekitapindir.net/
+/pdf-epub-fb2-kitaplar.info/
 /pdf-fb2-kitabn.info/
+/pdfhemenindir.com/
+/pdf.indirdepo.mobi/
+/pdfindir.info/
+/pdfindirkitap.com/
+/pdfindirmek.com/
 /pdfindir.ml/
 /pdfindir.net/
 /pdfindiroku.site/
@@ -1189,24 +1211,37 @@
 /pdfizy.com/
 /pdfkitaparsiv.com/
 /pdfkitaparsivi.com.tr/
+/pdfkitaparsivi.tk/
 /pdfkitapdunyam.com/
 /pdfkitap.ga/
 /pdfkitap.gen.tr/
+/pdfkitaphanem.blogspot.com/
 /pdfkitapindir.co/
 /pdfkitapindirelim.com/
+/pdfkitapindirelim.net/
 /pdf-kitap-indir.info/
 /pdfkitapindir.info/
+/pdfkitapindirokuekitap.blogspot.com/
+/pdfkitapindir.org/
 /pdfkitapindirucretsiz.com/
 /pdfkitapindir.us/
 /pdfkitapindirx.blogspot.com/
+/pdfkitapinndir.blogspot.com/
+/pdfkitaplariindir.files.wordpress.com/
+/pdfkitaplariindir.wordpress.com/
 /pdf-kitaplarl-evrimicii.info/
 /pdf-kitaplar-ucretsiz.info/
+/pdfkitapligi.com/
+/pdfkitapokutr.com/
 /pdfkitap.online/
 /pdfkitap.org/
+/pdfkitapp.com/
+/pdfkitapsitesi.com/
 /pdfkitapucretsiz.com/
 /pdfkitap.web.tr/
 /pdfkitapyurdu.com/
 /pdfkutuphanesi.com/
+/pdfoku.net/
 /pdf-scan.alloverinformation.com/
 /pdfwor.com/
 /pdtpets.elenaetc.es/
@@ -1425,6 +1460,7 @@
 /sharayadino94.files.wordpress.com/
 /sharayadino94.wordpress.com/
 /share.tiodocoultosa.tk/
+/sharing-pdf.jscinmark.ru/
 /sheftemayreni1989.files.wordpress.com/
 /sheftemayreni1989.wordpress.com/
 /shirley-hundefotografie.de/
@@ -1598,6 +1634,7 @@
 /tr.friseur-olga.de/
 /tr.hiposter.ru/
 /trojansystems.de/
+/trpdfs.info/
 /tr.pinterest.com/
 /tr.sppolna.pl/
 /tr.teatroemperador.es/
@@ -1627,6 +1664,8 @@
 /ucretsiz-ekitaplar.site/
 /ucretsiz-kitaplar.live-online-stream.xyz/
 /ucretsiz-kitap-pdf-indirin.com/
+/ucretsiz-pdf-kitap-indir.com/
+/ucretsiz-pdf-kitaplar.info/
 /ugu.girlsobsession.xyz/
 /uhmtifyinothe.files.wordpress.com/
 /uhmtifyinothe.wordpress.com/
@@ -1731,6 +1770,7 @@
 /wpdevcloud.com/
 /wrldlib.ru/
 /wuidschnee.de/
+/ww25.pdfkitapindir.org/
 /www1.bgprofessionals.nl/
 /www1.elberijschool.nl/
 /www1.fleischerei-rietschel.de/
