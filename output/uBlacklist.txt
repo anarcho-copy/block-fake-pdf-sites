@@ -1,9 +1,9 @@
 # Name        : fake (malicious/profiting from ads) pdf site blocker
-# Version     : 20221101005159
-# Date        : Mon Oct 31 09:51:59 PM UTC 2022
+# Version     : 20221101021150
+# Date        : Mon Oct 31 11:11:50 PM UTC 2022
 # Repo        : https://gitlab.com/anarcho-copy/block-fake-pdf-sites
 # File        : https://gitlab.com/anarcho-copy/block-fake-pdf-sites/-/raw/master/./output/uBlacklist.txt
-# Total lines : 2379
+# Total lines : 2377
 
 /031102022.fuentesguerra.online/
 /0801202223.aduardinbeeld.nl/
@@ -355,7 +355,6 @@
 /bookingcuba.es/
 /bookjjason.blogspot.com/
 /bookkzbll.blogspot.com/
-/books.google.com/
 /books-now.com/
 /booksurfers.co.uk/
 /borajansen.files.wordpress.com/
@@ -848,7 +847,6 @@
 /goocloudchat.files.wordpress.com/
 /goocloudchat.wordpress.com/
 /goodseri.es/
-/google.com/
 /gosgm.com/
 /gotiva-ceramica.it/
 /gourmhestia.es/

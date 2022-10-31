@@ -1,9 +1,9 @@
 # Name        : fake (malicious/profiting from ads) pdf site blocker
-# Version     : 20221101005159
-# Date        : Mon Oct 31 09:51:59 PM UTC 2022
+# Version     : 20221101021150
+# Date        : Mon Oct 31 11:11:50 PM UTC 2022
 # Repo        : https://gitlab.com/anarcho-copy/block-fake-pdf-sites
 # File        : https://gitlab.com/anarcho-copy/block-fake-pdf-sites/-/raw/master/./output/hosts
-# Total lines : 2379
+# Total lines : 2377
 
 0.0.0.0 0.0.0.0
 0.0.0.0 031102022.fuentesguerra.online
@@ -356,7 +356,6 @@
 0.0.0.0 bookingcuba.es
 0.0.0.0 bookjjason.blogspot.com
 0.0.0.0 bookkzbll.blogspot.com
-0.0.0.0 books.google.com
 0.0.0.0 books-now.com
 0.0.0.0 booksurfers.co.uk
 0.0.0.0 borajansen.files.wordpress.com
@@ -849,7 +848,6 @@
 0.0.0.0 goocloudchat.files.wordpress.com
 0.0.0.0 goocloudchat.wordpress.com
 0.0.0.0 goodseri.es
-0.0.0.0 google.com
 0.0.0.0 gosgm.com
 0.0.0.0 gotiva-ceramica.it
 0.0.0.0 gourmhestia.es
@@ -2661,7 +2659,6 @@
 0.0.0.0 www.bookingcuba.es
 0.0.0.0 www.bookjjason.blogspot.com
 0.0.0.0 www.bookkzbll.blogspot.com
-0.0.0.0 www.books.google.com
 0.0.0.0 www.books-now.com
 0.0.0.0 www.booksurfers.co.uk
 0.0.0.0 www.borajansen.files.wordpress.com
@@ -3156,7 +3153,6 @@
 0.0.0.0 www.goocloudchat.files.wordpress.com
 0.0.0.0 www.goocloudchat.wordpress.com
 0.0.0.0 www.goodseri.es
-0.0.0.0 www.google.com
 0.0.0.0 www.gosgm.com
 0.0.0.0 www.gotiva-ceramica.it
 0.0.0.0 www.gourmhestia.es
