@@ -1,9 +1,9 @@
 # Name        : fake (malicious/profiting from ads) pdf site blocker
-# Version     : 20221101224323
-# Date        : Tue Nov  1 07:43:23 PM UTC 2022
+# Version     : 20221101224952
+# Date        : Tue Nov  1 07:49:52 PM UTC 2022
 # Repo        : https://gitlab.com/anarcho-copy/block-fake-pdf-sites
 # File        : https://gitlab.com/anarcho-copy/block-fake-pdf-sites/-/raw/master/./output/hosts
-# Total lines : 2073
+# Total lines : 2100
 
 127.0.0.1 100casas.es
 127.0.0.1 197.news
@@ -12,6 +12,7 @@
 127.0.0.1 2zmgz76x8tw.tokyo
 127.0.0.1 3ddroid.ru
 127.0.0.1 404notfound.nl
+127.0.0.1 aakcmz.za.com
 127.0.0.1 aaliaasultana.chat
 127.0.0.1 aarishbeahm94.files.wordpress.com
 127.0.0.1 aarishbeahm94.wordpress.com
@@ -40,6 +41,7 @@
 127.0.0.1 afaidmarche.it
 127.0.0.1 ag1008.de
 127.0.0.1 agapehosteleria.es
+127.0.0.1 agkepd.za.com
 127.0.0.1 agristudiozeta.it
 127.0.0.1 agroflorseborga.it
 127.0.0.1 agtcyl.es
@@ -280,6 +282,7 @@
 127.0.0.1 brierfeldhake.wordpress.com
 127.0.0.1 bscouvertureperefils.fr
 127.0.0.1 b-solutions.com.pl
+127.0.0.1 bsvvez.za.com
 127.0.0.1 buchwaldjodey.files.wordpress.com
 127.0.0.1 buchwaldjodey.wordpress.com
 127.0.0.1 buehler-versicherungen.de
@@ -332,6 +335,7 @@
 127.0.0.1 certamenandressegovia.es
 127.0.0.1 cestralab-fisioterapia.it
 127.0.0.1 cevapanahtaripdf.com
+127.0.0.1 cfpztm.za.com
 127.0.0.1 cftc-monoprix.fr
 127.0.0.1 chadric-piper69.blogspot.com
 127.0.0.1 champagnelaforge.nl
@@ -368,6 +372,7 @@
 127.0.0.1 clubajedreztoledo.es
 127.0.0.1 club-sub-bellegarde.fr
 127.0.0.1 cnhdxz.ru.com
+127.0.0.1 cnjmce.za.com
 127.0.0.1 colacustala.it
 127.0.0.1 colegioharvest.cl
 127.0.0.1 college-montand.fr
@@ -428,6 +433,7 @@
 127.0.0.1 dbpd.sa.com
 127.0.0.1 dcterrassement.fr
 127.0.0.1 ddm-prestige.fr
+127.0.0.1 ddyvzz.za.com
 127.0.0.1 deavensidles1988.files.wordpress.com
 127.0.0.1 deavensidles1988.wordpress.com
 127.0.0.1 deco3d.es
@@ -496,6 +502,7 @@
 127.0.0.1 dwlitsydom.files.wordpress.com
 127.0.0.1 dwlitsydom.wordpress.com
 127.0.0.1 dzcfmj.sa.com
+127.0.0.1 eagjpn.za.com
 127.0.0.1 eaglemanmehgan98.files.wordpress.com
 127.0.0.1 eaglemanmehgan98.wordpress.com
 127.0.0.1 easycbd.es
@@ -578,6 +585,7 @@
 127.0.0.1 ev-familienzentrum-hiesfeld.de
 127.0.0.1 examenblad.nl
 127.0.0.1 exelec.ch
+127.0.0.1 exgceb.za.com
 127.0.0.1 expiraciondejaen.es
 127.0.0.1 eyekraftnv.ru
 127.0.0.1 eyeseet.nl
@@ -730,6 +738,7 @@
 127.0.0.1 gustl-vom-rhoener-blut.de
 127.0.0.1 guytonsidratul.files.wordpress.com
 127.0.0.1 guytonsidratul.wordpress.com
+127.0.0.1 gvugbu.za.com
 127.0.0.1 haarstudiofinecut.de
 127.0.0.1 habcessdagri1973.files.wordpress.com
 127.0.0.1 habcessdagri1973.wordpress.com
@@ -809,6 +818,7 @@
 127.0.0.1 ilonka-vordermayr-heilpraktikerin.de
 127.0.0.1 imeori.it
 127.0.0.1 imfamont.cz
+127.0.0.1 imjbuc.za.com
 127.0.0.1 immobilier-ozoirlaferriere-era.fr
 127.0.0.1 imperialesposi.it
 127.0.0.1 inbetweendreams.nl
@@ -841,6 +851,7 @@
 127.0.0.1 investinmarche.it
 127.0.0.1 iphoneopt.ru
 127.0.0.1 iphonesremont.ru
+127.0.0.1 ipzpkp.za.com
 127.0.0.1 irkrassvet.ru
 127.0.0.1 iroteenyvale.files.wordpress.com
 127.0.0.1 iroteenyvale.wordpress.com
@@ -860,6 +871,7 @@
 127.0.0.1 iyijadeitect.files.wordpress.com
 127.0.0.1 iyijadeitect.wordpress.com
 127.0.0.1 izliyoo.com
+127.0.0.1 izutma.za.com
 127.0.0.1 jacydemel.files.wordpress.com
 127.0.0.1 jacydemel.wordpress.com
 127.0.0.1 jadenceshbi.files.wordpress.com
@@ -880,6 +892,7 @@
 127.0.0.1 jazilynangellotti.files.wordpress.com
 127.0.0.1 jazilynangellotti.wordpress.com
 127.0.0.1 jcvg.sa.com
+127.0.0.1 jdipgt.za.com
 127.0.0.1 jeanettevoetverzorging.nl
 127.0.0.1 jeovanyderen92.files.wordpress.com
 127.0.0.1 jeovanyderen92.wordpress.com
@@ -1267,6 +1280,7 @@
 127.0.0.1 nbdbiblion.nl
 127.0.0.1 nbezam.ru.com
 127.0.0.1 ncjd.sa.com
+127.0.0.1 ndybue.za.com
 127.0.0.1 necrologimelendugno.it
 127.0.0.1 nehirmishaw84.files.wordpress.com
 127.0.0.1 nehirmishaw84.wordpress.com
@@ -1457,6 +1471,7 @@
 127.0.0.1 piyushkayser.wordpress.com
 127.0.0.1 pj973.vip
 127.0.0.1 pkkid.pl
+127.0.0.1 pkktjm.za.com
 127.0.0.1 pkps.com.pl
 127.0.0.1 plaindesign3d.es
 127.0.0.1 planthouse.cz
@@ -1497,6 +1512,7 @@
 127.0.0.1 pucka59.pl
 127.0.0.1 puentesdecritica.es
 127.0.0.1 puertosur.es
+127.0.0.1 pugfdn.za.com
 127.0.0.1 pulseralia.es
 127.0.0.1 puncsasorkoa1974.files.wordpress.com
 127.0.0.1 puncsasorkoa1974.wordpress.com
@@ -1589,6 +1605,7 @@
 127.0.0.1 rpwanglaree.wordpress.com
 127.0.0.1 rssing.com
 127.0.0.1 rthtalleresruben.es
+127.0.0.1 rtjisy.za.com
 127.0.0.1 rtk.de
 127.0.0.1 rukomos.ru
 127.0.0.1 rumerneftali.files.wordpress.com
@@ -1782,6 +1799,7 @@
 127.0.0.1 synventive.pl
 127.0.0.1 szkocjanet.pl
 127.0.0.1 tabuho.es
+127.0.0.1 taenfa.za.com
 127.0.0.1 tagliaferroassicurazioni.it
 127.0.0.1 tallerestfh.es
 127.0.0.1 tamiragerchak1987.files.wordpress.com
@@ -1818,6 +1836,7 @@
 127.0.0.1 ternistadium.eu
 127.0.0.1 tevfik-fikret-pdf-odf-mp3.site
 127.0.0.1 teze.lt
+127.0.0.1 tgamkj.za.com
 127.0.0.1 tgc-kunratice.cz
 127.0.0.1 thalia.de
 127.0.0.1 thatcherchicoine83.files.wordpress.com
@@ -1826,6 +1845,7 @@
 127.0.0.1 thecbd1.es
 127.0.0.1 thedesigndiamond.com
 127.0.0.1 thereplicants.es
+127.0.0.1 thibzc.za.com
 127.0.0.1 thijsschepens.be
 127.0.0.1 thisismolise.it
 127.0.0.1 thobiasgiambanco92.files.wordpress.com
@@ -1871,6 +1891,7 @@
 127.0.0.1 tremirliston85.files.wordpress.com
 127.0.0.1 tremirliston85.wordpress.com
 127.0.0.1 tremonte.it
+127.0.0.1 trgayz.za.com
 127.0.0.1 trioniaq.ru
 127.0.0.1 tristakhilling95.files.wordpress.com
 127.0.0.1 tristakhilling95.wordpress.com
@@ -1879,6 +1900,7 @@
 127.0.0.1 trpvmr.ru.com
 127.0.0.1 trystonnordahl90.files.wordpress.com
 127.0.0.1 trystonnordahl90.wordpress.com
+127.0.0.1 tsnaiv.za.com
 127.0.0.1 ttdtck.sa.com
 127.0.0.1 tt-schule-bb.de
 127.0.0.1 turkishpdfbooks.info
@@ -1946,6 +1968,7 @@
 127.0.0.1 vansah.de
 127.0.0.1 vasiliahemmert.files.wordpress.com
 127.0.0.1 vasiliahemmert.wordpress.com
+127.0.0.1 vautnn.za.com
 127.0.0.1 vbarcadia.pl
 127.0.0.1 vdbviridinator.files.wordpress.com
 127.0.0.1 vdbviridinator.wordpress.com
@@ -1977,9 +2000,11 @@
 127.0.0.1 votre-protection-sanitaire.fr
 127.0.0.1 vpnnrt.za.com
 127.0.0.1 vpsochy.cz
+127.0.0.1 vruczs.za.com
 127.0.0.1 vstpicasphere.files.wordpress.com
 127.0.0.1 vstpicasphere.wordpress.com
 127.0.0.1 vyrobkyzakatu.cz
+127.0.0.1 vzcngi.za.com
 127.0.0.1 waamaag.fr
 127.0.0.1 wafirmaldives.it
 127.0.0.1 waltermoladori.it
@@ -2026,6 +2051,7 @@
 127.0.0.1 www.2zmgz76x8tw.tokyo
 127.0.0.1 www.3ddroid.ru
 127.0.0.1 www.404notfound.nl
+127.0.0.1 www.aakcmz.za.com
 127.0.0.1 www.aaliaasultana.chat
 127.0.0.1 www.aarishbeahm94.files.wordpress.com
 127.0.0.1 www.aarishbeahm94.wordpress.com
@@ -2054,6 +2080,7 @@
 127.0.0.1 www.afaidmarche.it
 127.0.0.1 www.ag1008.de
 127.0.0.1 www.agapehosteleria.es
+127.0.0.1 www.agkepd.za.com
 127.0.0.1 www.agristudiozeta.it
 127.0.0.1 www.agroflorseborga.it
 127.0.0.1 www.agtcyl.es
@@ -2294,6 +2321,7 @@
 127.0.0.1 www.brierfeldhake.wordpress.com
 127.0.0.1 www.bscouvertureperefils.fr
 127.0.0.1 www.b-solutions.com.pl
+127.0.0.1 www.bsvvez.za.com
 127.0.0.1 www.buchwaldjodey.files.wordpress.com
 127.0.0.1 www.buchwaldjodey.wordpress.com
 127.0.0.1 www.buehler-versicherungen.de
@@ -2346,6 +2374,7 @@
 127.0.0.1 www.certamenandressegovia.es
 127.0.0.1 www.cestralab-fisioterapia.it
 127.0.0.1 www.cevapanahtaripdf.com
+127.0.0.1 www.cfpztm.za.com
 127.0.0.1 www.cftc-monoprix.fr
 127.0.0.1 www.chadric-piper69.blogspot.com
 127.0.0.1 www.champagnelaforge.nl
@@ -2382,6 +2411,7 @@
 127.0.0.1 www.clubajedreztoledo.es
 127.0.0.1 www.club-sub-bellegarde.fr
 127.0.0.1 www.cnhdxz.ru.com
+127.0.0.1 www.cnjmce.za.com
 127.0.0.1 www.colacustala.it
 127.0.0.1 www.colegioharvest.cl
 127.0.0.1 www.college-montand.fr
@@ -2442,6 +2472,7 @@
 127.0.0.1 www.dbpd.sa.com
 127.0.0.1 www.dcterrassement.fr
 127.0.0.1 www.ddm-prestige.fr
+127.0.0.1 www.ddyvzz.za.com
 127.0.0.1 www.deavensidles1988.files.wordpress.com
 127.0.0.1 www.deavensidles1988.wordpress.com
 127.0.0.1 www.deco3d.es
@@ -2510,6 +2541,7 @@
 127.0.0.1 www.dwlitsydom.files.wordpress.com
 127.0.0.1 www.dwlitsydom.wordpress.com
 127.0.0.1 www.dzcfmj.sa.com
+127.0.0.1 www.eagjpn.za.com
 127.0.0.1 www.eaglemanmehgan98.files.wordpress.com
 127.0.0.1 www.eaglemanmehgan98.wordpress.com
 127.0.0.1 www.easycbd.es
@@ -2592,6 +2624,7 @@
 127.0.0.1 www.ev-familienzentrum-hiesfeld.de
 127.0.0.1 www.examenblad.nl
 127.0.0.1 www.exelec.ch
+127.0.0.1 www.exgceb.za.com
 127.0.0.1 www.expiraciondejaen.es
 127.0.0.1 www.eyekraftnv.ru
 127.0.0.1 www.eyeseet.nl
@@ -2744,6 +2777,7 @@
 127.0.0.1 www.gustl-vom-rhoener-blut.de
 127.0.0.1 www.guytonsidratul.files.wordpress.com
 127.0.0.1 www.guytonsidratul.wordpress.com
+127.0.0.1 www.gvugbu.za.com
 127.0.0.1 www.haarstudiofinecut.de
 127.0.0.1 www.habcessdagri1973.files.wordpress.com
 127.0.0.1 www.habcessdagri1973.wordpress.com
@@ -2823,6 +2857,7 @@
 127.0.0.1 www.ilonka-vordermayr-heilpraktikerin.de
 127.0.0.1 www.imeori.it
 127.0.0.1 www.imfamont.cz
+127.0.0.1 www.imjbuc.za.com
 127.0.0.1 www.immobilier-ozoirlaferriere-era.fr
 127.0.0.1 www.imperialesposi.it
 127.0.0.1 www.inbetweendreams.nl
@@ -2855,6 +2890,7 @@
 127.0.0.1 www.investinmarche.it
 127.0.0.1 www.iphoneopt.ru
 127.0.0.1 www.iphonesremont.ru
+127.0.0.1 www.ipzpkp.za.com
 127.0.0.1 www.irkrassvet.ru
 127.0.0.1 www.iroteenyvale.files.wordpress.com
 127.0.0.1 www.iroteenyvale.wordpress.com
@@ -2874,6 +2910,7 @@
 127.0.0.1 www.iyijadeitect.files.wordpress.com
 127.0.0.1 www.iyijadeitect.wordpress.com
 127.0.0.1 www.izliyoo.com
+127.0.0.1 www.izutma.za.com
 127.0.0.1 www.jacydemel.files.wordpress.com
 127.0.0.1 www.jacydemel.wordpress.com
 127.0.0.1 www.jadenceshbi.files.wordpress.com
@@ -2894,6 +2931,7 @@
 127.0.0.1 www.jazilynangellotti.files.wordpress.com
 127.0.0.1 www.jazilynangellotti.wordpress.com
 127.0.0.1 www.jcvg.sa.com
+127.0.0.1 www.jdipgt.za.com
 127.0.0.1 www.jeanettevoetverzorging.nl
 127.0.0.1 www.jeovanyderen92.files.wordpress.com
 127.0.0.1 www.jeovanyderen92.wordpress.com
@@ -3281,6 +3319,7 @@
 127.0.0.1 www.nbdbiblion.nl
 127.0.0.1 www.nbezam.ru.com
 127.0.0.1 www.ncjd.sa.com
+127.0.0.1 www.ndybue.za.com
 127.0.0.1 www.necrologimelendugno.it
 127.0.0.1 www.nehirmishaw84.files.wordpress.com
 127.0.0.1 www.nehirmishaw84.wordpress.com
@@ -3471,6 +3510,7 @@
 127.0.0.1 www.piyushkayser.wordpress.com
 127.0.0.1 www.pj973.vip
 127.0.0.1 www.pkkid.pl
+127.0.0.1 www.pkktjm.za.com
 127.0.0.1 www.pkps.com.pl
 127.0.0.1 www.plaindesign3d.es
 127.0.0.1 www.planthouse.cz
@@ -3511,6 +3551,7 @@
 127.0.0.1 www.pucka59.pl
 127.0.0.1 www.puentesdecritica.es
 127.0.0.1 www.puertosur.es
+127.0.0.1 www.pugfdn.za.com
 127.0.0.1 www.pulseralia.es
 127.0.0.1 www.puncsasorkoa1974.files.wordpress.com
 127.0.0.1 www.puncsasorkoa1974.wordpress.com
@@ -3603,6 +3644,7 @@
 127.0.0.1 www.rpwanglaree.wordpress.com
 127.0.0.1 www.rssing.com
 127.0.0.1 www.rthtalleresruben.es
+127.0.0.1 www.rtjisy.za.com
 127.0.0.1 www.rtk.de
 127.0.0.1 www.rukomos.ru
 127.0.0.1 www.rumerneftali.files.wordpress.com
@@ -3796,6 +3838,7 @@
 127.0.0.1 www.synventive.pl
 127.0.0.1 www.szkocjanet.pl
 127.0.0.1 www.tabuho.es
+127.0.0.1 www.taenfa.za.com
 127.0.0.1 www.tagliaferroassicurazioni.it
 127.0.0.1 www.tallerestfh.es
 127.0.0.1 www.tamiragerchak1987.files.wordpress.com
@@ -3832,6 +3875,7 @@
 127.0.0.1 www.ternistadium.eu
 127.0.0.1 www.tevfik-fikret-pdf-odf-mp3.site
 127.0.0.1 www.teze.lt
+127.0.0.1 www.tgamkj.za.com
 127.0.0.1 www.tgc-kunratice.cz
 127.0.0.1 www.thalia.de
 127.0.0.1 www.thatcherchicoine83.files.wordpress.com
@@ -3840,6 +3884,7 @@
 127.0.0.1 www.thecbd1.es
 127.0.0.1 www.thedesigndiamond.com
 127.0.0.1 www.thereplicants.es
+127.0.0.1 www.thibzc.za.com
 127.0.0.1 www.thijsschepens.be
 127.0.0.1 www.thisismolise.it
 127.0.0.1 www.thobiasgiambanco92.files.wordpress.com
@@ -3885,6 +3930,7 @@
 127.0.0.1 www.tremirliston85.files.wordpress.com
 127.0.0.1 www.tremirliston85.wordpress.com
 127.0.0.1 www.tremonte.it
+127.0.0.1 www.trgayz.za.com
 127.0.0.1 www.trioniaq.ru
 127.0.0.1 www.tristakhilling95.files.wordpress.com
 127.0.0.1 www.tristakhilling95.wordpress.com
@@ -3893,6 +3939,7 @@
 127.0.0.1 www.trpvmr.ru.com
 127.0.0.1 www.trystonnordahl90.files.wordpress.com
 127.0.0.1 www.trystonnordahl90.wordpress.com
+127.0.0.1 www.tsnaiv.za.com
 127.0.0.1 www.ttdtck.sa.com
 127.0.0.1 www.tt-schule-bb.de
 127.0.0.1 www.turkishpdfbooks.info
@@ -3960,6 +4007,7 @@
 127.0.0.1 www.vansah.de
 127.0.0.1 www.vasiliahemmert.files.wordpress.com
 127.0.0.1 www.vasiliahemmert.wordpress.com
+127.0.0.1 www.vautnn.za.com
 127.0.0.1 www.vbarcadia.pl
 127.0.0.1 www.vdbviridinator.files.wordpress.com
 127.0.0.1 www.vdbviridinator.wordpress.com
@@ -3991,9 +4039,11 @@
 127.0.0.1 www.votre-protection-sanitaire.fr
 127.0.0.1 www.vpnnrt.za.com
 127.0.0.1 www.vpsochy.cz
+127.0.0.1 www.vruczs.za.com
 127.0.0.1 www.vstpicasphere.files.wordpress.com
 127.0.0.1 www.vstpicasphere.wordpress.com
 127.0.0.1 www.vyrobkyzakatu.cz
+127.0.0.1 www.vzcngi.za.com
 127.0.0.1 www.waamaag.fr
 127.0.0.1 www.wafirmaldives.it
 127.0.0.1 www.waltermoladori.it
@@ -4044,6 +4094,7 @@
 127.0.0.1 www.xkfl.sa.com
 127.0.0.1 www.xlbfreshhive.files.wordpress.com
 127.0.0.1 www.xlbfreshhive.wordpress.com
+127.0.0.1 www.xmghev.za.com
 127.0.0.1 www.xmtgoldalizer.files.wordpress.com
 127.0.0.1 www.xmtgoldalizer.wordpress.com
 127.0.0.1 www.xzaviannemecek.files.wordpress.com
@@ -4069,6 +4120,7 @@
 127.0.0.1 www.zaveahgilhooly98.wordpress.com
 127.0.0.1 www.zbornikpetr.cz
 127.0.0.1 www.zdajegzamin.pl
+127.0.0.1 www.zdhfbk.za.com
 127.0.0.1 www.zeccardilc.files.wordpress.com
 127.0.0.1 www.zeccardilc.wordpress.com
 127.0.0.1 www.zeinstrahoveniers.nl
@@ -4103,6 +4155,7 @@
 127.0.0.1 xkfl.sa.com
 127.0.0.1 xlbfreshhive.files.wordpress.com
 127.0.0.1 xlbfreshhive.wordpress.com
+127.0.0.1 xmghev.za.com
 127.0.0.1 xmtgoldalizer.files.wordpress.com
 127.0.0.1 xmtgoldalizer.wordpress.com
 127.0.0.1 xzaviannemecek.files.wordpress.com
@@ -4128,6 +4181,7 @@
 127.0.0.1 zaveahgilhooly98.wordpress.com
 127.0.0.1 zbornikpetr.cz
 127.0.0.1 zdajegzamin.pl
+127.0.0.1 zdhfbk.za.com
 127.0.0.1 zeccardilc.files.wordpress.com
 127.0.0.1 zeccardilc.wordpress.com
 127.0.0.1 zeinstrahoveniers.nl
