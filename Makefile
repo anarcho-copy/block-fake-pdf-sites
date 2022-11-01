@@ -4,6 +4,7 @@ help: .config/makehelp src/makefile2help.sh
 	@src/makefile2help.sh -c $(CONFIG)
 
 generate: $(BLACKLIST_DOMAINS) $(WASTE_LOGIN_REQUIRED) $(WHITELIST_DOMAINS) $(WHITELIST_TURKISH_BOOKSTORES) $(OTHER_HOSTS_SOURCES)/ $(OTHER_UBLACKLIST_SOURCES)/ src/generate.sh
+	make check
 	@echo Generating files...
 	src/generate.sh
 
@@ -14,6 +15,7 @@ generate-with-fetch:
 	make generate
 
 generate-all: $(BLACKLIST_DOMAINS) $(WASTE_LOGIN_REQUIRED) $(WHITELIST_DOMAINS) $(WHITELIST_TURKISH_BOOKSTORES) $(OTHER_HOSTS_SOURCES)/ $(OTHER_UBLACKLIST_SOURCES)/ src/generate.sh
+	make check
 	@echo Generating all files...
 	src/generate.sh --all
 
@@ -28,6 +30,7 @@ clean:
 	rm -rf $(UBLACKLIST) $(HOSTS) $(DNSMASQ) $(TEMP) $(RAW)
 
 check: INSTALL src/check.sh
+	@echo Checking requirements...
 	@src/check.sh
 
 fetch: $(OTHER_HOSTS_SOURCES)/ $(OTHER_UBLACKLIST_SOURCES)/ src/fetch.sh
