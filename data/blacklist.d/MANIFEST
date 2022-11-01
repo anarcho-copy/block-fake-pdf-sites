@@ -1,23 +1,23 @@
-search_term,search_time
-site:*.wordpress.com "Bütün kitaplar. 30 günlük deneme sürümü.",2022-05-02T00:00:00+00:00
-site:*.cz "bahis",2022-05-02T00:00:00+00:00
-site:*.cz OR site:*.nl "pdf indir" "bahis" "spor",2022-05-02T00:00:00+00:00
-"pdf indir" "bahis" "spor",2022-05-02T00:00:00+00:00
-"pdf indir" "bitcoin" "nft",2022-05-02T00:00:00+00:00
-site:*.nl OR site:*.es OR site:*.cz OR site:*.it OR site:*.de "Kürk Mantolu Madonna" "pdf",2022-05-02T00:00:00+00:00
-"bahis" "bitcoin" "pdf",2022-05-02T00:00:00+00:00
-"bahis" "anarşizm" "spor",2022-05-02T00:00:00+00:00
-site:*.nl OR site:*.es OR site:*.cz OR site:*.it "Kürk Mantolu Madonna" "pdf",2022-06-23T00:00:00+00:00
-site:*.es OR site:*.de OR site:*.fr OR site:*.cz "bahis" pdf,2022-06-23T00:00:00+00:00
-site:*.es OR site:*.de OR site:*.fr OR site:*.cz OR site:*.it OR site:*.tk OR site:*.ga "bahis" pdf,2022-06-23T00:00:00+00:00
-"Tenin Sınırlarının Ötesine" pdf,2022-06-30T00:00:00+00:00
-"okumak internet üzerinden" "pdf",2022-06-30T00:00:00+00:00
-"okumak internet üzerinden" "Taşınabilir belge biçimi",2022-06-30T00:00:00+00:00
-"okumak internet üzerinden",2022-06-30T00:00:00+00:00
-"hangi uygulamada oluşturulduğuna bakılmaksızın",2022-06-30T00:00:00+00:00
-"Alla böcker. 30 dagars gratis provperiod",2022-07-25T00:00:00+00:00
-"Siz değerli öğrenci kardeşlerimiz için" "Dosyasını aşağıda indirme bağlantısına ekledik",2022-11-01T09:56:28+00:00
-site:wordpress.com "Bütün kitaplar. 30 günlük deneme sürümü.",2022-11-01T19:17:27+00:00
-"Bütün kitaplar. 30 günlük deneme sürümü.",2022-11-01T19:34:27+00:00
-"Merhaba topluluk! Bana yardım et lütfen. ihtiyacım var",2022-11-01T19:42:36+00:00
-site:za.com "Merhaba topluluk! Bana yardım et lütfen. ihtiyacım var",2022-11-01T19:49:04+00:00
+search_term,search_time,search_engine
+site:*.wordpress.com "Bütün kitaplar. 30 günlük deneme sürümü.",2022-05-02T00:00:00+00:00,google
+site:*.cz "bahis",2022-05-02T00:00:00+00:00,google
+site:*.cz OR site:*.nl "pdf indir" "bahis" "spor",2022-05-02T00:00:00+00:00,google
+"pdf indir" "bahis" "spor",2022-05-02T00:00:00+00:00,google
+"pdf indir" "bitcoin" "nft",2022-05-02T00:00:00+00:00,google
+site:*.nl OR site:*.es OR site:*.cz OR site:*.it OR site:*.de "Kürk Mantolu Madonna" "pdf",2022-05-02T00:00:00+00:00,google
+"bahis" "bitcoin" "pdf",2022-05-02T00:00:00+00:00,google
+"bahis" "anarşizm" "spor",2022-05-02T00:00:00+00:00,google
+site:*.nl OR site:*.es OR site:*.cz OR site:*.it "Kürk Mantolu Madonna" "pdf",2022-06-23T00:00:00+00:00,google
+site:*.es OR site:*.de OR site:*.fr OR site:*.cz "bahis" pdf,2022-06-23T00:00:00+00:00,google
+site:*.es OR site:*.de OR site:*.fr OR site:*.cz OR site:*.it OR site:*.tk OR site:*.ga "bahis" pdf,2022-06-23T00:00:00+00:00,google
+"Tenin Sınırlarının Ötesine" pdf,2022-06-30T00:00:00+00:00,google
+"okumak internet üzerinden" "pdf",2022-06-30T00:00:00+00:00,google
+"okumak internet üzerinden" "Taşınabilir belge biçimi",2022-06-30T00:00:00+00:00,google
+"okumak internet üzerinden",2022-06-30T00:00:00+00:00,google
+"hangi uygulamada oluşturulduğuna bakılmaksızın",2022-06-30T00:00:00+00:00,google
+"Alla böcker. 30 dagars gratis provperiod",2022-07-25T00:00:00+00:00,google
+"Siz değerli öğrenci kardeşlerimiz için" "Dosyasını aşağıda indirme bağlantısına ekledik",2022-11-01T09:56:28+00:00,google
+site:wordpress.com "Bütün kitaplar. 30 günlük deneme sürümü.",2022-11-01T19:17:27+00:00,google
+"Bütün kitaplar. 30 günlük deneme sürümü.",2022-11-01T19:34:27+00:00,google
+"Merhaba topluluk! Bana yardım et lütfen. ihtiyacım var",2022-11-01T19:42:36+00:00,google
+site:za.com "Merhaba topluluk! Bana yardım et lütfen. ihtiyacım var",2022-11-01T19:49:04+00:00,google
