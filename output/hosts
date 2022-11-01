@@ -1,9 +1,9 @@
 # Name        : fake (malicious/profiting from ads) pdf site blocker
-# Version     : 20221101230122
-# Date        : Tue Nov  1 08:01:22 PM UTC 2022
+# Version     : 20221101230512
+# Date        : Tue Nov  1 08:05:12 PM UTC 2022
 # Repo        : https://gitlab.com/anarcho-copy/block-fake-pdf-sites
 # File        : https://gitlab.com/anarcho-copy/block-fake-pdf-sites/-/raw/master/./output/hosts
-# Total lines : 2132
+# Total lines : 2135
 
 127.0.0.1 100casas.es
 127.0.0.1 197.news
@@ -1255,6 +1255,7 @@
 127.0.0.1 mqrbookerce.files.wordpress.com
 127.0.0.1 mqrbookerce.wordpress.com
 127.0.0.1 mrfisioterapia.es
+127.0.0.1 mrxtfn.za.com
 127.0.0.1 mscalzadosymoda.es
 127.0.0.1 msgenova2022.it
 127.0.0.1 mspot.lt
@@ -1358,6 +1359,8 @@
 127.0.0.1 onlinewebshop.net
 127.0.0.1 onoranzefunebrimarecchia.it
 127.0.0.1 onpu.sa.com
+127.0.0.1 oomovoe.com
+127.0.0.1 oomovoi.com
 127.0.0.1 opalys83.fr
 127.0.0.1 openlandschapkaagenbraassem.nl
 127.0.0.1 originalsamaya.cz
@@ -3322,6 +3325,7 @@
 127.0.0.1 www.mqrbookerce.files.wordpress.com
 127.0.0.1 www.mqrbookerce.wordpress.com
 127.0.0.1 www.mrfisioterapia.es
+127.0.0.1 www.mrxtfn.za.com
 127.0.0.1 www.mscalzadosymoda.es
 127.0.0.1 www.msgenova2022.it
 127.0.0.1 www.mspot.lt
@@ -3425,6 +3429,8 @@
 127.0.0.1 www.onlinewebshop.net
 127.0.0.1 www.onoranzefunebrimarecchia.it
 127.0.0.1 www.onpu.sa.com
+127.0.0.1 www.oomovoe.com
+127.0.0.1 www.oomovoi.com
 127.0.0.1 www.opalys83.fr
 127.0.0.1 www.openlandschapkaagenbraassem.nl
 127.0.0.1 www.originalsamaya.cz
