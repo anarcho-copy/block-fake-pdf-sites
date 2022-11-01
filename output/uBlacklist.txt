@@ -1,9 +1,9 @@
 # Name        : fake (malicious/profiting from ads) pdf site blocker
-# Version     : 20221101130258
-# Date        : Tue Nov  1 10:02:58 AM UTC 2022
+# Version     : 20221101221941
+# Date        : Tue Nov  1 07:19:41 PM UTC 2022
 # Repo        : https://gitlab.com/anarcho-copy/block-fake-pdf-sites
 # File        : https://gitlab.com/anarcho-copy/block-fake-pdf-sites/-/raw/master/./output/uBlacklist.txt
-# Total lines : 1940
+# Total lines : 1976
 
 *://*.100casas.es/*
 *://*.197.news/*
@@ -62,8 +62,12 @@
 *://*.allegrapistol.wordpress.com/*
 *://*.allengland.ru/*
 *://*.allgaeu-fewo-hildebrandt.de/*
+*://*.allijahboen91.files.wordpress.com/*
+*://*.allijahboen91.wordpress.com/*
 *://*.alloverinformation.com/*
 *://*.allresultsbd.net/*
+*://*.alperenvictor1985.files.wordpress.com/*
+*://*.alperenvictor1985.wordpress.com/*
 *://*.alphadeals24.de/*
 *://*.alpignano5stelle.it/*
 *://*.alquilercoches-villalba.es/*
@@ -221,6 +225,8 @@
 *://*.birdtalk.nl/*
 *://*.biscarideclan1996.files.wordpress.com/*
 *://*.biscarideclan1996.wordpress.com/*
+*://*.bistiigrapher1987.files.wordpress.com/*
+*://*.bistiigrapher1987.wordpress.com/*
 *://*.bistrozator.pl/*
 *://*.bjs.cz/*
 *://*.blanqueryasociados.es/*
@@ -563,6 +569,8 @@
 *://*.farmaciamiguelgallego.es/*
 *://*.farmaciavilardell-santpedor.cat/*
 *://*.farmnet.news/*
+*://*.farontlatelpa1997.files.wordpress.com/*
+*://*.farontlatelpa1997.wordpress.com/*
 *://*.fashionlaw.cl/*
 *://*.fashmask.es/*
 *://*.fastonline.news/*
@@ -591,6 +599,8 @@
 *://*.florian-sayous-armary.fr/*
 *://*.flowwithus.cz/*
 *://*.flufs.pl/*
+*://*.folmerayuub1989.files.wordpress.com/*
+*://*.folmerayuub1989.wordpress.com/*
 *://*.fondazioneenricomatteimatelica.it/*
 *://*.forbishoctavio.files.wordpress.com/*
 *://*.forbishoctavio.wordpress.com/*
@@ -860,6 +870,8 @@
 *://*.kahdenvecellio82.wordpress.com/*
 *://*.kahrijesenovec1989.files.wordpress.com/*
 *://*.kahrijesenovec1989.wordpress.com/*
+*://*.kaidencewashurn1999.files.wordpress.com/*
+*://*.kaidencewashurn1999.wordpress.com/*
 *://*.kamieniarstwo-rozental.pl/*
 *://*.karinnelanzillotti.files.wordpress.com/*
 *://*.karinnelanzillotti.wordpress.com/*
@@ -966,6 +978,8 @@
 *://*.lassanalenahan90.wordpress.com/*
 *://*.lasvigasyvaldecarro.es/*
 *://*.latahonadealejos.es/*
+*://*.lataillexyler.files.wordpress.com/*
+*://*.lataillexyler.wordpress.com/*
 *://*.latkovna-modestia.cz/*
 *://*.latoquedejacque.fr/*
 *://*.lavinadelgranteatro.es/*
@@ -998,6 +1012,8 @@
 *://*.lhulanamuseld.wordpress.com/*
 *://*.liammatthewiker1997.files.wordpress.com/*
 *://*.liammatthewiker1997.wordpress.com/*
+*://*.lighthillbeliz1992.files.wordpress.com/*
+*://*.lighthillbeliz1992.wordpress.com/*
 *://*.lightsintheheights.com.au/*
 *://*.limitlessdownloads.com/*
 *://*.limousinenservice-fritzsche.de/*
@@ -1284,6 +1300,8 @@
 *://*.pause-accept.nl/*
 *://*.pavelrican.cz/*
 *://*.pavlakratka.cz/*
+*://*.payblogimhoe1976.files.wordpress.com/*
+*://*.payblogimhoe1976.wordpress.com/*
 *://*.payperinstall.net/*
 *://*.pcls24.de/*
 *://*.pdfarsivindir.com/*
@@ -1578,6 +1596,8 @@
 *://*.sevanaalimo85.files.wordpress.com/*
 *://*.sevanaalimo85.wordpress.com/*
 *://*.sevillaesdigital.es/*
+*://*.shaddenkeeleigh.files.wordpress.com/*
+*://*.shaddenkeeleigh.wordpress.com/*
 *://*.shamelessmtp.fr/*
 *://*.shamilazampieri91.files.wordpress.com/*
 *://*.shamilazampieri91.wordpress.com/*
@@ -1619,6 +1639,8 @@
 *://*.sogun.lt/*
 *://*.sokolowichlaina.files.wordpress.com/*
 *://*.sokolowichlaina.wordpress.com/*
+*://*.solasmaclynn.files.wordpress.com/*
+*://*.solasmaclynn.wordpress.com/*
 *://*.solidbeats.es/*
 *://*.solucionvertical.es/*
 *://*.sonne-statt-oel.de/*
@@ -1638,6 +1660,8 @@
 *://*.stammheim-hilft.de/*
 *://*.starlynvarieur.files.wordpress.com/*
 *://*.starlynvarieur.wordpress.com/*
+*://*.stathamhanus.files.wordpress.com/*
+*://*.stathamhanus.wordpress.com/*
 *://*.steiberbeka1985.files.wordpress.com/*
 *://*.steiberbeka1985.wordpress.com/*
 *://*.stelledivine.it/*
@@ -1758,6 +1782,12 @@
 *://*.trattoriadatoto.it/*
 *://*.travalikourtland.files.wordpress.com/*
 *://*.travalikourtland.wordpress.com/*
+*://*.traversakashten1985.files.wordpress.com/*
+*://*.traversakashten1985.wordpress.com/*
+*://*.traversebraya87.files.wordpress.com/*
+*://*.traversebraya87.wordpress.com/*
+*://*.tremirliston85.files.wordpress.com/*
+*://*.tremirliston85.wordpress.com/*
 *://*.tremonte.it/*
 *://*.tristakhilling95.files.wordpress.com/*
 *://*.tristakhilling95.wordpress.com/*
@@ -1785,6 +1815,8 @@
 *://*.tylunvernia1991.wordpress.com/*
 *://*.uams.edu/*
 *://*.ucebnice.cz/*
+*://*.ucocvicro1977.files.wordpress.com/*
+*://*.ucocvicro1977.wordpress.com/*
 *://*.ucretsiz-ekitaplar.site/*
 *://*.ucretsiz-kitap-pdf-indirin.com/*
 *://*.ucretsiz-pdf-kitap-indir.com/*
@@ -1869,6 +1901,8 @@
 *://*.wedigoliath.wordpress.com/*
 *://*.weidezaun-volke.de/*
 *://*.weinbau-strauss.de/*
+*://*.weromalana.files.wordpress.com/*
+*://*.weromalana.wordpress.com/*
 *://*.weslowkeiran85.files.wordpress.com/*
 *://*.weslowkeiran85.wordpress.com/*
 *://*.wg-wohnen-nienburg.de/*
@@ -1880,6 +1914,8 @@
 *://*.wimbligeter1979.files.wordpress.com/*
 *://*.wimbligeter1979.wordpress.com/*
 *://*.windsurfingbazar.cz/*
+*://*.witlilildi1977.files.wordpress.com/*
+*://*.witlilildi1977.wordpress.com/*
 *://*.wloszakowice2021.pl/*
 *://*.wms-erdbau.de/*
 *://*.wmshop.fr/*

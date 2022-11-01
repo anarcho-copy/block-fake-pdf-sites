@@ -1,9 +1,9 @@
 # Name        : fake (malicious/profiting from ads) pdf site blocker
-# Version     : 20221101130258
-# Date        : Tue Nov  1 10:02:58 AM UTC 2022
+# Version     : 20221101221941
+# Date        : Tue Nov  1 07:19:41 PM UTC 2022
 # Repo        : https://gitlab.com/anarcho-copy/block-fake-pdf-sites
 # File        : https://gitlab.com/anarcho-copy/block-fake-pdf-sites/-/raw/master/./output/hosts
-# Total lines : 1940
+# Total lines : 1976
 
 127.0.0.1 100casas.es
 127.0.0.1 197.news
@@ -62,8 +62,12 @@
 127.0.0.1 allegrapistol.wordpress.com
 127.0.0.1 allengland.ru
 127.0.0.1 allgaeu-fewo-hildebrandt.de
+127.0.0.1 allijahboen91.files.wordpress.com
+127.0.0.1 allijahboen91.wordpress.com
 127.0.0.1 alloverinformation.com
 127.0.0.1 allresultsbd.net
+127.0.0.1 alperenvictor1985.files.wordpress.com
+127.0.0.1 alperenvictor1985.wordpress.com
 127.0.0.1 alphadeals24.de
 127.0.0.1 alpignano5stelle.it
 127.0.0.1 alquilercoches-villalba.es
@@ -221,6 +225,8 @@
 127.0.0.1 birdtalk.nl
 127.0.0.1 biscarideclan1996.files.wordpress.com
 127.0.0.1 biscarideclan1996.wordpress.com
+127.0.0.1 bistiigrapher1987.files.wordpress.com
+127.0.0.1 bistiigrapher1987.wordpress.com
 127.0.0.1 bistrozator.pl
 127.0.0.1 bjs.cz
 127.0.0.1 blanqueryasociados.es
@@ -563,6 +569,8 @@
 127.0.0.1 farmaciamiguelgallego.es
 127.0.0.1 farmaciavilardell-santpedor.cat
 127.0.0.1 farmnet.news
+127.0.0.1 farontlatelpa1997.files.wordpress.com
+127.0.0.1 farontlatelpa1997.wordpress.com
 127.0.0.1 fashionlaw.cl
 127.0.0.1 fashmask.es
 127.0.0.1 fastonline.news
@@ -591,6 +599,8 @@
 127.0.0.1 florian-sayous-armary.fr
 127.0.0.1 flowwithus.cz
 127.0.0.1 flufs.pl
+127.0.0.1 folmerayuub1989.files.wordpress.com
+127.0.0.1 folmerayuub1989.wordpress.com
 127.0.0.1 fondazioneenricomatteimatelica.it
 127.0.0.1 forbishoctavio.files.wordpress.com
 127.0.0.1 forbishoctavio.wordpress.com
@@ -860,6 +870,8 @@
 127.0.0.1 kahdenvecellio82.wordpress.com
 127.0.0.1 kahrijesenovec1989.files.wordpress.com
 127.0.0.1 kahrijesenovec1989.wordpress.com
+127.0.0.1 kaidencewashurn1999.files.wordpress.com
+127.0.0.1 kaidencewashurn1999.wordpress.com
 127.0.0.1 kamieniarstwo-rozental.pl
 127.0.0.1 karinnelanzillotti.files.wordpress.com
 127.0.0.1 karinnelanzillotti.wordpress.com
@@ -966,6 +978,8 @@
 127.0.0.1 lassanalenahan90.wordpress.com
 127.0.0.1 lasvigasyvaldecarro.es
 127.0.0.1 latahonadealejos.es
+127.0.0.1 lataillexyler.files.wordpress.com
+127.0.0.1 lataillexyler.wordpress.com
 127.0.0.1 latkovna-modestia.cz
 127.0.0.1 latoquedejacque.fr
 127.0.0.1 lavinadelgranteatro.es
@@ -998,6 +1012,8 @@
 127.0.0.1 lhulanamuseld.wordpress.com
 127.0.0.1 liammatthewiker1997.files.wordpress.com
 127.0.0.1 liammatthewiker1997.wordpress.com
+127.0.0.1 lighthillbeliz1992.files.wordpress.com
+127.0.0.1 lighthillbeliz1992.wordpress.com
 127.0.0.1 lightsintheheights.com.au
 127.0.0.1 limitlessdownloads.com
 127.0.0.1 limousinenservice-fritzsche.de
@@ -1284,6 +1300,8 @@
 127.0.0.1 pause-accept.nl
 127.0.0.1 pavelrican.cz
 127.0.0.1 pavlakratka.cz
+127.0.0.1 payblogimhoe1976.files.wordpress.com
+127.0.0.1 payblogimhoe1976.wordpress.com
 127.0.0.1 payperinstall.net
 127.0.0.1 pcls24.de
 127.0.0.1 pdfarsivindir.com
@@ -1578,6 +1596,8 @@
 127.0.0.1 sevanaalimo85.files.wordpress.com
 127.0.0.1 sevanaalimo85.wordpress.com
 127.0.0.1 sevillaesdigital.es
+127.0.0.1 shaddenkeeleigh.files.wordpress.com
+127.0.0.1 shaddenkeeleigh.wordpress.com
 127.0.0.1 shamelessmtp.fr
 127.0.0.1 shamilazampieri91.files.wordpress.com
 127.0.0.1 shamilazampieri91.wordpress.com
@@ -1619,6 +1639,8 @@
 127.0.0.1 sogun.lt
 127.0.0.1 sokolowichlaina.files.wordpress.com
 127.0.0.1 sokolowichlaina.wordpress.com
+127.0.0.1 solasmaclynn.files.wordpress.com
+127.0.0.1 solasmaclynn.wordpress.com
 127.0.0.1 solidbeats.es
 127.0.0.1 solucionvertical.es
 127.0.0.1 sonne-statt-oel.de
@@ -1638,6 +1660,8 @@
 127.0.0.1 stammheim-hilft.de
 127.0.0.1 starlynvarieur.files.wordpress.com
 127.0.0.1 starlynvarieur.wordpress.com
+127.0.0.1 stathamhanus.files.wordpress.com
+127.0.0.1 stathamhanus.wordpress.com
 127.0.0.1 steiberbeka1985.files.wordpress.com
 127.0.0.1 steiberbeka1985.wordpress.com
 127.0.0.1 stelledivine.it
@@ -1758,6 +1782,12 @@
 127.0.0.1 trattoriadatoto.it
 127.0.0.1 travalikourtland.files.wordpress.com
 127.0.0.1 travalikourtland.wordpress.com
+127.0.0.1 traversakashten1985.files.wordpress.com
+127.0.0.1 traversakashten1985.wordpress.com
+127.0.0.1 traversebraya87.files.wordpress.com
+127.0.0.1 traversebraya87.wordpress.com
+127.0.0.1 tremirliston85.files.wordpress.com
+127.0.0.1 tremirliston85.wordpress.com
 127.0.0.1 tremonte.it
 127.0.0.1 tristakhilling95.files.wordpress.com
 127.0.0.1 tristakhilling95.wordpress.com
@@ -1785,6 +1815,8 @@
 127.0.0.1 tylunvernia1991.wordpress.com
 127.0.0.1 uams.edu
 127.0.0.1 ucebnice.cz
+127.0.0.1 ucocvicro1977.files.wordpress.com
+127.0.0.1 ucocvicro1977.wordpress.com
 127.0.0.1 ucretsiz-ekitaplar.site
 127.0.0.1 ucretsiz-kitap-pdf-indirin.com
 127.0.0.1 ucretsiz-pdf-kitap-indir.com
@@ -1869,6 +1901,8 @@
 127.0.0.1 wedigoliath.wordpress.com
 127.0.0.1 weidezaun-volke.de
 127.0.0.1 weinbau-strauss.de
+127.0.0.1 weromalana.files.wordpress.com
+127.0.0.1 weromalana.wordpress.com
 127.0.0.1 weslowkeiran85.files.wordpress.com
 127.0.0.1 weslowkeiran85.wordpress.com
 127.0.0.1 wg-wohnen-nienburg.de
@@ -1880,6 +1914,8 @@
 127.0.0.1 wimbligeter1979.files.wordpress.com
 127.0.0.1 wimbligeter1979.wordpress.com
 127.0.0.1 windsurfingbazar.cz
+127.0.0.1 witlilildi1977.files.wordpress.com
+127.0.0.1 witlilildi1977.wordpress.com
 127.0.0.1 wloszakowice2021.pl
 127.0.0.1 wms-erdbau.de
 127.0.0.1 wmshop.fr
@@ -1948,8 +1984,12 @@
 127.0.0.1 www.allegrapistol.wordpress.com
 127.0.0.1 www.allengland.ru
 127.0.0.1 www.allgaeu-fewo-hildebrandt.de
+127.0.0.1 www.allijahboen91.files.wordpress.com
+127.0.0.1 www.allijahboen91.wordpress.com
 127.0.0.1 www.alloverinformation.com
 127.0.0.1 www.allresultsbd.net
+127.0.0.1 www.alperenvictor1985.files.wordpress.com
+127.0.0.1 www.alperenvictor1985.wordpress.com
 127.0.0.1 www.alphadeals24.de
 127.0.0.1 www.alpignano5stelle.it
 127.0.0.1 www.alquilercoches-villalba.es
@@ -2107,6 +2147,8 @@
 127.0.0.1 www.birdtalk.nl
 127.0.0.1 www.biscarideclan1996.files.wordpress.com
 127.0.0.1 www.biscarideclan1996.wordpress.com
+127.0.0.1 www.bistiigrapher1987.files.wordpress.com
+127.0.0.1 www.bistiigrapher1987.wordpress.com
 127.0.0.1 www.bistrozator.pl
 127.0.0.1 www.bjs.cz
 127.0.0.1 www.blanqueryasociados.es
@@ -2449,6 +2491,8 @@
 127.0.0.1 www.farmaciamiguelgallego.es
 127.0.0.1 www.farmaciavilardell-santpedor.cat
 127.0.0.1 www.farmnet.news
+127.0.0.1 www.farontlatelpa1997.files.wordpress.com
+127.0.0.1 www.farontlatelpa1997.wordpress.com
 127.0.0.1 www.fashionlaw.cl
 127.0.0.1 www.fashmask.es
 127.0.0.1 www.fastonline.news
@@ -2477,6 +2521,8 @@
 127.0.0.1 www.florian-sayous-armary.fr
 127.0.0.1 www.flowwithus.cz
 127.0.0.1 www.flufs.pl
+127.0.0.1 www.folmerayuub1989.files.wordpress.com
+127.0.0.1 www.folmerayuub1989.wordpress.com
 127.0.0.1 www.fondazioneenricomatteimatelica.it
 127.0.0.1 www.forbishoctavio.files.wordpress.com
 127.0.0.1 www.forbishoctavio.wordpress.com
@@ -2746,6 +2792,8 @@
 127.0.0.1 www.kahdenvecellio82.wordpress.com
 127.0.0.1 www.kahrijesenovec1989.files.wordpress.com
 127.0.0.1 www.kahrijesenovec1989.wordpress.com
+127.0.0.1 www.kaidencewashurn1999.files.wordpress.com
+127.0.0.1 www.kaidencewashurn1999.wordpress.com
 127.0.0.1 www.kamieniarstwo-rozental.pl
 127.0.0.1 www.karinnelanzillotti.files.wordpress.com
 127.0.0.1 www.karinnelanzillotti.wordpress.com
@@ -2852,6 +2900,8 @@
 127.0.0.1 www.lassanalenahan90.wordpress.com
 127.0.0.1 www.lasvigasyvaldecarro.es
 127.0.0.1 www.latahonadealejos.es
+127.0.0.1 www.lataillexyler.files.wordpress.com
+127.0.0.1 www.lataillexyler.wordpress.com
 127.0.0.1 www.latkovna-modestia.cz
 127.0.0.1 www.latoquedejacque.fr
 127.0.0.1 www.lavinadelgranteatro.es
@@ -2884,6 +2934,8 @@
 127.0.0.1 www.lhulanamuseld.wordpress.com
 127.0.0.1 www.liammatthewiker1997.files.wordpress.com
 127.0.0.1 www.liammatthewiker1997.wordpress.com
+127.0.0.1 www.lighthillbeliz1992.files.wordpress.com
+127.0.0.1 www.lighthillbeliz1992.wordpress.com
 127.0.0.1 www.lightsintheheights.com.au
 127.0.0.1 www.limitlessdownloads.com
 127.0.0.1 www.limousinenservice-fritzsche.de
@@ -3170,6 +3222,8 @@
 127.0.0.1 www.pause-accept.nl
 127.0.0.1 www.pavelrican.cz
 127.0.0.1 www.pavlakratka.cz
+127.0.0.1 www.payblogimhoe1976.files.wordpress.com
+127.0.0.1 www.payblogimhoe1976.wordpress.com
 127.0.0.1 www.payperinstall.net
 127.0.0.1 www.pcls24.de
 127.0.0.1 www.pdfarsivindir.com
@@ -3464,6 +3518,8 @@
 127.0.0.1 www.sevanaalimo85.files.wordpress.com
 127.0.0.1 www.sevanaalimo85.wordpress.com
 127.0.0.1 www.sevillaesdigital.es
+127.0.0.1 www.shaddenkeeleigh.files.wordpress.com
+127.0.0.1 www.shaddenkeeleigh.wordpress.com
 127.0.0.1 www.shamelessmtp.fr
 127.0.0.1 www.shamilazampieri91.files.wordpress.com
 127.0.0.1 www.shamilazampieri91.wordpress.com
@@ -3505,6 +3561,8 @@
 127.0.0.1 www.sogun.lt
 127.0.0.1 www.sokolowichlaina.files.wordpress.com
 127.0.0.1 www.sokolowichlaina.wordpress.com
+127.0.0.1 www.solasmaclynn.files.wordpress.com
+127.0.0.1 www.solasmaclynn.wordpress.com
 127.0.0.1 www.solidbeats.es
 127.0.0.1 www.solucionvertical.es
 127.0.0.1 www.sonne-statt-oel.de
@@ -3524,6 +3582,8 @@
 127.0.0.1 www.stammheim-hilft.de
 127.0.0.1 www.starlynvarieur.files.wordpress.com
 127.0.0.1 www.starlynvarieur.wordpress.com
+127.0.0.1 www.stathamhanus.files.wordpress.com
+127.0.0.1 www.stathamhanus.wordpress.com
 127.0.0.1 www.steiberbeka1985.files.wordpress.com
 127.0.0.1 www.steiberbeka1985.wordpress.com
 127.0.0.1 www.stelledivine.it
@@ -3644,6 +3704,12 @@
 127.0.0.1 www.trattoriadatoto.it
 127.0.0.1 www.travalikourtland.files.wordpress.com
 127.0.0.1 www.travalikourtland.wordpress.com
+127.0.0.1 www.traversakashten1985.files.wordpress.com
+127.0.0.1 www.traversakashten1985.wordpress.com
+127.0.0.1 www.traversebraya87.files.wordpress.com
+127.0.0.1 www.traversebraya87.wordpress.com
+127.0.0.1 www.tremirliston85.files.wordpress.com
+127.0.0.1 www.tremirliston85.wordpress.com
 127.0.0.1 www.tremonte.it
 127.0.0.1 www.tristakhilling95.files.wordpress.com
 127.0.0.1 www.tristakhilling95.wordpress.com
@@ -3671,6 +3737,8 @@
 127.0.0.1 www.tylunvernia1991.wordpress.com
 127.0.0.1 www.uams.edu
 127.0.0.1 www.ucebnice.cz
+127.0.0.1 www.ucocvicro1977.files.wordpress.com
+127.0.0.1 www.ucocvicro1977.wordpress.com
 127.0.0.1 www.ucretsiz-ekitaplar.site
 127.0.0.1 www.ucretsiz-kitap-pdf-indirin.com
 127.0.0.1 www.ucretsiz-pdf-kitap-indir.com
@@ -3755,6 +3823,8 @@
 127.0.0.1 www.wedigoliath.wordpress.com
 127.0.0.1 www.weidezaun-volke.de
 127.0.0.1 www.weinbau-strauss.de
+127.0.0.1 www.weromalana.files.wordpress.com
+127.0.0.1 www.weromalana.wordpress.com
 127.0.0.1 www.weslowkeiran85.files.wordpress.com
 127.0.0.1 www.weslowkeiran85.wordpress.com
 127.0.0.1 www.wg-wohnen-nienburg.de
@@ -3766,6 +3836,8 @@
 127.0.0.1 www.wimbligeter1979.files.wordpress.com
 127.0.0.1 www.wimbligeter1979.wordpress.com
 127.0.0.1 www.windsurfingbazar.cz
+127.0.0.1 www.witlilildi1977.files.wordpress.com
+127.0.0.1 www.witlilildi1977.wordpress.com
 127.0.0.1 www.wloszakowice2021.pl
 127.0.0.1 www.wms-erdbau.de
 127.0.0.1 www.wmshop.fr
