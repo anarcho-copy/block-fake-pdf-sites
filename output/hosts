@@ -1,9 +1,9 @@
 # Name        : fake (malicious/profiting from ads) pdf site blocker
-# Version     : 20221101224952
-# Date        : Tue Nov  1 07:49:52 PM UTC 2022
+# Version     : 20221101230122
+# Date        : Tue Nov  1 08:01:22 PM UTC 2022
 # Repo        : https://gitlab.com/anarcho-copy/block-fake-pdf-sites
 # File        : https://gitlab.com/anarcho-copy/block-fake-pdf-sites/-/raw/master/./output/hosts
-# Total lines : 2100
+# Total lines : 2132
 
 127.0.0.1 100casas.es
 127.0.0.1 197.news
@@ -126,7 +126,9 @@
 127.0.0.1 associazionekokeshi.it
 127.0.0.1 asylcafe-roemerschanze.de
 127.0.0.1 ateliercandleco.fr
+127.0.0.1 atiydk.sa.com
 127.0.0.1 atlasbilbao.es
+127.0.0.1 atnw.sa.com
 127.0.0.1 ausstellung-virtuell.de
 127.0.0.1 australiabizreviews.com.au
 127.0.0.1 austynmcmilleon.files.wordpress.com
@@ -282,6 +284,7 @@
 127.0.0.1 brierfeldhake.wordpress.com
 127.0.0.1 bscouvertureperefils.fr
 127.0.0.1 b-solutions.com.pl
+127.0.0.1 bsvvez.sa.com
 127.0.0.1 bsvvez.za.com
 127.0.0.1 buchwaldjodey.files.wordpress.com
 127.0.0.1 buchwaldjodey.wordpress.com
@@ -295,6 +298,7 @@
 127.0.0.1 burkartgarret1994.wordpress.com
 127.0.0.1 burttjaxel1989.files.wordpress.com
 127.0.0.1 burttjaxel1989.wordpress.com
+127.0.0.1 buxbde.za.com
 127.0.0.1 buzzmedia.es
 127.0.0.1 bykov-info.ru
 127.0.0.1 cabinetdentairechateauneuf.fr
@@ -337,6 +341,7 @@
 127.0.0.1 cevapanahtaripdf.com
 127.0.0.1 cfpztm.za.com
 127.0.0.1 cftc-monoprix.fr
+127.0.0.1 cgxnjg.sa.com
 127.0.0.1 chadric-piper69.blogspot.com
 127.0.0.1 champagnelaforge.nl
 127.0.0.1 champlife.de
@@ -355,6 +360,7 @@
 127.0.0.1 cirkevvdome.cz
 127.0.0.1 citrininfo.cz
 127.0.0.1 city-quartier-eutin.de
+127.0.0.1 cjen.sa.com
 127.0.0.1 ckacogikeep.files.wordpress.com
 127.0.0.1 ckacogikeep.wordpress.com
 127.0.0.1 ck-calvinklein.ru
@@ -406,6 +412,7 @@
 127.0.0.1 cultfilmz.com
 127.0.0.1 cuoregrigiorosso.it
 127.0.0.1 cyberless.it
+127.0.0.1 cyberu.net.pl
 127.0.0.1 cyclingprogram.it
 127.0.0.1 cyznetblogger.files.wordpress.com
 127.0.0.1 cyznetblogger.wordpress.com
@@ -431,6 +438,7 @@
 127.0.0.1 dbec.sa.com
 127.0.0.1 dbooks.online
 127.0.0.1 dbpd.sa.com
+127.0.0.1 dcgrmy.sa.com
 127.0.0.1 dcterrassement.fr
 127.0.0.1 ddm-prestige.fr
 127.0.0.1 ddyvzz.za.com
@@ -516,6 +524,7 @@
 127.0.0.1 edebiyatkitabi.com
 127.0.0.1 eifa-wawi.de
 127.0.0.1 eighbooks.xyz
+127.0.0.1 eijspg.sa.com
 127.0.0.1 einrent.nl
 127.0.0.1 eivgen.za.com
 127.0.0.1 eja-ebermannstadt.de
@@ -560,6 +569,7 @@
 127.0.0.1 epdfkitapp.com
 127.0.0.1 epub-pdf-fb2-kitabn.info
 127.0.0.1 epub-pdf-kitaplar.info
+127.0.0.1 epxg.sa.com
 127.0.0.1 erbrigsandko1978.files.wordpress.com
 127.0.0.1 erbrigsandko1978.wordpress.com
 127.0.0.1 erotic38.ru
@@ -586,6 +596,7 @@
 127.0.0.1 examenblad.nl
 127.0.0.1 exelec.ch
 127.0.0.1 exgceb.za.com
+127.0.0.1 expcentermsk.ru
 127.0.0.1 expiraciondejaen.es
 127.0.0.1 eyekraftnv.ru
 127.0.0.1 eyeseet.nl
@@ -614,6 +625,7 @@
 127.0.0.1 fdmweb.es
 127.0.0.1 federazioneuniversitari.it
 127.0.0.1 feisnowdaipoto.tk
+127.0.0.1 ferazonada.es
 127.0.0.1 fewo-ith18.de
 127.0.0.1 fiat500altoadige.it
 127.0.0.1 filmer.cz
@@ -673,6 +685,7 @@
 127.0.0.1 fvchipsquad.wordpress.com
 127.0.0.1 fwss.cz
 127.0.0.1 fyasvp.ru.com
+127.0.0.1 fymy.sa.com
 127.0.0.1 fysiosonja.fi
 127.0.0.1 fyziohomeo.cz
 127.0.0.1 gabor-schwerdtfeger-immobilien.de
@@ -682,6 +695,7 @@
 127.0.0.1 ganeshhonor.files.wordpress.com
 127.0.0.1 ganeshhonor.wordpress.com
 127.0.0.1 garderobnaya.su
+127.0.0.1 gas-kg.ru
 127.0.0.1 gastropaviljoenxv.nl
 127.0.0.1 gdyent.za.com
 127.0.0.1 geanopulostelvin94.files.wordpress.com
@@ -739,6 +753,7 @@
 127.0.0.1 guytonsidratul.files.wordpress.com
 127.0.0.1 guytonsidratul.wordpress.com
 127.0.0.1 gvugbu.za.com
+127.0.0.1 gxlc.sa.com
 127.0.0.1 haarstudiofinecut.de
 127.0.0.1 habcessdagri1973.files.wordpress.com
 127.0.0.1 habcessdagri1973.wordpress.com
@@ -808,6 +823,7 @@
 127.0.0.1 humayraberchielli87.files.wordpress.com
 127.0.0.1 humayraberchielli87.wordpress.com
 127.0.0.1 hwn500.de
+127.0.0.1 hxtybs.sa.com
 127.0.0.1 hxyz.sa.com
 127.0.0.1 hypnotherapie-bigoin.fr
 127.0.0.1 iberofusion.com.es
@@ -899,6 +915,7 @@
 127.0.0.1 jermirkarvonen.files.wordpress.com
 127.0.0.1 jermirkarvonen.wordpress.com
 127.0.0.1 jeromebosc.fr
+127.0.0.1 jfrvpf.sa.com
 127.0.0.1 jhlhardware.es
 127.0.0.1 jinbonsaiclub.it
 127.0.0.1 jinovysvet.cz
@@ -1011,6 +1028,7 @@
 127.0.0.1 krasapece.cz
 127.0.0.1 kreislandfrauenverband-zeven.de
 127.0.0.1 krystofdosoudil.cz
+127.0.0.1 ktshih.za.com
 127.0.0.1 kuehrundpartner.de
 127.0.0.1 kuixnj.za.com
 127.0.0.1 kulturelislemarabasi.com
@@ -1313,6 +1331,7 @@
 127.0.0.1 nqhitsyverse.files.wordpress.com
 127.0.0.1 nqhitsyverse.wordpress.com
 127.0.0.1 nutrizionecomemai.it
+127.0.0.1 nxuh.sa.com
 127.0.0.1 oceaneers.it
 127.0.0.1 oepl.fr
 127.0.0.1 office-deal.nl
@@ -1338,6 +1357,7 @@
 127.0.0.1 online-psicologo.it
 127.0.0.1 onlinewebshop.net
 127.0.0.1 onoranzefunebrimarecchia.it
+127.0.0.1 onpu.sa.com
 127.0.0.1 opalys83.fr
 127.0.0.1 openlandschapkaagenbraassem.nl
 127.0.0.1 originalsamaya.cz
@@ -1351,6 +1371,7 @@
 127.0.0.1 otoplenieuga.ru
 127.0.0.1 otterfinger-ferienprogramm.de
 127.0.0.1 ot-tur.ru
+127.0.0.1 owap.sa.com
 127.0.0.1 owncase.cz
 127.0.0.1 oyabs.nl
 127.0.0.1 paalvijftien.nl
@@ -1364,6 +1385,7 @@
 127.0.0.1 papierpilz-frankfurt.de
 127.0.0.1 parafiakoty.eu
 127.0.0.1 paraquee.com
+127.0.0.1 parozifilm.cz
 127.0.0.1 partystanylitomysl.cz
 127.0.0.1 patriciabcaston.blogspot.com
 127.0.0.1 patrickkurpershoek.nl
@@ -1376,6 +1398,7 @@
 127.0.0.1 payblogimhoe1976.wordpress.com
 127.0.0.1 payperinstall.net
 127.0.0.1 pcls24.de
+127.0.0.1 pcmffs.za.com
 127.0.0.1 pcpmgc.za.com
 127.0.0.1 pdfarsivindir.com
 127.0.0.1 pdfcehennemi.com
@@ -1497,6 +1520,7 @@
 127.0.0.1 pratalexazrab.tk
 127.0.0.1 prawnikwbanku.pl
 127.0.0.1 pricepservis16.ru
+127.0.0.1 prku.sa.com
 127.0.0.1 prodejmotocykluhonda.cz
 127.0.0.1 profesjonalnymenedzerrestauracji.pl
 127.0.0.1 progettolaser.it
@@ -1603,6 +1627,7 @@
 127.0.0.1 roxenyowell99.wordpress.com
 127.0.0.1 rpwanglaree.files.wordpress.com
 127.0.0.1 rpwanglaree.wordpress.com
+127.0.0.1 rpydcj.ru.com
 127.0.0.1 rssing.com
 127.0.0.1 rthtalleresruben.es
 127.0.0.1 rtjisy.za.com
@@ -1617,6 +1642,7 @@
 127.0.0.1 rwtprogionly.files.wordpress.com
 127.0.0.1 rwtprogionly.wordpress.com
 127.0.0.1 rx0.nl
+127.0.0.1 rxbd.sa.com
 127.0.0.1 rzafreshflock.files.wordpress.com
 127.0.0.1 rzafreshflock.wordpress.com
 127.0.0.1 saberecrescer.pt
@@ -1797,6 +1823,7 @@
 127.0.0.1 swayve.com.au
 127.0.0.1 swissgoat.ch
 127.0.0.1 synventive.pl
+127.0.0.1 syop.sa.com
 127.0.0.1 szkocjanet.pl
 127.0.0.1 tabuho.es
 127.0.0.1 taenfa.za.com
@@ -2042,6 +2069,7 @@
 127.0.0.1 woschlab.de
 127.0.0.1 wqly.sa.com
 127.0.0.1 wrldlib.ru
+127.0.0.1 wtez.sa.com
 127.0.0.1 wuidschnee.de
 127.0.0.1 wurstundmoritz-zuerich.ch
 127.0.0.1 www.100casas.es
@@ -2165,7 +2193,9 @@
 127.0.0.1 www.associazionekokeshi.it
 127.0.0.1 www.asylcafe-roemerschanze.de
 127.0.0.1 www.ateliercandleco.fr
+127.0.0.1 www.atiydk.sa.com
 127.0.0.1 www.atlasbilbao.es
+127.0.0.1 www.atnw.sa.com
 127.0.0.1 www.ausstellung-virtuell.de
 127.0.0.1 www.australiabizreviews.com.au
 127.0.0.1 www.austynmcmilleon.files.wordpress.com
@@ -2321,6 +2351,7 @@
 127.0.0.1 www.brierfeldhake.wordpress.com
 127.0.0.1 www.bscouvertureperefils.fr
 127.0.0.1 www.b-solutions.com.pl
+127.0.0.1 www.bsvvez.sa.com
 127.0.0.1 www.bsvvez.za.com
 127.0.0.1 www.buchwaldjodey.files.wordpress.com
 127.0.0.1 www.buchwaldjodey.wordpress.com
@@ -2334,6 +2365,7 @@
 127.0.0.1 www.burkartgarret1994.wordpress.com
 127.0.0.1 www.burttjaxel1989.files.wordpress.com
 127.0.0.1 www.burttjaxel1989.wordpress.com
+127.0.0.1 www.buxbde.za.com
 127.0.0.1 www.buzzmedia.es
 127.0.0.1 www.bykov-info.ru
 127.0.0.1 www.cabinetdentairechateauneuf.fr
@@ -2376,6 +2408,7 @@
 127.0.0.1 www.cevapanahtaripdf.com
 127.0.0.1 www.cfpztm.za.com
 127.0.0.1 www.cftc-monoprix.fr
+127.0.0.1 www.cgxnjg.sa.com
 127.0.0.1 www.chadric-piper69.blogspot.com
 127.0.0.1 www.champagnelaforge.nl
 127.0.0.1 www.champlife.de
@@ -2394,6 +2427,7 @@
 127.0.0.1 www.cirkevvdome.cz
 127.0.0.1 www.citrininfo.cz
 127.0.0.1 www.city-quartier-eutin.de
+127.0.0.1 www.cjen.sa.com
 127.0.0.1 www.ckacogikeep.files.wordpress.com
 127.0.0.1 www.ckacogikeep.wordpress.com
 127.0.0.1 www.ck-calvinklein.ru
@@ -2445,6 +2479,7 @@
 127.0.0.1 www.cultfilmz.com
 127.0.0.1 www.cuoregrigiorosso.it
 127.0.0.1 www.cyberless.it
+127.0.0.1 www.cyberu.net.pl
 127.0.0.1 www.cyclingprogram.it
 127.0.0.1 www.cyznetblogger.files.wordpress.com
 127.0.0.1 www.cyznetblogger.wordpress.com
@@ -2470,6 +2505,7 @@
 127.0.0.1 www.dbec.sa.com
 127.0.0.1 www.dbooks.online
 127.0.0.1 www.dbpd.sa.com
+127.0.0.1 www.dcgrmy.sa.com
 127.0.0.1 www.dcterrassement.fr
 127.0.0.1 www.ddm-prestige.fr
 127.0.0.1 www.ddyvzz.za.com
@@ -2555,6 +2591,7 @@
 127.0.0.1 www.edebiyatkitabi.com
 127.0.0.1 www.eifa-wawi.de
 127.0.0.1 www.eighbooks.xyz
+127.0.0.1 www.eijspg.sa.com
 127.0.0.1 www.einrent.nl
 127.0.0.1 www.eivgen.za.com
 127.0.0.1 www.eja-ebermannstadt.de
@@ -2599,6 +2636,7 @@
 127.0.0.1 www.epdfkitapp.com
 127.0.0.1 www.epub-pdf-fb2-kitabn.info
 127.0.0.1 www.epub-pdf-kitaplar.info
+127.0.0.1 www.epxg.sa.com
 127.0.0.1 www.erbrigsandko1978.files.wordpress.com
 127.0.0.1 www.erbrigsandko1978.wordpress.com
 127.0.0.1 www.erotic38.ru
@@ -2625,6 +2663,7 @@
 127.0.0.1 www.examenblad.nl
 127.0.0.1 www.exelec.ch
 127.0.0.1 www.exgceb.za.com
+127.0.0.1 www.expcentermsk.ru
 127.0.0.1 www.expiraciondejaen.es
 127.0.0.1 www.eyekraftnv.ru
 127.0.0.1 www.eyeseet.nl
@@ -2653,6 +2692,7 @@
 127.0.0.1 www.fdmweb.es
 127.0.0.1 www.federazioneuniversitari.it
 127.0.0.1 www.feisnowdaipoto.tk
+127.0.0.1 www.ferazonada.es
 127.0.0.1 www.fewo-ith18.de
 127.0.0.1 www.fiat500altoadige.it
 127.0.0.1 www.filmer.cz
@@ -2712,6 +2752,7 @@
 127.0.0.1 www.fvchipsquad.wordpress.com
 127.0.0.1 www.fwss.cz
 127.0.0.1 www.fyasvp.ru.com
+127.0.0.1 www.fymy.sa.com
 127.0.0.1 www.fysiosonja.fi
 127.0.0.1 www.fyziohomeo.cz
 127.0.0.1 www.gabor-schwerdtfeger-immobilien.de
@@ -2721,6 +2762,7 @@
 127.0.0.1 www.ganeshhonor.files.wordpress.com
 127.0.0.1 www.ganeshhonor.wordpress.com
 127.0.0.1 www.garderobnaya.su
+127.0.0.1 www.gas-kg.ru
 127.0.0.1 www.gastropaviljoenxv.nl
 127.0.0.1 www.gdyent.za.com
 127.0.0.1 www.geanopulostelvin94.files.wordpress.com
@@ -2778,6 +2820,7 @@
 127.0.0.1 www.guytonsidratul.files.wordpress.com
 127.0.0.1 www.guytonsidratul.wordpress.com
 127.0.0.1 www.gvugbu.za.com
+127.0.0.1 www.gxlc.sa.com
 127.0.0.1 www.haarstudiofinecut.de
 127.0.0.1 www.habcessdagri1973.files.wordpress.com
 127.0.0.1 www.habcessdagri1973.wordpress.com
@@ -2847,6 +2890,7 @@
 127.0.0.1 www.humayraberchielli87.files.wordpress.com
 127.0.0.1 www.humayraberchielli87.wordpress.com
 127.0.0.1 www.hwn500.de
+127.0.0.1 www.hxtybs.sa.com
 127.0.0.1 www.hxyz.sa.com
 127.0.0.1 www.hypnotherapie-bigoin.fr
 127.0.0.1 www.iberofusion.com.es
@@ -2938,6 +2982,7 @@
 127.0.0.1 www.jermirkarvonen.files.wordpress.com
 127.0.0.1 www.jermirkarvonen.wordpress.com
 127.0.0.1 www.jeromebosc.fr
+127.0.0.1 www.jfrvpf.sa.com
 127.0.0.1 www.jhlhardware.es
 127.0.0.1 www.jinbonsaiclub.it
 127.0.0.1 www.jinovysvet.cz
@@ -3050,6 +3095,7 @@
 127.0.0.1 www.krasapece.cz
 127.0.0.1 www.kreislandfrauenverband-zeven.de
 127.0.0.1 www.krystofdosoudil.cz
+127.0.0.1 www.ktshih.za.com
 127.0.0.1 www.kuehrundpartner.de
 127.0.0.1 www.kuixnj.za.com
 127.0.0.1 www.kulturelislemarabasi.com
@@ -3352,6 +3398,7 @@
 127.0.0.1 www.nqhitsyverse.files.wordpress.com
 127.0.0.1 www.nqhitsyverse.wordpress.com
 127.0.0.1 www.nutrizionecomemai.it
+127.0.0.1 www.nxuh.sa.com
 127.0.0.1 www.oceaneers.it
 127.0.0.1 www.oepl.fr
 127.0.0.1 www.office-deal.nl
@@ -3377,6 +3424,7 @@
 127.0.0.1 www.online-psicologo.it
 127.0.0.1 www.onlinewebshop.net
 127.0.0.1 www.onoranzefunebrimarecchia.it
+127.0.0.1 www.onpu.sa.com
 127.0.0.1 www.opalys83.fr
 127.0.0.1 www.openlandschapkaagenbraassem.nl
 127.0.0.1 www.originalsamaya.cz
@@ -3390,6 +3438,7 @@
 127.0.0.1 www.otoplenieuga.ru
 127.0.0.1 www.otterfinger-ferienprogramm.de
 127.0.0.1 www.ot-tur.ru
+127.0.0.1 www.owap.sa.com
 127.0.0.1 www.owncase.cz
 127.0.0.1 www.oyabs.nl
 127.0.0.1 www.paalvijftien.nl
@@ -3403,6 +3452,7 @@
 127.0.0.1 www.papierpilz-frankfurt.de
 127.0.0.1 www.parafiakoty.eu
 127.0.0.1 www.paraquee.com
+127.0.0.1 www.parozifilm.cz
 127.0.0.1 www.partystanylitomysl.cz
 127.0.0.1 www.patriciabcaston.blogspot.com
 127.0.0.1 www.patrickkurpershoek.nl
@@ -3415,6 +3465,7 @@
 127.0.0.1 www.payblogimhoe1976.wordpress.com
 127.0.0.1 www.payperinstall.net
 127.0.0.1 www.pcls24.de
+127.0.0.1 www.pcmffs.za.com
 127.0.0.1 www.pcpmgc.za.com
 127.0.0.1 www.pdfarsivindir.com
 127.0.0.1 www.pdfcehennemi.com
@@ -3536,6 +3587,7 @@
 127.0.0.1 www.pratalexazrab.tk
 127.0.0.1 www.prawnikwbanku.pl
 127.0.0.1 www.pricepservis16.ru
+127.0.0.1 www.prku.sa.com
 127.0.0.1 www.prodejmotocykluhonda.cz
 127.0.0.1 www.profesjonalnymenedzerrestauracji.pl
 127.0.0.1 www.progettolaser.it
@@ -3642,6 +3694,7 @@
 127.0.0.1 www.roxenyowell99.wordpress.com
 127.0.0.1 www.rpwanglaree.files.wordpress.com
 127.0.0.1 www.rpwanglaree.wordpress.com
+127.0.0.1 www.rpydcj.ru.com
 127.0.0.1 www.rssing.com
 127.0.0.1 www.rthtalleresruben.es
 127.0.0.1 www.rtjisy.za.com
@@ -3656,6 +3709,7 @@
 127.0.0.1 www.rwtprogionly.files.wordpress.com
 127.0.0.1 www.rwtprogionly.wordpress.com
 127.0.0.1 www.rx0.nl
+127.0.0.1 www.rxbd.sa.com
 127.0.0.1 www.rzafreshflock.files.wordpress.com
 127.0.0.1 www.rzafreshflock.wordpress.com
 127.0.0.1 www.saberecrescer.pt
@@ -3836,6 +3890,7 @@
 127.0.0.1 www.swayve.com.au
 127.0.0.1 www.swissgoat.ch
 127.0.0.1 www.synventive.pl
+127.0.0.1 www.syop.sa.com
 127.0.0.1 www.szkocjanet.pl
 127.0.0.1 www.tabuho.es
 127.0.0.1 www.taenfa.za.com
@@ -4081,6 +4136,7 @@
 127.0.0.1 www.woschlab.de
 127.0.0.1 www.wqly.sa.com
 127.0.0.1 www.wrldlib.ru
+127.0.0.1 www.wtez.sa.com
 127.0.0.1 www.wuidschnee.de
 127.0.0.1 www.wurstundmoritz-zuerich.ch
 127.0.0.1 www.wziviridimechanic.files.wordpress.com
@@ -4103,12 +4159,15 @@
 127.0.0.1 www.xzavienattig.wordpress.com
 127.0.0.1 www.yarelizgiesler.files.wordpress.com
 127.0.0.1 www.yarelizgiesler.wordpress.com
+127.0.0.1 www.ybeg.sa.com
+127.0.0.1 www.yfjx.sa.com
 127.0.0.1 www.yitechnology.com.es
 127.0.0.1 www.youngvoicesandgospel.de
 127.0.0.1 www.younkinskyell83.files.wordpress.com
 127.0.0.1 www.younkinskyell83.wordpress.com
 127.0.0.1 www.yourmission.fr
 127.0.0.1 www.ypfmbg.ru.com
+127.0.0.1 www.yste.sa.com
 127.0.0.1 www.yuliannalukasheva.ru
 127.0.0.1 www.yventus.de
 127.0.0.1 www.yvkpuy.ru.com
@@ -4119,6 +4178,7 @@
 127.0.0.1 www.zaveahgilhooly98.files.wordpress.com
 127.0.0.1 www.zaveahgilhooly98.wordpress.com
 127.0.0.1 www.zbornikpetr.cz
+127.0.0.1 www.zcck.sa.com
 127.0.0.1 www.zdajegzamin.pl
 127.0.0.1 www.zdhfbk.za.com
 127.0.0.1 www.zeccardilc.files.wordpress.com
@@ -4164,12 +4224,15 @@
 127.0.0.1 xzavienattig.wordpress.com
 127.0.0.1 yarelizgiesler.files.wordpress.com
 127.0.0.1 yarelizgiesler.wordpress.com
+127.0.0.1 ybeg.sa.com
+127.0.0.1 yfjx.sa.com
 127.0.0.1 yitechnology.com.es
 127.0.0.1 youngvoicesandgospel.de
 127.0.0.1 younkinskyell83.files.wordpress.com
 127.0.0.1 younkinskyell83.wordpress.com
 127.0.0.1 yourmission.fr
 127.0.0.1 ypfmbg.ru.com
+127.0.0.1 yste.sa.com
 127.0.0.1 yuliannalukasheva.ru
 127.0.0.1 yventus.de
 127.0.0.1 yvkpuy.ru.com
@@ -4180,6 +4243,7 @@
 127.0.0.1 zaveahgilhooly98.files.wordpress.com
 127.0.0.1 zaveahgilhooly98.wordpress.com
 127.0.0.1 zbornikpetr.cz
+127.0.0.1 zcck.sa.com
 127.0.0.1 zdajegzamin.pl
 127.0.0.1 zdhfbk.za.com
 127.0.0.1 zeccardilc.files.wordpress.com
