@@ -1,1 +1,1 @@
-include allowed domains to the generated blocklists for better analysis (with updating sources)
+include whitelist domains to the generated blacklists for better analysis (with updating sources)

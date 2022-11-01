@@ -1,76 +1,61 @@
-CONFIG = config.conf
-include $(CONFIG)
+include make.config
 
-help: .config/makehelp lib/makefile2help.sh
-	@lib/makefile2help.sh -c $(CONFIG)
+help: .config/makehelp src/makefile2help.sh
+	@src/makefile2help.sh -c $(CONFIG)
 
-generate: $(TLD) $(SLD) $(LOGINREQ) $(WORDPRESS) $(SERVICE) $(ALLOW) $(STORE) $(UBASED)/ $(HBASED)/ lib/generate.sh
-	@echo Generating configuration files...
-	lib/generate.sh
+generate: $(BLACKLIST_DOMAINS) $(WASTE_LOGIN_REQUIRED) $(WHITELIST_DOMAINS) $(WHITELIST_TURKISH_BOOKSTORES) $(OTHER_HOSTS_SOURCES)/ $(OTHER_UBLACKLIST_SOURCES)/ src/generate.sh
+	@echo Generating files...
+	src/generate.sh
 
-
-generate-with-fetch: $(TLD) $(SLD) $(LOGINREQ) $(WORDPRESS) $(SERVICE) $(ALLOW) $(STORE) $(UBASED)/ $(HBASED)/ lib/generate.sh
+generate-with-fetch:
 	@echo fetching sources..
 	@make -s fetch
 	@make -s fetch-etherpad
-	@echo generating configuration files...
-	lib/generate.sh
+	make generate
 
-generate-all: $(TLD) $(SLD) $(LOGINREQ) $(WORDPRESS) $(SERVICE) $(ALLOW) $(STORE) $(UBASED)/ $(HBASED)/ lib/generate.sh
-	@echo generating configuration files...
-	lib/generate.sh --all
+generate-all: $(BLACKLIST_DOMAINS) $(WASTE_LOGIN_REQUIRED) $(WHITELIST_DOMAINS) $(WHITELIST_TURKISH_BOOKSTORES) $(OTHER_HOSTS_SOURCES)/ $(OTHER_UBLACKLIST_SOURCES)/ src/generate.sh
+	@echo Generating all files...
+	src/generate.sh --all
 
-generate-all-with-fetch: $(TLD) $(SLD) $(LOGINREQ) $(WORDPRESS) $(SERVICE) $(ALLOW) $(STORE) $(UBASED)/ $(HBASED)/ lib/generate.sh
+generate-all-with-fetch:
 	@echo fetching sources..
 	@make -s fetch
 	@make -s fetch-etherpad
-	@echo generating configuration files...
-	lib/generate.sh --all
+	make generate-all
 
 clean:
 	@echo removing configuration files...
 	rm -rf $(UBLACKLIST) $(HOSTS) $(DNSMASQ) $(TEMP) $(RAW)
 
-check: INSTALL lib/check.sh
-	@lib/check.sh
+check: INSTALL src/check.sh
+	@src/check.sh
 
-fetch: $(UBASED)/ $(HBASED)/ lib/fetch.sh
-	lib/fetch.sh
+fetch: $(OTHER_HOSTS_SOURCES)/ $(OTHER_UBLACKLIST_SOURCES)/ src/fetch.sh
+	src/fetch.sh
 
-fetch-etherpad: $(UBASED)/ $(HBASED)/ lib/fetch.sh
-	lib/etherpad.sh
+fetch-etherpad: $(OTHER_UBLACKLIST_SOURCES)/ src/etherpad.sh
+	src/etherpad.sh
 
-install: $(DNSMASQ) $(UBLACKLIST) $(HOSTS) lib/hosts.sh
-	@echo installing configuration files...
-	cp $(DNSMASQ) $(GLOBALDNSMASQ) || true
-	mkdir -p /etc/hosts.d
-	cp $(HOSTS) $(GLOBALHOSTS)
-	lib/hosts.sh --enable
+install-hosts: $(HOSTS) src/hosts.sh
+	@echo installing hosts file...
+	sudo mkdir -p /etc/hosts.d
+	sudo cp $(HOSTS) $(GLOBALHOSTS)
+	sudo src/hosts.sh --enable
 
-uninstall: lib/hosts.sh
-	@echo uninstalling configuration files...
-	rm $(GLOBALHOSTS) $(GLOBALDNSMASQ) || true
-	lib/hosts.sh --disable
+uninstall-hosts: $(GLOBALHOSTS)  src/hosts.sh
+	@echo uninstalling hosts file...
+	sudo rm $(GLOBALHOSTS) || true
+	sudo src/hosts.sh --disable
 
-dnsmasq:
-	make clean
-	make generate
-	@echo installing dnsmasq configuration file...
-	cp $(DNSMASQ) $(GLOBALDNSMASQ)
-	@echo restarting DNS caching server...
-	systemctl restart dnsmasq.service
-
-test-with-list: lib/test.sh lib/google_url_extractor.py $(RAW)
-	lib/test.sh -g -p 5
-
-test: lib/test.sh lib/google_url_extractor.py
-	lib/test.sh -gi -p 5
-
-serve: lib/serve.sh $(CONFIG) $(BUILD_PATH)
+serve: src/serve.sh $(CONFIG) $(BUILD_PATH)
 	@make serve-kill || true
 	@mkdir -p $(TEMP)
-	@lib/serve.sh -c $(CONFIG) &>> $(TEMP)/server.log &
+	@src/serve.sh -c $(CONFIG) &>> $(TEMP)/server.log &
 	@echo -e "\nhttp://$(TEMP_SERVER_BIND):$(TEMP_SERVER_PORT)\n"
 
 serve-kill:
 	@ps a | grep $(TEMP_SERVER_PORT) | head -1 | awk '{print $$1}' | xargs kill -SEGV &>/dev/null
+
+public-suffix-list:
+	make -C list/ check
+	make -C list/ all

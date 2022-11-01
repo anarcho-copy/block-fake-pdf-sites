@@ -1,10 +1,5 @@
 # local repo
 psl
 psl-make-dafsa
-dos2unix
-mac2unix
-curl
-xclip
-jq
 # https://github.com/stricaud/faup
 faup
