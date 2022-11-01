@@ -13,7 +13,7 @@ if [[ ! -f "${1}" ]]; then
 fi
 
 # main
-sed 's/*:\/\///g; s/\/\*//g; s/www.//g' "${1}" | sort -u | xclip -selection clipboard && {
+sed 's/*:\/\///g; s/\/\*//g; s/www.//g; s/*.//g' "${1}" | sort -u | xclip -selection clipboard && {
 	echo "list copied to clipboard"
 }
 { sleep 5; rm -f "${1}"; } &
