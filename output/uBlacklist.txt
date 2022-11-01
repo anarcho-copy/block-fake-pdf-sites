@@ -1,9 +1,9 @@
 # Name        : fake (malicious/profiting from ads) pdf site blocker
-# Version     : 20221101051802
-# Date        : Tue Nov  1 02:18:02 AM UTC 2022
+# Version     : 20221101130258
+# Date        : Tue Nov  1 10:02:58 AM UTC 2022
 # Repo        : https://gitlab.com/anarcho-copy/block-fake-pdf-sites
 # File        : https://gitlab.com/anarcho-copy/block-fake-pdf-sites/-/raw/master/./output/uBlacklist.txt
-# Total lines : 1923
+# Total lines : 1940
 
 *://*.100casas.es/*
 *://*.197.news/*
@@ -49,6 +49,7 @@
 *://*.akuchielillee1993.wordpress.com/*
 *://*.alanchausseur.fr/*
 *://*.albignasego1.it/*
+*://*.aleksivesala.fi/*
 *://*.alessiobailly1985.files.wordpress.com/*
 *://*.alessiobailly1985.wordpress.com/*
 *://*.alexahbanducci1984.files.wordpress.com/*
@@ -78,6 +79,7 @@
 *://*.amerisalvatore1988.files.wordpress.com/*
 *://*.amerisalvatore1988.wordpress.com/*
 *://*.amisducentredartdechateauvert.fr/*
+*://*.amitydog.fr/*
 *://*.amministrazioni-foresti.it/*
 *://*.amrenszollosi96.files.wordpress.com/*
 *://*.amrenszollosi96.wordpress.com/*
@@ -315,6 +317,7 @@
 *://*.certamenandressegovia.es/*
 *://*.cestralab-fisioterapia.it/*
 *://*.cevapanahtaripdf.com/*
+*://*.cftc-monoprix.fr/*
 *://*.chadric-piper69.blogspot.com/*
 *://*.champagnelaforge.nl/*
 *://*.champlife.de/*
@@ -339,6 +342,7 @@
 *://*.claudiojofrepsychologue.fr/*
 *://*.claytonartist.files.wordpress.com/*
 *://*.claytonartist.wordpress.com/*
+*://*.clean-capital.de/*
 *://*.cleanylife.fr/*
 *://*.clemcoudre.fr/*
 *://*.climatechangehub.es/*
@@ -494,6 +498,7 @@
 *://*.ekitapyeri.com/*
 *://*.ekobiff.pl/*
 *://*.elberijschool.nl/*
+*://*.elco-ordo-profi.ch/*
 *://*.electrodiver.es/*
 *://*.electronuki.es/*
 *://*.elektrikciadana.com/*
@@ -621,6 +626,7 @@
 *://*.fvchipsquad.files.wordpress.com/*
 *://*.fvchipsquad.wordpress.com/*
 *://*.fwss.cz/*
+*://*.fysiosonja.fi/*
 *://*.fyziohomeo.cz/*
 *://*.gabor-schwerdtfeger-immobilien.de/*
 *://*.gaestehausi49.de/*
@@ -648,6 +654,7 @@
 *://*.glazur-mat.pl/*
 *://*.glenderaynen1995.files.wordpress.com/*
 *://*.glenderaynen1995.wordpress.com/*
+*://*.gluesenkamp-coaching-mainz.de/*
 *://*.glueworkmadrid.es/*
 *://*.gobusinessview.es/*
 *://*.goerkeakshadha1990.files.wordpress.com/*
@@ -1081,6 +1088,7 @@
 *://*.massimilianopalazzo.it/*
 *://*.matchado.com.au/*
 *://*.matematykazpasja.pl/*
+*://*.matthieugandolficoaching.fr/*
 *://*.mauryatraversa.files.wordpress.com/*
 *://*.mauryatraversa.wordpress.com/*
 *://*.maxstonflippen87.files.wordpress.com/*
@@ -1121,6 +1129,7 @@
 *://*.mifarmaceutica.es/*
 *://*.mifinanciero.es/*
 *://*.mijnkleinkunstlied.nl/*
+*://*.mikihouserussia.ru/*
 *://*.militaria-bw.de/*
 *://*.mimarstudio.es/*
 *://*.mimostside1984.files.wordpress.com/*
@@ -1164,6 +1173,7 @@
 *://*.mundocampeones.es/*
 *://*.muscentesreekar1994.files.wordpress.com/*
 *://*.muscentesreekar1994.wordpress.com/*
+*://*.musiktage-affoltern.ch/*
 *://*.mutterschiff-blog.de/*
 *://*.mybetterck.com/*
 *://*.mygioya.it/*
@@ -1386,6 +1396,7 @@
 *://*.poweredbytweets.es/*
 *://*.poznanpolnoc.pl/*
 *://*.ppnuevobaztan.es/*
+*://*.pradipika-alsace.fr/*
 *://*.pratalexazrab.tk/*
 *://*.prawnikwbanku.pl/*
 *://*.prodejmotocykluhonda.cz/*
@@ -1474,6 +1485,7 @@
 *://*.rosaliebuttisholz.ch/*
 *://*.rosamariagorgues.es/*
 *://*.rosarioysanti.es/*
+*://*.rosdekor24.ru/*
 *://*.rossmanaliina1991.files.wordpress.com/*
 *://*.rossmanaliina1991.wordpress.com/*
 *://*.rotary-carraraemassa.it/*
@@ -1499,6 +1511,7 @@
 *://*.rx0.nl/*
 *://*.rzafreshflock.files.wordpress.com/*
 *://*.rzafreshflock.wordpress.com/*
+*://*.saberecrescer.pt/*
 *://*.sabine-botta.de/*
 *://*.sabinewanek.de/*
 *://*.sacramentodatacenters.net/*
@@ -1698,6 +1711,7 @@
 *://*.tencs.es/*
 *://*.tendestrutture.it/*
 *://*.teniszh.cz/*
+*://*.ternistadium.eu/*
 *://*.tevfik-fikret-pdf-odf-mp3.site/*
 *://*.teze.lt/*
 *://*.tgc-kunratice.cz/*
@@ -1713,6 +1727,7 @@
 *://*.thobiasgiambanco92.files.wordpress.com/*
 *://*.thobiasgiambanco92.wordpress.com/*
 *://*.tieffemacchine.it/*
+*://*.tijdvoorpaprika.nl/*
 *://*.tikla-indir.com/*
 *://*.tinkilinki.ru/*
 *://*.tiodocoultosa.tk/*
@@ -1825,6 +1840,7 @@
 *://*.vilinskoe-adm.ru/*
 *://*.vinaygazitano82.files.wordpress.com/*
 *://*.vinaygazitano82.wordpress.com/*
+*://*.vinoforte.it/*
 *://*.virona.nl/*
 *://*.vittel-renouveau.fr/*
 *://*.vivendojobs.de/*
@@ -1841,6 +1857,7 @@
 *://*.vstpicasphere.files.wordpress.com/*
 *://*.vstpicasphere.wordpress.com/*
 *://*.vyrobkyzakatu.cz/*
+*://*.waamaag.fr/*
 *://*.wafirmaldives.it/*
 *://*.waltermoladori.it/*
 *://*.webdesign-tobies.de/*

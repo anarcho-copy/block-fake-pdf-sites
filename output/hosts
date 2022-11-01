@@ -1,9 +1,9 @@
 # Name        : fake (malicious/profiting from ads) pdf site blocker
-# Version     : 20221101051802
-# Date        : Tue Nov  1 02:18:02 AM UTC 2022
+# Version     : 20221101130258
+# Date        : Tue Nov  1 10:02:58 AM UTC 2022
 # Repo        : https://gitlab.com/anarcho-copy/block-fake-pdf-sites
 # File        : https://gitlab.com/anarcho-copy/block-fake-pdf-sites/-/raw/master/./output/hosts
-# Total lines : 1923
+# Total lines : 1940
 
 127.0.0.1 100casas.es
 127.0.0.1 197.news
@@ -49,6 +49,7 @@
 127.0.0.1 akuchielillee1993.wordpress.com
 127.0.0.1 alanchausseur.fr
 127.0.0.1 albignasego1.it
+127.0.0.1 aleksivesala.fi
 127.0.0.1 alessiobailly1985.files.wordpress.com
 127.0.0.1 alessiobailly1985.wordpress.com
 127.0.0.1 alexahbanducci1984.files.wordpress.com
@@ -78,6 +79,7 @@
 127.0.0.1 amerisalvatore1988.files.wordpress.com
 127.0.0.1 amerisalvatore1988.wordpress.com
 127.0.0.1 amisducentredartdechateauvert.fr
+127.0.0.1 amitydog.fr
 127.0.0.1 amministrazioni-foresti.it
 127.0.0.1 amrenszollosi96.files.wordpress.com
 127.0.0.1 amrenszollosi96.wordpress.com
@@ -315,6 +317,7 @@
 127.0.0.1 certamenandressegovia.es
 127.0.0.1 cestralab-fisioterapia.it
 127.0.0.1 cevapanahtaripdf.com
+127.0.0.1 cftc-monoprix.fr
 127.0.0.1 chadric-piper69.blogspot.com
 127.0.0.1 champagnelaforge.nl
 127.0.0.1 champlife.de
@@ -339,6 +342,7 @@
 127.0.0.1 claudiojofrepsychologue.fr
 127.0.0.1 claytonartist.files.wordpress.com
 127.0.0.1 claytonartist.wordpress.com
+127.0.0.1 clean-capital.de
 127.0.0.1 cleanylife.fr
 127.0.0.1 clemcoudre.fr
 127.0.0.1 climatechangehub.es
@@ -494,6 +498,7 @@
 127.0.0.1 ekitapyeri.com
 127.0.0.1 ekobiff.pl
 127.0.0.1 elberijschool.nl
+127.0.0.1 elco-ordo-profi.ch
 127.0.0.1 electrodiver.es
 127.0.0.1 electronuki.es
 127.0.0.1 elektrikciadana.com
@@ -621,6 +626,7 @@
 127.0.0.1 fvchipsquad.files.wordpress.com
 127.0.0.1 fvchipsquad.wordpress.com
 127.0.0.1 fwss.cz
+127.0.0.1 fysiosonja.fi
 127.0.0.1 fyziohomeo.cz
 127.0.0.1 gabor-schwerdtfeger-immobilien.de
 127.0.0.1 gaestehausi49.de
@@ -648,6 +654,7 @@
 127.0.0.1 glazur-mat.pl
 127.0.0.1 glenderaynen1995.files.wordpress.com
 127.0.0.1 glenderaynen1995.wordpress.com
+127.0.0.1 gluesenkamp-coaching-mainz.de
 127.0.0.1 glueworkmadrid.es
 127.0.0.1 gobusinessview.es
 127.0.0.1 goerkeakshadha1990.files.wordpress.com
@@ -1081,6 +1088,7 @@
 127.0.0.1 massimilianopalazzo.it
 127.0.0.1 matchado.com.au
 127.0.0.1 matematykazpasja.pl
+127.0.0.1 matthieugandolficoaching.fr
 127.0.0.1 mauryatraversa.files.wordpress.com
 127.0.0.1 mauryatraversa.wordpress.com
 127.0.0.1 maxstonflippen87.files.wordpress.com
@@ -1121,6 +1129,7 @@
 127.0.0.1 mifarmaceutica.es
 127.0.0.1 mifinanciero.es
 127.0.0.1 mijnkleinkunstlied.nl
+127.0.0.1 mikihouserussia.ru
 127.0.0.1 militaria-bw.de
 127.0.0.1 mimarstudio.es
 127.0.0.1 mimostside1984.files.wordpress.com
@@ -1164,6 +1173,7 @@
 127.0.0.1 mundocampeones.es
 127.0.0.1 muscentesreekar1994.files.wordpress.com
 127.0.0.1 muscentesreekar1994.wordpress.com
+127.0.0.1 musiktage-affoltern.ch
 127.0.0.1 mutterschiff-blog.de
 127.0.0.1 mybetterck.com
 127.0.0.1 mygioya.it
@@ -1386,6 +1396,7 @@
 127.0.0.1 poweredbytweets.es
 127.0.0.1 poznanpolnoc.pl
 127.0.0.1 ppnuevobaztan.es
+127.0.0.1 pradipika-alsace.fr
 127.0.0.1 pratalexazrab.tk
 127.0.0.1 prawnikwbanku.pl
 127.0.0.1 prodejmotocykluhonda.cz
@@ -1474,6 +1485,7 @@
 127.0.0.1 rosaliebuttisholz.ch
 127.0.0.1 rosamariagorgues.es
 127.0.0.1 rosarioysanti.es
+127.0.0.1 rosdekor24.ru
 127.0.0.1 rossmanaliina1991.files.wordpress.com
 127.0.0.1 rossmanaliina1991.wordpress.com
 127.0.0.1 rotary-carraraemassa.it
@@ -1499,6 +1511,7 @@
 127.0.0.1 rx0.nl
 127.0.0.1 rzafreshflock.files.wordpress.com
 127.0.0.1 rzafreshflock.wordpress.com
+127.0.0.1 saberecrescer.pt
 127.0.0.1 sabine-botta.de
 127.0.0.1 sabinewanek.de
 127.0.0.1 sacramentodatacenters.net
@@ -1698,6 +1711,7 @@
 127.0.0.1 tencs.es
 127.0.0.1 tendestrutture.it
 127.0.0.1 teniszh.cz
+127.0.0.1 ternistadium.eu
 127.0.0.1 tevfik-fikret-pdf-odf-mp3.site
 127.0.0.1 teze.lt
 127.0.0.1 tgc-kunratice.cz
@@ -1713,6 +1727,7 @@
 127.0.0.1 thobiasgiambanco92.files.wordpress.com
 127.0.0.1 thobiasgiambanco92.wordpress.com
 127.0.0.1 tieffemacchine.it
+127.0.0.1 tijdvoorpaprika.nl
 127.0.0.1 tikla-indir.com
 127.0.0.1 tinkilinki.ru
 127.0.0.1 tiodocoultosa.tk
@@ -1825,6 +1840,7 @@
 127.0.0.1 vilinskoe-adm.ru
 127.0.0.1 vinaygazitano82.files.wordpress.com
 127.0.0.1 vinaygazitano82.wordpress.com
+127.0.0.1 vinoforte.it
 127.0.0.1 virona.nl
 127.0.0.1 vittel-renouveau.fr
 127.0.0.1 vivendojobs.de
@@ -1841,6 +1857,7 @@
 127.0.0.1 vstpicasphere.files.wordpress.com
 127.0.0.1 vstpicasphere.wordpress.com
 127.0.0.1 vyrobkyzakatu.cz
+127.0.0.1 waamaag.fr
 127.0.0.1 wafirmaldives.it
 127.0.0.1 waltermoladori.it
 127.0.0.1 webdesign-tobies.de
@@ -1918,6 +1935,7 @@
 127.0.0.1 www.akuchielillee1993.wordpress.com
 127.0.0.1 www.alanchausseur.fr
 127.0.0.1 www.albignasego1.it
+127.0.0.1 www.aleksivesala.fi
 127.0.0.1 www.alessiobailly1985.files.wordpress.com
 127.0.0.1 www.alessiobailly1985.wordpress.com
 127.0.0.1 www.alexahbanducci1984.files.wordpress.com
@@ -1947,6 +1965,7 @@
 127.0.0.1 www.amerisalvatore1988.files.wordpress.com
 127.0.0.1 www.amerisalvatore1988.wordpress.com
 127.0.0.1 www.amisducentredartdechateauvert.fr
+127.0.0.1 www.amitydog.fr
 127.0.0.1 www.amministrazioni-foresti.it
 127.0.0.1 www.amrenszollosi96.files.wordpress.com
 127.0.0.1 www.amrenszollosi96.wordpress.com
@@ -2184,6 +2203,7 @@
 127.0.0.1 www.certamenandressegovia.es
 127.0.0.1 www.cestralab-fisioterapia.it
 127.0.0.1 www.cevapanahtaripdf.com
+127.0.0.1 www.cftc-monoprix.fr
 127.0.0.1 www.chadric-piper69.blogspot.com
 127.0.0.1 www.champagnelaforge.nl
 127.0.0.1 www.champlife.de
@@ -2208,6 +2228,7 @@
 127.0.0.1 www.claudiojofrepsychologue.fr
 127.0.0.1 www.claytonartist.files.wordpress.com
 127.0.0.1 www.claytonartist.wordpress.com
+127.0.0.1 www.clean-capital.de
 127.0.0.1 www.cleanylife.fr
 127.0.0.1 www.clemcoudre.fr
 127.0.0.1 www.climatechangehub.es
@@ -2363,6 +2384,7 @@
 127.0.0.1 www.ekitapyeri.com
 127.0.0.1 www.ekobiff.pl
 127.0.0.1 www.elberijschool.nl
+127.0.0.1 www.elco-ordo-profi.ch
 127.0.0.1 www.electrodiver.es
 127.0.0.1 www.electronuki.es
 127.0.0.1 www.elektrikciadana.com
@@ -2490,6 +2512,7 @@
 127.0.0.1 www.fvchipsquad.files.wordpress.com
 127.0.0.1 www.fvchipsquad.wordpress.com
 127.0.0.1 www.fwss.cz
+127.0.0.1 www.fysiosonja.fi
 127.0.0.1 www.fyziohomeo.cz
 127.0.0.1 www.gabor-schwerdtfeger-immobilien.de
 127.0.0.1 www.gaestehausi49.de
@@ -2517,6 +2540,7 @@
 127.0.0.1 www.glazur-mat.pl
 127.0.0.1 www.glenderaynen1995.files.wordpress.com
 127.0.0.1 www.glenderaynen1995.wordpress.com
+127.0.0.1 www.gluesenkamp-coaching-mainz.de
 127.0.0.1 www.glueworkmadrid.es
 127.0.0.1 www.gobusinessview.es
 127.0.0.1 www.goerkeakshadha1990.files.wordpress.com
@@ -2950,6 +2974,7 @@
 127.0.0.1 www.massimilianopalazzo.it
 127.0.0.1 www.matchado.com.au
 127.0.0.1 www.matematykazpasja.pl
+127.0.0.1 www.matthieugandolficoaching.fr
 127.0.0.1 www.mauryatraversa.files.wordpress.com
 127.0.0.1 www.mauryatraversa.wordpress.com
 127.0.0.1 www.maxstonflippen87.files.wordpress.com
@@ -2990,6 +3015,7 @@
 127.0.0.1 www.mifarmaceutica.es
 127.0.0.1 www.mifinanciero.es
 127.0.0.1 www.mijnkleinkunstlied.nl
+127.0.0.1 www.mikihouserussia.ru
 127.0.0.1 www.militaria-bw.de
 127.0.0.1 www.mimarstudio.es
 127.0.0.1 www.mimostside1984.files.wordpress.com
@@ -3033,6 +3059,7 @@
 127.0.0.1 www.mundocampeones.es
 127.0.0.1 www.muscentesreekar1994.files.wordpress.com
 127.0.0.1 www.muscentesreekar1994.wordpress.com
+127.0.0.1 www.musiktage-affoltern.ch
 127.0.0.1 www.mutterschiff-blog.de
 127.0.0.1 www.mybetterck.com
 127.0.0.1 www.mygioya.it
@@ -3255,6 +3282,7 @@
 127.0.0.1 www.poweredbytweets.es
 127.0.0.1 www.poznanpolnoc.pl
 127.0.0.1 www.ppnuevobaztan.es
+127.0.0.1 www.pradipika-alsace.fr
 127.0.0.1 www.pratalexazrab.tk
 127.0.0.1 www.prawnikwbanku.pl
 127.0.0.1 www.prodejmotocykluhonda.cz
@@ -3343,6 +3371,7 @@
 127.0.0.1 www.rosaliebuttisholz.ch
 127.0.0.1 www.rosamariagorgues.es
 127.0.0.1 www.rosarioysanti.es
+127.0.0.1 www.rosdekor24.ru
 127.0.0.1 www.rossmanaliina1991.files.wordpress.com
 127.0.0.1 www.rossmanaliina1991.wordpress.com
 127.0.0.1 www.rotary-carraraemassa.it
@@ -3368,6 +3397,7 @@
 127.0.0.1 www.rx0.nl
 127.0.0.1 www.rzafreshflock.files.wordpress.com
 127.0.0.1 www.rzafreshflock.wordpress.com
+127.0.0.1 www.saberecrescer.pt
 127.0.0.1 www.sabine-botta.de
 127.0.0.1 www.sabinewanek.de
 127.0.0.1 www.sacramentodatacenters.net
@@ -3567,6 +3597,7 @@
 127.0.0.1 www.tencs.es
 127.0.0.1 www.tendestrutture.it
 127.0.0.1 www.teniszh.cz
+127.0.0.1 www.ternistadium.eu
 127.0.0.1 www.tevfik-fikret-pdf-odf-mp3.site
 127.0.0.1 www.teze.lt
 127.0.0.1 www.tgc-kunratice.cz
@@ -3582,6 +3613,7 @@
 127.0.0.1 www.thobiasgiambanco92.files.wordpress.com
 127.0.0.1 www.thobiasgiambanco92.wordpress.com
 127.0.0.1 www.tieffemacchine.it
+127.0.0.1 www.tijdvoorpaprika.nl
 127.0.0.1 www.tikla-indir.com
 127.0.0.1 www.tinkilinki.ru
 127.0.0.1 www.tiodocoultosa.tk
@@ -3694,6 +3726,7 @@
 127.0.0.1 www.vilinskoe-adm.ru
 127.0.0.1 www.vinaygazitano82.files.wordpress.com
 127.0.0.1 www.vinaygazitano82.wordpress.com
+127.0.0.1 www.vinoforte.it
 127.0.0.1 www.virona.nl
 127.0.0.1 www.vittel-renouveau.fr
 127.0.0.1 www.vivendojobs.de
@@ -3710,6 +3743,7 @@
 127.0.0.1 www.vstpicasphere.files.wordpress.com
 127.0.0.1 www.vstpicasphere.wordpress.com
 127.0.0.1 www.vyrobkyzakatu.cz
+127.0.0.1 www.waamaag.fr
 127.0.0.1 www.wafirmaldives.it
 127.0.0.1 www.waltermoladori.it
 127.0.0.1 www.webdesign-tobies.de
