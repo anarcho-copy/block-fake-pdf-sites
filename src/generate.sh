@@ -1,5 +1,7 @@
 #!/bin/bash
 . make.config || exit 1
+. list/make.config || exit 1
+
 mkdir -p ${TEMP}
 rm -rf ${TEMP}/*
 touch ${TEMP}/ubased ${TEMP}/hbased
@@ -8,7 +10,7 @@ touch ${TEMP}/ubased ${TEMP}/hbased
 faup -o json ${BLACKLIST_DOMAINS} | jq -r .domain > ${TEMP}/domain
 faup -o json ${WASTE_LOGIN_REQUIRED} | jq -r .domain >> ${TEMP}/domain
 
-# generate .file.wordpress.com
+# generate .files.wordpress.com
 faup -o json ${BLACKLIST_DOMAINS}| jq -r .domain | grep '\.wordpress\.com' | sed 's/.wordpress.com/.files.wordpress.com/g' >> ${TEMP}/domain
 
 # include allowed domains
@@ -37,12 +39,12 @@ sort -u ${TEMP}/domain ${TEMP}/ubased > ${TEMP}/ublacklist.dat
 sort -u ${TEMP}/domain ${TEMP}/ubased ${TEMP}/hbased > ${TEMP}/all.dat
 
 # check domains
-if cat ${TEMP}/all.dat | psl | grep ': 1'; then
+if cat ${TEMP}/all.dat | psl --load-psl-file list/${TLD_FILE}.dafsa | grep ': 1'; then
 	echo "TLD found! Please check it.."
 	exit 1
 fi
 
-# set info variables
+# set information variables
 TOTAL_LINES=$(cat ${TEMP}/all.dat | wc -l)
 TOTAL_LINES_UBASED=$(cat ${TEMP}/ublacklist.dat | wc -l)
 DATE=$(date -u)
