@@ -3,7 +3,7 @@ include make.config
 help: .config/makehelp src/makefile2help.sh
 	@src/makefile2help.sh -c $(CONFIG)
 
-generate: $(BLACKLIST_DOMAINS) $(WASTE_LOGIN_REQUIRED) $(WHITELIST_DOMAINS) $(WHITELIST_TURKISH_BOOKSTORES) $(OTHER_HOSTS_SOURCES)/ $(OTHER_UBLACKLIST_SOURCES)/ src/generate.sh
+generate: $(BLACKLIST_DOMAINS) $(WASTE_LOGIN_REQUIRED) $(WHITELIST_DOMAINS) $(WHITELIST_TURKISH_BOOKSTORES) $(OTHER_HOSTS_SOURCES)/ $(OTHER_UBLACKLIST_SOURCES)/ src/generate.sh /usr/local/share/faup/custom_tlds_exists
 	make check
 	@echo Generating files...
 	src/generate.sh
@@ -62,3 +62,6 @@ serve-kill:
 public-suffix-list:
 	make -C list/ check
 	make -C list/ all
+
+/usr/local/share/faup/custom_tlds_exists:
+	make -C list/ faup-data
