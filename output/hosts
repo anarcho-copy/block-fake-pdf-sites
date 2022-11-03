@@ -1,9 +1,9 @@
 # Name        : fake (malicious/profiting from ads) pdf site blocker
-# Version     : 20221103155851
-# Date        : Thu Nov  3 12:58:51 PM UTC 2022
+# Version     : 20221103160354
+# Date        : Thu Nov  3 01:03:54 PM UTC 2022
 # Repo        : https://gitlab.com/anarcho-copy/block-fake-pdf-sites
 # File        : https://gitlab.com/anarcho-copy/block-fake-pdf-sites/-/raw/master/./output/hosts
-# Total lines : 2322
+# Total lines : 2343
 
 127.0.0.1 100casas.es
 127.0.0.1 197.news
@@ -323,6 +323,7 @@
 127.0.0.1 buxbde.za.com
 127.0.0.1 buzzmedia.es
 127.0.0.1 bvbhhn.ru.com
+127.0.0.1 bvhfsi.sa.com
 127.0.0.1 bykov-info.ru
 127.0.0.1 cabinetdentairechateauneuf.fr
 127.0.0.1 cafebar-simpel.ch
@@ -436,6 +437,7 @@
 127.0.0.1 crockme.fr
 127.0.0.1 csempeblog.eu
 127.0.0.1 csfd.cz
+127.0.0.1 cskpbk.za.com
 127.0.0.1 cuisine-prix-net.fr
 127.0.0.1 cukoyem.com.tr
 127.0.0.1 cultfilmz.com
@@ -504,6 +506,7 @@
 127.0.0.1 devvy.nl
 127.0.0.1 dezigely.cz
 127.0.0.1 dffk.sa.com
+127.0.0.1 dgzazc.ru.com
 127.0.0.1 diaprominci.files.wordpress.com
 127.0.0.1 diaprominci.wordpress.com
 127.0.0.1 dibox.es
@@ -519,6 +522,7 @@
 127.0.0.1 dionaermatinger.wordpress.com
 127.0.0.1 djacoura.fr
 127.0.0.1 dksaha.ru.com
+127.0.0.1 dksaha.sa.com
 127.0.0.1 dmavmn.za.com
 127.0.0.1 docplayer.nl
 127.0.0.1 docslide.es
@@ -603,6 +607,7 @@
 127.0.0.1 emkoupbelldep1976.files.wordpress.com
 127.0.0.1 emkoupbelldep1976.wordpress.com
 127.0.0.1 energieeffizientnutzen.ch
+127.0.0.1 enfidn.za.com
 127.0.0.1 enjoyfitnessclubsirmione.it
 127.0.0.1 enjoy-live-shop.de
 127.0.0.1 enniobrilli.it
@@ -649,6 +654,7 @@
 127.0.0.1 exgceb.za.com
 127.0.0.1 expcentermsk.ru
 127.0.0.1 expiraciondejaen.es
+127.0.0.1 eycffa.za.com
 127.0.0.1 eyekraftnv.ru
 127.0.0.1 eyeseet.nl
 127.0.0.1 eyyw.sa.com
@@ -745,6 +751,7 @@
 127.0.0.1 fyziohomeo.cz
 127.0.0.1 gabor-schwerdtfeger-immobilien.de
 127.0.0.1 gaestehausi49.de
+127.0.0.1 gafdxg.za.com
 127.0.0.1 galanteriemladaboleslav.cz
 127.0.0.1 gamingteamkravare.cz
 127.0.0.1 ganeshhonor.files.wordpress.com
@@ -835,6 +842,8 @@
 127.0.0.1 hayalalimi.com
 127.0.0.1 hayalalimi.live
 127.0.0.1 hcautomoviles.es
+127.0.0.1 hcsd.sa.com
+127.0.0.1 hcsypn.ru.com
 127.0.0.1 hdapicourbia.files.wordpress.com
 127.0.0.1 hdapicourbia.wordpress.com
 127.0.0.1 hdbyfenetresurcour.fr
@@ -890,6 +899,7 @@
 127.0.0.1 hwn500.de
 127.0.0.1 hxtybs.sa.com
 127.0.0.1 hxyz.sa.com
+127.0.0.1 hyeacj.ru.com
 127.0.0.1 hypnotherapie-bigoin.fr
 127.0.0.1 i25.news
 127.0.0.1 i25news.com
@@ -898,6 +908,7 @@
 127.0.0.1 icpopupstores.pl
 127.0.0.1 ifepbs.za.com
 127.0.0.1 ifps-education.fr
+127.0.0.1 ihipzf.za.com
 127.0.0.1 ilonka-vordermayr-heilpraktikerin.de
 127.0.0.1 imeori.it
 127.0.0.1 imfamont.cz
@@ -1036,6 +1047,7 @@
 127.0.0.1 kazbek2015.pl
 127.0.0.1 kblog.cz
 127.0.0.1 kbtbk.de
+127.0.0.1 kbxddv.ru.com
 127.0.0.1 kcbyaharbor.files.wordpress.com
 127.0.0.1 kcbyaharbor.wordpress.com
 127.0.0.1 kdpu.sa.com
@@ -1373,6 +1385,7 @@
 127.0.0.1 muscentesreekar1994.wordpress.com
 127.0.0.1 musiktage-affoltern.ch
 127.0.0.1 mutterschiff-blog.de
+127.0.0.1 muvkgi.sa.com
 127.0.0.1 mybetterck.com
 127.0.0.1 mygioya.it
 127.0.0.1 mynhierramiz.files.wordpress.com
@@ -1482,6 +1495,7 @@
 127.0.0.1 ot-tur.ru
 127.0.0.1 owap.sa.com
 127.0.0.1 owncase.cz
+127.0.0.1 owrq.sa.com
 127.0.0.1 oyabs.nl
 127.0.0.1 paalvijftien.nl
 127.0.0.1 pabloarbesu.es
@@ -1607,6 +1621,7 @@
 127.0.0.1 piyushkayser.wordpress.com
 127.0.0.1 pj973.vip
 127.0.0.1 pkkid.pl
+127.0.0.1 pkktjm.ru.com
 127.0.0.1 pkktjm.za.com
 127.0.0.1 pkkzdj.za.com
 127.0.0.1 pkps.com.pl
@@ -1695,6 +1710,7 @@
 127.0.0.1 rbdu.sa.com
 127.0.0.1 rbepby.sa.com
 127.0.0.1 rbmunb.ru.com
+127.0.0.1 rbmunb.za.com
 127.0.0.1 rcilithive.files.wordpress.com
 127.0.0.1 rcilithive.wordpress.com
 127.0.0.1 rdjtdz.ru.com
@@ -2084,6 +2100,7 @@
 127.0.0.1 tsnaiv.za.com
 127.0.0.1 ttdtck.sa.com
 127.0.0.1 tt-schule-bb.de
+127.0.0.1 ttvuyz.za.com
 127.0.0.1 turkishpdfbooks.info
 127.0.0.1 turkiye-daily.news
 127.0.0.1 turkiye-search.news
@@ -2116,6 +2133,7 @@
 127.0.0.1 uhmtifyinothe.files.wordpress.com
 127.0.0.1 uhmtifyinothe.wordpress.com
 127.0.0.1 uhpersonal-training.de
+127.0.0.1 ujpkge.sa.com
 127.0.0.1 ujpkge.za.com
 127.0.0.1 ukinoryc1976.files.wordpress.com
 127.0.0.1 ukinoryc1976.wordpress.com
@@ -2160,6 +2178,7 @@
 127.0.0.1 vasiliahemmert.files.wordpress.com
 127.0.0.1 vasiliahemmert.wordpress.com
 127.0.0.1 vautnn.za.com
+127.0.0.1 vaymkd.za.com
 127.0.0.1 vbarcadia.pl
 127.0.0.1 vdbviridinator.files.wordpress.com
 127.0.0.1 vdbviridinator.wordpress.com
@@ -2564,6 +2583,7 @@
 127.0.0.1 www.buxbde.za.com
 127.0.0.1 www.buzzmedia.es
 127.0.0.1 www.bvbhhn.ru.com
+127.0.0.1 www.bvhfsi.sa.com
 127.0.0.1 www.bykov-info.ru
 127.0.0.1 www.cabinetdentairechateauneuf.fr
 127.0.0.1 www.cafebar-simpel.ch
@@ -2677,6 +2697,7 @@
 127.0.0.1 www.crockme.fr
 127.0.0.1 www.csempeblog.eu
 127.0.0.1 www.csfd.cz
+127.0.0.1 www.cskpbk.za.com
 127.0.0.1 www.cuisine-prix-net.fr
 127.0.0.1 www.cukoyem.com.tr
 127.0.0.1 www.cultfilmz.com
@@ -2745,6 +2766,7 @@
 127.0.0.1 www.devvy.nl
 127.0.0.1 www.dezigely.cz
 127.0.0.1 www.dffk.sa.com
+127.0.0.1 www.dgzazc.ru.com
 127.0.0.1 www.diaprominci.files.wordpress.com
 127.0.0.1 www.diaprominci.wordpress.com
 127.0.0.1 www.dibox.es
@@ -2760,6 +2782,7 @@
 127.0.0.1 www.dionaermatinger.wordpress.com
 127.0.0.1 www.djacoura.fr
 127.0.0.1 www.dksaha.ru.com
+127.0.0.1 www.dksaha.sa.com
 127.0.0.1 www.dmavmn.za.com
 127.0.0.1 www.docplayer.nl
 127.0.0.1 www.docslide.es
@@ -2844,6 +2867,7 @@
 127.0.0.1 www.emkoupbelldep1976.files.wordpress.com
 127.0.0.1 www.emkoupbelldep1976.wordpress.com
 127.0.0.1 www.energieeffizientnutzen.ch
+127.0.0.1 www.enfidn.za.com
 127.0.0.1 www.enjoyfitnessclubsirmione.it
 127.0.0.1 www.enjoy-live-shop.de
 127.0.0.1 www.enniobrilli.it
@@ -2890,6 +2914,7 @@
 127.0.0.1 www.exgceb.za.com
 127.0.0.1 www.expcentermsk.ru
 127.0.0.1 www.expiraciondejaen.es
+127.0.0.1 www.eycffa.za.com
 127.0.0.1 www.eyekraftnv.ru
 127.0.0.1 www.eyeseet.nl
 127.0.0.1 www.eyyw.sa.com
@@ -2986,6 +3011,7 @@
 127.0.0.1 www.fyziohomeo.cz
 127.0.0.1 www.gabor-schwerdtfeger-immobilien.de
 127.0.0.1 www.gaestehausi49.de
+127.0.0.1 www.gafdxg.za.com
 127.0.0.1 www.galanteriemladaboleslav.cz
 127.0.0.1 www.gamingteamkravare.cz
 127.0.0.1 www.ganeshhonor.files.wordpress.com
@@ -3076,6 +3102,8 @@
 127.0.0.1 www.hayalalimi.com
 127.0.0.1 www.hayalalimi.live
 127.0.0.1 www.hcautomoviles.es
+127.0.0.1 www.hcsd.sa.com
+127.0.0.1 www.hcsypn.ru.com
 127.0.0.1 www.hdapicourbia.files.wordpress.com
 127.0.0.1 www.hdapicourbia.wordpress.com
 127.0.0.1 www.hdbyfenetresurcour.fr
@@ -3131,6 +3159,7 @@
 127.0.0.1 www.hwn500.de
 127.0.0.1 www.hxtybs.sa.com
 127.0.0.1 www.hxyz.sa.com
+127.0.0.1 www.hyeacj.ru.com
 127.0.0.1 www.hypnotherapie-bigoin.fr
 127.0.0.1 www.i25.news
 127.0.0.1 www.i25news.com
@@ -3139,6 +3168,7 @@
 127.0.0.1 www.icpopupstores.pl
 127.0.0.1 www.ifepbs.za.com
 127.0.0.1 www.ifps-education.fr
+127.0.0.1 www.ihipzf.za.com
 127.0.0.1 www.ilonka-vordermayr-heilpraktikerin.de
 127.0.0.1 www.imeori.it
 127.0.0.1 www.imfamont.cz
@@ -3277,6 +3307,7 @@
 127.0.0.1 www.kazbek2015.pl
 127.0.0.1 www.kblog.cz
 127.0.0.1 www.kbtbk.de
+127.0.0.1 www.kbxddv.ru.com
 127.0.0.1 www.kcbyaharbor.files.wordpress.com
 127.0.0.1 www.kcbyaharbor.wordpress.com
 127.0.0.1 www.kdpu.sa.com
@@ -3614,6 +3645,7 @@
 127.0.0.1 www.muscentesreekar1994.wordpress.com
 127.0.0.1 www.musiktage-affoltern.ch
 127.0.0.1 www.mutterschiff-blog.de
+127.0.0.1 www.muvkgi.sa.com
 127.0.0.1 www.mybetterck.com
 127.0.0.1 www.mygioya.it
 127.0.0.1 www.mynhierramiz.files.wordpress.com
@@ -3723,6 +3755,7 @@
 127.0.0.1 www.ot-tur.ru
 127.0.0.1 www.owap.sa.com
 127.0.0.1 www.owncase.cz
+127.0.0.1 www.owrq.sa.com
 127.0.0.1 www.oyabs.nl
 127.0.0.1 www.paalvijftien.nl
 127.0.0.1 www.pabloarbesu.es
@@ -3848,6 +3881,7 @@
 127.0.0.1 www.piyushkayser.wordpress.com
 127.0.0.1 www.pj973.vip
 127.0.0.1 www.pkkid.pl
+127.0.0.1 www.pkktjm.ru.com
 127.0.0.1 www.pkktjm.za.com
 127.0.0.1 www.pkkzdj.za.com
 127.0.0.1 www.pkps.com.pl
@@ -3936,6 +3970,7 @@
 127.0.0.1 www.rbdu.sa.com
 127.0.0.1 www.rbepby.sa.com
 127.0.0.1 www.rbmunb.ru.com
+127.0.0.1 www.rbmunb.za.com
 127.0.0.1 www.rcilithive.files.wordpress.com
 127.0.0.1 www.rcilithive.wordpress.com
 127.0.0.1 www.rdjtdz.ru.com
@@ -4325,6 +4360,7 @@
 127.0.0.1 www.tsnaiv.za.com
 127.0.0.1 www.ttdtck.sa.com
 127.0.0.1 www.tt-schule-bb.de
+127.0.0.1 www.ttvuyz.za.com
 127.0.0.1 www.turkishpdfbooks.info
 127.0.0.1 www.turkiye-daily.news
 127.0.0.1 www.turkiye-search.news
@@ -4357,6 +4393,7 @@
 127.0.0.1 www.uhmtifyinothe.files.wordpress.com
 127.0.0.1 www.uhmtifyinothe.wordpress.com
 127.0.0.1 www.uhpersonal-training.de
+127.0.0.1 www.ujpkge.sa.com
 127.0.0.1 www.ujpkge.za.com
 127.0.0.1 www.ukinoryc1976.files.wordpress.com
 127.0.0.1 www.ukinoryc1976.wordpress.com
@@ -4401,6 +4438,7 @@
 127.0.0.1 www.vasiliahemmert.files.wordpress.com
 127.0.0.1 www.vasiliahemmert.wordpress.com
 127.0.0.1 www.vautnn.za.com
+127.0.0.1 www.vaymkd.za.com
 127.0.0.1 www.vbarcadia.pl
 127.0.0.1 www.vdbviridinator.files.wordpress.com
 127.0.0.1 www.vdbviridinator.wordpress.com
@@ -4514,6 +4552,7 @@
 127.0.0.1 www.yarelizgiesler.files.wordpress.com
 127.0.0.1 www.yarelizgiesler.wordpress.com
 127.0.0.1 www.yasni.com
+127.0.0.1 www.yausac.za.com
 127.0.0.1 www.ybeg.sa.com
 127.0.0.1 www.yeninesilposkasa.com
 127.0.0.1 www.yeninesilposkasa.live
@@ -4564,6 +4603,7 @@
 127.0.0.1 www.z-system.cz
 127.0.0.1 www.ztpsapphireineer.files.wordpress.com
 127.0.0.1 www.ztpsapphireineer.wordpress.com
+127.0.0.1 www.zvem.sa.com
 127.0.0.1 www.zwebu.cz
 127.0.0.1 www.zweiradgezwitscher.de
 127.0.0.1 www.zwergenkleid.de
@@ -4595,6 +4635,7 @@
 127.0.0.1 yarelizgiesler.files.wordpress.com
 127.0.0.1 yarelizgiesler.wordpress.com
 127.0.0.1 yasni.com
+127.0.0.1 yausac.za.com
 127.0.0.1 ybeg.sa.com
 127.0.0.1 yeninesilposkasa.com
 127.0.0.1 yeninesilposkasa.live
@@ -4645,6 +4686,7 @@
 127.0.0.1 z-system.cz
 127.0.0.1 ztpsapphireineer.files.wordpress.com
 127.0.0.1 ztpsapphireineer.wordpress.com
+127.0.0.1 zvem.sa.com
 127.0.0.1 zwebu.cz
 127.0.0.1 zweiradgezwitscher.de
 127.0.0.1 zwergenkleid.de
