@@ -1,9 +1,9 @@
 # Name        : fake (malicious/profiting from ads) pdf site blocker
-# Version     : 20221101230512
-# Date        : Tue Nov  1 08:05:12 PM UTC 2022
+# Version     : 20221103031525
+# Date        : Thu Nov  3 12:15:25 AM UTC 2022
 # Repo        : https://gitlab.com/anarcho-copy/block-fake-pdf-sites
 # File        : https://gitlab.com/anarcho-copy/block-fake-pdf-sites/-/raw/master/./output/uBlacklist.txt
-# Total lines : 2135
+# Total lines : 2147
 
 *://*.100casas.es/*
 *://*.197.news/*
@@ -472,6 +472,8 @@
 *://*.detsat.ru/*
 *://*.devvy.nl/*
 *://*.dezigely.cz/*
+*://*.diaprominci.files.wordpress.com/*
+*://*.diaprominci.wordpress.com/*
 *://*.dibox.es/*
 *://*.didoletetard.fr/*
 *://*.differenci-elles.fr/*
@@ -1359,6 +1361,8 @@
 *://*.onlinewebshop.net/*
 *://*.onoranzefunebrimarecchia.it/*
 *://*.onpu.sa.com/*
+*://*.onuxeruh.files.wordpress.com/*
+*://*.onuxeruh.wordpress.com/*
 *://*.oomovoe.com/*
 *://*.oomovoi.com/*
 *://*.opalys83.fr/*
@@ -1568,6 +1572,8 @@
 *://*.rakhfusstumpvermo.tk/*
 *://*.ramkissoonase.files.wordpress.com/*
 *://*.ramkissoonase.wordpress.com/*
+*://*.rantipsdabe.files.wordpress.com/*
+*://*.rantipsdabe.wordpress.com/*
 *://*.rasajel.de/*
 *://*.rashanti.de/*
 *://*.ratharnay1990.files.wordpress.com/*
@@ -1600,6 +1606,8 @@
 *://*.reverso.net/*
 *://*.revistateiko.es/*
 *://*.reysport.es/*
+*://*.riacrewnygi.files.wordpress.com/*
+*://*.riacrewnygi.wordpress.com/*
 *://*.ricettenelverde.it/*
 *://*.righilady90.files.wordpress.com/*
 *://*.righilady90.wordpress.com/*
@@ -1810,6 +1818,8 @@
 *://*.suburb-deli.nl/*
 *://*.suifahsipy1983.files.wordpress.com/*
 *://*.suifahsipy1983.wordpress.com/*
+*://*.sulsinttwisre.files.wordpress.com/*
+*://*.sulsinttwisre.wordpress.com/*
 *://*.sunniepersley.files.wordpress.com/*
 *://*.sunniepersley.wordpress.com/*
 *://*.sunshade-shop.ch/*
@@ -1971,6 +1981,8 @@
 *://*.unaonadadepetitssomriures.cat/*
 *://*.uniport.edu.ng/*
 *://*.universiteitleiden.nl/*
+*://*.unmagarre.files.wordpress.com/*
+*://*.unmagarre.wordpress.com/*
 *://*.unus.sa.com/*
 *://*.upcfight.cz/*
 *://*.upkrdi.za.com/*

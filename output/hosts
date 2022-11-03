@@ -1,9 +1,9 @@
 # Name        : fake (malicious/profiting from ads) pdf site blocker
-# Version     : 20221101230512
-# Date        : Tue Nov  1 08:05:12 PM UTC 2022
+# Version     : 20221103031525
+# Date        : Thu Nov  3 12:15:25 AM UTC 2022
 # Repo        : https://gitlab.com/anarcho-copy/block-fake-pdf-sites
 # File        : https://gitlab.com/anarcho-copy/block-fake-pdf-sites/-/raw/master/./output/hosts
-# Total lines : 2135
+# Total lines : 2147
 
 127.0.0.1 100casas.es
 127.0.0.1 197.news
@@ -472,6 +472,8 @@
 127.0.0.1 detsat.ru
 127.0.0.1 devvy.nl
 127.0.0.1 dezigely.cz
+127.0.0.1 diaprominci.files.wordpress.com
+127.0.0.1 diaprominci.wordpress.com
 127.0.0.1 dibox.es
 127.0.0.1 didoletetard.fr
 127.0.0.1 differenci-elles.fr
@@ -1359,6 +1361,8 @@
 127.0.0.1 onlinewebshop.net
 127.0.0.1 onoranzefunebrimarecchia.it
 127.0.0.1 onpu.sa.com
+127.0.0.1 onuxeruh.files.wordpress.com
+127.0.0.1 onuxeruh.wordpress.com
 127.0.0.1 oomovoe.com
 127.0.0.1 oomovoi.com
 127.0.0.1 opalys83.fr
@@ -1568,6 +1572,8 @@
 127.0.0.1 rakhfusstumpvermo.tk
 127.0.0.1 ramkissoonase.files.wordpress.com
 127.0.0.1 ramkissoonase.wordpress.com
+127.0.0.1 rantipsdabe.files.wordpress.com
+127.0.0.1 rantipsdabe.wordpress.com
 127.0.0.1 rasajel.de
 127.0.0.1 rashanti.de
 127.0.0.1 ratharnay1990.files.wordpress.com
@@ -1600,6 +1606,8 @@
 127.0.0.1 reverso.net
 127.0.0.1 revistateiko.es
 127.0.0.1 reysport.es
+127.0.0.1 riacrewnygi.files.wordpress.com
+127.0.0.1 riacrewnygi.wordpress.com
 127.0.0.1 ricettenelverde.it
 127.0.0.1 righilady90.files.wordpress.com
 127.0.0.1 righilady90.wordpress.com
@@ -1810,6 +1818,8 @@
 127.0.0.1 suburb-deli.nl
 127.0.0.1 suifahsipy1983.files.wordpress.com
 127.0.0.1 suifahsipy1983.wordpress.com
+127.0.0.1 sulsinttwisre.files.wordpress.com
+127.0.0.1 sulsinttwisre.wordpress.com
 127.0.0.1 sunniepersley.files.wordpress.com
 127.0.0.1 sunniepersley.wordpress.com
 127.0.0.1 sunshade-shop.ch
@@ -1971,6 +1981,8 @@
 127.0.0.1 unaonadadepetitssomriures.cat
 127.0.0.1 uniport.edu.ng
 127.0.0.1 universiteitleiden.nl
+127.0.0.1 unmagarre.files.wordpress.com
+127.0.0.1 unmagarre.wordpress.com
 127.0.0.1 unus.sa.com
 127.0.0.1 upcfight.cz
 127.0.0.1 upkrdi.za.com
@@ -2542,6 +2554,8 @@
 127.0.0.1 www.detsat.ru
 127.0.0.1 www.devvy.nl
 127.0.0.1 www.dezigely.cz
+127.0.0.1 www.diaprominci.files.wordpress.com
+127.0.0.1 www.diaprominci.wordpress.com
 127.0.0.1 www.dibox.es
 127.0.0.1 www.didoletetard.fr
 127.0.0.1 www.differenci-elles.fr
@@ -3429,6 +3443,8 @@
 127.0.0.1 www.onlinewebshop.net
 127.0.0.1 www.onoranzefunebrimarecchia.it
 127.0.0.1 www.onpu.sa.com
+127.0.0.1 www.onuxeruh.files.wordpress.com
+127.0.0.1 www.onuxeruh.wordpress.com
 127.0.0.1 www.oomovoe.com
 127.0.0.1 www.oomovoi.com
 127.0.0.1 www.opalys83.fr
@@ -3638,6 +3654,8 @@
 127.0.0.1 www.rakhfusstumpvermo.tk
 127.0.0.1 www.ramkissoonase.files.wordpress.com
 127.0.0.1 www.ramkissoonase.wordpress.com
+127.0.0.1 www.rantipsdabe.files.wordpress.com
+127.0.0.1 www.rantipsdabe.wordpress.com
 127.0.0.1 www.rasajel.de
 127.0.0.1 www.rashanti.de
 127.0.0.1 www.ratharnay1990.files.wordpress.com
@@ -3670,6 +3688,8 @@
 127.0.0.1 www.reverso.net
 127.0.0.1 www.revistateiko.es
 127.0.0.1 www.reysport.es
+127.0.0.1 www.riacrewnygi.files.wordpress.com
+127.0.0.1 www.riacrewnygi.wordpress.com
 127.0.0.1 www.ricettenelverde.it
 127.0.0.1 www.righilady90.files.wordpress.com
 127.0.0.1 www.righilady90.wordpress.com
@@ -3880,6 +3900,8 @@
 127.0.0.1 www.suburb-deli.nl
 127.0.0.1 www.suifahsipy1983.files.wordpress.com
 127.0.0.1 www.suifahsipy1983.wordpress.com
+127.0.0.1 www.sulsinttwisre.files.wordpress.com
+127.0.0.1 www.sulsinttwisre.wordpress.com
 127.0.0.1 www.sunniepersley.files.wordpress.com
 127.0.0.1 www.sunniepersley.wordpress.com
 127.0.0.1 www.sunshade-shop.ch
@@ -4041,6 +4063,8 @@
 127.0.0.1 www.unaonadadepetitssomriures.cat
 127.0.0.1 www.uniport.edu.ng
 127.0.0.1 www.universiteitleiden.nl
+127.0.0.1 www.unmagarre.files.wordpress.com
+127.0.0.1 www.unmagarre.wordpress.com
 127.0.0.1 www.unus.sa.com
 127.0.0.1 www.upcfight.cz
 127.0.0.1 www.upkrdi.za.com
