@@ -13,7 +13,7 @@ faup -o json ${WASTE_LOGIN_REQUIRED} | jq -r .domain >> ${TEMP}/domain
 # generate .files.wordpress.com
 faup -o json ${BLACKLIST_DOMAINS}| jq -r .domain | grep '\.wordpress\.com' | sed 's/.wordpress.com/.files.wordpress.com/g' >> ${TEMP}/domain
 
-# include allowed domains
+# include whitelist domains
 case ${1} in
 	--all|-a|all)
 		faup -o json ${WHITELIST_DOMAINS} | jq -r .domain >> ${TEMP}/domain
@@ -33,6 +33,9 @@ fi
 if [[ "${include_etherpad}" == "true" ]]; then
 	faup -o json ${ETHERPAD_SOURCE} | jq -r .domain >> ${TEMP}/ubased
 fi
+
+# include paths
+cat ${BLACKLIST_PATHS} >> ${TEMP}/ubased
 
 # last write step
 sort -u ${TEMP}/domain ${TEMP}/ubased > ${TEMP}/ublacklist.dat
