@@ -1,9 +1,9 @@
 # Name        : fake (malicious/profiting from ads) pdf site blocker
-# Version     : 20221103154416
-# Date        : Thu Nov  3 12:44:16 PM UTC 2022
+# Version     : 20221103155554
+# Date        : Thu Nov  3 12:55:54 PM UTC 2022
 # Repo        : https://gitlab.com/anarcho-copy/block-fake-pdf-sites
 # File        : https://gitlab.com/anarcho-copy/block-fake-pdf-sites/-/raw/master/./output/uBlacklist.txt
-# Total lines : 2265
+# Total lines : 2314
 
 *://*.100casas.es/*
 *://*.197.news/*
@@ -12,11 +12,13 @@
 *://*.2zmgz76x8tw.tokyo/*
 *://*.3ddroid.ru/*
 *://*.404notfound.nl/*
+*://*.aaitch.ru.com/*
 *://*.aakcmz.za.com/*
 *://*.aaliaasultana.chat/*
 *://*.aaliaasultana.com/*
 *://*.aarishbeahm94.files.wordpress.com/*
 *://*.aarishbeahm94.wordpress.com/*
+*://*.aaruiz.za.com/*
 *://*.aaybabblebyte.files.wordpress.com/*
 *://*.aaybabblebyte.wordpress.com/*
 *://*.abdulkareemtyree87.files.wordpress.com/*
@@ -38,6 +40,7 @@
 *://*.aduardinbeeld.nl/*
 *://*.adventiste-philadelphia.fr/*
 *://*.aerialyoga-osnabrueck.de/*
+*://*.aetrhb.za.com/*
 *://*.aeyb.sa.com/*
 *://*.afaidmarche.it/*
 *://*.ag1008.de/*
@@ -93,6 +96,7 @@
 *://*.amisducentredartdechateauvert.fr/*
 *://*.amitydog.fr/*
 *://*.amministrazioni-foresti.it/*
+*://*.ampae2.es/*
 *://*.amrenszollosi96.files.wordpress.com/*
 *://*.amrenszollosi96.wordpress.com/*
 *://*.amritcapps94.files.wordpress.com/*
@@ -132,6 +136,7 @@
 *://*.associazionealterego.it/*
 *://*.associazionekokeshi.it/*
 *://*.asylcafe-roemerschanze.de/*
+*://*.asyyax.za.com/*
 *://*.ateliercandleco.fr/*
 *://*.atiydk.sa.com/*
 *://*.atlasbilbao.es/*
@@ -152,12 +157,14 @@
 *://*.autotostaa.fi/*
 *://*.autrement2020.fr/*
 *://*.auxzanimoszen.fr/*
+*://*.auytfk.sa.com/*
 *://*.avaeahpederson1986.files.wordpress.com/*
 *://*.avaeahpederson1986.wordpress.com/*
 *://*.avandcie-energy.fr/*
 *://*.avesdehuesca.es/*
 *://*.avfsmt.ru.com/*
 *://*.avfsmt.sa.com/*
+*://*.avfsmt.za.com/*
 *://*.aviatowler.files.wordpress.com/*
 *://*.aviatowler.wordpress.com/*
 *://*.avjyrm.za.com/*
@@ -355,6 +362,7 @@
 *://*.certamenandressegovia.es/*
 *://*.cestralab-fisioterapia.it/*
 *://*.cevapanahtaripdf.com/*
+*://*.cfnynu.za.com/*
 *://*.cfpztm.za.com/*
 *://*.cftc-monoprix.fr/*
 *://*.cgxnjg.sa.com/*
@@ -392,6 +400,7 @@
 *://*.cleanylife.fr/*
 *://*.clemcoudre.fr/*
 *://*.climatechangehub.es/*
+*://*.clinicadentalmunozdeblas.es/*
 *://*.clinica-de-termografia.eu/*
 *://*.clinicaveterinariasaline.it/*
 *://*.clubajedreztoledo.es/*
@@ -509,6 +518,7 @@
 *://*.dionaermatinger.files.wordpress.com/*
 *://*.dionaermatinger.wordpress.com/*
 *://*.djacoura.fr/*
+*://*.dksaha.ru.com/*
 *://*.dmavmn.za.com/*
 *://*.docplayer.nl/*
 *://*.docslide.es/*
@@ -525,9 +535,11 @@
 *://*.dosyataciri.com/*
 *://*.dou24-str.ru/*
 *://*.downloadbookpdf.com/*
+*://*.drgz.sa.com/*
 *://*.dromosmantenimientos.es/*
 *://*.drukarniasieradz.pl/*
 *://*.drukkerijtova.nl/*
+*://*.dstfei.ru.com/*
 *://*.dttyac.za.com/*
 *://*.duchovnisrdce.cz/*
 *://*.duerkopellyana85.files.wordpress.com/*
@@ -543,6 +555,7 @@
 *://*.eagjpn.za.com/*
 *://*.eaglemanmehgan98.files.wordpress.com/*
 *://*.eaglemanmehgan98.wordpress.com/*
+*://*.eangax.sa.com/*
 *://*.easycbd.es/*
 *://*.eb2a.com/*
 *://*.ebookpdfozetioku.xyz/*
@@ -552,7 +565,9 @@
 *://*.economieducommerce.fr/*
 *://*.ecosolarsystem.de/*
 *://*.ecounitsa.com/*
+*://*.ecuhxt.za.com/*
 *://*.edebiyatkitabi.com/*
+*://*.ehapgf.sa.com/*
 *://*.ehapgf.za.com/*
 *://*.eifa-wawi.de/*
 *://*.eighbooks.xyz/*
@@ -599,6 +614,7 @@
 *://*.epdfkitapinndir.com/*
 *://*.epdfkitapoku.com/*
 *://*.epdfkitapp.com/*
+*://*.eptcmx.sa.com/*
 *://*.epub-pdf-fb2-kitabn.info/*
 *://*.epub-pdf-kitaplar.info/*
 *://*.epxg.sa.com/*
@@ -711,6 +727,7 @@
 *://*.frerichkristyna83.files.wordpress.com/*
 *://*.frerichkristyna83.wordpress.com/*
 *://*.friseur-olga.de/*
+*://*.frxw.sa.com/*
 *://*.fskpzj.sa.com/*
 *://*.fsvn.sa.com/*
 *://*.fuentesguerra.online/*
@@ -792,6 +809,7 @@
 *://*.guytonsidratul.files.wordpress.com/*
 *://*.guytonsidratul.wordpress.com/*
 *://*.gvugbu.za.com/*
+*://*.gvvpbd.sa.com/*
 *://*.gxlc.sa.com/*
 *://*.haarstudiofinecut.de/*
 *://*.habcessdagri1973.files.wordpress.com/*
@@ -836,6 +854,7 @@
 *://*.hfs-hallertau.de/*
 *://*.hghresine.cz/*
 *://*.hgtydr.za.com/*
+*://*.hhknej.za.com/*
 *://*.hilleredjorje1997.files.wordpress.com/*
 *://*.hilleredjorje1997.wordpress.com/*
 *://*.hiposter.ru/*
@@ -933,11 +952,13 @@
 *://*.ivetafilipova.cz/*
 *://*.iwzpicarange.files.wordpress.com/*
 *://*.iwzpicarange.wordpress.com/*
+*://*.ixagjv.sa.com/*
 *://*.ixgf.sa.com/*
 *://*.iyijadeitect.files.wordpress.com/*
 *://*.iyijadeitect.wordpress.com/*
 *://*.izcm.sa.com/*
 *://*.izliyoo.com/*
+*://*.izutma.ru.com/*
 *://*.izutma.za.com/*
 *://*.jacydemel.files.wordpress.com/*
 *://*.jacydemel.wordpress.com/*
@@ -987,6 +1008,7 @@
 *://*.jrphafrombino.files.wordpress.com/*
 *://*.jrphafrombino.wordpress.com/*
 *://*.jscinmark.ru/*
+*://*.jtqq.sa.com/*
 *://*.juliaclauss.de/*
 *://*.juliannymoler87.files.wordpress.com/*
 *://*.juliannymoler87.wordpress.com/*
@@ -1016,6 +1038,7 @@
 *://*.kbtbk.de/*
 *://*.kcbyaharbor.files.wordpress.com/*
 *://*.kcbyaharbor.wordpress.com/*
+*://*.kdpu.sa.com/*
 *://*.keagleamirbek88.files.wordpress.com/*
 *://*.keagleamirbek88.wordpress.com/*
 *://*.kellyngalbreath84.files.wordpress.com/*
@@ -1026,6 +1049,7 @@
 *://*.khaleyahdepa84.wordpress.com/*
 *://*.k-hen.com/*
 *://*.k-hen.live/*
+*://*.khsszz.za.com/*
 *://*.kickscooter.ru/*
 *://*.kieleenarayanan.files.wordpress.com/*
 *://*.kieleenarayanan.wordpress.com/*
@@ -1083,6 +1107,7 @@
 *://*.kongmengxi.tk/*
 *://*.konturbydgoszcz.pl/*
 *://*.konyailaydahaliyikama.com/*
+*://*.kpus.sa.com/*
 *://*.kraleninbulk.nl/*
 *://*.krasapece.cz/*
 *://*.kreislandfrauenverband-zeven.de/*
@@ -1090,6 +1115,7 @@
 *://*.ksyiii.za.com/*
 *://*.ktrmbc.sa.com/*
 *://*.ktshih.za.com/*
+*://*.kttv.sa.com/*
 *://*.kuehrundpartner.de/*
 *://*.kuixnj.za.com/*
 *://*.kulturelislemarabasi.com/*
@@ -1386,8 +1412,10 @@
 *://*.nextdoorsalon.cz/*
 *://*.neyamiahbrigges1983.files.wordpress.com/*
 *://*.neyamiahbrigges1983.wordpress.com/*
+*://*.ngycfb.za.com/*
 *://*.nicolaistopa.files.wordpress.com/*
 *://*.nicolaistopa.wordpress.com/*
+*://*.nigcmt.sa.com/*
 *://*.nikskit.ru/*
 *://*.ninew.us/*
 *://*.ninodelpuertoarquitecto.es/*
@@ -1543,6 +1571,7 @@
 *://*.pduvse.za.com/*
 *://*.peaklab.it/*
 *://*.pefralca.es/*
+*://*.pekfdz.sa.com/*
 *://*.penetroniberica.es/*
 *://*.penglongyi.tk/*
 *://*.pennymiller.com.au/*
@@ -1578,6 +1607,7 @@
 *://*.pj973.vip/*
 *://*.pkkid.pl/*
 *://*.pkktjm.za.com/*
+*://*.pkkzdj.za.com/*
 *://*.pkps.com.pl/*
 *://*.plaindesign3d.es/*
 *://*.planthouse.cz/*
@@ -1660,9 +1690,13 @@
 *://*.ratharnay1990.files.wordpress.com/*
 *://*.ratharnay1990.wordpress.com/*
 *://*.rausvu.ru.com/*
+*://*.rbdu.sa.com/*
+*://*.rbepby.sa.com/*
+*://*.rbmunb.ru.com/*
 *://*.rcilithive.files.wordpress.com/*
 *://*.rcilithive.wordpress.com/*
 *://*.rdjtdz.ru.com/*
+*://*.rdjtdz.za.com/*
 *://*.reacreations.it/*
 *://*.reasiaestanislau.files.wordpress.com/*
 *://*.reasiaestanislau.wordpress.com/*
@@ -1733,6 +1767,7 @@
 *://*.rumerneftali.files.wordpress.com/*
 *://*.rumerneftali.wordpress.com/*
 *://*.runner74.it/*
+*://*.ruyfmd.sa.com/*
 *://*.rvajge.ru.com/*
 *://*.rvminfochat.files.wordpress.com/*
 *://*.rvminfochat.wordpress.com/*
@@ -1742,6 +1777,7 @@
 *://*.rxbd.sa.com/*
 *://*.rzafreshflock.files.wordpress.com/*
 *://*.rzafreshflock.wordpress.com/*
+*://*.rztexa.sa.com/*
 *://*.saberecrescer.pt/*
 *://*.sabine-botta.de/*
 *://*.sabinewanek.de/*
@@ -1839,6 +1875,7 @@
 *://*.sivori.es/*
 *://*.sizekitap.com/*
 *://*.sj-autoaufbereitung.de/*
+*://*.sjnktj.za.com/*
 *://*.sklep-calzadi.pl/*
 *://*.skyartis.pl/*
 *://*.slbruicosta21-25.pt/*
@@ -1890,6 +1927,7 @@
 *://*.stelledivine.it/*
 *://*.stepptamarrion1998.files.wordpress.com/*
 *://*.stepptamarrion1998.wordpress.com/*
+*://*.stgrdp.ru.com/*
 *://*.stint-manual.nl/*
 *://*.stnbab.za.com/*
 *://*.stomatologiyaapolloniya.ru/*
@@ -1920,6 +1958,7 @@
 *://*.supprifuchdio1978.files.wordpress.com/*
 *://*.supprifuchdio1978.wordpress.com/*
 *://*.susiland.ru/*
+*://*.sutgdy.sa.com/*
 *://*.sutharhenlie88.files.wordpress.com/*
 *://*.sutharhenlie88.wordpress.com/*
 *://*.svenwasserloos.de/*
@@ -1931,6 +1970,7 @@
 *://*.swissgoat.ch/*
 *://*.synventive.pl/*
 *://*.syop.sa.com/*
+*://*.syyy.sa.com/*
 *://*.szkocjanet.pl/*
 *://*.tabuho.es/*
 *://*.taenfa.za.com/*
@@ -2050,6 +2090,7 @@
 *://*.turrellsiyam.wordpress.com/*
 *://*.turs.freesite.host/*
 *://*.tuxedoboom.us/*
+*://*.tuypfi.za.com/*
 *://*.twinge-deputy.nl/*
 *://*.twirpx.com/*
 *://*.tyberiuscrespo.files.wordpress.com/*
@@ -2125,6 +2166,7 @@
 *://*.veneciahaid.wordpress.com/*
 *://*.verofar.es/*
 *://*.veydisa.es/*
+*://*.vhiygs.za.com/*
 *://*.vicicmaidah.files.wordpress.com/*
 *://*.vicicmaidah.wordpress.com/*
 *://*.vidzoo.ru/*
@@ -2202,6 +2244,8 @@
 *://*.wziviridimechanic.wordpress.com/*
 *://*.xalam.us/*
 *://*.xaviersoledesign.es/*
+*://*.xavrrn.za.com/*
+*://*.xczdmj.za.com/*
 *://*.xdkavablog.files.wordpress.com/*
 *://*.xdkavablog.wordpress.com/*
 *://*.xdzprepetio.files.wordpress.com/*
@@ -2212,6 +2256,7 @@
 *://*.xmghev.za.com/*
 *://*.xmtgoldalizer.files.wordpress.com/*
 *://*.xmtgoldalizer.wordpress.com/*
+*://*.xpdxap.za.com/*
 *://*.xtiyeb.ru.com/*
 *://*.xtiyeb.za.com/*
 *://*.xzaviannemecek.files.wordpress.com/*
@@ -2225,6 +2270,8 @@
 *://*.yeninesilposkasa.com/*
 *://*.yeninesilposkasa.live/*
 *://*.yfjx.sa.com/*
+*://*.ygdg.sa.com/*
+*://*.yghs.sa.com/*
 *://*.yitechnology.com.es/*
 *://*.youngvoicesandgospel.de/*
 *://*.younkinskyell83.files.wordpress.com/*
@@ -2232,6 +2279,7 @@
 *://*.yourmission.fr/*
 *://*.ypfmbg.ru.com/*
 *://*.yste.sa.com/*
+*://*.yujbtc.sa.com/*
 *://*.yuliannalukasheva.ru/*
 *://*.yventus.de/*
 *://*.yvkpuy.ru.com/*
@@ -2270,3 +2318,4 @@
 *://*.zwebu.cz/*
 *://*.zweiradgezwitscher.de/*
 *://*.zwergenkleid.de/*
+*://*.zzwt.sa.com/*
