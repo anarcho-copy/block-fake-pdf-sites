@@ -1,9 +1,9 @@
 # Name        : fake (malicious/profiting from ads) pdf site blocker
-# Version     : 20221103155554
-# Date        : Thu Nov  3 12:55:54 PM UTC 2022
+# Version     : 20221103155851
+# Date        : Thu Nov  3 12:58:51 PM UTC 2022
 # Repo        : https://gitlab.com/anarcho-copy/block-fake-pdf-sites
 # File        : https://gitlab.com/anarcho-copy/block-fake-pdf-sites/-/raw/master/./output/hosts
-# Total lines : 2314
+# Total lines : 2322
 
 127.0.0.1 100casas.es
 127.0.0.1 197.news
@@ -1283,6 +1283,7 @@
 127.0.0.1 mayropamotiteparmuto.files.wordpress.com
 127.0.0.1 mayropamotiteparmuto.wordpress.com
 127.0.0.1 mazyyu.za.com
+127.0.0.1 mbgjei.za.com
 127.0.0.1 mbquadro.it
 127.0.0.1 mcare.cz
 127.0.0.1 mczoo.nl
@@ -1680,6 +1681,7 @@
 127.0.0.1 quistatotse1973.wordpress.com
 127.0.0.1 quitaplagas.es
 127.0.0.1 radobynadobykladno.cz
+127.0.0.1 raeh.sa.com
 127.0.0.1 rakhfusstumpvermo.tk
 127.0.0.1 ramkissoonase.files.wordpress.com
 127.0.0.1 ramkissoonase.wordpress.com
@@ -1857,6 +1859,7 @@
 127.0.0.1 sheftemayreni1989.files.wordpress.com
 127.0.0.1 sheftemayreni1989.wordpress.com
 127.0.0.1 shirley-hundefotografie.de
+127.0.0.1 shiynt.za.com
 127.0.0.1 siannehagenbaugh1988.files.wordpress.com
 127.0.0.1 siannehagenbaugh1988.wordpress.com
 127.0.0.1 siapunkblumul1989.files.wordpress.com
@@ -1970,6 +1973,7 @@
 127.0.0.1 swissgoat.ch
 127.0.0.1 synventive.pl
 127.0.0.1 syop.sa.com
+127.0.0.1 syrdbm.za.com
 127.0.0.1 syyy.sa.com
 127.0.0.1 szkocjanet.pl
 127.0.0.1 tabuho.es
@@ -2197,6 +2201,7 @@
 127.0.0.1 vstpicasphere.wordpress.com
 127.0.0.1 vyrobkyzakatu.cz
 127.0.0.1 vzcngi.za.com
+127.0.0.1 vzripm.za.com
 127.0.0.1 vzyggt.ru.com
 127.0.0.1 waamaag.fr
 127.0.0.1 wafirmaldives.it
@@ -2235,6 +2240,7 @@
 127.0.0.1 woodroofkiersten.files.wordpress.com
 127.0.0.1 woodroofkiersten.wordpress.com
 127.0.0.1 woschlab.de
+127.0.0.1 wozt.sa.com
 127.0.0.1 wqly.sa.com
 127.0.0.1 wrldlib.ru
 127.0.0.1 wtez.sa.com
@@ -3518,6 +3524,7 @@
 127.0.0.1 www.mayropamotiteparmuto.files.wordpress.com
 127.0.0.1 www.mayropamotiteparmuto.wordpress.com
 127.0.0.1 www.mazyyu.za.com
+127.0.0.1 www.mbgjei.za.com
 127.0.0.1 www.mbquadro.it
 127.0.0.1 www.mcare.cz
 127.0.0.1 www.mczoo.nl
@@ -3915,6 +3922,7 @@
 127.0.0.1 www.quistatotse1973.wordpress.com
 127.0.0.1 www.quitaplagas.es
 127.0.0.1 www.radobynadobykladno.cz
+127.0.0.1 www.raeh.sa.com
 127.0.0.1 www.rakhfusstumpvermo.tk
 127.0.0.1 www.ramkissoonase.files.wordpress.com
 127.0.0.1 www.ramkissoonase.wordpress.com
@@ -4092,6 +4100,7 @@
 127.0.0.1 www.sheftemayreni1989.files.wordpress.com
 127.0.0.1 www.sheftemayreni1989.wordpress.com
 127.0.0.1 www.shirley-hundefotografie.de
+127.0.0.1 www.shiynt.za.com
 127.0.0.1 www.siannehagenbaugh1988.files.wordpress.com
 127.0.0.1 www.siannehagenbaugh1988.wordpress.com
 127.0.0.1 www.siapunkblumul1989.files.wordpress.com
@@ -4205,6 +4214,7 @@
 127.0.0.1 www.swissgoat.ch
 127.0.0.1 www.synventive.pl
 127.0.0.1 www.syop.sa.com
+127.0.0.1 www.syrdbm.za.com
 127.0.0.1 www.syyy.sa.com
 127.0.0.1 www.szkocjanet.pl
 127.0.0.1 www.tabuho.es
@@ -4432,6 +4442,7 @@
 127.0.0.1 www.vstpicasphere.wordpress.com
 127.0.0.1 www.vyrobkyzakatu.cz
 127.0.0.1 www.vzcngi.za.com
+127.0.0.1 www.vzripm.za.com
 127.0.0.1 www.vzyggt.ru.com
 127.0.0.1 www.waamaag.fr
 127.0.0.1 www.wafirmaldives.it
@@ -4470,6 +4481,7 @@
 127.0.0.1 www.woodroofkiersten.files.wordpress.com
 127.0.0.1 www.woodroofkiersten.wordpress.com
 127.0.0.1 www.woschlab.de
+127.0.0.1 www.wozt.sa.com
 127.0.0.1 www.wqly.sa.com
 127.0.0.1 www.wrldlib.ru
 127.0.0.1 www.wtez.sa.com
@@ -4494,6 +4506,7 @@
 127.0.0.1 www.xpdxap.za.com
 127.0.0.1 www.xtiyeb.ru.com
 127.0.0.1 www.xtiyeb.za.com
+127.0.0.1 www.xystxf.za.com
 127.0.0.1 www.xzaviannemecek.files.wordpress.com
 127.0.0.1 www.xzaviannemecek.wordpress.com
 127.0.0.1 www.xzavienattig.files.wordpress.com
@@ -4533,6 +4546,7 @@
 127.0.0.1 www.zeccardilc.files.wordpress.com
 127.0.0.1 www.zeccardilc.wordpress.com
 127.0.0.1 www.zeinstrahoveniers.nl
+127.0.0.1 www.zguhbc.za.com
 127.0.0.1 www.ziannahpotolsky96.files.wordpress.com
 127.0.0.1 www.ziannahpotolsky96.wordpress.com
 127.0.0.1 www.zielenzakopane.pl
@@ -4573,6 +4587,7 @@
 127.0.0.1 xpdxap.za.com
 127.0.0.1 xtiyeb.ru.com
 127.0.0.1 xtiyeb.za.com
+127.0.0.1 xystxf.za.com
 127.0.0.1 xzaviannemecek.files.wordpress.com
 127.0.0.1 xzaviannemecek.wordpress.com
 127.0.0.1 xzavienattig.files.wordpress.com
@@ -4612,6 +4627,7 @@
 127.0.0.1 zeccardilc.files.wordpress.com
 127.0.0.1 zeccardilc.wordpress.com
 127.0.0.1 zeinstrahoveniers.nl
+127.0.0.1 zguhbc.za.com
 127.0.0.1 ziannahpotolsky96.files.wordpress.com
 127.0.0.1 ziannahpotolsky96.wordpress.com
 127.0.0.1 zielenzakopane.pl

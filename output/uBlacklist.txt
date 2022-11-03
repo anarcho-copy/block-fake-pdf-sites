@@ -1,9 +1,9 @@
 # Name        : fake (malicious/profiting from ads) pdf site blocker
-# Version     : 20221103155554
-# Date        : Thu Nov  3 12:55:54 PM UTC 2022
+# Version     : 20221103155851
+# Date        : Thu Nov  3 12:58:51 PM UTC 2022
 # Repo        : https://gitlab.com/anarcho-copy/block-fake-pdf-sites
 # File        : https://gitlab.com/anarcho-copy/block-fake-pdf-sites/-/raw/master/./output/uBlacklist.txt
-# Total lines : 2314
+# Total lines : 2322
 
 *://*.100casas.es/*
 *://*.197.news/*
@@ -1283,6 +1283,7 @@
 *://*.mayropamotiteparmuto.files.wordpress.com/*
 *://*.mayropamotiteparmuto.wordpress.com/*
 *://*.mazyyu.za.com/*
+*://*.mbgjei.za.com/*
 *://*.mbquadro.it/*
 *://*.mcare.cz/*
 *://*.mczoo.nl/*
@@ -1680,6 +1681,7 @@
 *://*.quistatotse1973.wordpress.com/*
 *://*.quitaplagas.es/*
 *://*.radobynadobykladno.cz/*
+*://*.raeh.sa.com/*
 *://*.rakhfusstumpvermo.tk/*
 *://*.ramkissoonase.files.wordpress.com/*
 *://*.ramkissoonase.wordpress.com/*
@@ -1857,6 +1859,7 @@
 *://*.sheftemayreni1989.files.wordpress.com/*
 *://*.sheftemayreni1989.wordpress.com/*
 *://*.shirley-hundefotografie.de/*
+*://*.shiynt.za.com/*
 *://*.siannehagenbaugh1988.files.wordpress.com/*
 *://*.siannehagenbaugh1988.wordpress.com/*
 *://*.siapunkblumul1989.files.wordpress.com/*
@@ -1970,6 +1973,7 @@
 *://*.swissgoat.ch/*
 *://*.synventive.pl/*
 *://*.syop.sa.com/*
+*://*.syrdbm.za.com/*
 *://*.syyy.sa.com/*
 *://*.szkocjanet.pl/*
 *://*.tabuho.es/*
@@ -2197,6 +2201,7 @@
 *://*.vstpicasphere.wordpress.com/*
 *://*.vyrobkyzakatu.cz/*
 *://*.vzcngi.za.com/*
+*://*.vzripm.za.com/*
 *://*.vzyggt.ru.com/*
 *://*.waamaag.fr/*
 *://*.wafirmaldives.it/*
@@ -2235,6 +2240,7 @@
 *://*.woodroofkiersten.files.wordpress.com/*
 *://*.woodroofkiersten.wordpress.com/*
 *://*.woschlab.de/*
+*://*.wozt.sa.com/*
 *://*.wqly.sa.com/*
 *://*.wrldlib.ru/*
 *://*.wtez.sa.com/*
@@ -2259,6 +2265,7 @@
 *://*.xpdxap.za.com/*
 *://*.xtiyeb.ru.com/*
 *://*.xtiyeb.za.com/*
+*://*.xystxf.za.com/*
 *://*.xzaviannemecek.files.wordpress.com/*
 *://*.xzaviannemecek.wordpress.com/*
 *://*.xzavienattig.files.wordpress.com/*
@@ -2298,6 +2305,7 @@
 *://*.zeccardilc.files.wordpress.com/*
 *://*.zeccardilc.wordpress.com/*
 *://*.zeinstrahoveniers.nl/*
+*://*.zguhbc.za.com/*
 *://*.ziannahpotolsky96.files.wordpress.com/*
 *://*.ziannahpotolsky96.wordpress.com/*
 *://*.zielenzakopane.pl/*
