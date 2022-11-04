@@ -1,9 +1,9 @@
 # Name        : fake (malicious/profiting from ads) pdf site blocker
-# Version     : 20221103162947
-# Date        : Thu Nov  3 01:29:47 PM UTC 2022
+# Version     : 20221105021244
+# Date        : Fri Nov  4 11:12:44 PM UTC 2022
 # Repo        : https://gitlab.com/anarcho-copy/block-fake-pdf-sites
 # File        : https://gitlab.com/anarcho-copy/block-fake-pdf-sites/-/raw/master/./output/hosts
-# Total lines : 2421
+# Total lines : 2424
 
 127.0.0.1 100casas.es
 127.0.0.1 197.news
@@ -583,6 +583,7 @@
 127.0.0.1 eb2a.com
 127.0.0.1 ebookpdfozetioku.xyz
 127.0.0.1 ebookrich.com
+127.0.0.1 e-bookspdf.org
 127.0.0.1 ebrinfocaster.files.wordpress.com
 127.0.0.1 ebrinfocaster.wordpress.com
 127.0.0.1 economieducommerce.fr
@@ -1567,8 +1568,10 @@
 127.0.0.1 pcpmgc.za.com
 127.0.0.1 pdfarsivindir.com
 127.0.0.1 pdfcehennemi.com
+127.0.0.1 pdfdrive2.com
 127.0.0.1 pdfdunyam.com
 127.0.0.1 pdfekitaparsiv.com
+127.0.0.1 pdfekitaparsivi.com
 127.0.0.1 pdfekitaparsivii.org
 127.0.0.1 pdfe-kitap.com
 127.0.0.1 pdfekitapevi.blogspot.com
@@ -2910,6 +2913,7 @@
 127.0.0.1 www.eb2a.com
 127.0.0.1 www.ebookpdfozetioku.xyz
 127.0.0.1 www.ebookrich.com
+127.0.0.1 www.e-bookspdf.org
 127.0.0.1 www.ebrinfocaster.files.wordpress.com
 127.0.0.1 www.ebrinfocaster.wordpress.com
 127.0.0.1 www.economieducommerce.fr
@@ -3894,8 +3898,10 @@
 127.0.0.1 www.pcpmgc.za.com
 127.0.0.1 www.pdfarsivindir.com
 127.0.0.1 www.pdfcehennemi.com
+127.0.0.1 www.pdfdrive2.com
 127.0.0.1 www.pdfdunyam.com
 127.0.0.1 www.pdfekitaparsiv.com
+127.0.0.1 www.pdfekitaparsivi.com
 127.0.0.1 www.pdfekitaparsivii.org
 127.0.0.1 www.pdfe-kitap.com
 127.0.0.1 www.pdfekitapevi.blogspot.com

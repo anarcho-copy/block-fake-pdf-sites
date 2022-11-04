@@ -1,9 +1,9 @@
 # Name        : fake (malicious/profiting from ads) pdf site blocker
-# Version     : 20221103162947
-# Date        : Thu Nov  3 01:29:47 PM UTC 2022
+# Version     : 20221105021244
+# Date        : Fri Nov  4 11:12:44 PM UTC 2022
 # Repo        : https://gitlab.com/anarcho-copy/block-fake-pdf-sites
 # File        : https://gitlab.com/anarcho-copy/block-fake-pdf-sites/-/raw/master/./output/uBlacklist.txt
-# Total lines : 2421
+# Total lines : 2424
 
 *://*.100casas.es/*
 *://*.197.news/*
@@ -583,6 +583,7 @@
 *://*.eb2a.com/*
 *://*.ebookpdfozetioku.xyz/*
 *://*.ebookrich.com/*
+*://*.e-bookspdf.org/*
 *://*.ebrinfocaster.files.wordpress.com/*
 *://*.ebrinfocaster.wordpress.com/*
 *://*.economieducommerce.fr/*
@@ -1567,8 +1568,10 @@
 *://*.pcpmgc.za.com/*
 *://*.pdfarsivindir.com/*
 *://*.pdfcehennemi.com/*
+*://*.pdfdrive2.com/*
 *://*.pdfdunyam.com/*
 *://*.pdfekitaparsiv.com/*
+*://*.pdfekitaparsivi.com/*
 *://*.pdfekitaparsivii.org/*
 *://*.pdfe-kitap.com/*
 *://*.pdfekitapevi.blogspot.com/*
