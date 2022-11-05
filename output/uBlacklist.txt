@@ -1,9 +1,9 @@
 # Name        : fake (malicious/profiting from ads) pdf site blocker
-# Version     : 20221105021244
-# Date        : Fri Nov  4 11:12:44 PM UTC 2022
+# Version     : 20221105143343
+# Date        : Sat Nov  5 11:33:43 AM UTC 2022
 # Repo        : https://gitlab.com/anarcho-copy/block-fake-pdf-sites
 # File        : https://gitlab.com/anarcho-copy/block-fake-pdf-sites/-/raw/master/./output/uBlacklist.txt
-# Total lines : 2424
+# Total lines : 2599
 
 *://*.100casas.es/*
 *://*.197.news/*
@@ -23,6 +23,7 @@
 *://*.aaybabblebyte.wordpress.com/*
 *://*.abdulkareemtyree87.files.wordpress.com/*
 *://*.abdulkareemtyree87.wordpress.com/*
+*://*.abimcruslel.weebly.com/*
 *://*.abisaiwurz1997.files.wordpress.com/*
 *://*.abisaiwurz1997.wordpress.com/*
 *://*.acaiprodukty.cz/*
@@ -31,6 +32,7 @@
 *://*.acdbs.ch/*
 *://*.acmesport.es/*
 *://*.addisonjeans.com.au/*
+*://*.addokajahr.weebly.com/*
 *://*.adh54.fr/*
 *://*.adrapp.sa.com/*
 *://*.adrianaghollett.it/*
@@ -43,8 +45,14 @@
 *://*.aetrhb.za.com/*
 *://*.aeyb.sa.com/*
 *://*.afaidmarche.it/*
+*://*.affectionate-ardinghelli-15159a.netlify.app/*
+*://*.affectionate-aryabhata-f25031.netlify.app/*
+*://*.afternoon-shelf-68508.herokuapp.com/*
 *://*.ag1008.de/*
 *://*.agapehosteleria.es/*
+*://*.agceposick.weebly.com/*
+*://*.agile-mesa-10331.herokuapp.com/*
+*://*.agile-spire-41719.herokuapp.com/*
 *://*.agkepd.za.com/*
 *://*.agristudiozeta.it/*
 *://*.agroflorseborga.it/*
@@ -104,6 +112,7 @@
 *://*.amritcapps94.wordpress.com/*
 *://*.amuzzz.ru/*
 *://*.anapellonpariente.es/*
+*://*.ancient-bayou-11445.herokuapp.com/*
 *://*.ancient-egypt.ru/*
 *://*.andelskysalon.cz/*
 *://*.anggiebarberis98.files.wordpress.com/*
@@ -120,6 +129,7 @@
 *://*.arabiamarzocchi1996.files.wordpress.com/*
 *://*.arabiamarzocchi1996.wordpress.com/*
 *://*.aradasabogados.es/*
+*://*.araripiz.weebly.com/*
 *://*.araucariasfoods.cl/*
 *://*.arcomatera2019.it/*
 *://*.arcorelega.it/*
@@ -139,6 +149,7 @@
 *://*.associazionekokeshi.it/*
 *://*.asylcafe-roemerschanze.de/*
 *://*.asyyax.za.com/*
+*://*.atbhasincho.weebly.com/*
 *://*.ateliercandleco.fr/*
 *://*.atiydk.sa.com/*
 *://*.atlasbilbao.es/*
@@ -174,6 +185,7 @@
 *://*.avtofutbolka.ru/*
 *://*.avtosport-orel.ru/*
 *://*.avtruck.ru/*
+*://*.awesome-boyd-2c8cc1.netlify.app/*
 *://*.axlead-cuttereco.fr/*
 *://*.ayleneaudelhuk84.files.wordpress.com/*
 *://*.ayleneaudelhuk84.wordpress.com/*
@@ -210,6 +222,7 @@
 *://*.bavaria-beachteam.de/*
 *://*.bayardtavis.files.wordpress.com/*
 *://*.bayardtavis.wordpress.com/*
+*://*.baypacahen.weebly.com/*
 *://*.bazinramlah1999.files.wordpress.com/*
 *://*.bazinramlah1999.wordpress.com/*
 *://*.bazzelzariel91.files.wordpress.com/*
@@ -239,7 +252,9 @@
 *://*.bestebuitenloungesets.nl/*
 *://*.bestvalueclean.com.au/*
 *://*.bestvisions.site/*
+*://*.betengutsbe.weebly.com/*
 *://*.bets.radio.am/*
+*://*.betteryoumag.com/*
 *://*.bettiltzlcfvafd.netlify.app/*
 *://*.bettiltzozmmbbp.netlify.app/*
 *://*.bettinabloecherband.de/*
@@ -252,8 +267,10 @@
 *://*.bigshow.com.mx/*
 *://*.bigtimes.news/*
 *://*.bigtimesnews.com/*
+*://*.bilbagemu.weebly.com/*
 *://*.billiroarty87.files.wordpress.com/*
 *://*.billiroarty87.wordpress.com/*
+*://*.binjaikota.go.id/*
 *://*.bionic5.de/*
 *://*.biozono.es/*
 *://*.birddog.ru/*
@@ -274,6 +291,7 @@
 *://*.blinnrockie.wordpress.com/*
 *://*.blogaaja.fi/*
 *://*.blogger-ilf.ru/*
+*://*.blooming-mountain-87689.herokuapp.com/*
 *://*.bluetropiccaribbean.fr/*
 *://*.bnb-lodge.ch/*
 *://*.bnksjqt1.site/*
@@ -290,6 +308,7 @@
 *://*.booksurfers.co.uk/*
 *://*.borajansen.files.wordpress.com/*
 *://*.borajansen.wordpress.com/*
+*://*.botpabullsan.weebly.com/*
 *://*.bourdagekasi1988.files.wordpress.com/*
 *://*.bourdagekasi1988.wordpress.com/*
 *://*.bozuidwijk.nl/*
@@ -301,6 +320,7 @@
 *://*.branninsoma85.wordpress.com/*
 *://*.brassardsaed86.files.wordpress.com/*
 *://*.brassardsaed86.wordpress.com/*
+*://*.brave-kowalevski-ce8dc8.netlify.app/*
 *://*.bredenrosis.it/*
 *://*.breida-software.de/*
 *://*.breitenivianna90.files.wordpress.com/*
@@ -309,6 +329,8 @@
 *://*.bridgeforthaliveah1993.wordpress.com/*
 *://*.brierfeldhake.files.wordpress.com/*
 *://*.brierfeldhake.wordpress.com/*
+*://*.brokvaquatt.yolasite.com/*
+*://*.browrothsmo.yolasite.com/*
 *://*.bscouvertureperefils.fr/*
 *://*.b-solutions.com.pl/*
 *://*.bsvvez.ru.com/*
@@ -356,6 +378,7 @@
 *://*.cartonforradopublicidad.es/*
 *://*.casaroyal.cz/*
 *://*.catherinegourgoury.fr/*
+*://*.caustocmensled.weebly.com/*
 *://*.cbdb.cz/*
 *://*.ccaenter.es/*
 *://*.ccli.sa.com/*
@@ -383,6 +406,7 @@
 *://*.chauffe-eauelectrique.fr/*
 *://*.chauffeurassistance.fr/*
 *://*.chemindumuguet.fr/*
+*://*.chensrapani.weebly.com/*
 *://*.cherifculbreth1998.files.wordpress.com/*
 *://*.cherifculbreth1998.wordpress.com/*
 *://*.chiefaiexpert.com/*
@@ -390,9 +414,11 @@
 *://*.chistabinos.es/*
 *://*.chooseafrica-onair.fr/*
 *://*.chrisbrantanimations.fr/*
+*://*.chyrsfimbbamo.weebly.com/*
 *://*.chzikt.za.com/*
 *://*.cibgoldmason.files.wordpress.com/*
 *://*.cibgoldmason.wordpress.com/*
+*://*.cintcobedo.weebly.com/*
 *://*.cirkevvdome.cz/*
 *://*.citrininfo.cz/*
 *://*.city-quartier-eutin.de/*
@@ -408,6 +434,7 @@
 *://*.clean-capital.de/*
 *://*.cleanylife.fr/*
 *://*.clemcoudre.fr/*
+*://*.clever-perlman-395edd.netlify.app/*
 *://*.climatechangehub.es/*
 *://*.clinicadentalmunozdeblas.es/*
 *://*.clinica-de-termografia.eu/*
@@ -423,6 +450,7 @@
 *://*.colorfm.ru/*
 *://*.cominup.de/*
 *://*.commercantsdetarentaise.fr/*
+*://*.commnet.edu/*
 *://*.comqse.fr/*
 *://*.comuneparenthese.fr/*
 *://*.confaeldisabili.it/*
@@ -446,6 +474,7 @@
 *://*.creteil-quartiers-centre.fr/*
 *://*.crimean-teacher.ru/*
 *://*.crockme.fr/*
+*://*.cryptic-basin-32311.herokuapp.com/*
 *://*.csempeblog.eu/*
 *://*.csfd.cz/*
 *://*.cskpbk.za.com/*
@@ -453,6 +482,7 @@
 *://*.cukoyem.com.tr/*
 *://*.cultfilmz.com/*
 *://*.cuoregrigiorosso.it/*
+*://*.currduckdeafgall.weebly.com/*
 *://*.cyberless.it/*
 *://*.cyberu.net.pl/*
 *://*.cyclingprogram.it/*
@@ -461,6 +491,10 @@
 *://*.dacarimprenta.es/*
 *://*.dadmarine90.files.wordpress.com/*
 *://*.dadmarine90.wordpress.com/*
+*://*.damp-coast-41746.herokuapp.com/*
+*://*.damp-forest-06520.herokuapp.com/*
+*://*.damp-journey-55783.herokuapp.com/*
+*://*.damp-wildwood-90562.herokuapp.com/*
 *://*.danielaophir.tk/*
 *://*.dannongouse1994.files.wordpress.com/*
 *://*.dannongouse1994.wordpress.com/*
@@ -469,6 +503,7 @@
 *://*.dapiccolobusinessabrand.it/*
 *://*.darcusjamyri83.files.wordpress.com/*
 *://*.darcusjamyri83.wordpress.com/*
+*://*.dariffgiza.weebly.com/*
 *://*.darkspi.ru/*
 *://*.dasametal.es/*
 *://*.dasdiario.es/*
@@ -479,6 +514,7 @@
 *://*.dawudpruiett.files.wordpress.com/*
 *://*.dawudpruiett.wordpress.com/*
 *://*.daybydaylive.us/*
+*://*.daylibpvastgang.weebly.com/*
 *://*.dbec.sa.com/*
 *://*.dbooks.online/*
 *://*.dbpd.sa.com/*
@@ -491,6 +527,7 @@
 *://*.deco3d.es/*
 *://*.deco-mineraux.fr/*
 *://*.definitiveesteticcenter.es/*
+*://*.dehillgoldhig.weebly.com/*
 *://*.dehornos.eu/*
 *://*.demaanglasbewassing.nl/*
 *://*.demenzbetreuung-bonn.de/*
@@ -507,6 +544,7 @@
 *://*.deschaatschallenge.nl/*
 *://*.descuentosalobestia.es/*
 *://*.desinfectiezuilenonline.nl/*
+*://*.desolate-retreat-96124.herokuapp.com/*
 *://*.desoutilspourlaviedeparent.fr/*
 *://*.despainstylianos.files.wordpress.com/*
 *://*.despainstylianos.wordpress.com/*
@@ -523,6 +561,7 @@
 *://*.diaprominci.wordpress.com/*
 *://*.dibox.es/*
 *://*.didoletetard.fr/*
+*://*.dierefteva.weebly.com/*
 *://*.differenci-elles.fr/*
 *://*.digitalmeetingsesi.fr/*
 *://*.digitopnews.com/*
@@ -557,8 +596,11 @@
 *://*.dromosmantenimientos.es/*
 *://*.drukarniasieradz.pl/*
 *://*.drukkerijtova.nl/*
+*://*.drumnolheart.yolasite.com/*
+*://*.dry-inlet-71830.herokuapp.com/*
 *://*.dstfei.ru.com/*
 *://*.dstfei.za.com/*
+*://*.dstv.com/*
 *://*.dttyac.za.com/*
 *://*.duchovnisrdce.cz/*
 *://*.duerkopellyana85.files.wordpress.com/*
@@ -571,6 +613,7 @@
 *://*.dwlitsydom.files.wordpress.com/*
 *://*.dwlitsydom.wordpress.com/*
 *://*.dx3.fr/*
+*://*.dyspticjack.yolasite.com/*
 *://*.dyvrhv.za.com/*
 *://*.dyxdpt.ru.com/*
 *://*.dzcfmj.sa.com/*
@@ -609,6 +652,7 @@
 *://*.ekitap.site/*
 *://*.ekitapyeri.com/*
 *://*.ekobiff.pl/*
+*://*.elastic-wozniak-08d523.netlify.app/*
 *://*.elberijschool.nl/*
 *://*.elco-ordo-profi.ch/*
 *://*.electrodiver.es/*
@@ -628,6 +672,8 @@
 *://*.emkoupbelldep1976.wordpress.com/*
 *://*.energieeffizientnutzen.ch/*
 *://*.enfidn.za.com/*
+*://*.enigmatic-garden-32527.herokuapp.com/*
+*://*.enigmatic-garden-44154.herokuapp.com/*
 *://*.enjoyfitnessclubsirmione.it/*
 *://*.enjoy-live-shop.de/*
 *://*.enniobrilli.it/*
@@ -646,6 +692,7 @@
 *://*.equipexpo.news/*
 *://*.erbrigsandko1978.files.wordpress.com/*
 *://*.erbrigsandko1978.wordpress.com/*
+*://*.erfiri.yolasite.com/*
 *://*.erotic38.ru/*
 *://*.erventayyab1987.files.wordpress.com/*
 *://*.erventayyab1987.wordpress.com/*
@@ -670,6 +717,7 @@
 *://*.evapetruzalkova.cz/*
 *://*.evcrtv.ru.com/*
 *://*.evcrtv.za.com/*
+*://*.evening-dawn-78938.herokuapp.com/*
 *://*.ev-familienzentrum-hiesfeld.de/*
 *://*.examenblad.nl/*
 *://*.exelec.ch/*
@@ -694,6 +742,7 @@
 *://*.fashmask.es/*
 *://*.fastonline.news/*
 *://*.fastonlinenews.com/*
+*://*.fathomless-lake-05516.herokuapp.com/*
 *://*.fawsonjuliena.files.wordpress.com/*
 *://*.fawsonjuliena.wordpress.com/*
 *://*.fbartsanddesign.de/*
@@ -708,6 +757,7 @@
 *://*.ferazonada.es/*
 *://*.fewo-ith18.de/*
 *://*.fiat500altoadige.it/*
+*://*.fierce-tor-71376.herokuapp.com/*
 *://*.filmer.cz/*
 *://*.findoutmagazine.es/*
 *://*.fishingacademyecuisine.it/*
@@ -720,6 +770,7 @@
 *://*.fleischerei-rietschel.de/*
 *://*.fleurdeviekalmthout.be/*
 *://*.flightofjazz.ru/*
+*://*.floating-oasis-92925.herokuapp.com/*
 *://*.floe8.de/*
 *://*.floraldesigns.ru/*
 *://*.florian-sayous-armary.fr/*
@@ -745,6 +796,7 @@
 *://*.fotomoor.pl/*
 *://*.fotopunch.ru/*
 *://*.fotos-paisajes.net/*
+*://*.foundvitteeti.weebly.com/*
 *://*.fracchiaandra94.files.wordpress.com/*
 *://*.fracchiaandra94.wordpress.com/*
 *://*.fraternafm.cl/*
@@ -756,6 +808,7 @@
 *://*.frerichkristyna83.files.wordpress.com/*
 *://*.frerichkristyna83.wordpress.com/*
 *://*.friseur-olga.de/*
+*://*.frozen-bayou-28758.herokuapp.com/*
 *://*.frxw.sa.com/*
 *://*.fskpzj.sa.com/*
 *://*.fsvn.sa.com/*
@@ -782,6 +835,7 @@
 *://*.garderobnaya.su/*
 *://*.gas-kg.ru/*
 *://*.gastropaviljoenxv.nl/*
+*://*.gaymaysys.yolasite.com/*
 *://*.gdyent.za.com/*
 *://*.geanopulostelvin94.files.wordpress.com/*
 *://*.geanopulostelvin94.wordpress.com/*
@@ -793,12 +847,15 @@
 *://*.gelerterezariah86.wordpress.com/*
 *://*.genellecampise1998.files.wordpress.com/*
 *://*.genellecampise1998.wordpress.com/*
+*://*.gentle-harbor-10208.herokuapp.com/*
 *://*.geoprochiaro1981.files.wordpress.com/*
 *://*.geoprochiaro1981.wordpress.com/*
 *://*.germankitchens.es/*
 *://*.geupcb.za.com/*
+*://*.girlsareawesome.com/*
 *://*.girlsobsession.xyz/*
 *://*.gjuydn.za.com/*
+*://*.glacial-reef-24617.herokuapp.com/*
 *://*.glassathome.nl/*
 *://*.glasvezelinmijnhuis.nl/*
 *://*.glazur-mat.pl/*
@@ -810,11 +867,14 @@
 *://*.goerkeakshadha1990.files.wordpress.com/*
 *://*.goerkeakshadha1990.wordpress.com/*
 *://*.gojuryu-karate-club.ch/*
+*://*.goldhandwissemb.weebly.com/*
 *://*.gonzalezjasiyah.files.wordpress.com/*
 *://*.gonzalezjasiyah.wordpress.com/*
 *://*.goocloudchat.files.wordpress.com/*
 *://*.goocloudchat.wordpress.com/*
 *://*.goodseri.es/*
+*://*.goofy-kare-9f33c8.netlify.app/*
+*://*.go-pdf.online/*
 *://*.gorodskaya-optica.ru/*
 *://*.gosgm.com/*
 *://*.gotiva-ceramica.it/*
@@ -828,9 +888,12 @@
 *://*.gressleyjameel90.files.wordpress.com/*
 *://*.gressleyjameel90.wordpress.com/*
 *://*.grillwelt-berlin.de/*
+*://*.grodterolnou.weebly.com/*
 *://*.grundybike.cz/*
 *://*.gruppotps.it/*
+*://*.guarded-fjord-01475.herokuapp.com/*
 *://*.guardiansp.cz/*
+*://*.guileconre.weebly.com/*
 *://*.guncelpdf.com/*
 *://*.guncelses.salon/*
 *://*.guskybrihanna.files.wordpress.com/*
@@ -845,6 +908,7 @@
 *://*.habcessdagri1973.files.wordpress.com/*
 *://*.habcessdagri1973.wordpress.com/*
 *://*.hack-your-life.de/*
+*://*.haithrowox.yolasite.com/*
 *://*.halleeabuk.files.wordpress.com/*
 *://*.halleeabuk.wordpress.com/*
 *://*.hammersaralyn95.files.wordpress.com/*
@@ -852,6 +916,7 @@
 *://*.hanusjuels94.files.wordpress.com/*
 *://*.hanusjuels94.wordpress.com/*
 *://*.happyeventmanagement.nl/*
+*://*.hardcore-mcclintock-6bb762.netlify.app/*
 *://*.hardenbrooklaree00.files.wordpress.com/*
 *://*.hardenbrooklaree00.wordpress.com/*
 *://*.harrachmax.cz/*
@@ -889,8 +954,10 @@
 *://*.hghresine.cz/*
 *://*.hgtydr.za.com/*
 *://*.hhknej.za.com/*
+*://*.hidden-earth-87357.herokuapp.com/*
 *://*.hilleredjorje1997.files.wordpress.com/*
 *://*.hilleredjorje1997.wordpress.com/*
+*://*.hinodyphy.weebly.com/*
 *://*.hiposter.ru/*
 *://*.hippennihal84.files.wordpress.com/*
 *://*.hippennihal84.wordpress.com/*
@@ -907,6 +974,7 @@
 *://*.hookergavriel1988.wordpress.com/*
 *://*.hornik.ch/*
 *://*.hornirakousy.cz/*
+*://*.horracafi.weebly.com/*
 *://*.hoshdarnews.com/*
 *://*.hostinbo.it/*
 *://*.hotel-e2m.fr/*
@@ -928,6 +996,7 @@
 *://*.hypnotherapie-bigoin.fr/*
 *://*.i25.news/*
 *://*.i25news.com/*
+*://*.iabc.com/*
 *://*.iberofusion.com.es/*
 *://*.icm-kladno.cz/*
 *://*.icpopupstores.pl/*
@@ -936,17 +1005,21 @@
 *://*.ifps-education.fr/*
 *://*.ihipzf.za.com/*
 *://*.ilonka-vordermayr-heilpraktikerin.de/*
+*://*.ilylmeti.weebly.com/*
 *://*.imeori.it/*
 *://*.imfamont.cz/*
 *://*.imjbuc.za.com/*
+*://*.immense-ridge-79672.herokuapp.com/*
 *://*.immobilier-ozoirlaferriere-era.fr/*
 *://*.imperialesposi.it/*
+*://*.imzusesoft.weebly.com/*
 *://*.inbetweendreams.nl/*
 *://*.indirdepo.mobi/*
 *://*.indirkitaplarpdf.com/*
 *://*.indr.in/*
 *://*.industrie-handwerker-portal.de/*
 *://*.inescontentmarketing.de/*
+*://*.infinite-depths-91406.herokuapp.com/*
 *://*.infoisofrance.fr/*
 *://*.infokit.nl/*
 *://*.inforeview.es/*
@@ -960,10 +1033,14 @@
 *://*.innenstadthelden-landshut.de/*
 *://*.inovadiet.fr/*
 *://*.inspirujici-bydleni.cz/*
+*://*.instepakhia.weebly.com/*
 *://*.institutbellange.fr/*
 *://*.institutoivec.es/*
 *://*.instruktorpaula.pl/*
 *://*.instrument-egorievsk.ru/*
+*://*.intense-gorge-00098.herokuapp.com/*
+*://*.intense-sierra-05184.herokuapp.com/*
+*://*.intense-wave-67829.herokuapp.com/*
 *://*.interbyt-breuer.cz/*
 *://*.internatkrenovice.cz/*
 *://*.intervalsl.es/*
@@ -979,6 +1056,7 @@
 *://*.isesapphirebuilder.files.wordpress.com/*
 *://*.isesapphirebuilder.wordpress.com/*
 *://*.italiaansewijnhandel.nl/*
+*://*.itcelaya.edu.mx/*
 *://*.iteichhorn.de/*
 *://*.itinerariodellacqua.it/*
 *://*.it-nije-ensemble.nl/*
@@ -994,6 +1072,7 @@
 *://*.ixgf.sa.com/*
 *://*.iyijadeitect.files.wordpress.com/*
 *://*.iyijadeitect.wordpress.com/*
+*://*.izamdisdia.weebly.com/*
 *://*.izcm.sa.com/*
 *://*.izliyoo.com/*
 *://*.izutma.ru.com/*
@@ -1007,6 +1086,7 @@
 *://*.jaeceionlauseng1998.files.wordpress.com/*
 *://*.jaeceionlauseng1998.wordpress.com/*
 *://*.jaeger-herz.de/*
+*://*.jaitracbanchurch.weebly.com/*
 *://*.jakubdean.cz/*
 *://*.jamilackett85.files.wordpress.com/*
 *://*.jamilackett85.wordpress.com/*
@@ -1042,6 +1122,7 @@
 *://*.johnicoalexiel83.wordpress.com/*
 *://*.jolavacaster.files.wordpress.com/*
 *://*.jolavacaster.wordpress.com/*
+*://*.jolly-snyder-a0f764.netlify.app/*
 *://*.jonathan-zerbib.fr/*
 *://*.josebamoreno.es/*
 *://*.jrphafrombino.files.wordpress.com/*
@@ -1066,6 +1147,7 @@
 *://*.kahrijesenovec1989.wordpress.com/*
 *://*.kaidencewashurn1999.files.wordpress.com/*
 *://*.kaidencewashurn1999.wordpress.com/*
+*://*.kalbarprov.go.id/*
 *://*.kamieniarstwo-rozental.pl/*
 *://*.karataykasad.ru/*
 *://*.karinnelanzillotti.files.wordpress.com/*
@@ -1183,6 +1265,7 @@
 *://*.lampierre.es/*
 *://*.langelanddaviya84.files.wordpress.com/*
 *://*.langelanddaviya84.wordpress.com/*
+*://*.lapecbilbso.weebly.com/*
 *://*.lapetitesuzette.cz/*
 *://*.lash-lifting-gronau.de/*
 *://*.lassanalenahan90.files.wordpress.com/*
@@ -1224,12 +1307,14 @@
 *://*.lhulanamuseld.wordpress.com/*
 *://*.liammatthewiker1997.files.wordpress.com/*
 *://*.liammatthewiker1997.wordpress.com/*
+*://*.licompbaves.weebly.com/*
 *://*.lighthillbeliz1992.files.wordpress.com/*
 *://*.lighthillbeliz1992.wordpress.com/*
 *://*.lightsintheheights.com.au/*
 *://*.limitlessdownloads.com/*
 *://*.limousinenservice-fritzsche.de/*
 *://*.linksfraktion-wa-fkb.de/*
+*://*.litisourju.weebly.com/*
 *://*.litoraleesviluppofondano.it/*
 *://*.live-online-stream.xyz/*
 *://*.livevoices.ru/*
@@ -1242,6 +1327,7 @@
 *://*.locteskey1998.wordpress.com/*
 *://*.loderziga1984.files.wordpress.com/*
 *://*.loderziga1984.wordpress.com/*
+*://*.lodisuckge.weebly.com/*
 *://*.lodmerkaba.cz/*
 *://*.lolapps.es/*
 *://*.loradinglese.it/*
@@ -1253,6 +1339,7 @@
 *://*.lovelyphotography.de/*
 *://*.lowrythor.files.wordpress.com/*
 *://*.lowrythor.wordpress.com/*
+*://*.loyflancige.weebly.com/*
 *://*.lrdnf.fr/*
 *://*.lrglitclan.files.wordpress.com/*
 *://*.lrglitclan.wordpress.com/*
@@ -1284,6 +1371,7 @@
 *://*.mafsushi.fr/*
 *://*.magazinportalnovi.info/*
 *://*.magiedeforme.fr/*
+*://*.mahacnozzflot.weebly.com/*
 *://*.mahaxayjaxlynn82.files.wordpress.com/*
 *://*.mahaxayjaxlynn82.wordpress.com/*
 *://*.mahinfograph.files.wordpress.com/*
@@ -1368,6 +1456,8 @@
 *://*.microfirst-solutions-informatiques.fr/*
 *://*.mifarmaceutica.es/*
 *://*.mifinanciero.es/*
+*://*.mighty-dawn-29310.herokuapp.com/*
+*://*.mighty-meadow-33681.herokuapp.com/*
 *://*.mijnkleinkunstlied.nl/*
 *://*.mikihouserussia.ru/*
 *://*.militaria-bw.de/*
@@ -1378,6 +1468,7 @@
 *://*.mir.az/*
 *://*.mismeejecda1980.files.wordpress.com/*
 *://*.mismeejecda1980.wordpress.com/*
+*://*.missbulyme.weebly.com/*
 *://*.misun-jazyky.cz/*
 *://*.mittwoch-maedels.de/*
 *://*.mkaylamaurey.files.wordpress.com/*
@@ -1395,6 +1486,9 @@
 *://*.montebaducco.nl/*
 *://*.montejardin.es/*
 *://*.mopostol.ru/*
+*://*.morning-retreat-42812.herokuapp.com/*
+*://*.mostpembgransui.weebly.com/*
+*://*.motorcyclecruiser.com/*
 *://*.moveresaludydanza.es/*
 *://*.movips.it/*
 *://*.mqrbookerce.files.wordpress.com/*
@@ -1411,6 +1505,7 @@
 *://*.mtweb.cz/*
 *://*.mtyuvg.ru.com/*
 *://*.mubcvy.sa.com/*
+*://*.muckrack.com/*
 *://*.mueblesgosende.es/*
 *://*.mujstit.cz/*
 *://*.mulserphone.es/*
@@ -1418,9 +1513,12 @@
 *://*.mundinemayven.files.wordpress.com/*
 *://*.mundinemayven.wordpress.com/*
 *://*.mundocampeones.es/*
+*://*.murmuring-atoll-29357.herokuapp.com/*
 *://*.muscentesreekar1994.files.wordpress.com/*
 *://*.muscentesreekar1994.wordpress.com/*
 *://*.musiktage-affoltern.ch/*
+*://*.musing-almeida-b60f67.netlify.app/*
+*://*.mutpholadk.yolasite.com/*
 *://*.mutterschiff-blog.de/*
 *://*.muvkgi.sa.com/*
 *://*.mybetterck.com/*
@@ -1430,6 +1528,7 @@
 *://*.myradiohits.nl/*
 *://*.mysiliconvalley.es/*
 *://*.myslide.es/*
+*://*.mysterious-peak-46949.herokuapp.com/*
 *://*.my-tone.ru/*
 *://*.nabat.us/*
 *://*.nabortekcta.ru/*
@@ -1437,9 +1536,12 @@
 *://*.nadya.us/*
 *://*.naifcare.pl/*
 *://*.naked.za.com/*
+*://*.nameless-eyrie-57455.herokuapp.com/*
+*://*.nameless-oasis-91566.herokuapp.com/*
 *://*.naryanladucer1983.files.wordpress.com/*
 *://*.naryanladucer1983.wordpress.com/*
 *://*.nasil.co/*
+*://*.nationalstudentshow.com/*
 *://*.naturalnamoc.pl/*
 *://*.naturheilpraxis-neusinger.de/*
 *://*.natuurlijkbalansboekelo.nl/*
@@ -1448,21 +1550,26 @@
 *://*.nawigatorprzyszlosci.pl/*
 *://*.nbdbiblion.nl/*
 *://*.nbezam.ru.com/*
+*://*.ncee.org/*
 *://*.ncjd.sa.com/*
 *://*.ndybue.za.com/*
 *://*.necrologimelendugno.it/*
 *://*.nehirmishaw84.files.wordpress.com/*
 *://*.nehirmishaw84.wordpress.com/*
 *://*.nejlevnejsi-knihy.cz/*
+*://*.neulydesfirs.weebly.com/*
 *://*.neuropsychologue-enfant-lille.fr/*
+*://*.neuscalouszie.weebly.com/*
 *://*.nevisyitzel84.files.wordpress.com/*
 *://*.nevisyitzel84.wordpress.com/*
 *://*.newbizacademy.ru/*
+*://*.newphlepe.yolasite.com/*
 *://*.newssharing.es/*
 *://*.new-work-old-school.de/*
 *://*.nextdoorsalon.cz/*
 *://*.neyamiahbrigges1983.files.wordpress.com/*
 *://*.neyamiahbrigges1983.wordpress.com/*
+*://*.neynobgo.yolasite.com/*
 *://*.ngycfb.za.com/*
 *://*.nicolaistopa.files.wordpress.com/*
 *://*.nicolaistopa.wordpress.com/*
@@ -1507,6 +1614,7 @@
 *://*.oltzjoa.wordpress.com/*
 *://*.oluwalonimiverret.files.wordpress.com/*
 *://*.oluwalonimiverret.wordpress.com/*
+*://*.omdetabil.weebly.com/*
 *://*.omega-bf.ru/*
 *://*.omniglobe.es/*
 *://*.onelove.news/*
@@ -1529,11 +1637,13 @@
 *://*.osopabvei1980.files.wordpress.com/*
 *://*.osopabvei1980.wordpress.com/*
 *://*.osteriadelcirmolo.it/*
+*://*.otcwholesale.com/*
 *://*.otegasupreme.files.wordpress.com/*
 *://*.otegasupreme.wordpress.com/*
 *://*.otoplenieuga.ru/*
 *://*.otterfinger-ferienprogramm.de/*
 *://*.ot-tur.ru/*
+*://*.ovvettioco.weebly.com/*
 *://*.owap.sa.com/*
 *://*.owncase.cz/*
 *://*.owrq.sa.com/*
@@ -1562,6 +1672,7 @@
 *://*.payblogimhoe1976.files.wordpress.com/*
 *://*.payblogimhoe1976.wordpress.com/*
 *://*.payperinstall.net/*
+*://*.paysmarenre.weebly.com/*
 *://*.pbihcf.ru.com/*
 *://*.pcls24.de/*
 *://*.pcmffs.za.com/*
@@ -1627,6 +1738,7 @@
 *://*.pdfoku.net/*
 *://*.pdfwor.com/*
 *://*.pduvse.za.com/*
+*://*.peaceful-forest-98801.herokuapp.com/*
 *://*.peaklab.it/*
 *://*.pefralca.es/*
 *://*.pekfdz.sa.com/*
@@ -1635,6 +1747,7 @@
 *://*.pennymiller.com.au/*
 *://*.pensionhotel.es/*
 *://*.penxni.za.com/*
+*://*.pergsincirc.yolasite.com/*
 *://*.permanent-make-up-gronau.de/*
 *://*.pescaderiapompa.es/*
 *://*.pescheriasandolo.it/*
@@ -1686,6 +1799,8 @@
 *://*.poeapisty.wordpress.com/*
 *://*.poissonneriedelile.fr/*
 *://*.pokesucre.fr/*
+*://*.polar-beach-84519.herokuapp.com/*
+*://*.polar-reaches-25690.herokuapp.com/*
 *://*.polisportivodoncalabria.it/*
 *://*.politikon.fr/*
 *://*.poltekkesternate.ac.id/*
@@ -1702,6 +1817,7 @@
 *://*.pratalexazrab.tk/*
 *://*.prawnikwbanku.pl/*
 *://*.pricepservis16.ru/*
+*://*.primonapiz.weebly.com/*
 *://*.prku.sa.com/*
 *://*.prodejmotocykluhonda.cz/*
 *://*.profesjonalnymenedzerrestauracji.pl/*
@@ -1712,7 +1828,9 @@
 *://*.progres-mogielnica.org.pl/*
 *://*.promising-out-of-this-world.nl/*
 *://*.prorebat-provence.fr/*
+*://*.protected-brook-37675.herokuapp.com/*
 *://*.psdrinks.de/*
+*://*.psg.fr/*
 *://*.psihotel-klatovy.cz/*
 *://*.psychoanalytikerinnen.de/*
 *://*.psychotherapie-hoelzer.de/*
@@ -1726,6 +1844,7 @@
 *://*.purdinjerric87.files.wordpress.com/*
 *://*.purdinjerric87.wordpress.com/*
 *://*.purebox.fr/*
+*://*.pure-savannah-77124.herokuapp.com/*
 *://*.puysoncar.es/*
 *://*.pvxeym.ru.com/*
 *://*.pvxeym.sa.com/*
@@ -1738,6 +1857,8 @@
 *://*.qmuthadich.wordpress.com/*
 *://*.qovid.es/*
 *://*.qttx.sa.com/*
+*://*.queensford.edu.au/*
+*://*.queharluri.weebly.com/*
 *://*.querijnhensen.nl/*
 *://*.quieresserfuncionario.es/*
 *://*.quinlynboyenga.files.wordpress.com/*
@@ -1747,11 +1868,14 @@
 *://*.quistatotse1973.wordpress.com/*
 *://*.quitaplagas.es/*
 *://*.radetondod.cz/*
+*://*.radiant-shelf-31744.herokuapp.com/*
+*://*.radiant-wildwood-66614.herokuapp.com/*
 *://*.radobynadobykladno.cz/*
 *://*.raeh.sa.com/*
 *://*.rakhfusstumpvermo.tk/*
 *://*.ramkissoonase.files.wordpress.com/*
 *://*.ramkissoonase.wordpress.com/*
+*://*.ramofirmte.weebly.com/*
 *://*.rantipsdabe.files.wordpress.com/*
 *://*.rantipsdabe.wordpress.com/*
 *://*.rasajel.de/*
@@ -1760,6 +1884,8 @@
 *://*.ratharnay1990.wordpress.com/*
 *://*.rausvu.ru.com/*
 *://*.rausvu.za.com/*
+*://*.razaciga.weebly.com/*
+*://*.razdownmicde.weebly.com/*
 *://*.rbdu.sa.com/*
 *://*.rbepby.sa.com/*
 *://*.rbmunb.ru.com/*
@@ -1790,6 +1916,7 @@
 *://*.renrobufunkla.wixsite.com/*
 *://*.residence-lartdoise.eu/*
 *://*.resolusi.news/*
+*://*.resorfeno.weebly.com/*
 *://*.restaurantsidibou.fr/*
 *://*.retropharmacie.fr/*
 *://*.reups.de/*
@@ -1811,6 +1938,7 @@
 *://*.rmnt.sa.com/*
 *://*.rmpack.pro/*
 *://*.rntoe.ru/*
+*://*.rocky-peak-32390.herokuapp.com/*
 *://*.rogdingdtourre1981.files.wordpress.com/*
 *://*.rogdingdtourre1981.wordpress.com/*
 *://*.rolenstonelake84.files.wordpress.com/*
@@ -1857,11 +1985,14 @@
 *://*.sabinewanek.de/*
 *://*.sacramentodatacenters.net/*
 *://*.safe-crypto.me/*
+*://*.safe-escarpment-95511.herokuapp.com/*
 *://*.salachamora00.files.wordpress.com/*
 *://*.salachamora00.wordpress.com/*
 *://*.salieridanza.it/*
 *://*.salm24.de/*
 *://*.salonbelzigaro.de/*
+*://*.salty-reaches-56510.herokuapp.com/*
+*://*.salty-reef-33002.herokuapp.com/*
 *://*.salud-rock.de/*
 *://*.samudsabores.com/*
 *://*.sandalca.com/*
@@ -1884,6 +2015,7 @@
 *://*.sbknetique.wordpress.com/*
 *://*.sbuweb.nl/*
 *://*.scdbjs.sa.com/*
+*://*.scensubvede.weebly.com/*
 *://*.schlicker-pizza.de/*
 *://*.schoenmakerijdegaard.nl/*
 *://*.schoepferdeinerwelt.de/*
@@ -1898,6 +2030,9 @@
 *://*.sdhtroubky.cz/*
 *://*.sebastienbedard1999.files.wordpress.com/*
 *://*.sebastienbedard1999.wordpress.com/*
+*://*.secdyrunta.weebly.com/*
+*://*.secret-mountain-52094.herokuapp.com/*
+*://*.secret-retreat-70584.herokuapp.com/*
 *://*.sectioninfoburo.fr/*
 *://*.segelschule-skippertreff.de/*
 *://*.seguimasiyah.files.wordpress.com/*
@@ -1915,6 +2050,8 @@
 *://*.septergermaine86.wordpress.com/*
 *://*.seraphimcliett98.files.wordpress.com/*
 *://*.seraphimcliett98.wordpress.com/*
+*://*.serene-garden-06512.herokuapp.com/*
+*://*.serene-mesa-30948.herokuapp.com/*
 *://*.sergixadyn.files.wordpress.com/*
 *://*.sergixadyn.wordpress.com/*
 *://*.seriyahsiedlecki.files.wordpress.com/*
@@ -1933,12 +2070,16 @@
 *://*.sharayadino94.wordpress.com/*
 *://*.sheftemayreni1989.files.wordpress.com/*
 *://*.sheftemayreni1989.wordpress.com/*
+*://*.sheltered-dusk-51393.herokuapp.com/*
+*://*.shielded-escarpment-71297.herokuapp.com/*
+*://*.shielded-thicket-54137.herokuapp.com/*
 *://*.shirley-hundefotografie.de/*
 *://*.shiynt.za.com/*
 *://*.siannehagenbaugh1988.files.wordpress.com/*
 *://*.siannehagenbaugh1988.wordpress.com/*
 *://*.siapunkblumul1989.files.wordpress.com/*
 *://*.siapunkblumul1989.wordpress.com/*
+*://*.sierofisy.weebly.com/*
 *://*.signa-pro.fr/*
 *://*.sikryy.sa.com/*
 *://*.silke-hubert.de/*
@@ -1947,7 +2088,9 @@
 *://*.sinacarlitos.wordpress.com/*
 *://*.siota.es/*
 *://*.sirajganj24.news/*
+*://*.sirlatare.weebly.com/*
 *://*.siropompeo.it/*
+*://*.sisbioplanax.weebly.com/*
 *://*.sistory.si/*
 *://*.sites.google.com/a/fd.books-now.com/*
 *://*.sitzgelegenheit.ch/*
@@ -1959,6 +2102,7 @@
 *://*.skyartis.pl/*
 *://*.skzmzx.za.com/*
 *://*.slbruicosta21-25.pt/*
+*://*.sleepy-bastion-91060.herokuapp.com/*
 *://*.slotokubik.ru/*
 *://*.smarcography.de/*
 *://*.smartex.net.pl/*
@@ -1967,6 +2111,7 @@
 *://*.sminksavion.files.wordpress.com/*
 *://*.sminksavion.wordpress.com/*
 *://*.sobiad.com/*
+*://*.sobundaetin.weebly.com/*
 *://*.socialaffair.org/*
 *://*.socialmediathing.co.uk/*
 *://*.soelma.es/*
@@ -1997,6 +2142,7 @@
 *://*.srovnanicen.cz/*
 *://*.stackstaging.com/*
 *://*.stammheim-hilft.de/*
+*://*.stark-thicket-67804.herokuapp.com/*
 *://*.starlynvarieur.files.wordpress.com/*
 *://*.starlynvarieur.wordpress.com/*
 *://*.stathamhanus.files.wordpress.com/*
@@ -2009,10 +2155,13 @@
 *://*.stepptamarrion1998.wordpress.com/*
 *://*.stgrdp.ru.com/*
 *://*.stgrdp.sa.com/*
+*://*.still-retreat-29110.herokuapp.com/*
+*://*.still-sands-70786.herokuapp.com/*
 *://*.stint-manual.nl/*
 *://*.stnbab.sa.com/*
 *://*.stnbab.za.com/*
 *://*.stomatologiyaapolloniya.ru/*
+*://*.stormy-falls-60030.herokuapp.com/*
 *://*.stowarzyszenievictoria.pl/*
 *://*.streetcroque-restaurant.fr/*
 *://*.stricklankhadin1982.files.wordpress.com/*
@@ -2025,6 +2174,7 @@
 *://*.studioschrikdraad.nl/*
 *://*.studiowachowicz.pl/*
 *://*.studocu.com/*
+*://*.stupefied-mestorf-1962a0.netlify.app/*
 *://*.stylimmo.es/*
 *://*.subttijelbi1973.files.wordpress.com/*
 *://*.subttijelbi1973.wordpress.com/*
@@ -2040,6 +2190,7 @@
 *://*.supprifuchdio1978.files.wordpress.com/*
 *://*.supprifuchdio1978.wordpress.com/*
 *://*.susiland.ru/*
+*://*.suspicious-wright-c15180.netlify.app/*
 *://*.sutgdy.sa.com/*
 *://*.sutharhenlie88.files.wordpress.com/*
 *://*.sutharhenlie88.wordpress.com/*
@@ -2051,6 +2202,7 @@
 *://*.swayve.com.au/*
 *://*.swissgoat.ch/*
 *://*.sygx.sa.com/*
+*://*.symsihynac.weebly.com/*
 *://*.synventive.pl/*
 *://*.syop.sa.com/*
 *://*.syrdbm.za.com/*
@@ -2059,6 +2211,7 @@
 *://*.tabuho.es/*
 *://*.taenfa.za.com/*
 *://*.tagliaferroassicurazioni.it/*
+*://*.talijpho.yolasite.com/*
 *://*.tallerestfh.es/*
 *://*.tamiragerchak1987.files.wordpress.com/*
 *://*.tamiragerchak1987.wordpress.com/*
@@ -2068,6 +2221,7 @@
 *://*.taosstaelens.wordpress.com/*
 *://*.tarahjirooke.files.wordpress.com/*
 *://*.tarahjirooke.wordpress.com/*
+*://*.tarjoffzama.weebly.com/*
 *://*.tarterjawaan83.files.wordpress.com/*
 *://*.tarterjawaan83.wordpress.com/*
 *://*.tavirareeve.files.wordpress.com/*
@@ -2090,8 +2244,10 @@
 *://*.templesmenaal.files.wordpress.com/*
 *://*.templesmenaal.wordpress.com/*
 *://*.tencs.es/*
+*://*.tender-torvalds-068919.netlify.app/*
 *://*.tendestrutture.it/*
 *://*.teniszh.cz/*
+*://*.termlifuki.weebly.com/*
 *://*.ternistadium.eu/*
 *://*.tevfik-fikret-pdf-odf-mp3.site/*
 *://*.teze.lt/*
@@ -2104,15 +2260,18 @@
 *://*.thecbd1.es/*
 *://*.thedesigndiamond.com/*
 *://*.thereplicants.es/*
+*://*.theytadewa.weebly.com/*
 *://*.thgnuu.za.com/*
 *://*.thibzc.za.com/*
 *://*.thijsschepens.be/*
+*://*.thirsty-lewin-1089b5.netlify.app/*
 *://*.thisismolise.it/*
 *://*.thobiasgiambanco92.files.wordpress.com/*
 *://*.thobiasgiambanco92.wordpress.com/*
 *://*.tieffemacchine.it/*
 *://*.tijdvoorpaprika.nl/*
 *://*.tikla-indir.com/*
+*://*.tingkamaho.weebly.com/*
 *://*.tinkilinki.ru/*
 *://*.tiodocoultosa.tk/*
 *://*.tirnathenelannun.eu/*
@@ -2128,11 +2287,13 @@
 *://*.tlgclk.wordpress.com/*
 *://*.tobiasplonka.de/*
 *://*.tobispa.pl/*
+*://*.toisomrehan.weebly.com/*
 *://*.tokichtabius1994.files.wordpress.com/*
 *://*.tokichtabius1994.wordpress.com/*
 *://*.tomaszatko.cz/*
 *://*.tomiproyectopol.es/*
 *://*.tomoye.pl/*
+*://*.tomsruffno.yolasite.com/*
 *://*.toprw.ru/*
 *://*.toptrask.site/*
 *://*.tornadoescursioni.it/*
@@ -2143,6 +2304,8 @@
 *://*.tourperu.it/*
 *://*.toyzzou.es/*
 *://*.trademarks911.com/*
+*://*.tranquil-dusk-90787.herokuapp.com/*
+*://*.tranquil-plateau-57766.herokuapp.com/*
 *://*.trattoriadatoto.it/*
 *://*.travalikourtland.files.wordpress.com/*
 *://*.travalikourtland.wordpress.com/*
@@ -2160,6 +2323,7 @@
 *://*.trojansystems.de/*
 *://*.trpdfs.info/*
 *://*.trpvmr.ru.com/*
+*://*.trusting-noyce-dfa04f.netlify.app/*
 *://*.trystonnordahl90.files.wordpress.com/*
 *://*.trystonnordahl90.wordpress.com/*
 *://*.tsnaiv.ru.com/*
@@ -2214,10 +2378,12 @@
 *://*.unaonadadepetitssomriures.cat/*
 *://*.undercode.ru/*
 *://*.uniport.edu.ng/*
+*://*.univ-amu.fr/*
 *://*.universiteitleiden.nl/*
 *://*.unmagarre.files.wordpress.com/*
 *://*.unmagarre.wordpress.com/*
 *://*.unus.sa.com/*
+*://*.upbeat-northcutt-2a673a.netlify.app/*
 *://*.upcfight.cz/*
 *://*.upkrdi.za.com/*
 *://*.urbanlights.es/*
@@ -2231,6 +2397,7 @@
 *://*.ustbuzzlot.files.wordpress.com/*
 *://*.ustbuzzlot.wordpress.com/*
 *://*.usvacrb.ru/*
+*://*.utah.edu/*
 *://*.uufa8.pub/*
 *://*.uzelok4u.ru/*
 *://*.uznetsi.in.net/*
@@ -2245,6 +2412,7 @@
 *://*.vansah.de/*
 *://*.vasiliahemmert.files.wordpress.com/*
 *://*.vasiliahemmert.wordpress.com/*
+*://*.vast-taiga-27049.herokuapp.com/*
 *://*.vautnn.za.com/*
 *://*.vaymkd.za.com/*
 *://*.vbarcadia.pl/*
@@ -2270,6 +2438,7 @@
 *://*.virp.sa.com/*
 *://*.vittel-renouveau.fr/*
 *://*.vivendojobs.de/*
+*://*.vivonoticias.mx/*
 *://*.vkumnn.sa.com/*
 *://*.vkumnn.za.com/*
 *://*.vlc-biomed.es/*
@@ -2278,6 +2447,7 @@
 *://*.vofchichive.wordpress.com/*
 *://*.volkmannjathan1986.files.wordpress.com/*
 *://*.volkmannjathan1986.wordpress.com/*
+*://*.vonuziwed.weebly.com/*
 *://*.vorwalleralby.files.wordpress.com/*
 *://*.vorwalleralby.wordpress.com/*
 *://*.votre-protection-sanitaire.fr/*
@@ -2295,6 +2465,7 @@
 *://*.waamaag.fr/*
 *://*.wafirmaldives.it/*
 *://*.waltermoladori.it/*
+*://*.warm-brook-71071.herokuapp.com/*
 *://*.webdesign-tobies.de/*
 *://*.weber-gartengeraete.de/*
 *://*.webluk.it/*
@@ -2308,6 +2479,7 @@
 *://*.weromalana.wordpress.com/*
 *://*.weslowkeiran85.files.wordpress.com/*
 *://*.weslowkeiran85.wordpress.com/*
+*://*.wevismaacoe.weebly.com/*
 *://*.wg-wohnen-nienburg.de/*
 *://*.whatthefilm.es/*
 *://*.whitepeak.es/*
@@ -2374,6 +2546,7 @@
 *://*.ygdg.sa.com/*
 *://*.yghs.sa.com/*
 *://*.yitechnology.com.es/*
+*://*.young-island-78511.herokuapp.com/*
 *://*.youngvoicesandgospel.de/*
 *://*.younkinskyell83.files.wordpress.com/*
 *://*.younkinskyell83.wordpress.com/*
@@ -2389,6 +2562,7 @@
 *://*.yxvmzt.sa.com/*
 *://*.yyno.sa.com/*
 *://*.zahradnictvi-vesely.cz/*
+*://*.zakhpevemi.weebly.com/*
 *://*.zaragozacoaching.es/*
 *://*.zaragozagastroweek.es/*
 *://*.zasteklidom.ru/*
@@ -2411,6 +2585,7 @@
 *://*.ziannahpotolsky96.wordpress.com/*
 *://*.zielenzakopane.pl/*
 *://*.zimbalam.es/*
+*://*.ziofecmeu.yolasite.com/*
 *://*.ziuauriwright.files.wordpress.com/*
 *://*.ziuauriwright.wordpress.com/*
 *://*.zmdcoralitect.files.wordpress.com/*
