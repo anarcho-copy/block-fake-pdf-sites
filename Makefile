@@ -65,3 +65,8 @@ public-suffix-list:
 
 /usr/local/share/faup/custom_tlds_exists:
 	make -C list/ faup-data
+
+src/build:
+	run-parts src/build
+
+.PHONY: src/build
