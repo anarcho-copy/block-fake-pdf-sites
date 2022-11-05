@@ -1,0 +1,62 @@
+# Name        : Document search engine/mirror blocker
+# Version     : 20221105025946
+# Date        : Fri Nov  4 11:59:46 PM UTC 2022
+# Repo        : https://gitlab.com/anarcho-copy/block-fake-pdf-sites
+# File        : https://gitlab.com/anarcho-copy/block-fake-pdf-sites/-/raw/master/./output/uBlacklist-document-mirrors.txt
+# Total lines : 55
+
+*://*.acarindex.com/*
+*://*.avetruthbooks.com/*
+*://*.datenpdf.com/*
+*://*.docspike.com/*
+*://*.documen.site/*
+*://*.dokumen.site/*
+*://*.ebookpdf.com/*
+*://*.edoc.site/*
+*://*.edoc.tips/*
+*://*.epdf.pub/*
+*://*.filesearchbox.com/*
+*://*.findapdf.com/*
+*://*.findpdfdoc.com/*
+*://*.freefullpdf.com/*
+*://*.freepdfbook.com/*
+*://*.goliathsearch.com/*
+*://*.hugepdf.com/*
+*://*.idoc.pub/*
+*://*.kupdf.net/*
+*://*.largepdf.com/*
+*://*.minedit.com/*
+*://*.molbase.com/*
+*://*.nanopdf.com/*
+*://*.oceanofpdf.com/*
+*://*.oiipdf.com/*
+*://*.pdf-archive.com/*
+*://*.pdfbook-s.com/*
+*://*.pdf-book-search.com/*
+*://*.pdfcoffee.com/*
+*://*.pdfcookie.com/*
+*://*.pdf-downloads.net/*
+*://*.pdfdrive.com/*
+*://*.pdfduck.com/*
+*://*.pdffetch.com/*
+*://*.pdfgeni.com/*
+*://*.pdfgrab.com/*
+*://*.pdforigin.info/*
+*://*.pdfroom.com/*
+*://*.pdfsayar.com/*
+*://*.pdfsea.com/*
+*://*.pdfsearchengine.info/*
+*://*.pdfsearchengine.net/*
+*://*.pdfsearches.com/*
+*://*.pdfsearch.io/*
+*://*.pdfsecret.com/*
+*://*.pdfslide.net/*
+*://*.pdfssearch.blogspot.com/*
+*://*.pdfstop.com/*
+*://*.pdfyes.com/*
+*://*.printfu.org/*
+*://*.qdoc.tips/*
+*://*.silo.tips/*
+*://*.sopdf.com/*
+*://*.updocs.net/*
+*://*.vdocuments.mx/*
