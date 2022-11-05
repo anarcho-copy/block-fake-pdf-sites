@@ -6,5 +6,6 @@ mac2unix
 curl
 xclip
 jq
+run-parts
 # https://github.com/stricaud/faup
 faup
