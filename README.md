@@ -1,3 +1,10 @@
+## uBlacklist subscription
+
+| Name | Url |
+| ------------- |-------------|
+| fake pdf site blocker | [https://gitlab.com/anarcho-copy/block-fake-pdf-sites/-/raw/master/output/uBlacklist.txt](https://gitlab.com/anarcho-copy/block-fake-pdf-sites/-/raw/master/output/uBlacklist.txt) |
+| document search engine blocker | [https://gitlab.com/anarcho-copy/block-fake-pdf-sites/-/raw/master/output/uBlacklist-document-mirrors.txt](https://gitlab.com/anarcho-copy/block-fake-pdf-sites/-/raw/master/output/uBlacklist-document-mirrors.txt) |
+
 ## Sahte PDF Siteleri Engelleyici
 
 ### Neden?
@@ -23,7 +30,7 @@ Bir kitabın PDF dosyasını online arşivlerde bulamadığımız zaman genellik
 
 **3.**  Açılan  kutuya aşağıdaki değerleri kopyalayıp yapıştırın ve ardından "Add"e tıklayın.
 
-| Name        | Url           |
+| Name | Url |
 | ------------- |-------------|
 | fake pdf site blocker      | [https://gitlab.com/anarcho-copy/block-fake-pdf-sites/-/raw/master/output/uBlacklist.txt](https://gitlab.com/anarcho-copy/block-fake-pdf-sites/-/raw/master/output/uBlacklist.txt) |
 
