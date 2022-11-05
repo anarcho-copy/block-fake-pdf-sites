@@ -1,9 +1,9 @@
 # Name        : fake (malicious/profiting from ads) pdf site blocker
-# Version     : 20221105143343
-# Date        : Sat Nov  5 11:33:43 AM UTC 2022
+# Version     : 20221105231349
+# Date        : Sat Nov  5 08:13:49 PM UTC 2022
 # Repo        : https://gitlab.com/anarcho-copy/block-fake-pdf-sites
 # File        : https://gitlab.com/anarcho-copy/block-fake-pdf-sites/-/raw/master/./output/hosts
-# Total lines : 2599
+# Total lines : 2621
 
 127.0.0.1 100casas.es
 127.0.0.1 197.news
@@ -239,6 +239,7 @@
 127.0.0.1 bedavapdf.com
 127.0.0.1 bedavapdfdunyasi.com
 127.0.0.1 bedavapdfkitap.com
+127.0.0.1 belavista.go.gov.br
 127.0.0.1 belespdf.com
 127.0.0.1 belleriveparis.fr
 127.0.0.1 belrosepax1992.files.wordpress.com
@@ -291,6 +292,7 @@
 127.0.0.1 blinnrockie.wordpress.com
 127.0.0.1 blogaaja.fi
 127.0.0.1 blogger-ilf.ru
+127.0.0.1 blogsytelen.weebly.com
 127.0.0.1 blooming-mountain-87689.herokuapp.com
 127.0.0.1 bluetropiccaribbean.fr
 127.0.0.1 bnb-lodge.ch
@@ -362,6 +364,7 @@
 127.0.0.1 calayaprimas96.wordpress.com
 127.0.0.1 calexkaplin.files.wordpress.com
 127.0.0.1 calexkaplin.wordpress.com
+127.0.0.1 calm-sands-13434.herokuapp.com
 127.0.0.1 camariepotaczala1992.files.wordpress.com
 127.0.0.1 camariepotaczala1992.wordpress.com
 127.0.0.1 camarowalts99.files.wordpress.com
@@ -385,6 +388,7 @@
 127.0.0.1 centralbm.com.mx
 127.0.0.1 centre-zen-tonic.fr
 127.0.0.1 centrocaninomontemar.es
+127.0.0.1 centrocentro.org
 127.0.0.1 centrocimma.es
 127.0.0.1 centroesteticoperla.it
 127.0.0.1 centropermanentedanza.it
@@ -471,6 +475,7 @@
 127.0.0.1 covid19.gov.gd
 127.0.0.1 crashbox.ru
 127.0.0.1 crazylazy.nl
+127.0.0.1 cregapfogmau.weebly.com
 127.0.0.1 creteil-quartiers-centre.fr
 127.0.0.1 crimean-teacher.ru
 127.0.0.1 crockme.fr
@@ -571,6 +576,7 @@
 127.0.0.1 dineroptveld.nl
 127.0.0.1 dionaermatinger.files.wordpress.com
 127.0.0.1 dionaermatinger.wordpress.com
+127.0.0.1 diotaireta.weebly.com
 127.0.0.1 djacoura.fr
 127.0.0.1 dksaha.ru.com
 127.0.0.1 dksaha.sa.com
@@ -662,6 +668,7 @@
 127.0.0.1 elescaparatedecantillana.es
 127.0.0.1 eliabschnibbe.files.wordpress.com
 127.0.0.1 eliabschnibbe.wordpress.com
+127.0.0.1 ellinasfinance.com
 127.0.0.1 ellisoneuber94.files.wordpress.com
 127.0.0.1 ellisoneuber94.wordpress.com
 127.0.0.1 elstresorsdelahistoria.cat
@@ -1006,6 +1013,7 @@
 127.0.0.1 ihipzf.za.com
 127.0.0.1 ilonka-vordermayr-heilpraktikerin.de
 127.0.0.1 ilylmeti.weebly.com
+127.0.0.1 imenerti.weebly.com
 127.0.0.1 imeori.it
 127.0.0.1 imfamont.cz
 127.0.0.1 imjbuc.za.com
@@ -1221,6 +1229,7 @@
 127.0.0.1 klubratole.cz
 127.0.0.1 kmcchicband.files.wordpress.com
 127.0.0.1 kmcchicband.wordpress.com
+127.0.0.1 knobwerneobou.weebly.com
 127.0.0.1 kochanekliav1986.files.wordpress.com
 127.0.0.1 kochanekliav1986.wordpress.com
 127.0.0.1 kolbykiles97.files.wordpress.com
@@ -1278,6 +1287,7 @@
 127.0.0.1 latoquedejacque.fr
 127.0.0.1 lavinadelgranteatro.es
 127.0.0.1 lavisitaroomscape.es
+127.0.0.1 leangroup.by
 127.0.0.1 lebras-david-joaillerie.fr
 127.0.0.1 ledabbspecaf1975.files.wordpress.com
 127.0.0.1 ledabbspecaf1975.wordpress.com
@@ -1311,6 +1321,7 @@
 127.0.0.1 lighthillbeliz1992.files.wordpress.com
 127.0.0.1 lighthillbeliz1992.wordpress.com
 127.0.0.1 lightsintheheights.com.au
+127.0.0.1 lilnateva.weebly.com
 127.0.0.1 limitlessdownloads.com
 127.0.0.1 limousinenservice-fritzsche.de
 127.0.0.1 linksfraktion-wa-fkb.de
@@ -1334,6 +1345,7 @@
 127.0.0.1 loreafosnaugh1987.files.wordpress.com
 127.0.0.1 loreafosnaugh1987.wordpress.com
 127.0.0.1 los3.pl
+127.0.0.1 lossentlelin.weebly.com
 127.0.0.1 lotencommun2021.fr
 127.0.0.1 lotwanesrazggran.wixsite.com
 127.0.0.1 lovelyphotography.de
@@ -1564,6 +1576,7 @@
 127.0.0.1 nevisyitzel84.wordpress.com
 127.0.0.1 newbizacademy.ru
 127.0.0.1 newphlepe.yolasite.com
+127.0.0.1 newsrilepcha.weebly.com
 127.0.0.1 newssharing.es
 127.0.0.1 new-work-old-school.de
 127.0.0.1 nextdoorsalon.cz
@@ -1631,6 +1644,7 @@
 127.0.0.1 oomovoi.com
 127.0.0.1 opalys83.fr
 127.0.0.1 openlandschapkaagenbraassem.nl
+127.0.0.1 opicmergio.weebly.com
 127.0.0.1 originalsamaya.cz
 127.0.0.1 osmondmonnier1989.files.wordpress.com
 127.0.0.1 osmondmonnier1989.wordpress.com
@@ -1867,6 +1881,7 @@
 127.0.0.1 quistatotse1973.files.wordpress.com
 127.0.0.1 quistatotse1973.wordpress.com
 127.0.0.1 quitaplagas.es
+127.0.0.1 rabrosenpo.weebly.com
 127.0.0.1 radetondod.cz
 127.0.0.1 radiant-shelf-31744.herokuapp.com
 127.0.0.1 radiant-wildwood-66614.herokuapp.com
@@ -1923,6 +1938,7 @@
 127.0.0.1 reverso.net
 127.0.0.1 revistateiko.es
 127.0.0.1 reysport.es
+127.0.0.1 rffsev.ru
 127.0.0.1 riacrewnygi.files.wordpress.com
 127.0.0.1 riacrewnygi.wordpress.com
 127.0.0.1 ricettenelverde.it
@@ -2211,6 +2227,7 @@
 127.0.0.1 tabuho.es
 127.0.0.1 taenfa.za.com
 127.0.0.1 tagliaferroassicurazioni.it
+127.0.0.1 taitingsabre.weebly.com
 127.0.0.1 talijpho.yolasite.com
 127.0.0.1 tallerestfh.es
 127.0.0.1 tamiragerchak1987.files.wordpress.com
@@ -2268,12 +2285,15 @@
 127.0.0.1 thisismolise.it
 127.0.0.1 thobiasgiambanco92.files.wordpress.com
 127.0.0.1 thobiasgiambanco92.wordpress.com
+127.0.0.1 tiadamiry.weebly.com
 127.0.0.1 tieffemacchine.it
 127.0.0.1 tijdvoorpaprika.nl
 127.0.0.1 tikla-indir.com
 127.0.0.1 tingkamaho.weebly.com
+127.0.0.1 tingliderog.weebly.com
 127.0.0.1 tinkilinki.ru
 127.0.0.1 tiodocoultosa.tk
+127.0.0.1 tiosnivracdii.weebly.com
 127.0.0.1 tirnathenelannun.eu
 127.0.0.1 tisknecelesvitavsko.cz
 127.0.0.1 tisondreah.files.wordpress.com
@@ -2309,6 +2329,7 @@
 127.0.0.1 trattoriadatoto.it
 127.0.0.1 travalikourtland.files.wordpress.com
 127.0.0.1 travalikourtland.wordpress.com
+127.0.0.1 travarorchan.weebly.com
 127.0.0.1 traversakashten1985.files.wordpress.com
 127.0.0.1 traversakashten1985.wordpress.com
 127.0.0.1 traversebraya87.files.wordpress.com
@@ -2741,6 +2762,7 @@
 127.0.0.1 www.bedavapdf.com
 127.0.0.1 www.bedavapdfdunyasi.com
 127.0.0.1 www.bedavapdfkitap.com
+127.0.0.1 www.belavista.go.gov.br
 127.0.0.1 www.belespdf.com
 127.0.0.1 www.belleriveparis.fr
 127.0.0.1 www.belrosepax1992.files.wordpress.com
@@ -2793,6 +2815,7 @@
 127.0.0.1 www.blinnrockie.wordpress.com
 127.0.0.1 www.blogaaja.fi
 127.0.0.1 www.blogger-ilf.ru
+127.0.0.1 www.blogsytelen.weebly.com
 127.0.0.1 www.blooming-mountain-87689.herokuapp.com
 127.0.0.1 www.bluetropiccaribbean.fr
 127.0.0.1 www.bnb-lodge.ch
@@ -2864,6 +2887,7 @@
 127.0.0.1 www.calayaprimas96.wordpress.com
 127.0.0.1 www.calexkaplin.files.wordpress.com
 127.0.0.1 www.calexkaplin.wordpress.com
+127.0.0.1 www.calm-sands-13434.herokuapp.com
 127.0.0.1 www.camariepotaczala1992.files.wordpress.com
 127.0.0.1 www.camariepotaczala1992.wordpress.com
 127.0.0.1 www.camarowalts99.files.wordpress.com
@@ -2887,6 +2911,7 @@
 127.0.0.1 www.centralbm.com.mx
 127.0.0.1 www.centre-zen-tonic.fr
 127.0.0.1 www.centrocaninomontemar.es
+127.0.0.1 www.centrocentro.org
 127.0.0.1 www.centrocimma.es
 127.0.0.1 www.centroesteticoperla.it
 127.0.0.1 www.centropermanentedanza.it
@@ -2973,6 +2998,7 @@
 127.0.0.1 www.covid19.gov.gd
 127.0.0.1 www.crashbox.ru
 127.0.0.1 www.crazylazy.nl
+127.0.0.1 www.cregapfogmau.weebly.com
 127.0.0.1 www.creteil-quartiers-centre.fr
 127.0.0.1 www.crimean-teacher.ru
 127.0.0.1 www.crockme.fr
@@ -3073,6 +3099,7 @@
 127.0.0.1 www.dineroptveld.nl
 127.0.0.1 www.dionaermatinger.files.wordpress.com
 127.0.0.1 www.dionaermatinger.wordpress.com
+127.0.0.1 www.diotaireta.weebly.com
 127.0.0.1 www.djacoura.fr
 127.0.0.1 www.dksaha.ru.com
 127.0.0.1 www.dksaha.sa.com
@@ -3164,6 +3191,7 @@
 127.0.0.1 www.elescaparatedecantillana.es
 127.0.0.1 www.eliabschnibbe.files.wordpress.com
 127.0.0.1 www.eliabschnibbe.wordpress.com
+127.0.0.1 www.ellinasfinance.com
 127.0.0.1 www.ellisoneuber94.files.wordpress.com
 127.0.0.1 www.ellisoneuber94.wordpress.com
 127.0.0.1 www.elstresorsdelahistoria.cat
@@ -3508,6 +3536,7 @@
 127.0.0.1 www.ihipzf.za.com
 127.0.0.1 www.ilonka-vordermayr-heilpraktikerin.de
 127.0.0.1 www.ilylmeti.weebly.com
+127.0.0.1 www.imenerti.weebly.com
 127.0.0.1 www.imeori.it
 127.0.0.1 www.imfamont.cz
 127.0.0.1 www.imjbuc.za.com
@@ -3723,6 +3752,7 @@
 127.0.0.1 www.klubratole.cz
 127.0.0.1 www.kmcchicband.files.wordpress.com
 127.0.0.1 www.kmcchicband.wordpress.com
+127.0.0.1 www.knobwerneobou.weebly.com
 127.0.0.1 www.kochanekliav1986.files.wordpress.com
 127.0.0.1 www.kochanekliav1986.wordpress.com
 127.0.0.1 www.kolbykiles97.files.wordpress.com
@@ -3780,6 +3810,7 @@
 127.0.0.1 www.latoquedejacque.fr
 127.0.0.1 www.lavinadelgranteatro.es
 127.0.0.1 www.lavisitaroomscape.es
+127.0.0.1 www.leangroup.by
 127.0.0.1 www.lebras-david-joaillerie.fr
 127.0.0.1 www.ledabbspecaf1975.files.wordpress.com
 127.0.0.1 www.ledabbspecaf1975.wordpress.com
@@ -3813,6 +3844,7 @@
 127.0.0.1 www.lighthillbeliz1992.files.wordpress.com
 127.0.0.1 www.lighthillbeliz1992.wordpress.com
 127.0.0.1 www.lightsintheheights.com.au
+127.0.0.1 www.lilnateva.weebly.com
 127.0.0.1 www.limitlessdownloads.com
 127.0.0.1 www.limousinenservice-fritzsche.de
 127.0.0.1 www.linksfraktion-wa-fkb.de
@@ -3836,6 +3868,7 @@
 127.0.0.1 www.loreafosnaugh1987.files.wordpress.com
 127.0.0.1 www.loreafosnaugh1987.wordpress.com
 127.0.0.1 www.los3.pl
+127.0.0.1 www.lossentlelin.weebly.com
 127.0.0.1 www.lotencommun2021.fr
 127.0.0.1 www.lotwanesrazggran.wixsite.com
 127.0.0.1 www.lovelyphotography.de
@@ -4066,6 +4099,7 @@
 127.0.0.1 www.nevisyitzel84.wordpress.com
 127.0.0.1 www.newbizacademy.ru
 127.0.0.1 www.newphlepe.yolasite.com
+127.0.0.1 www.newsrilepcha.weebly.com
 127.0.0.1 www.newssharing.es
 127.0.0.1 www.new-work-old-school.de
 127.0.0.1 www.nextdoorsalon.cz
@@ -4133,6 +4167,7 @@
 127.0.0.1 www.oomovoi.com
 127.0.0.1 www.opalys83.fr
 127.0.0.1 www.openlandschapkaagenbraassem.nl
+127.0.0.1 www.opicmergio.weebly.com
 127.0.0.1 www.originalsamaya.cz
 127.0.0.1 www.osmondmonnier1989.files.wordpress.com
 127.0.0.1 www.osmondmonnier1989.wordpress.com
@@ -4369,6 +4404,7 @@
 127.0.0.1 www.quistatotse1973.files.wordpress.com
 127.0.0.1 www.quistatotse1973.wordpress.com
 127.0.0.1 www.quitaplagas.es
+127.0.0.1 www.rabrosenpo.weebly.com
 127.0.0.1 www.radetondod.cz
 127.0.0.1 www.radiant-shelf-31744.herokuapp.com
 127.0.0.1 www.radiant-wildwood-66614.herokuapp.com
@@ -4425,6 +4461,7 @@
 127.0.0.1 www.reverso.net
 127.0.0.1 www.revistateiko.es
 127.0.0.1 www.reysport.es
+127.0.0.1 www.rffsev.ru
 127.0.0.1 www.riacrewnygi.files.wordpress.com
 127.0.0.1 www.riacrewnygi.wordpress.com
 127.0.0.1 www.ricettenelverde.it
@@ -4713,6 +4750,7 @@
 127.0.0.1 www.tabuho.es
 127.0.0.1 www.taenfa.za.com
 127.0.0.1 www.tagliaferroassicurazioni.it
+127.0.0.1 www.taitingsabre.weebly.com
 127.0.0.1 www.talijpho.yolasite.com
 127.0.0.1 www.tallerestfh.es
 127.0.0.1 www.tamiragerchak1987.files.wordpress.com
@@ -4770,12 +4808,15 @@
 127.0.0.1 www.thisismolise.it
 127.0.0.1 www.thobiasgiambanco92.files.wordpress.com
 127.0.0.1 www.thobiasgiambanco92.wordpress.com
+127.0.0.1 www.tiadamiry.weebly.com
 127.0.0.1 www.tieffemacchine.it
 127.0.0.1 www.tijdvoorpaprika.nl
 127.0.0.1 www.tikla-indir.com
 127.0.0.1 www.tingkamaho.weebly.com
+127.0.0.1 www.tingliderog.weebly.com
 127.0.0.1 www.tinkilinki.ru
 127.0.0.1 www.tiodocoultosa.tk
+127.0.0.1 www.tiosnivracdii.weebly.com
 127.0.0.1 www.tirnathenelannun.eu
 127.0.0.1 www.tisknecelesvitavsko.cz
 127.0.0.1 www.tisondreah.files.wordpress.com
@@ -4811,6 +4852,7 @@
 127.0.0.1 www.trattoriadatoto.it
 127.0.0.1 www.travalikourtland.files.wordpress.com
 127.0.0.1 www.travalikourtland.wordpress.com
+127.0.0.1 www.travarorchan.weebly.com
 127.0.0.1 www.traversakashten1985.files.wordpress.com
 127.0.0.1 www.traversakashten1985.wordpress.com
 127.0.0.1 www.traversebraya87.files.wordpress.com
@@ -5049,6 +5091,7 @@
 127.0.0.1 www.yghs.sa.com
 127.0.0.1 www.yitechnology.com.es
 127.0.0.1 www.young-island-78511.herokuapp.com
+127.0.0.1 www.young-journey-21729.herokuapp.com
 127.0.0.1 www.youngvoicesandgospel.de
 127.0.0.1 www.younkinskyell83.files.wordpress.com
 127.0.0.1 www.younkinskyell83.wordpress.com
@@ -5146,6 +5189,7 @@
 127.0.0.1 yghs.sa.com
 127.0.0.1 yitechnology.com.es
 127.0.0.1 young-island-78511.herokuapp.com
+127.0.0.1 young-journey-21729.herokuapp.com
 127.0.0.1 youngvoicesandgospel.de
 127.0.0.1 younkinskyell83.files.wordpress.com
 127.0.0.1 younkinskyell83.wordpress.com
