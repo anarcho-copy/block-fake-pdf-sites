@@ -1,9 +1,9 @@
 # Name        : fake (malicious/profiting from ads) pdf site blocker
-# Version     : 20221113151157
-# Date        : Sun Nov 13 12:11:57 PM UTC 2022
+# Version     : 20221113151736
+# Date        : Sun Nov 13 12:17:36 PM UTC 2022
 # Repo        : https://gitlab.com/anarcho-copy/block-fake-pdf-sites
 # File        : https://gitlab.com/anarcho-copy/block-fake-pdf-sites/-/raw/master/./output/uBlacklist.txt
-# Total lines : 2672
+# Total lines : 2676
 
 *://*.100casas.es/*
 *://*.197.news/*
@@ -130,6 +130,7 @@
 *://*.anti-guepes95.fr/*
 *://*.apesfm.ru.com/*
 *://*.apfl-pflegedienst.de/*
+*://*.apriliaviva.it/*
 *://*.aquariumproject.it/*
 *://*.aquilinariverly.files.wordpress.com/*
 *://*.aquilinariverly.wordpress.com/*
@@ -212,6 +213,7 @@
 *://*.babettederozieres.fr/*
 *://*.babrowjeylan1998.files.wordpress.com/*
 *://*.babrowjeylan1998.wordpress.com/*
+*://*.back2work.es/*
 *://*.backenstosezohan.files.wordpress.com/*
 *://*.backenstosezohan.wordpress.com/*
 *://*.baixada.news/*
@@ -1506,6 +1508,7 @@
 *://*.mijnkleinkunstlied.nl/*
 *://*.mikihouserussia.ru/*
 *://*.militaria-bw.de/*
+*://*.mimaforklifts.es/*
 *://*.mimarstudio.es/*
 *://*.mimostside1984.files.wordpress.com/*
 *://*.mimostside1984.wordpress.com/*
@@ -1742,6 +1745,7 @@
 *://*.pdfhemenindir.com/*
 *://*.pdfindir.info/*
 *://*.pdfindirkitap.com/*
+*://*.pdfindirkitap.xyz/*
 *://*.pdfindirmek.com/*
 *://*.pdfindir.ml/*
 *://*.pdfindir.net/*

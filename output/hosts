@@ -1,9 +1,9 @@
 # Name        : fake (malicious/profiting from ads) pdf site blocker
-# Version     : 20221113151157
-# Date        : Sun Nov 13 12:11:57 PM UTC 2022
+# Version     : 20221113151736
+# Date        : Sun Nov 13 12:17:36 PM UTC 2022
 # Repo        : https://gitlab.com/anarcho-copy/block-fake-pdf-sites
 # File        : https://gitlab.com/anarcho-copy/block-fake-pdf-sites/-/raw/master/./output/hosts
-# Total lines : 2672
+# Total lines : 2676
 
 127.0.0.1 100casas.es
 127.0.0.1 197.news
@@ -130,6 +130,7 @@
 127.0.0.1 anti-guepes95.fr
 127.0.0.1 apesfm.ru.com
 127.0.0.1 apfl-pflegedienst.de
+127.0.0.1 apriliaviva.it
 127.0.0.1 aquariumproject.it
 127.0.0.1 aquilinariverly.files.wordpress.com
 127.0.0.1 aquilinariverly.wordpress.com
@@ -212,6 +213,7 @@
 127.0.0.1 babettederozieres.fr
 127.0.0.1 babrowjeylan1998.files.wordpress.com
 127.0.0.1 babrowjeylan1998.wordpress.com
+127.0.0.1 back2work.es
 127.0.0.1 backenstosezohan.files.wordpress.com
 127.0.0.1 backenstosezohan.wordpress.com
 127.0.0.1 baixada.news
@@ -1506,6 +1508,7 @@
 127.0.0.1 mijnkleinkunstlied.nl
 127.0.0.1 mikihouserussia.ru
 127.0.0.1 militaria-bw.de
+127.0.0.1 mimaforklifts.es
 127.0.0.1 mimarstudio.es
 127.0.0.1 mimostside1984.files.wordpress.com
 127.0.0.1 mimostside1984.wordpress.com
@@ -1742,6 +1745,7 @@
 127.0.0.1 pdfhemenindir.com
 127.0.0.1 pdfindir.info
 127.0.0.1 pdfindirkitap.com
+127.0.0.1 pdfindirkitap.xyz
 127.0.0.1 pdfindirmek.com
 127.0.0.1 pdfindir.ml
 127.0.0.1 pdfindir.net
@@ -2702,6 +2706,7 @@
 127.0.0.1 www.anti-guepes95.fr
 127.0.0.1 www.apesfm.ru.com
 127.0.0.1 www.apfl-pflegedienst.de
+127.0.0.1 www.apriliaviva.it
 127.0.0.1 www.aquariumproject.it
 127.0.0.1 www.aquilinariverly.files.wordpress.com
 127.0.0.1 www.aquilinariverly.wordpress.com
@@ -2784,6 +2789,7 @@
 127.0.0.1 www.babettederozieres.fr
 127.0.0.1 www.babrowjeylan1998.files.wordpress.com
 127.0.0.1 www.babrowjeylan1998.wordpress.com
+127.0.0.1 www.back2work.es
 127.0.0.1 www.backenstosezohan.files.wordpress.com
 127.0.0.1 www.backenstosezohan.wordpress.com
 127.0.0.1 www.baixada.news
@@ -4078,6 +4084,7 @@
 127.0.0.1 www.mijnkleinkunstlied.nl
 127.0.0.1 www.mikihouserussia.ru
 127.0.0.1 www.militaria-bw.de
+127.0.0.1 www.mimaforklifts.es
 127.0.0.1 www.mimarstudio.es
 127.0.0.1 www.mimostside1984.files.wordpress.com
 127.0.0.1 www.mimostside1984.wordpress.com
@@ -4314,6 +4321,7 @@
 127.0.0.1 www.pdfhemenindir.com
 127.0.0.1 www.pdfindir.info
 127.0.0.1 www.pdfindirkitap.com
+127.0.0.1 www.pdfindirkitap.xyz
 127.0.0.1 www.pdfindirmek.com
 127.0.0.1 www.pdfindir.ml
 127.0.0.1 www.pdfindir.net
