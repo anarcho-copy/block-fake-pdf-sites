@@ -1,9 +1,9 @@
 # Name        : fake (malicious/profiting from ads) pdf site blocker
-# Version     : 20221105231349
-# Date        : Sat Nov  5 08:13:49 PM UTC 2022
+# Version     : 20221113145306
+# Date        : Sun Nov 13 11:53:06 AM UTC 2022
 # Repo        : https://gitlab.com/anarcho-copy/block-fake-pdf-sites
 # File        : https://gitlab.com/anarcho-copy/block-fake-pdf-sites/-/raw/master/./output/hosts
-# Total lines : 2621
+# Total lines : 2639
 
 127.0.0.1 100casas.es
 127.0.0.1 197.news
@@ -56,6 +56,7 @@
 127.0.0.1 agkepd.za.com
 127.0.0.1 agristudiozeta.it
 127.0.0.1 agroflorseborga.it
+127.0.0.1 agroweed.es
 127.0.0.1 agtcyl.es
 127.0.0.1 ahidirsebott.wixsite.com
 127.0.0.1 ajavianpagan1995.files.wordpress.com
@@ -139,6 +140,8 @@
 127.0.0.1 areacosenzacasa.it
 127.0.0.1 ariachemancava.it
 127.0.0.1 aristocanta.es
+127.0.0.1 arteesuoni.it
+127.0.0.1 artigianipavia.it
 127.0.0.1 art-sophrologie-yvelines.fr
 127.0.0.1 asdpieveligure.it
 127.0.0.1 asesoriaasescar.es
@@ -185,6 +188,7 @@
 127.0.0.1 avtofutbolka.ru
 127.0.0.1 avtosport-orel.ru
 127.0.0.1 avtruck.ru
+127.0.0.1 avvocatomichelaassi.it
 127.0.0.1 awesome-boyd-2c8cc1.netlify.app
 127.0.0.1 axlead-cuttereco.fr
 127.0.0.1 ayleneaudelhuk84.files.wordpress.com
@@ -313,6 +317,7 @@
 127.0.0.1 botpabullsan.weebly.com
 127.0.0.1 bourdagekasi1988.files.wordpress.com
 127.0.0.1 bourdagekasi1988.wordpress.com
+127.0.0.1 boxhoidap.com
 127.0.0.1 bozuidwijk.nl
 127.0.0.1 brainymonkey.es
 127.0.0.1 brandeurs.ru
@@ -496,6 +501,7 @@
 127.0.0.1 dacarimprenta.es
 127.0.0.1 dadmarine90.files.wordpress.com
 127.0.0.1 dadmarine90.wordpress.com
+127.0.0.1 dalessandro-electricite-domotique.fr
 127.0.0.1 damp-coast-41746.herokuapp.com
 127.0.0.1 damp-forest-06520.herokuapp.com
 127.0.0.1 damp-journey-55783.herokuapp.com
@@ -628,6 +634,7 @@
 127.0.0.1 eaglemanmehgan98.files.wordpress.com
 127.0.0.1 eaglemanmehgan98.wordpress.com
 127.0.0.1 eangax.sa.com
+127.0.0.1 easacireale.it
 127.0.0.1 easycbd.es
 127.0.0.1 eb2a.com
 127.0.0.1 ebookpdfozetioku.xyz
@@ -784,6 +791,7 @@
 127.0.0.1 flowwithus.cz
 127.0.0.1 flufs.pl
 127.0.0.1 fmdnna.za.com
+127.0.0.1 fmsurfing.es
 127.0.0.1 folmerayuub1989.files.wordpress.com
 127.0.0.1 folmerayuub1989.wordpress.com
 127.0.0.1 fondazioneenricomatteimatelica.it
@@ -896,6 +904,7 @@
 127.0.0.1 gressleyjameel90.wordpress.com
 127.0.0.1 grillwelt-berlin.de
 127.0.0.1 grodterolnou.weebly.com
+127.0.0.1 growingpeople.cz
 127.0.0.1 grundybike.cz
 127.0.0.1 gruppotps.it
 127.0.0.1 guarded-fjord-01475.herokuapp.com
@@ -922,6 +931,7 @@
 127.0.0.1 hammersaralyn95.wordpress.com
 127.0.0.1 hanusjuels94.files.wordpress.com
 127.0.0.1 hanusjuels94.wordpress.com
+127.0.0.1 happyburguer.es
 127.0.0.1 happyeventmanagement.nl
 127.0.0.1 hardcore-mcclintock-6bb762.netlify.app
 127.0.0.1 hardenbrooklaree00.files.wordpress.com
@@ -1136,6 +1146,7 @@
 127.0.0.1 jrphafrombino.files.wordpress.com
 127.0.0.1 jrphafrombino.wordpress.com
 127.0.0.1 jscinmark.ru
+127.0.0.1 jsw-projekt.de
 127.0.0.1 jtqq.sa.com
 127.0.0.1 juliaclauss.de
 127.0.0.1 juliannymoler87.files.wordpress.com
@@ -1285,6 +1296,7 @@
 127.0.0.1 lataillexyler.wordpress.com
 127.0.0.1 latkovna-modestia.cz
 127.0.0.1 latoquedejacque.fr
+127.0.0.1 lavillavietnam.fr
 127.0.0.1 lavinadelgranteatro.es
 127.0.0.1 lavisitaroomscape.es
 127.0.0.1 leangroup.by
@@ -1453,6 +1465,7 @@
 127.0.0.1 melodietrebon.cz
 127.0.0.1 melogram.fr
 127.0.0.1 memursite.com
+127.0.0.1 mercecarrerainteriorisme.es
 127.0.0.1 merharsheba95.files.wordpress.com
 127.0.0.1 merharsheba95.wordpress.com
 127.0.0.1 mervedennis.de
@@ -1586,6 +1599,7 @@
 127.0.0.1 ngycfb.za.com
 127.0.0.1 nicolaistopa.files.wordpress.com
 127.0.0.1 nicolaistopa.wordpress.com
+127.0.0.1 nicolesadin.fr
 127.0.0.1 nigcmt.sa.com
 127.0.0.1 nigcmt.za.com
 127.0.0.1 nikskit.ru
@@ -1675,6 +1689,7 @@
 127.0.0.1 parafiakoty.eu
 127.0.0.1 paraquee.com
 127.0.0.1 parozifilm.cz
+127.0.0.1 parrocchiadimiglionico.it
 127.0.0.1 partystanylitomysl.cz
 127.0.0.1 patriciabcaston.blogspot.com
 127.0.0.1 patrickkurpershoek.nl
@@ -1836,6 +1851,7 @@
 127.0.0.1 prodejmotocykluhonda.cz
 127.0.0.1 profesjonalnymenedzerrestauracji.pl
 127.0.0.1 profolimhose.wixsite.com
+127.0.0.1 progettocaesar2.it
 127.0.0.1 progettolaser.it
 127.0.0.1 programataller.es
 127.0.0.1 programista-doswiadczony.pl
@@ -2342,6 +2358,7 @@
 127.0.0.1 tristakhilling95.files.wordpress.com
 127.0.0.1 tristakhilling95.wordpress.com
 127.0.0.1 trojansystems.de
+127.0.0.1 tropheesdudroit.fr
 127.0.0.1 trpdfs.info
 127.0.0.1 trpvmr.ru.com
 127.0.0.1 trusting-noyce-dfa04f.netlify.app
@@ -2579,6 +2596,7 @@
 127.0.0.1 www.agkepd.za.com
 127.0.0.1 www.agristudiozeta.it
 127.0.0.1 www.agroflorseborga.it
+127.0.0.1 www.agroweed.es
 127.0.0.1 www.agtcyl.es
 127.0.0.1 www.ahidirsebott.wixsite.com
 127.0.0.1 www.ajavianpagan1995.files.wordpress.com
@@ -2662,6 +2680,8 @@
 127.0.0.1 www.areacosenzacasa.it
 127.0.0.1 www.ariachemancava.it
 127.0.0.1 www.aristocanta.es
+127.0.0.1 www.arteesuoni.it
+127.0.0.1 www.artigianipavia.it
 127.0.0.1 www.art-sophrologie-yvelines.fr
 127.0.0.1 www.asdpieveligure.it
 127.0.0.1 www.asesoriaasescar.es
@@ -2708,6 +2728,7 @@
 127.0.0.1 www.avtofutbolka.ru
 127.0.0.1 www.avtosport-orel.ru
 127.0.0.1 www.avtruck.ru
+127.0.0.1 www.avvocatomichelaassi.it
 127.0.0.1 www.awesome-boyd-2c8cc1.netlify.app
 127.0.0.1 www.axlead-cuttereco.fr
 127.0.0.1 www.ayleneaudelhuk84.files.wordpress.com
@@ -2836,6 +2857,7 @@
 127.0.0.1 www.botpabullsan.weebly.com
 127.0.0.1 www.bourdagekasi1988.files.wordpress.com
 127.0.0.1 www.bourdagekasi1988.wordpress.com
+127.0.0.1 www.boxhoidap.com
 127.0.0.1 www.bozuidwijk.nl
 127.0.0.1 www.brainymonkey.es
 127.0.0.1 www.brandeurs.ru
@@ -3019,6 +3041,7 @@
 127.0.0.1 www.dacarimprenta.es
 127.0.0.1 www.dadmarine90.files.wordpress.com
 127.0.0.1 www.dadmarine90.wordpress.com
+127.0.0.1 www.dalessandro-electricite-domotique.fr
 127.0.0.1 www.damp-coast-41746.herokuapp.com
 127.0.0.1 www.damp-forest-06520.herokuapp.com
 127.0.0.1 www.damp-journey-55783.herokuapp.com
@@ -3151,6 +3174,7 @@
 127.0.0.1 www.eaglemanmehgan98.files.wordpress.com
 127.0.0.1 www.eaglemanmehgan98.wordpress.com
 127.0.0.1 www.eangax.sa.com
+127.0.0.1 www.easacireale.it
 127.0.0.1 www.easycbd.es
 127.0.0.1 www.eb2a.com
 127.0.0.1 www.ebookpdfozetioku.xyz
@@ -3307,6 +3331,7 @@
 127.0.0.1 www.flowwithus.cz
 127.0.0.1 www.flufs.pl
 127.0.0.1 www.fmdnna.za.com
+127.0.0.1 www.fmsurfing.es
 127.0.0.1 www.folmerayuub1989.files.wordpress.com
 127.0.0.1 www.folmerayuub1989.wordpress.com
 127.0.0.1 www.fondazioneenricomatteimatelica.it
@@ -3419,6 +3444,7 @@
 127.0.0.1 www.gressleyjameel90.wordpress.com
 127.0.0.1 www.grillwelt-berlin.de
 127.0.0.1 www.grodterolnou.weebly.com
+127.0.0.1 www.growingpeople.cz
 127.0.0.1 www.grundybike.cz
 127.0.0.1 www.gruppotps.it
 127.0.0.1 www.guarded-fjord-01475.herokuapp.com
@@ -3445,6 +3471,7 @@
 127.0.0.1 www.hammersaralyn95.wordpress.com
 127.0.0.1 www.hanusjuels94.files.wordpress.com
 127.0.0.1 www.hanusjuels94.wordpress.com
+127.0.0.1 www.happyburguer.es
 127.0.0.1 www.happyeventmanagement.nl
 127.0.0.1 www.hardcore-mcclintock-6bb762.netlify.app
 127.0.0.1 www.hardenbrooklaree00.files.wordpress.com
@@ -3659,6 +3686,7 @@
 127.0.0.1 www.jrphafrombino.files.wordpress.com
 127.0.0.1 www.jrphafrombino.wordpress.com
 127.0.0.1 www.jscinmark.ru
+127.0.0.1 www.jsw-projekt.de
 127.0.0.1 www.jtqq.sa.com
 127.0.0.1 www.juliaclauss.de
 127.0.0.1 www.juliannymoler87.files.wordpress.com
@@ -3808,6 +3836,7 @@
 127.0.0.1 www.lataillexyler.wordpress.com
 127.0.0.1 www.latkovna-modestia.cz
 127.0.0.1 www.latoquedejacque.fr
+127.0.0.1 www.lavillavietnam.fr
 127.0.0.1 www.lavinadelgranteatro.es
 127.0.0.1 www.lavisitaroomscape.es
 127.0.0.1 www.leangroup.by
@@ -3976,6 +4005,7 @@
 127.0.0.1 www.melodietrebon.cz
 127.0.0.1 www.melogram.fr
 127.0.0.1 www.memursite.com
+127.0.0.1 www.mercecarrerainteriorisme.es
 127.0.0.1 www.merharsheba95.files.wordpress.com
 127.0.0.1 www.merharsheba95.wordpress.com
 127.0.0.1 www.mervedennis.de
@@ -4109,6 +4139,7 @@
 127.0.0.1 www.ngycfb.za.com
 127.0.0.1 www.nicolaistopa.files.wordpress.com
 127.0.0.1 www.nicolaistopa.wordpress.com
+127.0.0.1 www.nicolesadin.fr
 127.0.0.1 www.nigcmt.sa.com
 127.0.0.1 www.nigcmt.za.com
 127.0.0.1 www.nikskit.ru
@@ -4198,6 +4229,7 @@
 127.0.0.1 www.parafiakoty.eu
 127.0.0.1 www.paraquee.com
 127.0.0.1 www.parozifilm.cz
+127.0.0.1 www.parrocchiadimiglionico.it
 127.0.0.1 www.partystanylitomysl.cz
 127.0.0.1 www.patriciabcaston.blogspot.com
 127.0.0.1 www.patrickkurpershoek.nl
@@ -4359,6 +4391,7 @@
 127.0.0.1 www.prodejmotocykluhonda.cz
 127.0.0.1 www.profesjonalnymenedzerrestauracji.pl
 127.0.0.1 www.profolimhose.wixsite.com
+127.0.0.1 www.progettocaesar2.it
 127.0.0.1 www.progettolaser.it
 127.0.0.1 www.programataller.es
 127.0.0.1 www.programista-doswiadczony.pl
@@ -4865,6 +4898,7 @@
 127.0.0.1 www.tristakhilling95.files.wordpress.com
 127.0.0.1 www.tristakhilling95.wordpress.com
 127.0.0.1 www.trojansystems.de
+127.0.0.1 www.tropheesdudroit.fr
 127.0.0.1 www.trpdfs.info
 127.0.0.1 www.trpvmr.ru.com
 127.0.0.1 www.trusting-noyce-dfa04f.netlify.app
@@ -5141,6 +5175,7 @@
 127.0.0.1 www.zoellevereen1989.wordpress.com
 127.0.0.1 www.zollmanjamariya1989.files.wordpress.com
 127.0.0.1 www.zollmanjamariya1989.wordpress.com
+127.0.0.1 www.zostanuberem.pl
 127.0.0.1 www.z-system.cz
 127.0.0.1 www.ztpsapphireineer.files.wordpress.com
 127.0.0.1 www.ztpsapphireineer.wordpress.com
@@ -5239,6 +5274,7 @@
 127.0.0.1 zoellevereen1989.wordpress.com
 127.0.0.1 zollmanjamariya1989.files.wordpress.com
 127.0.0.1 zollmanjamariya1989.wordpress.com
+127.0.0.1 zostanuberem.pl
 127.0.0.1 z-system.cz
 127.0.0.1 ztpsapphireineer.files.wordpress.com
 127.0.0.1 ztpsapphireineer.wordpress.com
