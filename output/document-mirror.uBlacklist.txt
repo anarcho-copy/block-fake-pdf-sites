@@ -2,7 +2,7 @@
 # Version     : 20221105025946
 # Date        : Fri Nov  4 11:59:46 PM UTC 2022
 # Repo        : https://gitlab.com/anarcho-copy/block-fake-pdf-sites
-# File        : https://gitlab.com/anarcho-copy/block-fake-pdf-sites/-/raw/master/./output/uBlacklist-document-mirrors.txt
+# File        : https://gitlab.com/anarcho-copy/block-fake-pdf-sites/-/raw/master/./output/document-mirror.uBlacklist.txt
 # Total lines : 55
 
 *://*.acarindex.com/*

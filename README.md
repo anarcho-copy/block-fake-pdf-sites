@@ -3,7 +3,7 @@
 | Name | Url |
 | ------------- |-------------|
 | fake pdf site blocker | [https://gitlab.com/anarcho-copy/block-fake-pdf-sites/-/raw/master/output/uBlacklist.txt](https://gitlab.com/anarcho-copy/block-fake-pdf-sites/-/raw/master/output/uBlacklist.txt) |
-| document search engine blocker | [https://gitlab.com/anarcho-copy/block-fake-pdf-sites/-/raw/master/output/uBlacklist-document-mirrors.txt](https://gitlab.com/anarcho-copy/block-fake-pdf-sites/-/raw/master/output/uBlacklist-document-mirrors.txt) |
+| document search engine blocker | [https://gitlab.com/anarcho-copy/block-fake-pdf-sites/-/raw/master/output/document-mirror.uBlacklist.txt](https://gitlab.com/anarcho-copy/block-fake-pdf-sites/-/raw/master/output/document-mirror.uBlacklist.txt) |
 
 ## Sahte PDF Siteleri Engelleyici
 
