@@ -1,9 +1,9 @@
 # Name        : fake (malicious/profiting from ads) pdf site blocker
-# Version     : 20221113153118
-# Date        : Sun Nov 13 12:31:18 PM UTC 2022
+# Version     : 20221113154156
+# Date        : Sun Nov 13 12:41:56 PM UTC 2022
 # Repo        : https://gitlab.com/anarcho-copy/block-fake-pdf-sites
 # File        : https://gitlab.com/anarcho-copy/block-fake-pdf-sites/-/raw/master/./output/uBlacklist.txt
-# Total lines : 2719
+# Total lines : 2725
 
 *://*.100casas.es/*
 *://*.197.news/*
@@ -394,6 +394,7 @@
 *://*.campeonatocadetebaloncesto2015.es/*
 *://*.camperyvan.es/*
 *://*.campusweb.es/*
+*://*.caraba.net/*
 *://*.carefulsack.nl/*
 *://*.carlesabad.es/*
 *://*.carmelo-fliesen.de/*
@@ -687,6 +688,7 @@
 *://*.e-kitaphavuzu.com/*
 *://*.ekitapindirelim.org/*
 *://*.ekitapindirpdf.com/*
+*://*.ekitapindir.tk/*
 *://*.ekitap.site/*
 *://*.ekitapyeri.com/*
 *://*.ekobiff.pl/*
@@ -1242,6 +1244,7 @@
 *://*.kis.nl/*
 *://*.kita-am-rotbach.de/*
 *://*.kitabinabak.com/*
+*://*.kitabinipdfindir.com/*
 *://*.kitabipdfindir.com/*
 *://*.kitablar-pdf.com/*
 *://*.kitapbu.net/*
@@ -1778,6 +1781,7 @@
 *://*.pdfindiroku.site/*
 *://*.pdfindiroku.xyz/*
 *://*.pdfindir.online/*
+*://*.pdfindir.org.tr/*
 *://*.pdfindirsen.com/*
 *://*.pdfindir.space/*
 *://*.pdfindirx.com/*
@@ -1816,6 +1820,8 @@
 *://*.pdfkitap.web.tr/*
 *://*.pdfkitapyurdu.com/*
 *://*.pdfkutuphanesi.com/*
+*://*.pdfler.com/*
+*://*.pdfokuindir.com/*
 *://*.pdfoku.net/*
 *://*.pdfwor.com/*
 *://*.pduvse.za.com/*

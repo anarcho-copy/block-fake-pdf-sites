@@ -1,9 +1,9 @@
 # Name        : fake (malicious/profiting from ads) pdf site blocker
-# Version     : 20221113153118
-# Date        : Sun Nov 13 12:31:18 PM UTC 2022
+# Version     : 20221113154156
+# Date        : Sun Nov 13 12:41:56 PM UTC 2022
 # Repo        : https://gitlab.com/anarcho-copy/block-fake-pdf-sites
 # File        : https://gitlab.com/anarcho-copy/block-fake-pdf-sites/-/raw/master/./output/hosts
-# Total lines : 2719
+# Total lines : 2725
 
 127.0.0.1 100casas.es
 127.0.0.1 197.news
@@ -394,6 +394,7 @@
 127.0.0.1 campeonatocadetebaloncesto2015.es
 127.0.0.1 camperyvan.es
 127.0.0.1 campusweb.es
+127.0.0.1 caraba.net
 127.0.0.1 carefulsack.nl
 127.0.0.1 carlesabad.es
 127.0.0.1 carmelo-fliesen.de
@@ -687,6 +688,7 @@
 127.0.0.1 e-kitaphavuzu.com
 127.0.0.1 ekitapindirelim.org
 127.0.0.1 ekitapindirpdf.com
+127.0.0.1 ekitapindir.tk
 127.0.0.1 ekitap.site
 127.0.0.1 ekitapyeri.com
 127.0.0.1 ekobiff.pl
@@ -1242,6 +1244,7 @@
 127.0.0.1 kis.nl
 127.0.0.1 kita-am-rotbach.de
 127.0.0.1 kitabinabak.com
+127.0.0.1 kitabinipdfindir.com
 127.0.0.1 kitabipdfindir.com
 127.0.0.1 kitablar-pdf.com
 127.0.0.1 kitapbu.net
@@ -1778,6 +1781,7 @@
 127.0.0.1 pdfindiroku.site
 127.0.0.1 pdfindiroku.xyz
 127.0.0.1 pdfindir.online
+127.0.0.1 pdfindir.org.tr
 127.0.0.1 pdfindirsen.com
 127.0.0.1 pdfindir.space
 127.0.0.1 pdfindirx.com
@@ -1816,6 +1820,8 @@
 127.0.0.1 pdfkitap.web.tr
 127.0.0.1 pdfkitapyurdu.com
 127.0.0.1 pdfkutuphanesi.com
+127.0.0.1 pdfler.com
+127.0.0.1 pdfokuindir.com
 127.0.0.1 pdfoku.net
 127.0.0.1 pdfwor.com
 127.0.0.1 pduvse.za.com
@@ -3013,6 +3019,7 @@
 127.0.0.1 www.campeonatocadetebaloncesto2015.es
 127.0.0.1 www.camperyvan.es
 127.0.0.1 www.campusweb.es
+127.0.0.1 www.caraba.net
 127.0.0.1 www.carefulsack.nl
 127.0.0.1 www.carlesabad.es
 127.0.0.1 www.carmelo-fliesen.de
@@ -3306,6 +3313,7 @@
 127.0.0.1 www.e-kitaphavuzu.com
 127.0.0.1 www.ekitapindirelim.org
 127.0.0.1 www.ekitapindirpdf.com
+127.0.0.1 www.ekitapindir.tk
 127.0.0.1 www.ekitap.site
 127.0.0.1 www.ekitapyeri.com
 127.0.0.1 www.ekobiff.pl
@@ -3861,6 +3869,7 @@
 127.0.0.1 www.kis.nl
 127.0.0.1 www.kita-am-rotbach.de
 127.0.0.1 www.kitabinabak.com
+127.0.0.1 www.kitabinipdfindir.com
 127.0.0.1 www.kitabipdfindir.com
 127.0.0.1 www.kitablar-pdf.com
 127.0.0.1 www.kitapbu.net
@@ -4397,6 +4406,7 @@
 127.0.0.1 www.pdfindiroku.site
 127.0.0.1 www.pdfindiroku.xyz
 127.0.0.1 www.pdfindir.online
+127.0.0.1 www.pdfindir.org.tr
 127.0.0.1 www.pdfindirsen.com
 127.0.0.1 www.pdfindir.space
 127.0.0.1 www.pdfindirx.com
@@ -4435,6 +4445,8 @@
 127.0.0.1 www.pdfkitap.web.tr
 127.0.0.1 www.pdfkitapyurdu.com
 127.0.0.1 www.pdfkutuphanesi.com
+127.0.0.1 www.pdfler.com
+127.0.0.1 www.pdfokuindir.com
 127.0.0.1 www.pdfoku.net
 127.0.0.1 www.pdfwor.com
 127.0.0.1 www.pduvse.za.com
