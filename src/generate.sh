@@ -99,3 +99,6 @@ done < ${TEMP}/all.dat | sed "s/www.www./www./g" | sort -u >> ${HOSTS}
 
 # GENERATE PURE DOMAIN LIST
 cat ${TEMP}/all.dat | sort -u > ${RAW}
+
+# GENERATE PURE DOMAIN LIST WITHOUT TLD
+cat ${TEMP}/all.dat | faup -o json | jq -r .domain_without_tld | sort -u > ${DOMAIN_WITHOUT_TLD}
