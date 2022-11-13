@@ -1,9 +1,9 @@
 # Name        : fake (malicious/profiting from ads) pdf site blocker
-# Version     : 20221113145306
-# Date        : Sun Nov 13 11:53:06 AM UTC 2022
+# Version     : 20221113150312
+# Date        : Sun Nov 13 12:03:12 PM UTC 2022
 # Repo        : https://gitlab.com/anarcho-copy/block-fake-pdf-sites
 # File        : https://gitlab.com/anarcho-copy/block-fake-pdf-sites/-/raw/master/./output/hosts
-# Total lines : 2639
+# Total lines : 2648
 
 127.0.0.1 100casas.es
 127.0.0.1 197.news
@@ -186,6 +186,7 @@
 127.0.0.1 avjyrm.za.com
 127.0.0.1 avtodocuments.ru
 127.0.0.1 avtofutbolka.ru
+127.0.0.1 avtogarex.ru
 127.0.0.1 avtosport-orel.ru
 127.0.0.1 avtruck.ru
 127.0.0.1 avvocatomichelaassi.it
@@ -900,6 +901,7 @@
 127.0.0.1 grapercoruc1973.files.wordpress.com
 127.0.0.1 grapercoruc1973.wordpress.com
 127.0.0.1 greenback-orangepack.de
+127.0.0.1 greenmove.es
 127.0.0.1 gressleyjameel90.files.wordpress.com
 127.0.0.1 gressleyjameel90.wordpress.com
 127.0.0.1 grillwelt-berlin.de
@@ -1202,6 +1204,7 @@
 127.0.0.1 kineosteo-issy.fr
 127.0.0.1 kinobox.cz
 127.0.0.1 kircheseulberg.de
+127.0.0.1 kisayol.org
 127.0.0.1 kis.nl
 127.0.0.1 kita-am-rotbach.de
 127.0.0.1 kitabinabak.com
@@ -1380,6 +1383,7 @@
 127.0.0.1 lykensmaisha93.wordpress.com
 127.0.0.1 lynx59.fr
 127.0.0.1 maastrichtdisrupt.nl
+127.0.0.1 maastrichtdisrupts.nl
 127.0.0.1 macao-lourdes.fr
 127.0.0.1 maceedagel.files.wordpress.com
 127.0.0.1 maceedagel.wordpress.com
@@ -1688,6 +1692,7 @@
 127.0.0.1 papierpilz-frankfurt.de
 127.0.0.1 parafiakoty.eu
 127.0.0.1 paraquee.com
+127.0.0.1 parenthowto.com
 127.0.0.1 parozifilm.cz
 127.0.0.1 parrocchiadimiglionico.it
 127.0.0.1 partystanylitomysl.cz
@@ -2105,6 +2110,7 @@
 127.0.0.1 sheltered-dusk-51393.herokuapp.com
 127.0.0.1 shielded-escarpment-71297.herokuapp.com
 127.0.0.1 shielded-thicket-54137.herokuapp.com
+127.0.0.1 shiffola.it
 127.0.0.1 shirley-hundefotografie.de
 127.0.0.1 shiynt.za.com
 127.0.0.1 siannehagenbaugh1988.files.wordpress.com
@@ -2261,6 +2267,7 @@
 127.0.0.1 tavirareeve.wordpress.com
 127.0.0.1 tawdry-grass.nl
 127.0.0.1 tconsult-brno.cz
+127.0.0.1 tdloda.eu
 127.0.0.1 tdszhb.za.com
 127.0.0.1 teatroemperador.es
 127.0.0.1 tea-vendomois.fr
@@ -2461,6 +2468,7 @@
 127.0.0.1 vehaber.org
 127.0.0.1 veneciahaid.files.wordpress.com
 127.0.0.1 veneciahaid.wordpress.com
+127.0.0.1 venicerus.ru
 127.0.0.1 verofar.es
 127.0.0.1 veydisa.es
 127.0.0.1 vhiygs.za.com
@@ -2726,6 +2734,7 @@
 127.0.0.1 www.avjyrm.za.com
 127.0.0.1 www.avtodocuments.ru
 127.0.0.1 www.avtofutbolka.ru
+127.0.0.1 www.avtogarex.ru
 127.0.0.1 www.avtosport-orel.ru
 127.0.0.1 www.avtruck.ru
 127.0.0.1 www.avvocatomichelaassi.it
@@ -3440,6 +3449,7 @@
 127.0.0.1 www.grapercoruc1973.files.wordpress.com
 127.0.0.1 www.grapercoruc1973.wordpress.com
 127.0.0.1 www.greenback-orangepack.de
+127.0.0.1 www.greenmove.es
 127.0.0.1 www.gressleyjameel90.files.wordpress.com
 127.0.0.1 www.gressleyjameel90.wordpress.com
 127.0.0.1 www.grillwelt-berlin.de
@@ -3742,6 +3752,7 @@
 127.0.0.1 www.kineosteo-issy.fr
 127.0.0.1 www.kinobox.cz
 127.0.0.1 www.kircheseulberg.de
+127.0.0.1 www.kisayol.org
 127.0.0.1 www.kis.nl
 127.0.0.1 www.kita-am-rotbach.de
 127.0.0.1 www.kitabinabak.com
@@ -3920,6 +3931,7 @@
 127.0.0.1 www.lykensmaisha93.wordpress.com
 127.0.0.1 www.lynx59.fr
 127.0.0.1 www.maastrichtdisrupt.nl
+127.0.0.1 www.maastrichtdisrupts.nl
 127.0.0.1 www.macao-lourdes.fr
 127.0.0.1 www.maceedagel.files.wordpress.com
 127.0.0.1 www.maceedagel.wordpress.com
@@ -4228,6 +4240,7 @@
 127.0.0.1 www.papierpilz-frankfurt.de
 127.0.0.1 www.parafiakoty.eu
 127.0.0.1 www.paraquee.com
+127.0.0.1 www.parenthowto.com
 127.0.0.1 www.parozifilm.cz
 127.0.0.1 www.parrocchiadimiglionico.it
 127.0.0.1 www.partystanylitomysl.cz
@@ -4645,6 +4658,7 @@
 127.0.0.1 www.sheltered-dusk-51393.herokuapp.com
 127.0.0.1 www.shielded-escarpment-71297.herokuapp.com
 127.0.0.1 www.shielded-thicket-54137.herokuapp.com
+127.0.0.1 www.shiffola.it
 127.0.0.1 www.shirley-hundefotografie.de
 127.0.0.1 www.shiynt.za.com
 127.0.0.1 www.siannehagenbaugh1988.files.wordpress.com
@@ -4801,6 +4815,7 @@
 127.0.0.1 www.tavirareeve.wordpress.com
 127.0.0.1 www.tawdry-grass.nl
 127.0.0.1 www.tconsult-brno.cz
+127.0.0.1 www.tdloda.eu
 127.0.0.1 www.tdszhb.za.com
 127.0.0.1 www.teatroemperador.es
 127.0.0.1 www.tea-vendomois.fr
@@ -5001,6 +5016,7 @@
 127.0.0.1 www.vehaber.org
 127.0.0.1 www.veneciahaid.files.wordpress.com
 127.0.0.1 www.veneciahaid.wordpress.com
+127.0.0.1 www.venicerus.ru
 127.0.0.1 www.verofar.es
 127.0.0.1 www.veydisa.es
 127.0.0.1 www.vhiygs.za.com
@@ -5140,6 +5156,7 @@
 127.0.0.1 www.yvxcfh.sa.com
 127.0.0.1 www.yxvmzt.sa.com
 127.0.0.1 www.yyno.sa.com
+127.0.0.1 www.zagazoo.co
 127.0.0.1 www.zahradnictvi-vesely.cz
 127.0.0.1 www.zakhpevemi.weebly.com
 127.0.0.1 www.zaragozacoaching.es
@@ -5239,6 +5256,7 @@
 127.0.0.1 yvxcfh.sa.com
 127.0.0.1 yxvmzt.sa.com
 127.0.0.1 yyno.sa.com
+127.0.0.1 zagazoo.co
 127.0.0.1 zahradnictvi-vesely.cz
 127.0.0.1 zakhpevemi.weebly.com
 127.0.0.1 zaragozacoaching.es

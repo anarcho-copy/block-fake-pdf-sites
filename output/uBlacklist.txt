@@ -1,9 +1,9 @@
 # Name        : fake (malicious/profiting from ads) pdf site blocker
-# Version     : 20221113145306
-# Date        : Sun Nov 13 11:53:06 AM UTC 2022
+# Version     : 20221113150312
+# Date        : Sun Nov 13 12:03:12 PM UTC 2022
 # Repo        : https://gitlab.com/anarcho-copy/block-fake-pdf-sites
 # File        : https://gitlab.com/anarcho-copy/block-fake-pdf-sites/-/raw/master/./output/uBlacklist.txt
-# Total lines : 2639
+# Total lines : 2648
 
 *://*.100casas.es/*
 *://*.197.news/*
@@ -186,6 +186,7 @@
 *://*.avjyrm.za.com/*
 *://*.avtodocuments.ru/*
 *://*.avtofutbolka.ru/*
+*://*.avtogarex.ru/*
 *://*.avtosport-orel.ru/*
 *://*.avtruck.ru/*
 *://*.avvocatomichelaassi.it/*
@@ -900,6 +901,7 @@
 *://*.grapercoruc1973.files.wordpress.com/*
 *://*.grapercoruc1973.wordpress.com/*
 *://*.greenback-orangepack.de/*
+*://*.greenmove.es/*
 *://*.gressleyjameel90.files.wordpress.com/*
 *://*.gressleyjameel90.wordpress.com/*
 *://*.grillwelt-berlin.de/*
@@ -1202,6 +1204,7 @@
 *://*.kineosteo-issy.fr/*
 *://*.kinobox.cz/*
 *://*.kircheseulberg.de/*
+*://*.kisayol.org/*
 *://*.kis.nl/*
 *://*.kita-am-rotbach.de/*
 *://*.kitabinabak.com/*
@@ -1380,6 +1383,7 @@
 *://*.lykensmaisha93.wordpress.com/*
 *://*.lynx59.fr/*
 *://*.maastrichtdisrupt.nl/*
+*://*.maastrichtdisrupts.nl/*
 *://*.macao-lourdes.fr/*
 *://*.maceedagel.files.wordpress.com/*
 *://*.maceedagel.wordpress.com/*
@@ -1688,6 +1692,7 @@
 *://*.papierpilz-frankfurt.de/*
 *://*.parafiakoty.eu/*
 *://*.paraquee.com/*
+*://*.parenthowto.com/*
 *://*.parozifilm.cz/*
 *://*.parrocchiadimiglionico.it/*
 *://*.partystanylitomysl.cz/*
@@ -2105,6 +2110,7 @@
 *://*.sheltered-dusk-51393.herokuapp.com/*
 *://*.shielded-escarpment-71297.herokuapp.com/*
 *://*.shielded-thicket-54137.herokuapp.com/*
+*://*.shiffola.it/*
 *://*.shirley-hundefotografie.de/*
 *://*.shiynt.za.com/*
 *://*.siannehagenbaugh1988.files.wordpress.com/*
@@ -2261,6 +2267,7 @@
 *://*.tavirareeve.wordpress.com/*
 *://*.tawdry-grass.nl/*
 *://*.tconsult-brno.cz/*
+*://*.tdloda.eu/*
 *://*.tdszhb.za.com/*
 *://*.teatroemperador.es/*
 *://*.tea-vendomois.fr/*
@@ -2461,6 +2468,7 @@
 *://*.vehaber.org/*
 *://*.veneciahaid.files.wordpress.com/*
 *://*.veneciahaid.wordpress.com/*
+*://*.venicerus.ru/*
 *://*.verofar.es/*
 *://*.veydisa.es/*
 *://*.vhiygs.za.com/*
@@ -2600,6 +2608,7 @@
 *://*.yvxcfh.sa.com/*
 *://*.yxvmzt.sa.com/*
 *://*.yyno.sa.com/*
+*://*.zagazoo.co/*
 *://*.zahradnictvi-vesely.cz/*
 *://*.zakhpevemi.weebly.com/*
 *://*.zaragozacoaching.es/*
