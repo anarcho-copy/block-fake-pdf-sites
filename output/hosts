@@ -1,13 +1,12 @@
 # Name        : fake (malicious/profiting from ads) pdf site blocker
-# Version     : 20221113155457
-# Date        : Sun Nov 13 12:54:57 PM UTC 2022
+# Version     : 20221113162111
+# Date        : Sun Nov 13 01:21:11 PM UTC 2022
 # Repo        : https://gitlab.com/anarcho-copy/block-fake-pdf-sites
 # File        : https://gitlab.com/anarcho-copy/block-fake-pdf-sites/-/raw/master/./output/hosts
-# Total lines : 2730
+# Total lines : 2729
 
 127.0.0.1 100casas.es
 127.0.0.1 197.news
-127.0.0.1 1lib.cz
 127.0.0.1 257.cz
 127.0.0.1 2zmgz76x8tw.tokyo
 127.0.0.1 3ddroid.ru
@@ -2637,7 +2636,6 @@
 127.0.0.1 wurstundmoritz-zuerich.ch
 127.0.0.1 www.100casas.es
 127.0.0.1 www.197.news
-127.0.0.1 www.1lib.cz
 127.0.0.1 www.257.cz
 127.0.0.1 www.2zmgz76x8tw.tokyo
 127.0.0.1 www.3ddroid.ru
