@@ -1,9 +1,9 @@
 # Name        : fake (malicious/profiting from ads) pdf site blocker
-# Version     : 20221113150312
-# Date        : Sun Nov 13 12:03:12 PM UTC 2022
+# Version     : 20221113151157
+# Date        : Sun Nov 13 12:11:57 PM UTC 2022
 # Repo        : https://gitlab.com/anarcho-copy/block-fake-pdf-sites
 # File        : https://gitlab.com/anarcho-copy/block-fake-pdf-sites/-/raw/master/./output/hosts
-# Total lines : 2648
+# Total lines : 2672
 
 127.0.0.1 100casas.es
 127.0.0.1 197.news
@@ -26,6 +26,8 @@
 127.0.0.1 abimcruslel.weebly.com
 127.0.0.1 abisaiwurz1997.files.wordpress.com
 127.0.0.1 abisaiwurz1997.wordpress.com
+127.0.0.1 abrelaisgestion.fr
+127.0.0.1 academiabestial.es
 127.0.0.1 acaiprodukty.cz
 127.0.0.1 accompagner-bb.fr
 127.0.0.1 accurate-hat.nl
@@ -61,6 +63,7 @@
 127.0.0.1 ahidirsebott.wixsite.com
 127.0.0.1 ajavianpagan1995.files.wordpress.com
 127.0.0.1 ajavianpagan1995.wordpress.com
+127.0.0.1 akawielda.es
 127.0.0.1 akelyanina1994.files.wordpress.com
 127.0.0.1 akelyanina1994.wordpress.com
 127.0.0.1 akppdrom.ru
@@ -81,6 +84,7 @@
 127.0.0.1 allegrapistol.files.wordpress.com
 127.0.0.1 allegrapistol.wordpress.com
 127.0.0.1 allengland.ru
+127.0.0.1 allevamentoapassodilumaca.it
 127.0.0.1 allgaeu-fewo-hildebrandt.de
 127.0.0.1 allijahboen91.files.wordpress.com
 127.0.0.1 allijahboen91.wordpress.com
@@ -120,11 +124,13 @@
 127.0.0.1 anggiebarberis98.wordpress.com
 127.0.0.1 annafrica.news
 127.0.0.1 annuairedulivreenligned.blogspot.com
+127.0.0.1 annuncicampania.it
 127.0.0.1 antenormichelle97.files.wordpress.com
 127.0.0.1 antenormichelle97.wordpress.com
 127.0.0.1 anti-guepes95.fr
 127.0.0.1 apesfm.ru.com
 127.0.0.1 apfl-pflegedienst.de
+127.0.0.1 aquariumproject.it
 127.0.0.1 aquilinariverly.files.wordpress.com
 127.0.0.1 aquilinariverly.wordpress.com
 127.0.0.1 arabiamarzocchi1996.files.wordpress.com
@@ -144,6 +150,7 @@
 127.0.0.1 artigianipavia.it
 127.0.0.1 art-sophrologie-yvelines.fr
 127.0.0.1 asdpieveligure.it
+127.0.0.1 asegal.es
 127.0.0.1 asesoriaasescar.es
 127.0.0.1 ashleylaviero.files.wordpress.com
 127.0.0.1 ashleylaviero.wordpress.com
@@ -378,6 +385,7 @@
 127.0.0.1 camp-chase.nl
 127.0.0.1 campeonatocadetebaloncesto2015.es
 127.0.0.1 camperyvan.es
+127.0.0.1 campusweb.es
 127.0.0.1 carefulsack.nl
 127.0.0.1 carlesabad.es
 127.0.0.1 carmelo-fliesen.de
@@ -386,6 +394,7 @@
 127.0.0.1 carscompagnie.fr
 127.0.0.1 cartonforradopublicidad.es
 127.0.0.1 casaroyal.cz
+127.0.0.1 c-a-srl.it
 127.0.0.1 catherinegourgoury.fr
 127.0.0.1 caustocmensled.weebly.com
 127.0.0.1 cbdb.cz
@@ -407,6 +416,7 @@
 127.0.0.1 cfnynu.za.com
 127.0.0.1 cfpztm.za.com
 127.0.0.1 cftc-monoprix.fr
+127.0.0.1 cftc-snadeos.fr
 127.0.0.1 cgxnjg.sa.com
 127.0.0.1 chadric-piper69.blogspot.com
 127.0.0.1 champagnelaforge.nl
@@ -424,6 +434,7 @@
 127.0.0.1 chistabinos.es
 127.0.0.1 chooseafrica-onair.fr
 127.0.0.1 chrisbrantanimations.fr
+127.0.0.1 chronojenn.fr
 127.0.0.1 chyrsfimbbamo.weebly.com
 127.0.0.1 chzikt.za.com
 127.0.0.1 cibgoldmason.files.wordpress.com
@@ -596,6 +607,7 @@
 127.0.0.1 doczz.cz
 127.0.0.1 dolinarjeff.files.wordpress.com
 127.0.0.1 dolinarjeff.wordpress.com
+127.0.0.1 domcatec.pl
 127.0.0.1 dominika.us
 127.0.0.1 domofoniarec.pl
 127.0.0.1 donnalleysailee97.files.wordpress.com
@@ -669,6 +681,7 @@
 127.0.0.1 elastic-wozniak-08d523.netlify.app
 127.0.0.1 elberijschool.nl
 127.0.0.1 elco-ordo-profi.ch
+127.0.0.1 eldoseldemel.es
 127.0.0.1 electrodiver.es
 127.0.0.1 electronuki.es
 127.0.0.1 elektrikciadana.com
@@ -792,6 +805,7 @@
 127.0.0.1 flowwithus.cz
 127.0.0.1 flufs.pl
 127.0.0.1 fmdnna.za.com
+127.0.0.1 fmeldas.es
 127.0.0.1 fmsurfing.es
 127.0.0.1 folmerayuub1989.files.wordpress.com
 127.0.0.1 folmerayuub1989.wordpress.com
@@ -844,6 +858,7 @@
 127.0.0.1 gabor-schwerdtfeger-immobilien.de
 127.0.0.1 gaestehausi49.de
 127.0.0.1 gafdxg.za.com
+127.0.0.1 gaia-invest.fr
 127.0.0.1 galanteriemladaboleslav.cz
 127.0.0.1 gamingteamkravare.cz
 127.0.0.1 ganeshhonor.files.wordpress.com
@@ -1356,6 +1371,7 @@
 127.0.0.1 lodisuckge.weebly.com
 127.0.0.1 lodmerkaba.cz
 127.0.0.1 lolapps.es
+127.0.0.1 lolasmile.it
 127.0.0.1 loradinglese.it
 127.0.0.1 loreafosnaugh1987.files.wordpress.com
 127.0.0.1 loreafosnaugh1987.wordpress.com
@@ -1774,6 +1790,7 @@
 127.0.0.1 pduvse.za.com
 127.0.0.1 peaceful-forest-98801.herokuapp.com
 127.0.0.1 peaklab.it
+127.0.0.1 peakperformancep.es
 127.0.0.1 pefralca.es
 127.0.0.1 pekfdz.sa.com
 127.0.0.1 penetroniberica.es
@@ -1823,6 +1840,7 @@
 127.0.0.1 planthouse.cz
 127.0.0.1 playsboom.us
 127.0.0.1 plewmal-d.life
+127.0.0.1 plotial.host
 127.0.0.1 pmoclub.ru
 127.0.0.1 pmydze.sa.com
 127.0.0.1 pmydze.za.com
@@ -1839,6 +1857,7 @@
 127.0.0.1 politikon.fr
 127.0.0.1 poltekkesternate.ac.id
 127.0.0.1 ponylo.freesite.host
+127.0.0.1 poradna-slunicko.cz
 127.0.0.1 pornoizlex.site
 127.0.0.1 pornolunatic.com
 127.0.0.1 poshbeautyshop.de
@@ -1938,6 +1957,7 @@
 127.0.0.1 recherchedecouple.fr
 127.0.0.1 rechtsanwalt-havenstein.de
 127.0.0.1 reciclajebko.es
+127.0.0.1 recidecor-articles-segona-ma.es
 127.0.0.1 reformasdecoracionmurcia.es
 127.0.0.1 regeneracni-centrum.cz
 127.0.0.1 regula-gmbh.de
@@ -1950,6 +1970,7 @@
 127.0.0.1 rennellharbor95.wordpress.com
 127.0.0.1 renoma-esteticmed.pl
 127.0.0.1 renrobufunkla.wixsite.com
+127.0.0.1 rescare.es
 127.0.0.1 residence-lartdoise.eu
 127.0.0.1 resolusi.news
 127.0.0.1 resorfeno.weebly.com
@@ -2018,6 +2039,7 @@
 127.0.0.1 rzrttx.za.com
 127.0.0.1 rztexa.sa.com
 127.0.0.1 saberecrescer.pt
+127.0.0.1 sabinafattibene.it
 127.0.0.1 sabine-botta.de
 127.0.0.1 sabinewanek.de
 127.0.0.1 sacramentodatacenters.net
@@ -2093,6 +2115,7 @@
 127.0.0.1 sergixadyn.wordpress.com
 127.0.0.1 seriyahsiedlecki.files.wordpress.com
 127.0.0.1 seriyahsiedlecki.wordpress.com
+127.0.0.1 sesjestylizowane.pl
 127.0.0.1 sesli-kitaplar-ucretsiz.info
 127.0.0.1 sevanaalimo85.files.wordpress.com
 127.0.0.1 sevanaalimo85.wordpress.com
@@ -2361,6 +2384,7 @@
 127.0.0.1 tremirliston85.wordpress.com
 127.0.0.1 tremonte.it
 127.0.0.1 trgayz.za.com
+127.0.0.1 tribewakepark.it
 127.0.0.1 trioniaq.ru
 127.0.0.1 tristakhilling95.files.wordpress.com
 127.0.0.1 tristakhilling95.wordpress.com
@@ -2574,6 +2598,8 @@
 127.0.0.1 www.abimcruslel.weebly.com
 127.0.0.1 www.abisaiwurz1997.files.wordpress.com
 127.0.0.1 www.abisaiwurz1997.wordpress.com
+127.0.0.1 www.abrelaisgestion.fr
+127.0.0.1 www.academiabestial.es
 127.0.0.1 www.acaiprodukty.cz
 127.0.0.1 www.accompagner-bb.fr
 127.0.0.1 www.accurate-hat.nl
@@ -2609,6 +2635,7 @@
 127.0.0.1 www.ahidirsebott.wixsite.com
 127.0.0.1 www.ajavianpagan1995.files.wordpress.com
 127.0.0.1 www.ajavianpagan1995.wordpress.com
+127.0.0.1 www.akawielda.es
 127.0.0.1 www.akelyanina1994.files.wordpress.com
 127.0.0.1 www.akelyanina1994.wordpress.com
 127.0.0.1 www.akppdrom.ru
@@ -2629,6 +2656,7 @@
 127.0.0.1 www.allegrapistol.files.wordpress.com
 127.0.0.1 www.allegrapistol.wordpress.com
 127.0.0.1 www.allengland.ru
+127.0.0.1 www.allevamentoapassodilumaca.it
 127.0.0.1 www.allgaeu-fewo-hildebrandt.de
 127.0.0.1 www.allijahboen91.files.wordpress.com
 127.0.0.1 www.allijahboen91.wordpress.com
@@ -2668,11 +2696,13 @@
 127.0.0.1 www.anggiebarberis98.wordpress.com
 127.0.0.1 www.annafrica.news
 127.0.0.1 www.annuairedulivreenligned.blogspot.com
+127.0.0.1 www.annuncicampania.it
 127.0.0.1 www.antenormichelle97.files.wordpress.com
 127.0.0.1 www.antenormichelle97.wordpress.com
 127.0.0.1 www.anti-guepes95.fr
 127.0.0.1 www.apesfm.ru.com
 127.0.0.1 www.apfl-pflegedienst.de
+127.0.0.1 www.aquariumproject.it
 127.0.0.1 www.aquilinariverly.files.wordpress.com
 127.0.0.1 www.aquilinariverly.wordpress.com
 127.0.0.1 www.arabiamarzocchi1996.files.wordpress.com
@@ -2692,6 +2722,7 @@
 127.0.0.1 www.artigianipavia.it
 127.0.0.1 www.art-sophrologie-yvelines.fr
 127.0.0.1 www.asdpieveligure.it
+127.0.0.1 www.asegal.es
 127.0.0.1 www.asesoriaasescar.es
 127.0.0.1 www.ashleylaviero.files.wordpress.com
 127.0.0.1 www.ashleylaviero.wordpress.com
@@ -2926,6 +2957,7 @@
 127.0.0.1 www.camp-chase.nl
 127.0.0.1 www.campeonatocadetebaloncesto2015.es
 127.0.0.1 www.camperyvan.es
+127.0.0.1 www.campusweb.es
 127.0.0.1 www.carefulsack.nl
 127.0.0.1 www.carlesabad.es
 127.0.0.1 www.carmelo-fliesen.de
@@ -2934,6 +2966,7 @@
 127.0.0.1 www.carscompagnie.fr
 127.0.0.1 www.cartonforradopublicidad.es
 127.0.0.1 www.casaroyal.cz
+127.0.0.1 www.c-a-srl.it
 127.0.0.1 www.catherinegourgoury.fr
 127.0.0.1 www.caustocmensled.weebly.com
 127.0.0.1 www.cbdb.cz
@@ -2955,6 +2988,7 @@
 127.0.0.1 www.cfnynu.za.com
 127.0.0.1 www.cfpztm.za.com
 127.0.0.1 www.cftc-monoprix.fr
+127.0.0.1 www.cftc-snadeos.fr
 127.0.0.1 www.cgxnjg.sa.com
 127.0.0.1 www.chadric-piper69.blogspot.com
 127.0.0.1 www.champagnelaforge.nl
@@ -2972,6 +3006,7 @@
 127.0.0.1 www.chistabinos.es
 127.0.0.1 www.chooseafrica-onair.fr
 127.0.0.1 www.chrisbrantanimations.fr
+127.0.0.1 www.chronojenn.fr
 127.0.0.1 www.chyrsfimbbamo.weebly.com
 127.0.0.1 www.chzikt.za.com
 127.0.0.1 www.cibgoldmason.files.wordpress.com
@@ -3144,6 +3179,7 @@
 127.0.0.1 www.doczz.cz
 127.0.0.1 www.dolinarjeff.files.wordpress.com
 127.0.0.1 www.dolinarjeff.wordpress.com
+127.0.0.1 www.domcatec.pl
 127.0.0.1 www.dominika.us
 127.0.0.1 www.domofoniarec.pl
 127.0.0.1 www.donnalleysailee97.files.wordpress.com
@@ -3217,6 +3253,7 @@
 127.0.0.1 www.elastic-wozniak-08d523.netlify.app
 127.0.0.1 www.elberijschool.nl
 127.0.0.1 www.elco-ordo-profi.ch
+127.0.0.1 www.eldoseldemel.es
 127.0.0.1 www.electrodiver.es
 127.0.0.1 www.electronuki.es
 127.0.0.1 www.elektrikciadana.com
@@ -3340,6 +3377,7 @@
 127.0.0.1 www.flowwithus.cz
 127.0.0.1 www.flufs.pl
 127.0.0.1 www.fmdnna.za.com
+127.0.0.1 www.fmeldas.es
 127.0.0.1 www.fmsurfing.es
 127.0.0.1 www.folmerayuub1989.files.wordpress.com
 127.0.0.1 www.folmerayuub1989.wordpress.com
@@ -3392,6 +3430,7 @@
 127.0.0.1 www.gabor-schwerdtfeger-immobilien.de
 127.0.0.1 www.gaestehausi49.de
 127.0.0.1 www.gafdxg.za.com
+127.0.0.1 www.gaia-invest.fr
 127.0.0.1 www.galanteriemladaboleslav.cz
 127.0.0.1 www.gamingteamkravare.cz
 127.0.0.1 www.ganeshhonor.files.wordpress.com
@@ -3904,6 +3943,7 @@
 127.0.0.1 www.lodisuckge.weebly.com
 127.0.0.1 www.lodmerkaba.cz
 127.0.0.1 www.lolapps.es
+127.0.0.1 www.lolasmile.it
 127.0.0.1 www.loradinglese.it
 127.0.0.1 www.loreafosnaugh1987.files.wordpress.com
 127.0.0.1 www.loreafosnaugh1987.wordpress.com
@@ -4322,6 +4362,7 @@
 127.0.0.1 www.pduvse.za.com
 127.0.0.1 www.peaceful-forest-98801.herokuapp.com
 127.0.0.1 www.peaklab.it
+127.0.0.1 www.peakperformancep.es
 127.0.0.1 www.pefralca.es
 127.0.0.1 www.pekfdz.sa.com
 127.0.0.1 www.penetroniberica.es
@@ -4371,6 +4412,7 @@
 127.0.0.1 www.planthouse.cz
 127.0.0.1 www.playsboom.us
 127.0.0.1 www.plewmal-d.life
+127.0.0.1 www.plotial.host
 127.0.0.1 www.pmoclub.ru
 127.0.0.1 www.pmydze.sa.com
 127.0.0.1 www.pmydze.za.com
@@ -4387,6 +4429,7 @@
 127.0.0.1 www.politikon.fr
 127.0.0.1 www.poltekkesternate.ac.id
 127.0.0.1 www.ponylo.freesite.host
+127.0.0.1 www.poradna-slunicko.cz
 127.0.0.1 www.pornoizlex.site
 127.0.0.1 www.pornolunatic.com
 127.0.0.1 www.poshbeautyshop.de
@@ -4486,6 +4529,7 @@
 127.0.0.1 www.recherchedecouple.fr
 127.0.0.1 www.rechtsanwalt-havenstein.de
 127.0.0.1 www.reciclajebko.es
+127.0.0.1 www.recidecor-articles-segona-ma.es
 127.0.0.1 www.reformasdecoracionmurcia.es
 127.0.0.1 www.regeneracni-centrum.cz
 127.0.0.1 www.regula-gmbh.de
@@ -4498,6 +4542,7 @@
 127.0.0.1 www.rennellharbor95.wordpress.com
 127.0.0.1 www.renoma-esteticmed.pl
 127.0.0.1 www.renrobufunkla.wixsite.com
+127.0.0.1 www.rescare.es
 127.0.0.1 www.residence-lartdoise.eu
 127.0.0.1 www.resolusi.news
 127.0.0.1 www.resorfeno.weebly.com
@@ -4566,6 +4611,7 @@
 127.0.0.1 www.rzrttx.za.com
 127.0.0.1 www.rztexa.sa.com
 127.0.0.1 www.saberecrescer.pt
+127.0.0.1 www.sabinafattibene.it
 127.0.0.1 www.sabine-botta.de
 127.0.0.1 www.sabinewanek.de
 127.0.0.1 www.sacramentodatacenters.net
@@ -4641,6 +4687,7 @@
 127.0.0.1 www.sergixadyn.wordpress.com
 127.0.0.1 www.seriyahsiedlecki.files.wordpress.com
 127.0.0.1 www.seriyahsiedlecki.wordpress.com
+127.0.0.1 www.sesjestylizowane.pl
 127.0.0.1 www.sesli-kitaplar-ucretsiz.info
 127.0.0.1 www.sevanaalimo85.files.wordpress.com
 127.0.0.1 www.sevanaalimo85.wordpress.com
@@ -4909,6 +4956,7 @@
 127.0.0.1 www.tremirliston85.wordpress.com
 127.0.0.1 www.tremonte.it
 127.0.0.1 www.trgayz.za.com
+127.0.0.1 www.tribewakepark.it
 127.0.0.1 www.trioniaq.ru
 127.0.0.1 www.tristakhilling95.files.wordpress.com
 127.0.0.1 www.tristakhilling95.wordpress.com

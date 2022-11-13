@@ -1,9 +1,9 @@
 # Name        : fake (malicious/profiting from ads) pdf site blocker
-# Version     : 20221113150312
-# Date        : Sun Nov 13 12:03:12 PM UTC 2022
+# Version     : 20221113151157
+# Date        : Sun Nov 13 12:11:57 PM UTC 2022
 # Repo        : https://gitlab.com/anarcho-copy/block-fake-pdf-sites
 # File        : https://gitlab.com/anarcho-copy/block-fake-pdf-sites/-/raw/master/./output/uBlacklist.txt
-# Total lines : 2648
+# Total lines : 2672
 
 *://*.100casas.es/*
 *://*.197.news/*
@@ -26,6 +26,8 @@
 *://*.abimcruslel.weebly.com/*
 *://*.abisaiwurz1997.files.wordpress.com/*
 *://*.abisaiwurz1997.wordpress.com/*
+*://*.abrelaisgestion.fr/*
+*://*.academiabestial.es/*
 *://*.acaiprodukty.cz/*
 *://*.accompagner-bb.fr/*
 *://*.accurate-hat.nl/*
@@ -61,6 +63,7 @@
 *://*.ahidirsebott.wixsite.com/*
 *://*.ajavianpagan1995.files.wordpress.com/*
 *://*.ajavianpagan1995.wordpress.com/*
+*://*.akawielda.es/*
 *://*.akelyanina1994.files.wordpress.com/*
 *://*.akelyanina1994.wordpress.com/*
 *://*.akppdrom.ru/*
@@ -81,6 +84,7 @@
 *://*.allegrapistol.files.wordpress.com/*
 *://*.allegrapistol.wordpress.com/*
 *://*.allengland.ru/*
+*://*.allevamentoapassodilumaca.it/*
 *://*.allgaeu-fewo-hildebrandt.de/*
 *://*.allijahboen91.files.wordpress.com/*
 *://*.allijahboen91.wordpress.com/*
@@ -120,11 +124,13 @@
 *://*.anggiebarberis98.wordpress.com/*
 *://*.annafrica.news/*
 *://*.annuairedulivreenligned.blogspot.com/*
+*://*.annuncicampania.it/*
 *://*.antenormichelle97.files.wordpress.com/*
 *://*.antenormichelle97.wordpress.com/*
 *://*.anti-guepes95.fr/*
 *://*.apesfm.ru.com/*
 *://*.apfl-pflegedienst.de/*
+*://*.aquariumproject.it/*
 *://*.aquilinariverly.files.wordpress.com/*
 *://*.aquilinariverly.wordpress.com/*
 *://*.arabiamarzocchi1996.files.wordpress.com/*
@@ -144,6 +150,7 @@
 *://*.artigianipavia.it/*
 *://*.art-sophrologie-yvelines.fr/*
 *://*.asdpieveligure.it/*
+*://*.asegal.es/*
 *://*.asesoriaasescar.es/*
 *://*.ashleylaviero.files.wordpress.com/*
 *://*.ashleylaviero.wordpress.com/*
@@ -378,6 +385,7 @@
 *://*.camp-chase.nl/*
 *://*.campeonatocadetebaloncesto2015.es/*
 *://*.camperyvan.es/*
+*://*.campusweb.es/*
 *://*.carefulsack.nl/*
 *://*.carlesabad.es/*
 *://*.carmelo-fliesen.de/*
@@ -386,6 +394,7 @@
 *://*.carscompagnie.fr/*
 *://*.cartonforradopublicidad.es/*
 *://*.casaroyal.cz/*
+*://*.c-a-srl.it/*
 *://*.catherinegourgoury.fr/*
 *://*.caustocmensled.weebly.com/*
 *://*.cbdb.cz/*
@@ -407,6 +416,7 @@
 *://*.cfnynu.za.com/*
 *://*.cfpztm.za.com/*
 *://*.cftc-monoprix.fr/*
+*://*.cftc-snadeos.fr/*
 *://*.cgxnjg.sa.com/*
 *://*.chadric-piper69.blogspot.com/*
 *://*.champagnelaforge.nl/*
@@ -424,6 +434,7 @@
 *://*.chistabinos.es/*
 *://*.chooseafrica-onair.fr/*
 *://*.chrisbrantanimations.fr/*
+*://*.chronojenn.fr/*
 *://*.chyrsfimbbamo.weebly.com/*
 *://*.chzikt.za.com/*
 *://*.cibgoldmason.files.wordpress.com/*
@@ -596,6 +607,7 @@
 *://*.doczz.cz/*
 *://*.dolinarjeff.files.wordpress.com/*
 *://*.dolinarjeff.wordpress.com/*
+*://*.domcatec.pl/*
 *://*.dominika.us/*
 *://*.domofoniarec.pl/*
 *://*.donnalleysailee97.files.wordpress.com/*
@@ -669,6 +681,7 @@
 *://*.elastic-wozniak-08d523.netlify.app/*
 *://*.elberijschool.nl/*
 *://*.elco-ordo-profi.ch/*
+*://*.eldoseldemel.es/*
 *://*.electrodiver.es/*
 *://*.electronuki.es/*
 *://*.elektrikciadana.com/*
@@ -792,6 +805,7 @@
 *://*.flowwithus.cz/*
 *://*.flufs.pl/*
 *://*.fmdnna.za.com/*
+*://*.fmeldas.es/*
 *://*.fmsurfing.es/*
 *://*.folmerayuub1989.files.wordpress.com/*
 *://*.folmerayuub1989.wordpress.com/*
@@ -844,6 +858,7 @@
 *://*.gabor-schwerdtfeger-immobilien.de/*
 *://*.gaestehausi49.de/*
 *://*.gafdxg.za.com/*
+*://*.gaia-invest.fr/*
 *://*.galanteriemladaboleslav.cz/*
 *://*.gamingteamkravare.cz/*
 *://*.ganeshhonor.files.wordpress.com/*
@@ -1356,6 +1371,7 @@
 *://*.lodisuckge.weebly.com/*
 *://*.lodmerkaba.cz/*
 *://*.lolapps.es/*
+*://*.lolasmile.it/*
 *://*.loradinglese.it/*
 *://*.loreafosnaugh1987.files.wordpress.com/*
 *://*.loreafosnaugh1987.wordpress.com/*
@@ -1774,6 +1790,7 @@
 *://*.pduvse.za.com/*
 *://*.peaceful-forest-98801.herokuapp.com/*
 *://*.peaklab.it/*
+*://*.peakperformancep.es/*
 *://*.pefralca.es/*
 *://*.pekfdz.sa.com/*
 *://*.penetroniberica.es/*
@@ -1823,6 +1840,7 @@
 *://*.planthouse.cz/*
 *://*.playsboom.us/*
 *://*.plewmal-d.life/*
+*://*.plotial.host/*
 *://*.pmoclub.ru/*
 *://*.pmydze.sa.com/*
 *://*.pmydze.za.com/*
@@ -1839,6 +1857,7 @@
 *://*.politikon.fr/*
 *://*.poltekkesternate.ac.id/*
 *://*.ponylo.freesite.host/*
+*://*.poradna-slunicko.cz/*
 *://*.pornoizlex.site/*
 *://*.pornolunatic.com/*
 *://*.poshbeautyshop.de/*
@@ -1938,6 +1957,7 @@
 *://*.recherchedecouple.fr/*
 *://*.rechtsanwalt-havenstein.de/*
 *://*.reciclajebko.es/*
+*://*.recidecor-articles-segona-ma.es/*
 *://*.reformasdecoracionmurcia.es/*
 *://*.regeneracni-centrum.cz/*
 *://*.regula-gmbh.de/*
@@ -1950,6 +1970,7 @@
 *://*.rennellharbor95.wordpress.com/*
 *://*.renoma-esteticmed.pl/*
 *://*.renrobufunkla.wixsite.com/*
+*://*.rescare.es/*
 *://*.residence-lartdoise.eu/*
 *://*.resolusi.news/*
 *://*.resorfeno.weebly.com/*
@@ -2018,6 +2039,7 @@
 *://*.rzrttx.za.com/*
 *://*.rztexa.sa.com/*
 *://*.saberecrescer.pt/*
+*://*.sabinafattibene.it/*
 *://*.sabine-botta.de/*
 *://*.sabinewanek.de/*
 *://*.sacramentodatacenters.net/*
@@ -2093,6 +2115,7 @@
 *://*.sergixadyn.wordpress.com/*
 *://*.seriyahsiedlecki.files.wordpress.com/*
 *://*.seriyahsiedlecki.wordpress.com/*
+*://*.sesjestylizowane.pl/*
 *://*.sesli-kitaplar-ucretsiz.info/*
 *://*.sevanaalimo85.files.wordpress.com/*
 *://*.sevanaalimo85.wordpress.com/*
@@ -2361,6 +2384,7 @@
 *://*.tremirliston85.wordpress.com/*
 *://*.tremonte.it/*
 *://*.trgayz.za.com/*
+*://*.tribewakepark.it/*
 *://*.trioniaq.ru/*
 *://*.tristakhilling95.files.wordpress.com/*
 *://*.tristakhilling95.wordpress.com/*
