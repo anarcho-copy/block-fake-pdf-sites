@@ -1,9 +1,9 @@
 # Name        : fake (malicious/profiting from ads) pdf site blocker
-# Version     : 20221113154156
-# Date        : Sun Nov 13 12:41:56 PM UTC 2022
+# Version     : 20221113155457
+# Date        : Sun Nov 13 12:54:57 PM UTC 2022
 # Repo        : https://gitlab.com/anarcho-copy/block-fake-pdf-sites
 # File        : https://gitlab.com/anarcho-copy/block-fake-pdf-sites/-/raw/master/./output/hosts
-# Total lines : 2725
+# Total lines : 2730
 
 127.0.0.1 100casas.es
 127.0.0.1 197.news
@@ -685,10 +685,12 @@
 127.0.0.1 ekitaparsivhome.files.wordpress.com
 127.0.0.1 ekitaparsivhome.wordpress.com
 127.0.0.1 ekitapcilarr.com
+127.0.0.1 e-kitapdunyam.blogspot.com
 127.0.0.1 e-kitaphavuzu.com
 127.0.0.1 ekitapindirelim.org
 127.0.0.1 ekitapindirpdf.com
 127.0.0.1 ekitapindir.tk
+127.0.0.1 ekitaplaroku.com
 127.0.0.1 ekitap.site
 127.0.0.1 ekitapyeri.com
 127.0.0.1 ekobiff.pl
@@ -1789,6 +1791,7 @@
 127.0.0.1 pdfizy.com
 127.0.0.1 pdfkitaparsiv.com
 127.0.0.1 pdfkitaparsivi.com.tr
+127.0.0.1 pdfkitaparsivi.net
 127.0.0.1 pdfkitaparsivi.tk
 127.0.0.1 pdfkitapdunyam.com
 127.0.0.1 pdfkitapevi.com
@@ -1800,6 +1803,7 @@
 127.0.0.1 pdfkitapindirelim.net
 127.0.0.1 pdf-kitap-indir.info
 127.0.0.1 pdfkitapindir.info
+127.0.0.1 pdfkitapindirmek.blogspot.com
 127.0.0.1 pdfkitapindirokuekitap.blogspot.com
 127.0.0.1 pdfkitapindir.org
 127.0.0.1 pdfkitapindirucretsiz.com
@@ -1808,6 +1812,7 @@
 127.0.0.1 pdfkitapinndir.blogspot.com
 127.0.0.1 pdfkitaplariindir.files.wordpress.com
 127.0.0.1 pdfkitaplariindir.wordpress.com
+127.0.0.1 pdfkitaplarimiindir.blogspot.com
 127.0.0.1 pdf-kitaplarl-evrimicii.info
 127.0.0.1 pdf-kitaplar-ucretsiz.info
 127.0.0.1 pdfkitapligi.com
@@ -3310,10 +3315,12 @@
 127.0.0.1 www.ekitaparsivhome.files.wordpress.com
 127.0.0.1 www.ekitaparsivhome.wordpress.com
 127.0.0.1 www.ekitapcilarr.com
+127.0.0.1 www.e-kitapdunyam.blogspot.com
 127.0.0.1 www.e-kitaphavuzu.com
 127.0.0.1 www.ekitapindirelim.org
 127.0.0.1 www.ekitapindirpdf.com
 127.0.0.1 www.ekitapindir.tk
+127.0.0.1 www.ekitaplaroku.com
 127.0.0.1 www.ekitap.site
 127.0.0.1 www.ekitapyeri.com
 127.0.0.1 www.ekobiff.pl
@@ -4414,6 +4421,7 @@
 127.0.0.1 www.pdfizy.com
 127.0.0.1 www.pdfkitaparsiv.com
 127.0.0.1 www.pdfkitaparsivi.com.tr
+127.0.0.1 www.pdfkitaparsivi.net
 127.0.0.1 www.pdfkitaparsivi.tk
 127.0.0.1 www.pdfkitapdunyam.com
 127.0.0.1 www.pdfkitapevi.com
@@ -4425,6 +4433,7 @@
 127.0.0.1 www.pdfkitapindirelim.net
 127.0.0.1 www.pdf-kitap-indir.info
 127.0.0.1 www.pdfkitapindir.info
+127.0.0.1 www.pdfkitapindirmek.blogspot.com
 127.0.0.1 www.pdfkitapindirokuekitap.blogspot.com
 127.0.0.1 www.pdfkitapindir.org
 127.0.0.1 www.pdfkitapindirucretsiz.com
@@ -4433,6 +4442,7 @@
 127.0.0.1 www.pdfkitapinndir.blogspot.com
 127.0.0.1 www.pdfkitaplariindir.files.wordpress.com
 127.0.0.1 www.pdfkitaplariindir.wordpress.com
+127.0.0.1 www.pdfkitaplarimiindir.blogspot.com
 127.0.0.1 www.pdf-kitaplarl-evrimicii.info
 127.0.0.1 www.pdf-kitaplar-ucretsiz.info
 127.0.0.1 www.pdfkitapligi.com

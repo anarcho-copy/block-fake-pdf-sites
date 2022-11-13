@@ -1,9 +1,9 @@
 # Name        : fake (malicious/profiting from ads) pdf site blocker
-# Version     : 20221113154156
-# Date        : Sun Nov 13 12:41:56 PM UTC 2022
+# Version     : 20221113155457
+# Date        : Sun Nov 13 12:54:57 PM UTC 2022
 # Repo        : https://gitlab.com/anarcho-copy/block-fake-pdf-sites
 # File        : https://gitlab.com/anarcho-copy/block-fake-pdf-sites/-/raw/master/./output/uBlacklist.txt
-# Total lines : 2725
+# Total lines : 2730
 
 *://*.100casas.es/*
 *://*.197.news/*
@@ -685,10 +685,12 @@
 *://*.ekitaparsivhome.files.wordpress.com/*
 *://*.ekitaparsivhome.wordpress.com/*
 *://*.ekitapcilarr.com/*
+*://*.e-kitapdunyam.blogspot.com/*
 *://*.e-kitaphavuzu.com/*
 *://*.ekitapindirelim.org/*
 *://*.ekitapindirpdf.com/*
 *://*.ekitapindir.tk/*
+*://*.ekitaplaroku.com/*
 *://*.ekitap.site/*
 *://*.ekitapyeri.com/*
 *://*.ekobiff.pl/*
@@ -1789,6 +1791,7 @@
 *://*.pdfizy.com/*
 *://*.pdfkitaparsiv.com/*
 *://*.pdfkitaparsivi.com.tr/*
+*://*.pdfkitaparsivi.net/*
 *://*.pdfkitaparsivi.tk/*
 *://*.pdfkitapdunyam.com/*
 *://*.pdfkitapevi.com/*
@@ -1800,6 +1803,7 @@
 *://*.pdfkitapindirelim.net/*
 *://*.pdf-kitap-indir.info/*
 *://*.pdfkitapindir.info/*
+*://*.pdfkitapindirmek.blogspot.com/*
 *://*.pdfkitapindirokuekitap.blogspot.com/*
 *://*.pdfkitapindir.org/*
 *://*.pdfkitapindirucretsiz.com/*
@@ -1808,6 +1812,7 @@
 *://*.pdfkitapinndir.blogspot.com/*
 *://*.pdfkitaplariindir.files.wordpress.com/*
 *://*.pdfkitaplariindir.wordpress.com/*
+*://*.pdfkitaplarimiindir.blogspot.com/*
 *://*.pdf-kitaplarl-evrimicii.info/*
 *://*.pdf-kitaplar-ucretsiz.info/*
 *://*.pdfkitapligi.com/*
